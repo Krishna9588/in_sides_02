@@ -1,0 +1,15 @@
+requests
+langchain-core
+transformers
+torch
+spacy
+nltk
+python-docx
+PyPDF2
+pandas
+openpyxl
+requests
+transformers
+torch
+spacy
+nltk

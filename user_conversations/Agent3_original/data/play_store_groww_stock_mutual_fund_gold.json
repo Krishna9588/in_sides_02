@@ -1,0 +1,50 @@
+{
+  "store": "Google Play",
+  "app_id": "com.nextbillion.groww",
+  "app_name": "Groww Stock, Mutual Fund, Gold",
+  "company": "Groww: Demat, Invest & Trade, Gold, Silver, Loans",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww",
+  "icon": "https://play-lh.googleusercontent.com/LHjOai6kf1IsstKNWO9jbMxD-ix_FVYaJSLodKCqYQdoFVzQBuV9z5txxzcTagQcyX8",
+  "genre": "Finance",
+  "rating": 4.8,
+  "total_ratings": 2213616,
+  "total_reviews": 409023,
+  "installs": "100,000,000+",
+  "summary": "Groww is a comprehensive investment and trading app for Indians, offering a wide range of financial instruments including stocks, mutual funds, futures, options, gold, silver, and more. It provides a free demat account and 24/7 customer support.",
+  "key_features": [
+    "Free demat account",
+    "Invest in stocks, mutual funds, F&O, gold, silver, and more",
+    "Margin Trading Facility (MTF)",
+    "24/7 customer support",
+    "Advanced trading tools and charts",
+    "Auto-invest with SIP",
+    "IPO application",
+    "Performance insights and alerts"
+  ],
+  "target_audience": "Indian investors and traders looking for a versatile and user-friendly platform to manage their investments.",
+  "overall_sentiment": "Negative",
+  "top_complaints": [
+    "Slow performance and lag",
+    "Issues with payment and withdrawal",
+    "Unresponsive customer support",
+    "Problems during peak trading hours",
+    "Difficulties with account closing"
+  ],
+  "top_praises": [
+    "Free demat account",
+    "Wide range of investment options",
+    "24/7 customer support",
+    "Advanced trading tools",
+    "User-friendly interface"
+  ],
+  "competitive_position": "Groww positions itself as a leading and comprehensive investment platform in India, catering to both novice and experienced investors.",
+  "recent_issues": [
+    "Lag and slow refresh rates",
+    "Payment and withdrawal delays",
+    "Unresponsive customer support tickets",
+    "System errors during trading",
+    "Issues with displaying stocks on the dashboard"
+  ],
+  "reviews_scraped": 100,
+  "analyzed_at": "2026-04-16T16:26:33.539895"
+}

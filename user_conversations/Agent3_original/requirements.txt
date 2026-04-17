@@ -1,0 +1,6 @@
+fastapi>=0.110.0
+uvicorn>=0.29.0
+requests>=2.31.0
+huggingface_hub>=0.23.0
+python-dotenv>=1.0.0
+google-play-scraper>=1.2.2

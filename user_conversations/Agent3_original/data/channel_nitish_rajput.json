@@ -1,0 +1,201 @@
+{
+  "channel": "Nitish Rajput",
+  "channel_url": "https://www.youtube.com/@NitishRajput",
+  "videos_analyzed": 10,
+  "date_range": {
+    "latest": "2026-04-04",
+    "oldest": "2025-05-28"
+  },
+  "channel_summary": "Nitish Rajput's channel focuses on historical events, geopolitical issues, and significant incidents, providing detailed analyses and insights.",
+  "content_themes": [
+    "History",
+    "Geopolitics",
+    "Military Operations",
+    "Current Affairs"
+  ],
+  "posting_pattern": "Posts approximately every 1-2 months",
+  "audience_type": "History enthusiasts, students, and those interested in geopolitical analysis",
+  "content_style": "Educational",
+  "top_performing_topics": [
+    "Saddam Hussein",
+    "Pahalgam Attack",
+    "Ghazi Attack"
+  ],
+  "negative_points": [
+    "Some videos may contain biased perspectives",
+    "Occasional lack of visual aids to support content"
+  ],
+  "videos": [
+    {
+      "video_id": "hbs9j9Y7wcw",
+      "url": "https://www.youtube.com/watch?v=hbs9j9Y7wcw",
+      "title": "The Reality Of Saddam Hussein",
+      "upload_date": "2025-07-05",
+      "duration": "55m 8s",
+      "view_count": 11694037,
+      "like_count": 236000,
+      "summary": "A detailed look at the life and legacy of Saddam Hussein, including his rise to power and fall.",
+      "main_topics": [
+        "Saddam Hussein",
+        "Iraq",
+        "History"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Historical Analysis"
+    },
+    {
+      "video_id": "kyYT9b7OlAY",
+      "url": "https://www.youtube.com/watch?v=kyYT9b7OlAY",
+      "title": "How the US President Travels",
+      "upload_date": "2025-11-30",
+      "duration": "33m 4s",
+      "view_count": 6180100,
+      "like_count": 137000,
+      "summary": "An exploration of the security measures and protocols involved in the travel of the US President.",
+      "main_topics": [
+        "US President",
+        "Security",
+        "Travel"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Geopolitical Analysis"
+    },
+    {
+      "video_id": "c2UmUSmsJCA",
+      "url": "https://www.youtube.com/watch?v=c2UmUSmsJCA",
+      "title": "The Ghazi Attack",
+      "upload_date": "2025-10-28",
+      "duration": "41m 59s",
+      "view_count": 10641834,
+      "like_count": 234000,
+      "summary": "An in-depth examination of the Ghazi attack, a significant military operation.",
+      "main_topics": [
+        "Ghazi Attack",
+        "Military",
+        "History"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Military History"
+    },
+    {
+      "video_id": "pqLMF1W2KxE",
+      "url": "https://www.youtube.com/watch?v=pqLMF1W2KxE",
+      "title": "Pahalgam Attack Planning",
+      "upload_date": "2025-05-28",
+      "duration": "45m 46s",
+      "view_count": 11026690,
+      "like_count": 405000,
+      "summary": "A detailed account of the planning and execution of the Pahalgam attack in India.",
+      "main_topics": [
+        "Pahalgam Attack",
+        "Terrorism",
+        "India"
+      ],
+      "sentiment": "Negative",
+      "content_type": "Current Affairs"
+    },
+    {
+      "video_id": "POSqmsH4ZnU",
+      "url": "https://www.youtube.com/watch?v=POSqmsH4ZnU",
+      "title": "Reality Of SSC Exams",
+      "upload_date": "2025-09-11",
+      "duration": "55m 7s",
+      "view_count": 6229523,
+      "like_count": 308000,
+      "summary": "An analysis of the challenges and realities faced by students preparing for SSC exams in India.",
+      "main_topics": [
+        "SSC Exams",
+        "Education",
+        "India"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "cdLvFIRhlJ0",
+      "url": "https://www.youtube.com/watch?v=cdLvFIRhlJ0",
+      "title": "US–Iran War: The Real Root Cause",
+      "upload_date": "2026-04-04",
+      "duration": "41m 24s",
+      "view_count": 4602249,
+      "like_count": 183000,
+      "summary": "An exploration of the root causes behind the tensions between the US and Iran.",
+      "main_topics": [
+        "US-Iran Relations",
+        "Geopolitics",
+        "War"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Geopolitical Analysis"
+    },
+    {
+      "video_id": "MmNFJ4CGvyw",
+      "url": "https://www.youtube.com/watch?v=MmNFJ4CGvyw",
+      "title": "US vs India Tariff War Explained",
+      "upload_date": "2025-12-30",
+      "duration": "40m 8s",
+      "view_count": 6563694,
+      "like_count": 169000,
+      "summary": "An explanation of the tariff war between the US and India, including its economic impacts.",
+      "main_topics": [
+        "US-India Relations",
+        "Tariffs",
+        "Economics"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Economic Analysis"
+    },
+    {
+      "video_id": "o7lczTDDESc",
+      "url": "https://www.youtube.com/watch?v=o7lczTDDESc",
+      "title": "Naxalism in India Explained",
+      "upload_date": "2025-08-05",
+      "duration": "48m 25s",
+      "view_count": 6899406,
+      "like_count": 191000,
+      "summary": "An in-depth look at the issue of Naxalism in India, including its origins and current status.",
+      "main_topics": [
+        "Naxalism",
+        "India",
+        "Insurgency"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Political Analysis"
+    },
+    {
+      "video_id": "HyNa3XXe91c",
+      "url": "https://www.youtube.com/watch?v=HyNa3XXe91c",
+      "title": "Israel’s most daring Operation",
+      "upload_date": "2026-02-27",
+      "duration": "33m 5s",
+      "view_count": 6505184,
+      "like_count": 187000,
+      "summary": "A detailed account of one of Israel's most daring military operations.",
+      "main_topics": [
+        "Israel",
+        "Military Operations",
+        "History"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Military History"
+    },
+    {
+      "video_id": "oW1bEwewYd4",
+      "url": "https://www.youtube.com/watch?v=oW1bEwewYd4",
+      "title": "What Happened in Delhi?",
+      "upload_date": "2026-02-03",
+      "duration": "44m 6s",
+      "view_count": 5337263,
+      "like_count": 190000,
+      "summary": "An analysis of recent events in Delhi, including political and social implications.",
+      "main_topics": [
+        "Delhi",
+        "Politics",
+        "Social Issues"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Current Affairs"
+    }
+  ],
+  "analyzed_at": "2026-04-16T15:55:54.627437"
+}

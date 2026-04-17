@@ -1,0 +1,35 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+supabase
+alembic
+chromadb
+
+# Vector Database
+sentence-transformers
+
+# AI Services
+huggingface-hub
+transformers
+torch
+google-genai
+
+# Web Scraping
+apify-client
+
+# Caching
+redis
+
+# Utilities
+python-dotenv
+httpx
+tenacity
+
+# Testing
+pytest
+pytest-asyncio

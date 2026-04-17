@@ -1,0 +1,201 @@
+{
+  "channel": "Vaibhav Kadnar",
+  "channel_url": "https://www.youtube.com/@VaibhavKadnar",
+  "videos_analyzed": 10,
+  "date_range": {
+    "latest": "2026-04-15",
+    "oldest": "2026-02-12"
+  },
+  "channel_summary": "Vaibhav Kadnar's channel focuses on providing practical advice and strategies for financial success, personal development, and career growth, particularly targeting students and young professionals.",
+  "content_themes": [
+    "Financial Independence",
+    "Career Advice",
+    "Personal Development",
+    "Entrepreneurship"
+  ],
+  "posting_pattern": "Posts are made approximately every 2-3 days, with a consistent schedule.",
+  "audience_type": "Students, young professionals, and individuals interested in financial and personal growth",
+  "content_style": "Educational and motivational",
+  "top_performing_topics": [
+    "Investing",
+    "Money Making Strategies",
+    "Financial Success"
+  ],
+  "negative_points": [
+    "Some videos may oversimplify complex topics",
+    "Occasional repetition of similar advice across multiple videos"
+  ],
+  "videos": [
+    {
+      "video_id": "AyEbtqP_eY0",
+      "url": "https://www.youtube.com/watch?v=AyEbtqP_eY0",
+      "title": "₹1 Lakh/Month from ONE Digital Product (Step-by-Step Roadmap) | Vaibhav Kadnar",
+      "upload_date": "2026-02-14",
+      "duration": "31m 14s",
+      "view_count": 53163,
+      "like_count": 2700,
+      "summary": "A step-by-step guide on how to earn ₹1 lakh per month from a digital product.",
+      "main_topics": [
+        "Digital Products",
+        "Income Generation",
+        "Step-by-Step Guide"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "lSpKg9mXEoA",
+      "url": "https://www.youtube.com/watch?v=lSpKg9mXEoA",
+      "title": "80% ENGINEERING Degrees are USELESS In 2026",
+      "upload_date": "2026-02-16",
+      "duration": "20m 42s",
+      "view_count": 24915,
+      "like_count": 1400,
+      "summary": "Discussion on why 80% of engineering degrees are becoming less valuable in 2026.",
+      "main_topics": [
+        "Engineering Degrees",
+        "Job Market Trends",
+        "Career Relevance"
+      ],
+      "sentiment": "Negative",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "CYvZ9UyXE0M",
+      "url": "https://www.youtube.com/watch?v=CYvZ9UyXE0M",
+      "title": "48 Laws Of Power Explained in 24 Minutes | VAIBHAV KADNAR",
+      "upload_date": "2026-02-18",
+      "duration": "23m 31s",
+      "view_count": 74425,
+      "like_count": 3800,
+      "summary": "A concise explanation of the 48 Laws of Power.",
+      "main_topics": [
+        "Laws of Power",
+        "Strategic Thinking",
+        "Personal Growth"
+      ],
+      "sentiment": "Neutral",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "de7_6V7-wRY",
+      "url": "https://www.youtube.com/watch?v=de7_6V7-wRY",
+      "title": "Do this to make ₹1 LAC/MONTH as a STUDENT | AIMM | Vaibhav Kadnar",
+      "upload_date": "2026-03-24",
+      "duration": "29m 42s",
+      "view_count": 212833,
+      "like_count": 15000,
+      "summary": "Tips for students to earn ₹1 lakh per month using the AIMM strategy.",
+      "main_topics": [
+        "Student Income",
+        "AIMM Strategy",
+        "Financial Independence"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "g34ZoiKJVG0",
+      "url": "https://www.youtube.com/watch?v=g34ZoiKJVG0",
+      "title": "How To Become A Content Creator in 2026 | MY SECRET FORMULA | Vaibhav Kadnar",
+      "upload_date": "2026-02-12",
+      "duration": "17m 20s",
+      "view_count": 143631,
+      "like_count": 7900,
+      "summary": "A formula for becoming a successful content creator in 2026.",
+      "main_topics": [
+        "Content Creation",
+        "Success Formula",
+        "Digital Marketing"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "XUXAHPUkwO0",
+      "url": "https://www.youtube.com/watch?v=XUXAHPUkwO0",
+      "title": "Earn ₹1 Lakh Students Before Your Next Birthday (No Skills Needed)",
+      "upload_date": "2026-04-09",
+      "duration": "23m 15s",
+      "view_count": 77753,
+      "like_count": 4800,
+      "summary": "Advice on how students can earn ₹1 lakh before their next birthday without needing specific skills.",
+      "main_topics": [
+        "Student Income",
+        "No-Skill Jobs",
+        "Financial Goals"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "sSfa4eHTcbU",
+      "url": "https://www.youtube.com/watch?v=sSfa4eHTcbU",
+      "title": "How to Start Investing With Just ₹100 | Vaibhav Kadnar",
+      "upload_date": "2026-02-23",
+      "duration": "35m 50s",
+      "view_count": 407420,
+      "like_count": 21000,
+      "summary": "A beginner's guide to investing with just ₹100.",
+      "main_topics": [
+        "Investing Basics",
+        "Low-Cost Investing",
+        "Financial Literacy"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "-TK0dCiE0y4",
+      "url": "https://www.youtube.com/watch?v=-TK0dCiE0y4",
+      "title": "How To Attract Anyone Easily || Vaibhav Kadnar",
+      "upload_date": "2026-03-14",
+      "duration": "20m 10s",
+      "view_count": 187590,
+      "like_count": 8700,
+      "summary": "Techniques for attracting anyone easily.",
+      "main_topics": [
+        "Attraction Techniques",
+        "Social Skills",
+        "Personal Magnetism"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "k_rCuLiZqCc",
+      "url": "https://www.youtube.com/watch?v=k_rCuLiZqCc",
+      "title": "Only 10 Ways To Make Money In 2026",
+      "upload_date": "2026-02-28",
+      "duration": "36m 37s",
+      "view_count": 400069,
+      "like_count": 22000,
+      "summary": "An overview of the top 10 ways to make money in 2026.",
+      "main_topics": [
+        "Money Making Strategies",
+        "Career Opportunities",
+        "Financial Independence"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    },
+    {
+      "video_id": "Q2rW0Dlu42U",
+      "url": "https://www.youtube.com/watch?v=Q2rW0Dlu42U",
+      "title": "How successful people see money everyday | Vaibhav Kadnar",
+      "upload_date": "2026-04-15",
+      "duration": "28m 13s",
+      "view_count": 20884,
+      "like_count": 1800,
+      "summary": "Insights into how successful people view money in their daily lives.",
+      "main_topics": [
+        "Wealth Mindset",
+        "Financial Habits",
+        "Success Stories"
+      ],
+      "sentiment": "Positive",
+      "content_type": "Educational"
+    }
+  ],
+  "analyzed_at": "2026-04-16T15:38:13.342850"
+}

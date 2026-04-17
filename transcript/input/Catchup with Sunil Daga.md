@@ -1,0 +1,607 @@
+Notes 
+Feb 28, 2026
+Catchup
+Invited Akshay Nahar Pratik Munot sunil.multiplus@gmail.com
+Attachments Catchup 
+Meeting records Transcript 
+
+Summary
+Pratik Munot, Akshay Nahar, and Sunil discussed the concept of Stockly, a platform intended to bridge the gaps between genuine stock market advisory from SEBI-registered research analysts (RAs) and one-click execution via linked broker accounts. Pratik Munot explained Stockly's goal, which included exploring revenue models such as subscription or pay-per-tip, while Sunil and Akshay Nahar agreed that competitors include platforms like WhatsApp and Telegram, which are used for sharing tips. Sunil advised focusing on quality over quantity and positioning Stockly as a premium, mid-to-long-term investment platform, noting that the fundamental problems for most retail investors are the lack of portfolio review and uninformed buying based on tips. The discussion concluded by exploring a potential B2B-to-B2C model, charging RAs or users for advice, and noting that specific targeting (traders vs. long-term investors) is challenging, with F&O targeting requiring significant automation tools.
+
+Details
+●	Introductions and Backgrounds: Pratik Munot, who has been with Jambe for 15 years and currently heads overall delivery, introduced themself and provided background on Jambe, noting their recent acquisition by the CLR group (00:00:00). Akshay Nahar, an investor for the last decade, shared that they work with Aoma, a US-based company, and lead their customer success team, adding that they are considering transitioning to working full-time in fintech, which led to exploring Stockly (00:02:22). Sunil provided their background, mentioning a 20-year career with Kotak, where they started the MSME vertical and later became a leadership team member (00:05:41).
+●	Details on Jambe and Sunil's Work: Pratik Munot explained that Jambe is an HR technology company specializing in talent assessments, learning, and leadership development, backed by consulting services, which includes offering HR and AI solutions (00:04:33). Sunil detailed their work at Sarati Finance, which they left in December 2024; this non-banking financial company (NBFC) has 62 branches and focuses on micro-loan customers, with an average ticket size of 8 to 10 lakhs and primarily targeting semi-urban customers (00:07:17).
+●	Sunil's Thoughts on the Mass Premium Customer Segment: Sunil shared that their spouse has a firm that is developing a wealth management solution for the mass premium customer segment, excluding the top 3-4% of India. This initiative focuses on protection, investing, and some borrowing needs for this demographic (00:09:48).
+●	Introduction to Stockly's Concept and Goals: Pratik Munot presented Stockly as a platform intended to bridge two key gaps in the stock market: the gap in receiving genuine advisory from authorized sources and the gap between advice and execution (00:10:54). Stockly's goal is to connect advice and execution on the same platform, initially by featuring buy/sell recommendations from SEBI-registered research analysts (RAs) who can build communities and link directly to users' broker accounts for one-click execution (00:12:03).
+●	Stockly's Revenue Model and Competition: Pratik Munot indicated that the revenue model for Stockly is still being explored, suggesting a subscription model, a pay-per-tip/recommendation model, or a combination of both (00:16:24). The speakers agreed that Stockly's biggest competitors are platforms like WhatsApp and Telegram, which are often used for sharing stock market tips (00:18:30).
+●	Discussion on Stock Grow and Market Uniqueness: Akshay Nahar mentioned that they purchased a subscription to Stock Grow to study their model, noting they have around 30 to 40 registered voices giving tips and claimed to have 35 million users, which was viewed as somewhat unbelievable (00:18:30). Sunil suggested that high user acquisition may not be necessary, emphasizing that excessive information could be problematic for users, making quality more critical than quantity (00:24:15) (00:26:37).
+●	Strategy for Registered Analysts and Platform Positioning: Akshay Nahar posed a question about whether to exclusively target SEBI-registered analysts or expand to non-registered advisers, noting that some registered advisers on Stock Grow are using the platform primarily to build their brand outside of it (00:22:46) (00:25:29). Sunil advised focusing on quality over quantity and avoiding making the platform too generalized to maintain its essence, suggesting Stockly be positioned as a more premium, mid-to-long-term investment platform, potentially inviting a select number of specialist RAs (00:26:37) (00:28:45).
+●	Key Gaps in the Stock Market for Retail Investors: Sunil identified two fundamental problems for most retail investors: the lack of portfolio review to determine whether to exit a stock, and the issue of buying stocks based on tips without understanding the underlying numbers. These fundamental problems present a strong use case for a platform that offers portfolio analysis and informed buying decisions (00:31:59).
+●	Discussion of Business Models and Future Asset Classes: The group explored a B2B model where Stockly could first target RAs by building tools for their manual processes, then scale to B2C users, with potential monetization coming from charging the RAs or charging users for advice (00:34:58). Regarding future asset classes beyond stocks, Sunil noted that commodities, particularly gold, silver, and copper, are becoming interesting, but the bond market is currently shallow (00:38:04).
+●	Targeting Strategies for Traders vs. Long-Term Investors: Pratik Munot asked if Stockly should target high-transaction traders or medium-to-long-term investors, noting that high transaction frequency requires real-time, automated tech solutions. Sunil advised that specific targeting is difficult, suggesting that if the focus is on the Futures and Options (F&O) market, the platform needs phenomenal automation tools, which might be a later-stage step (00:41:00).
+
+Suggested next steps Pratik Munot and Akshay Nahar will stay in touch with Sunil and plan to reconnect when Stockly is taken to the next level.
+
+You should review Gemini's notes to make sure they're accurate. Get tips and learn how Gemini takes notes
+Please provide feedback about using Gemini to take notes in a short survey. 
+
+Transcript 
+Feb 28, 2026
+Catchup - Transcript
+00:00:00
+ 
+Pratik Munot: Bakery bakery
+Akshay Nahar: Uh
+Pratik Munot: cream.
+Akshay Nahar: voice
+Pratik Munot: I'll just ping him. He's not joined.
+Akshay Nahar: destination. Huh?
+Sunil: Hey. Hi. Hi.
+Pratik Munot: Hi,
+Akshay Nahar: Hi.
+Pratik Munot: good evening.
+Sunil: Hi. Yeah,
+Pratik Munot: Can you hear us?
+Sunil: I am.
+Pratik Munot: Yeah,
+Akshay Nahar: Yeah.
+Sunil: Can you hear
+Akshay Nahar: So,
+Pratik Munot: we can.
+Sunil: me?
+Akshay Nahar: yep. Okay. We can hear you.
+Pratik Munot: Yeah.
+Akshay Nahar: Sorry. I'll be off camera for 15 20 minutes and then I will switch up.
+Pratik Munot: Yeah.
+Akshay Nahar: Yeah. Yeah. Central.
+Pratik Munot: All right. So, uh, good evening, Sunil G. I'll introduce myself. My name is Pratik Manut. I've been part of Jambe for the last 15 years. And uh uh I've known Ashwin almost for the same time and um you know primarily what I've done in my life is although I'm an engineer by background I've done a a lot of product building, marketing then go to market/s sales and then um I I'm currently heading delivery overall delivery of all that we do for our customers.
+ 
+ 
+00:02:22
+ 
+Pratik Munot: Um so multiple teams reporting to me. Uh we got acquired about two three years ago. Uh and we are a part of a bigger group called CLR and we continue to function um the way we have been as part of the group to build and grow Jungway. um stockly something Ashwin introduced to me to see how we could sort of come together to sort of take it to the market and in that sense we've been doing some research speaking to people and trying to see how it can be taken to the next level. So that's a bit of a background. I'm based in Pune. Uh I'll request a to introduce himself and then soon would love to know a little more about you
+Akshay Nahar: Yeah.
+Pratik Munot: plus any thoughts you may have um towards towards maybe your past conversations with Ashwin and happy to then have a
+Akshay Nahar: Yeah. Yep. Yeah. Hi.
+Pratik Munot: conversation.
+Akshay Nahar: Yeah. Hi. This is a um so I've been a investor in the market for the last decade or so.
+ 
+ 
+00:03:21
+ 
+Akshay Nahar: um across different asset classes and uh you know by profession I work with a company called Aoma it's a US- based uh company series they funded I lead the customer success team for the company and manage about $5 million of the uh but what has happened is that like in the past you know couple of years my inclination towards finance investments have been a lot there and then I've also encouraged a lot of friends and family members to you know stay invested in different asset classes and uh you know I was always wanting to do something in fintech and that's where I happened to talk to Pratik because we anyway knew each other and then we got introduced to Ashin as well and that's where this idea of exploring stockly came in so yeah I mean that's a quick brief about uh my background and um we have in the next couple of months looking forward to jump into uh you know this full-time as well. So we as a part of that we talk talking to a couple of uh experts from the domain to seek their understanding their guidance uh on a couple of things and validate a few things that what we feel uh so hence the conversation.
+ 
+ 
+00:04:33
+ 
+Sunil: Yeah. Yeah. Hi. Uh actually, you know,
+Pratik Munot: Sure.
+Sunil: I don't know much about Zombie. If you can just kind of just tell me uh it would help uh because I have very limited understanding of them.
+Pratik Munot: Yeah. So, Sunil G, we are in the talent assessments, learning and leadership development space. So um in that sense we are an HR technology company back powered by consulting on top of it where we help organizations identify top talent, build successors, do leadership development programs, uh run engagement solutions and now we are also enuring venturing into offering agent KI solutions largely to solve problems in the HR vertical. So my niche or focus has been HR techch, HR consulting, uh talent management, learning and leadership development. I mean that's what the organization uh has known to do over the last so many years. Yeah,
+Sunil: Okay. And how large is it in terms of people and turnover
+Pratik Munot: we are about 130 odd people at the moment.
+Sunil: time?
+Pratik Munot: Uh spread across the country. Client is also spread across the country.
+ 
+ 
+00:05:41
+ 
+Sunil: Got it. Got it. Nice. Now uh you know small brief about me. I was with Kodak for about 20 years uh plus and uh Ashin happens to be a friend uh because we first onboarded him. Probably the first I think I think the second loan was given by us when he started his journey uh when he has set up the Aenjit I think uh technologies. He were the early uh debt providers to him and uh I have seen his journey grow obviously from where they were 578 cr turnover company to what they are today and uh since I've been on the debt uh underwriting side on MSME funding etc. So kind of I kind of keep meeting a lot of uh founders and in that process some have you know like-minded people have come very close and we kind of keep learning uh with each other. uh I left KTH when you know last I was a president and KC leadership team member uh which is a top 60 across the group uh that's how they call the leadership team KT and uh I started the MSME vertical 2012 and I left it was 200 cr uh no when I started it was 200 when I left it was about 55 55,000 odd cr book on the lending side across secured and secured supply chain etc. largely catering to companies with turnover up to uh 250 cr.
+ 
+ 
+00:07:17
+ 
+Sunil: Uh that's the you know brief uh uh yeah I started uh I started the 14th branch for the bank uh when I started with the today you know we are about 2,000 plus branches as we speak I'm part of a company by name sarati finance uh which I kind of I left in December 2024 created an MBFC and started there we are about now 62 branches 800 people And uh we got uh four private equity investors to back us and uh capitalize you know the NBFC by about 475 cr uh because you know raw material in NBFC is capital eventually so money is the raw material. So yeah I think that's very short. Yeah, because a long career with code 2021. So not many much to add beyond that.
+Pratik Munot: Yeah.
+Sunil: So
+Pratik Munot: Yeah. Indeed. And uh just curious now Sarati Finance does it sort of go after a
+Sunil: yeah
+Pratik Munot: particular niche in terms of industry or market segment or
+Sunil: know it's a very simple construct. It's a primarily microlab kind of a customer. Uh average ticket size 8 to 10 lakhs.
+ 
+ 
+00:08:41
+ 
+Pratik Munot: Okay.
+Sunil: uh we lend at a closer to 20%,
+Pratik Munot: Yeah.
+Sunil: take property, some could be you know imperfect collateral also may not be exactly perfect collateral at times but these are largely semi-urban kind of
+Pratik Munot: H.
+Sunil: customers or probably you know outside of say Pune say 40 50 kilometers away
+Pratik Munot: Yeah.
+Sunil: from Pune those kind of customers Helaran GI or you know we are not in Maharashtra but I'm
+Pratik Munot: Yeah. Yeah.
+Sunil: just kind of giving your genre of what kind of customer these would
+Pratik Munot: Yeah.
+Sunil: be.
+Pratik Munot: Okay. Okay. Interesting.
+Sunil: Yeah.
+Pratik Munot: Interesting.
+Sunil: So it's a long tail uh which is not funded today
+Pratik Munot: Indeed. Yeah.
+Sunil: and uh yeah it's largely physical because there's a property element attached to it. So you have to think uh since uh Aki is a market veteran and he would know what fivestar finances and SBFC is etc. So I think he could correlate to what I'm talking
+Akshay Nahar: Yeah. Yeah. I mean,
+Sunil: about.
+ 
+ 
+00:09:48
+ 
+Akshay Nahar: not a veteran per se. It's just out of interest, you know, been in the markets for a longer duration. But yeah, I understand uh where you you are failing to answer. Yeah.
+Sunil: Yeah. Yeah. Yeah. Was telling you know quite exciting very high. I met him in Bombay. So he told me you're creat you know building something very exciting.
+Pratik Munot: Yeah.
+Sunil: So I thought why not you know catch up because uh there's also a firm of my of my wife. She's kind of putting together something on the wealth side. Same for a mass premium customer.
+Pratik Munot: Oh, okay.
+Sunil: uh not the HNI and UHNI but mass premium so they are trying to uh figure out
+Pratik Munot: Just
+Sunil: how we should they should be kind of know targeting this segment of customer on the wealth management side when I say wealth it's not literally wealth management but definitely for their protection and investing needs and also some part of their borrowing needs uh but then
+Pratik Munot: Great.
+Sunil: this is excluding the top 3 4% of India
+ 
+ 
+00:10:54
+ 
+Pratik Munot: Okay. Interesting. Yeah. Yeah. So would love to know a little more about it but maybe I'll go ahead and talk about Stockley a little bit. Um so today the way we are thinking of stockly is to build something that bridges a I mean two gaps a there is gap in terms of receiving genuine advisory and I'm saying when I say genuine advisory more so in the stock market space uh not so much in the MFD space so far because there at least you have these mutual fund distributors advisers wealth managers wealth planners but when it comes to buying or selling of talks that advisory is currently at least our understanding and our research says that heavily crowded by these non-registered advisers who may have a point of view uh but they're not authorized to give those buy sell trading calls and what also happens is in a lot of that a lot of misleading happens uh for retail investors so there is a gap on the advisory side that we're trying to bridge and I'll talk about how and then there is the other gap which is advisory to execution gap.
+ 
+ 
+00:12:03
+ 
+Pratik Munot: Maybe advice exists but execution is disconnected. I may follow that advice uh because somebody called me and said you know buy this talk or right time to exit this talk or I may follow the advice because it's up you know shared somewhere on a WhatsApp group or a telegram channel. Uh but when it comes to execution I have to log into my broker account separately and then execute. Now this may seem like a a very normal and not so odd behavior but what happens is that people actually actually lose out on opportunities because advice and execution are not connected. Um they don't happen on the same platform. So what Stockley intends to do is to bring advice and execution on the same platform. The advice at least to begin with will come from sebi registered research analysts who have the authority by sebi to give buyell recommendations on stocks. Uh and then people can follow that advice be a part of the communities built by these sebi registered analysts and then click on it right then and there to invest and it will link to their broker amount account uh right there and execute.
+ 
+ 
+00:13:12
+ 
+Pratik Munot: Now what this will also do is generate a lot of data for analysts to see who is acted on their advice and also to sort of find certain patterns out of it. What it will also generate is a lot of data for investors to see which analysts calls are sort of more successful or have a better hit rate and you know build credibility around analysts also. So that's the start honestly of the platform and that's not the be all end all for now but we are trying to sort of build it around a simple idea that today that advice exists hard to filter between genuine and non-genuine advice and today people still execute on that advice but that behavior is disconnected if you see all these WhatsApp groups and telegram channels we're just trying to sort of build a software to take care of all of this that's the starting point and Aka if you want to Um what I'll also do Sunil G is maybe share my screen um to take you through the web page. Uh the product is in early beta phase so we may not be ready for a demo but I'll at least take you through the concept.
+ 
+ 
+00:14:21
+ 
+Sunil: show.
+Pratik Munot: Uh having said that um a over to you in case you want to add anything.
+Akshay Nahar: No, no, Pratik, go ahead. Uh, I have a couple of questions,
+Pratik Munot: Yeah.
+Akshay Nahar: but I can take it later.
+Pratik Munot: Yeah. Yeah. So I'll share my screen. So this is a website and maybe I'll just simply show for example what happens is uh Harshad meta is a is an adviser or an analyst and he recommends that Reliance Industries be bought at a price of 1400 because it may go up to 2,000 and people can click on invest now then and there to execute it will connect to their broker accounts and they can execute right so stockly is built around the single sing simple concept of this what we are
+Sunil: But how did you get Harshad ma from?
+Pratik Munot: trying I mean this is just a mockup uh this is
+Sunil: Where did you get him?
+Pratik Munot: not it's not harsh ma
+Sunil: No, but no no no Harsh ma is just a name.
+Pratik Munot: really
+ 
+ 
+00:15:19
+ 
+Sunil: What I'm trying to say is uh uh how did well how will this you know you you're not doing your
+Pratik Munot: h oh yeah no no
+Sunil: own huh
+Pratik Munot: no so yeah yeah great you asked that question today we don't have that expertise of our own to give this bice recommend ations. What we are trying to do is bring these sebregistered aras on the platform. So the supply side is people who are experts in doing this. Yeah. And demand demand side is the retail investors and we are trying to connect them on one platform. Right. where hersad meta if he is a registered adviser he analyst he will um come on the platform we will give him um basically a portal through which he or she can put these recommendations and I'll quickly scroll through you know there is there are these recommenders who are financial advisers and experts they can share expert stock market recommendations track recommendation analysts analytics and build their reputation and following so harsh Prasad Mata will actually come on Stockly to put together this recommendation which will be made visible to everybody.
+ 
+ 
+00:16:24
+ 
+Pratik Munot: Now the way it will be made visible through everybody is maybe through a paid community like Harsh Maha might be running something like this on a WhatsApp group or a telegram channel which is a paid community. We replicate that kind of a feature here. Uh and people can subscribe to the paid community. That's one way of doing it. The other way of doing it is that every tip has a price attached to it which is a sache price of 50 rupees 100 rupees and then people can really pay that much to get an access to the tip. So that way we are just trying to bring the supply and demand side together on the platform. That's the idea right now. I hope that answers your question. Yeah. A if you want to add anything.
+Akshay Nahar: Uh, no. Go ahead, Pratik.
+Pratik Munot: Yeah. And what happens for investors is they can access all these recommendations. Uh everybody out there is kind of looking for which stock to buy or which one to exit or when to exit.
+ 
+ 
+00:17:22
+ 
+Pratik Munot: uh so imagine those expert recommendations are being given out to them which they can execute with one click and that's the gap we are essentially trying to bridge as well and among other things we are trying to see if we can build some social features around it where because what happens in an offline or disconnected manner today is say I got a stock recommendations I may exchange those ideas with a friend WhatsApp group and then we'll exchange ideas and thoughts there can we replicate some of these behavior online. That's the whole idea. And like I mentioned, today this is focused currently on stock per se. Uh over time this may have potential to expand into other asset classes like mutual funds, commodities, metals and so on. But the starting point or entry point is stocks. Hence the name Stockly at the moment. Um yeah. So this is the simple idea. This is where we are right now.
+Sunil: And this is the uh uh this is a subscription model.
+Pratik Munot: Yeah. Yeah, I mean we are exploring there could be a subscription model or you it could be a paper tip or paper recommendation kind of a model or a mix of both.
+ 
+ 
+00:18:30
+ 
+Sunil: Got it. Your biggest competitor will be
+Pratik Munot: Yeah, it is indeed no doubt about it.
+Sunil: WhatsApp.
+Akshay Nahar: WhatsApp and Telegram.
+Pratik Munot: Yes.
+Akshay Nahar: Yeah. WhatsApp and Telegram.
+Sunil: What someone fixes, you know, to his own liking.
+Pratik Munot: Yeah. Yeah. Yeah.
+Sunil: Interesting.
+Pratik Munot: Yeah.
+Akshay Nahar: Yeah.
+Sunil: I validated for investing.
+Pratik Munot: Yes.
+Akshay Nahar: Yeah.
+Pratik Munot: Yeah.
+Akshay Nahar: Yes.
+Pratik Munot: Yes.
+Sunil: Okay.
+Pratik Munot: No idea. It's I mean hard to believe.
+Akshay Nahar: Highly doubt that we've in fact you know what we have actually purchased I mean we did purchase stock
+Sunil: Huh?
+Akshay Nahar: grow uh subscription to see you know how things work. They have a monthly pricing something 3 30 300 350 like and uh there are about
+Pratik Munot: Yeah.
+Akshay Nahar: 30 or 40 odd uh say registered voices who are giving tips on stock grow but the number I think they claim what 30 how much I think was that 35 million users or something
+Pratik Munot: Yeah.
+Akshay Nahar: like that right yeah
+ 
+ 
+00:19:39
+ 
+Pratik Munot: 35 million users which sounds strange because India itself has some 10 11 cr investors
+Sunil: Active
+Akshay Nahar: but
+Pratik Munot: right now they are claiming that they have one/ird of uh investors on their platform sounds a little unbelievable honestly
+Akshay Nahar: Yeah,
+Pratik Munot: speaking
+Akshay Nahar: I
+Sunil: subscriber
+Pratik Munot: yeah those are the numbers they've published yeah
+Akshay Nahar: sorry how much?
+Sunil: date profit date sir.
+Pratik Munot: Um,
+Akshay Nahar: Because when I looked at the financials, I think they got a 100 cr. Is that correct?
+Pratik Munot: that must be
+Akshay Nahar: And they're burning a lot right
+Sunil: Yeah.
+Pratik Munot: last.
+Akshay Nahar: now.
+Sunil: I
+Pratik Munot: Okay.
+Sunil: think
+Akshay Nahar: Yeah.
+Pratik Munot: Okay.
+Akshay Nahar: I mean, see nowadays I've seen them on the Yeah. Yeah. Yeah. Yeah. This line is not good.
+Sunil: I have heard they are kind of uh yeah but uh in this space I've not heard many of the
+Pratik Munot: Yeah,
+Sunil: Hello
+Akshay Nahar: Yeah.
+Pratik Munot: it's a new space relatively.
+Sunil: guys.
+Pratik Munot: There are people who are entering the space.
+ 
+ 
+00:20:58
+ 
+Pratik Munot: Stock grow is no.
+Akshay Nahar: Yeah.
+Pratik Munot: So, Storow is the biggest name at the moment. The others are very small in the sense that it's a very tacky website or I don't think there's a very systematic way of doing it right now which others are following.
+Sunil: Got
+Akshay Nahar: Yeah.
+Pratik Munot: There's something called the stocks box but you'll you'll not even want to look at the
+Akshay Nahar: Yeah.
+Sunil: it.
+Pratik Munot: website.
+Akshay Nahar: Yeah.
+Sunil: Interesting.
+Pratik Munot: Yeah.
+Akshay Nahar: User acquisition. Yeah. Yeah. And second is also stickiness. Uh what is your thoughts on the stickiness? Because typically users who are buying stocks on tips, I don't know how loyal they would be in the long
+Sunil: treadmill
+Akshay Nahar: run.
+Sunil: business continuous activation.
+Akshay Nahar: Yeah. Yeah.
+Sunil: I have a friend of mine who runs but we purist
+Akshay Nahar: Yeah.
+Sunil: form he's also friend of mine Aayush uh
+Akshay Nahar: Yeah. Yeah. Very popular one.
+Sunil: screener.in
+Akshay Nahar: Yeah. Yeah.
+ 
+ 
+00:22:46
+ 
+Pratik Munot: Yeah. Yeah. And that's that's a very good good space to be
+Sunil: simple fun
+Pratik Munot: in. This is a research tool.
+Sunil: They have grown very organically.
+Akshay Nahar: Okay. So, yeah. So one question I had was um you know obviously there are registered and non-registered people and the non-registered pool is maybe 9010 ratio 90% WhatsApp and telegrams of the world are non-registered uh but people still find them they subscribe to their services and they appear also right so the way we were we wanted to build a business which was only by reg run by registered uh recommenders uh se registered versus the people who are not registered, right? But what do you think? Would it make sense to also then think slightly, you know, cast a wider net by inviting non-registered users also on the platform, advisers to come in and give their recommendations from their own community, then the user acquisition typically doesn't become our problem fully. It is because see if you are a non-registered recommener, you will anyways grow your network, right?
+ 
+ 
+00:24:15
+ 
+Akshay Nahar: You will always try to find people. you will advertise yourself and get people to subscribe to your channel or WhatsApp group or whatever, right? Uh so then the owners of us to bring users significantly goes down if all of them at least bring in 30 40 50 users and they use ours as a platform instead of WhatsApp to make things happen. So what are your thoughts on that?
+Sunil: See one thing you need to personal view excessive information also is a problem.
+Pratik Munot: It
+Sunil: So if you get too many then also it's a problem according to me because that somewhere kind of
+Pratik Munot: is.
+Sunil: loses its essence on you know uh how people consume uh information and that is one of the reason that there are many WhatsApp group and I am part of you I I I don't get that kind of a span attention which I you know is required something good also kind of gets skipped and you know things like that so that you have to be a little mindful of that uh you So just to kind of get everything here only for a user acquisition you may not find uh is my view but uh you know you may kind of as a as a consumer I can tell you that
+ 
+ 
+00:25:29
+ 
+Akshay Nahar: See the other thing is also we spoke to a couple of advisers who were on stock grow actually.
+Pratik Munot: Yeah.
+Akshay Nahar: So they were active on stock and they were giving tips on stock grow. Now we spoke to at least three or four of those and uh you know almost the theme was we are using stock grow to build our brand. Do not like follow those tips there fully because in parallel we are trying to build our own community outside of stock grow. So that is a theme that we kind of got to know from a lot of these uh se registered advisers there. Um so that is still you know we don't have good answers to that. Uh would this behavior continue or then you know stockly become so big that they can't afford messing up with stockly and not having their presence on stockly.
+Sunil: H understood.
+Pratik Munot: Yeah.
+Sunil: uh but but what whatever path you take as I said whether you take a RA or you take a nonRA kind of guy uh you need to kind of you know kind of ensure that you don't take too many uh you know and kind of make it
+ 
+ 
+00:26:37
+ 
+Pratik Munot: Yeah. Yeah.
+Sunil: a jantaa kind of a thing because then I think the platform will lose it essence for sure it may take some time to build user but I think
+Pratik Munot: Yeah.
+Sunil: It's better to kind of do that way rather than taking everyone in because your quality can dramatically come
+Pratik Munot: Yeah. Yeah. Yeah.
+Sunil: down because
+Pratik Munot: So, focus on quality over quantity at the
+Sunil: if you have to survive you know all kind of cycles and then you have to be very
+Pratik Munot: moment.
+Sunil: clear you will not get the right cohort but uh you will not get great customer review finally it's a flywheel you know flywheel time to kind of take off but when it's take off it kind of it'll keep moving on its own.
+Pratik Munot: Yeah. Yeah.
+Sunil: So to I think you should be a little nuanced on that. I don't know how are you funding the venture etc.
+Pratik Munot: Yeah.
+Sunil: what capital you're putting what's the business projection but yeah so that I think
+Pratik Munot: Yeah.
+ 
+ 
+00:27:39
+ 
+Sunil: you have to be a little more careful and eventually the harsh reality is that it's finally someone's money to to obviously we may say that you are not directly advising and so and so forth but eventually it's you're
+Pratik Munot: accountability.
+Sunil: dealing with you're dealing with money eventually
+Akshay Nahar: Yeah.
+Pratik Munot: Yes.
+Sunil: Hey,
+Akshay Nahar: Yeah.
+Sunil: I was old school on some of it because I come from you know pedigree of code and those kind of
+Pratik Munot: Yes. Indeed.
+Sunil: organization.
+Pratik Munot: Indeed. Yeah.
+Akshay Nahar: Yeah. I mean honestly we also don't want to build a business that's personal choice for me and
+Sunil: Huh?
+Akshay Nahar: Pratik where people eventually don't make money and lose a lot of money. So we also want to be slightly mindful of that fact as well. So the other thought was also like we don't want this to be seen as a trading pure trading platform where you know people kind of open your app every second and see what's happening what tips are coming in. So we also still want it to be a midterm to a long-term kind of a thing.
+ 
+ 
+00:28:45
+ 
+Pratik Munot: Yeah.
+Akshay Nahar: So recommendations as well.
+Pratik Munot: Yeah.
+Sunil: you'll be much in better control versus opening up too many
+Pratik Munot: Yeah.
+Sunil: and that could be a differentiator for that matter versus a stock grow.
+Pratik Munot: Yeah.
+Sunil: uh just think about it in more detail users churn rate or so and so forth. So that could be a differentiator for you. You can position it a little more premium. Why you have to position it you know a mass kind of a mass system?
+Pratik Munot: like a Yeah. Yeah.
+Sunil: You you can position it a little top notch
+Pratik Munot: Yeah. Yeah.
+Sunil: also.
+Pratik Munot: Top-notch or invite only kind of a platform.
+Sunil: Why you have to kind of think of getting 1 cr subscriber?
+Pratik Munot: Yeah.
+Sunil: You may think that you want your 10 lakh but want the genuinely someone who has a deep pocket
+Pratik Munot: Yeah.
+Sunil: and and you know so and so forth burn come over and your monetization could be
+Pratik Munot: Yeah.
+Sunil: better because there you may you may have a ability to probably charge you know I don't know 800 900,000 double of what these guys are charging I think you can think little differently is my view and make it more professional you can also build features where you know these guys can do a you know kind of a you are arranging a scheduled call every day after the market five six you know where these guys come and people can join and you know they give you you know I think you can do a good job on
+ 
+ 
+00:30:16
+ 
+Pratik Munot: Makes sense. Yeah.
+Akshay Nahar: Yeah.
+Pratik Munot: So Suni when you were looking at stock grow basically how were you evaluating it like what got you interested in it versus maybe what are some
+Sunil: in fact. I met him last to last week. He started kind of smiling.
+Pratik Munot: Yeah.
+Sunil: He was kind of smiling again. coming back stock grow through a private equity guy.
+Pratik Munot: H Okay.
+Sunil: He may be evaluating it because they may be planning for some fund raise probably. So he was
+Pratik Munot: Yes. Yes. They did get a fund raise recently. They did.
+Sunil: asking
+Pratik Munot: Worm stock recently
+Sunil: I know about it but numbers were quite uh
+Pratik Munot: yeah yeah yeah
+Sunil: I was amazed with the numbers.
+Pratik Munot: there's some mystery honestly even we were not able to really understand but that's maybe discovered
+Sunil: Why you have to just think of but I'm just thinking aloud right now as we are discussing you may think that you want to get your 10 lakh subscriber very decent
+ 
+ 
+00:31:59
+ 
+Pratik Munot: Yeah. Yeah. Yeah.
+Sunil: And
+Pratik Munot: So honestly based on your understanding of the whole stock market space at least in India what are some top two or three gaps do you see both from say an
+Sunil: heat.
+Pratik Munot: adviser or experts end and a retail investors end and that investor could be anybody uh it could be an HNI or ultra HNI it could be a trader or it could be a regular investor Joe Naya because there are zerodas and grows of the world and postcoid activity ramp
+Sunil: The fundamental problem underlying is very simple that what you own no one is doing a
+Pratik Munot: space.
+Sunil: review of that portfolio today and what you want to buy there is no uh you know
+Pratik Munot: Yeah,
+Sunil: broadly with most of the investors they don't know why are they buying it either someone has given a tip or you know very few people look at numbers etc etc these are two
+Pratik Munot: indeed. Yeah.
+Sunil: fundamental problems you're trying to solve So how do you when I say review that means that do you have to stay in that stock or not or you want to kind of exit uh or you want to call it rebalancing or review or etc etc that's everyone is very keen otherwise people keep bulking up you know do script
+ 
+ 
+00:33:14
+ 
+Pratik Munot: H. H.
+Sunil: quarterly numbers. So I think that's itself is a very good use case according to him. Uh the second is that the buying part of it which I told you.
+Pratik Munot: Yeah.
+Sunil: So this is how I look at you know any platform like this portfolio
+Pratik Munot: Yeah.
+Sunil: analyze
+Pratik Munot: Makes sense. Yeah.
+Sunil: right I cannot track result of all that could be one way to position it so that's a lot problem
+Pratik Munot: Mhm.
+Sunil: today.
+Pratik Munot: Yeah. Yeah. Yeah. Been there honestly.
+Sunil: I'm assuming within the family you will find probably out of 10 you'll have
+Pratik Munot: Huh?
+Sunil: two three for sure.
+Pratik Munot: Yeah.
+Sunil: So I think that you have to figure out and as I said you may not be to ensure that you are not burning too much. You may think a little more premium so that you're more targeted that
+Pratik Munot: Yes.
+Sunil: that itself should ensure that you get the right uh you know kag and the revenue against that
+Pratik Munot: Yes.
+Sunil: customer.
+ 
+ 
+00:34:58
+ 
+Pratik Munot: Yes. And also um what we also heard from people is maybe you go the B2B route first then going B2C. And when they say B2B today there are these And today that whole process of how they are giving a recommendation and how they tracking it is very manual. Maybe you try to build it for the RAS first through them get the users on the platform and then scale it up. What do you think about H? Yeah. Yeah.
+Sunil: customer shape
+Pratik Munot: Yeah. Yeah.
+Sunil: and I'm assuming customer has already
+Pratik Munot: Yeah. Honestly,
+Sunil: chosen now you're only giving him a probably a platform or a convenience type of
+Pratik Munot: yeah. Exactly. Exactly.
+Sunil: It may be a decent start but economics you will have to think. I don't know the
+Pratik Munot: Yeah.
+Sunil: economics.
+Pratik Munot: So we are in that space of exploring charge. There could be both models. You pay the RAS for them to give advice on the platform or you charge the RAS for them to do rest of the
+ 
+ 
+00:36:20
+ 
+Sunil: Interesting.
+Pratik Munot: execution on the platform or some sort of a B.
+Sunil: You guys are kind
+Pratik Munot: Oh,
+Sunil: of
+Pratik Munot: thank you. Yeah. Yeah. True. Say
+Sunil: numbers.
+Akshay Nahar: coffee.
+Pratik Munot: yeah.
+Akshay Nahar: Yeah. Yeah.
+Sunil: Top
+Akshay Nahar: Yeah.
+Sunil: Modi.
+Akshay Nahar: Yeah.
+Sunil: pocket
+Akshay Nahar: Yeah.
+Sunil: pocket.
+Pratik Munot: Uh
+Akshay Nahar: Yeah. Yeah.
+Pratik Munot: and on the Yeah,
+Akshay Nahar: Okay.
+Pratik Munot: sorry. Cool.
+Sunil: So,
+Akshay Nahar: Apart from this saying that apart from what we spoke right now, are there any other ideas or opportunities you feel that there is a gap in this space overall which is not tapped yet or not the you know best players are out there yet and there's still a bigger opportunity because market and it is only going to grow is what we feel right.
+Pratik Munot: basically wealth management space or wealth tech space,
+Akshay Nahar: All right. So,
+Pratik Munot: right? That's what you refer
+Akshay Nahar: yeah. Yeah.
+Pratik Munot: to.
+ 
+ 
+00:38:04
+ 
+Akshay Nahar: Yeah. I
+Sunil: I think you're on a good direction since you know this subject
+Akshay Nahar: mean,
+Sunil: I think good to pursue is not a
+Akshay Nahar: Mhm. Okay.
+Sunil: bad thing.
+Akshay Nahar: Okay. And apart from stocks, what do you think would because you know mutual funds we know like already people
+Pratik Munot: Yeah.
+Akshay Nahar: are like top 10 mutual funds and all of that stuff people typically do. So mutual funds that's what I'm saying. Yeah. So
+Pratik Munot: Heat.
+Akshay Nahar: correct.
+Sunil: engagement engagement layer
+Akshay Nahar: Correct.
+Sunil: strong.
+Akshay Nahar: Correct. So is commodities the other sector also to look at apart from stocks?
+Sunil: Yes, commodity is becoming very interesting in last one one and a half year gold, silver,
+Akshay Nahar: Yeah.
+Sunil: copper rallies but market size but it's a future bet if you know people are kind of will get aligned etc over time if
+Akshay Nahar: Mhm.
+Sunil: India kind of opens up bitcoin and things like that then it's different
+Akshay Nahar: Okay.
+Sunil: but I don't think you think
+ 
+ 
+00:39:16
+ 
+Akshay Nahar: Yeah. Okay.
+Pratik Munot: H.
+Sunil: I don't think you will be able to get the
+Pratik Munot: Yeah.
+Akshay Nahar: Yeah.
+Sunil: right
+Pratik Munot: Yeah.
+Akshay Nahar: Yeah.
+Sunil: type product because market off has been very rotational
+Pratik Munot: Yeah.
+Sunil: people you know index is holding but then it's a rotation of indices basically nifty it gener you can create 10 jars within that someone who's
+Pratik Munot: Heat.
+Sunil: largely on the very small cap micro cap someone who's kind of more of large cap someone who's on ETF or the or nifty indices or you know those kind of stuff one on Fendo strategies etc.
+Pratik Munot: Yeah.
+Sunil: those kind you can pick up 10 10 20 specialist RA types and you can kind of start building is my view on the way I'm sure you will get more
+Pratik Munot: Yeah, of course.
+Sunil: opportunities I think classes bonds market shallow But bonds
+Pratik Munot: Yeah.
+Sunil: participation, but you may be early if you want to do it
+Pratik Munot: Yeah. Yeah. Yeah.
+Sunil: now.
+Akshay Nahar: You heard of this ven? Have you heard of
+ 
+ 
+00:41:00
+ 
+Sunil: Uh
+Akshay Nahar: Yeah. Yeah.
+Pratik Munot: Sorry,
+Akshay Nahar: Yeah.
+Pratik Munot: I didn't catch that.
+Sunil: went well
+Pratik Munot: Yeah,
+Sunil: for
+Pratik Munot: yeah.
+Akshay Nahar: I think I think he mentioned I think in one
+Pratik Munot: Yeah.
+Akshay Nahar: conversation
+Sunil: bonds platform.
+Pratik Munot: Yeah.
+Sunil: It's a huge API business.
+Pratik Munot: Sure.
+Sunil: It's not nothing to do with this and that are very different.
+Pratik Munot: Sure. And um see when you talk about the investor side uh some advice that we got was to go after high transactions momentum. So go after the traders, go after the FNO market also. So what do you think about that? Uh versus maybe there is a category of investors who believe in more medium to long-term kind of an investment. So whom should we target really transaction which is the trading community.
+Sunil: target anyone. Specific targeting could be very difficult as is my view. You need to kind of build up very phenomenal tools you know on the tech side which is real time kind of giving you strategy about uh you know what to do.
+ 
+ 
+00:42:37
+ 
+Sunil: It's it's it's less about RA according to me more about uh know whether the there is a mismatch in pricing and things like that. So if you're thinking of fendo world then you should think more around that it's automation is a is where you will kind of
+Pratik Munot: Okay.
+Sunil: score
+Pratik Munot: H.
+Sunil: there is a better use
+Pratik Munot: Sure. Sure. H. Yeah. So maybe that could be a step two or a step three. It can't be the start.
+Sunil: tech capability if you have it's a good thing but most of the people otherwise just buy you know with some basic common sense because it's so difficult
+Pratik Munot: Yeah.
+Sunil: to scan uh so many put in options and all of that it's very difficult to scan and kind of take a
+Pratik Munot: Yeah. Mhm. Yeah. Yeah.
+Sunil: But but when it comes to Fendo then you are not kind of waiting for a you know you are kind of deciding within half
+Pratik Munot: Sure.
+Sunil: an hour or an hour or so.
+ 
+ 
+00:44:14
+ 
+Pratik Munot: Sure. Makes sense. I get it. Anything else?
+Sunil: I'm advising one more company just family friend ETF market That's a huge that's a underperated space but it's not everyone's ball game. It's a high algo high tech
+Pratik Munot: What's the name of the
+Sunil: game.
+Pratik Munot: company?
+Sunil: So I'm advising them on that. That's a good space but it's a very capital intensive also market
+Pratik Munot: Yeah. Yeah.
+Sunil: different
+Pratik Munot: Sure. Okay. Hi. Sorry. Driving back to Pratik's place.
+Sunil: good to see you but I think directionally you are on good
+Pratik Munot: So, yes.
+Sunil: track now obviously Execution will kind of
+Pratik Munot: Yeah,
+Sunil: determine
+Pratik Munot: execution is the key.
+Sunil: ideation,
+Pratik Munot: Okay.
+Sunil: you
+Pratik Munot: Sure.
+Sunil: know.
+Pratik Munot: We would love to stay in touch and maybe you know even Ashwin will uh you are in Mumbai right? Yeah.
+Sunil: Yeah. Yeah.
+Pratik Munot: Okay.
+Sunil: Yeah.
+Pratik Munot: Yeah. So I think as we take it to the next level uh maybe at that point in time we would love to reconnect but thank you. it was quite valuable to speak to you. Is there any other uh insight or advice that you may want to share with us? I mean you've been a veteran in the space and uh yeah experience. So thanks I mean this means a lot. Yeah.
+ 
+ 
+Transcription ended after 00:46:40
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.
