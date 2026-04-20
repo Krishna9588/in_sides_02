@@ -22,7 +22,7 @@ import re
 import urllib.request
 from typing import Optional
 from datetime import datetime
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 from dotenv import load_dotenv
 
 # Import analyzer for LLM analysis
@@ -43,7 +43,8 @@ if not HF_TOKEN:
 def _extract_app_id(input_str: str) -> str:
     """Extract numeric app ID from App Store URL or return as-is."""
     cleaned = (input_str or "").strip()
-    if "apps.apple.com" in cleaned:
+    parsed = urlparse(cleaned)
+    if parsed.scheme in ("http", "https") and parsed.netloc == "apps.apple.com":
         m = re.search(r"/id(\d+)", cleaned)
         if m:
             return m.group(1)
@@ -55,10 +56,20 @@ def _extract_app_id(input_str: str) -> str:
 
 def _search_app_id_by_name(app_name: str) -> str:
     """Search App Store by app name and return best matching app ID."""
-    query = quote_plus(app_name.strip())
+    cleaned_name = (app_name or "").strip()
+    if not cleaned_name:
+        return ""
+    if "://" in cleaned_name:
+        raise ValueError("App name search input is invalid.")
+
+    query = quote_plus(cleaned_name)
     url = f"https://itunes.apple.com/search?term={query}&country=in&entity=software&limit=10"
-    with urllib.request.urlopen(url, timeout=10) as r:
-        data = json.loads(r.read())
+    try:
+        with urllib.request.urlopen(url, timeout=10) as r:
+            data = json.loads(r.read())
+    except Exception as e:
+        raise ValueError(f"App Store search failed for '{cleaned_name}': {e}") from e
+
     results = data.get("results", [])
     if not results:
         return ""

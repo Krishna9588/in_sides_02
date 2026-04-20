@@ -24,7 +24,7 @@ import re
 import urllib.request
 from typing import Optional
 from datetime import datetime
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 from dotenv import load_dotenv
 
 # Import analyzer for LLM analysis
@@ -121,18 +121,29 @@ def _fmt_date(raw: str) -> str:
 
 def _is_youtube_url(value: str) -> bool:
     """Check if value is a YouTube URL."""
-    lowered = (value or "").strip().lower()
-    return lowered.startswith("http://") or lowered.startswith("https://")
+    raw = (value or "").strip()
+    try:
+        parsed = urlparse(raw)
+    except Exception:
+        return False
+    if parsed.scheme not in ("http", "https"):
+        return False
+    host = (parsed.netloc or "").lower()
+    return host in {"youtube.com", "www.youtube.com", "m.youtube.com", "youtu.be", "www.youtu.be"}
 
 
 def _looks_like_video_url(value: str) -> bool:
     """Detect if URL appears to be a YouTube video URL."""
+    if not _is_youtube_url(value):
+        return False
     lowered = (value or "").lower()
     return "watch?v=" in lowered or "youtu.be/" in lowered or "/shorts/" in lowered
 
 
 def _looks_like_channel_url(value: str) -> bool:
     """Detect if URL appears to be a YouTube channel URL."""
+    if not _is_youtube_url(value):
+        return False
     lowered = (value or "").lower()
     return any(path in lowered for path in ["/@", "/channel/", "/c/", "/user/"])
 
@@ -149,10 +160,23 @@ def _looks_like_channel_id(value: str) -> bool:
 
 def _find_channel_url_by_name(channel_name: str) -> str:
     """Resolve plain channel name to channel URL using YouTube search page."""
-    query = quote_plus(channel_name.strip())
+    cleaned_name = (channel_name or "").strip()
+    if not cleaned_name:
+        return ""
+    if "://" in cleaned_name or "/" in cleaned_name:
+        raise ValueError("Channel name search input is invalid.")
+    if len(cleaned_name) > 100:
+        raise ValueError("Channel name is too long.")
+    if not re.search(r"[A-Za-z0-9]", cleaned_name):
+        raise ValueError("Channel name is invalid.")
+
+    query = quote_plus(cleaned_name)
     search_url = f"{YOUTUBE_BASE}/results?search_query={query}"
-    with urllib.request.urlopen(search_url, timeout=10) as r:
-        html = r.read().decode("utf-8", errors="ignore")
+    try:
+        with urllib.request.urlopen(search_url, timeout=10) as r:
+            html = r.read().decode("utf-8", errors="ignore")
+    except Exception as e:
+        raise ValueError(f"YouTube channel search failed for '{cleaned_name}': {e}") from e
 
     handle_match = re.search(r'"canonicalBaseUrl":"(/@[^"]+)"', html)
     if handle_match:

@@ -52,7 +52,8 @@ except ImportError:
 def _extract_app_id(input_str: str) -> str:
     """Extract app ID from Play Store URL or return as-is if already an ID."""
     cleaned = (input_str or "").strip()
-    if "play.google.com" in cleaned:
+    parsed = urlparse(cleaned)
+    if parsed.scheme in ("http", "https") and parsed.netloc == "play.google.com":
         qs = parse_qs(urlparse(cleaned).query)
         return qs.get("id", [cleaned])[0].strip()
     return cleaned
@@ -65,7 +66,17 @@ def _is_package_name(value: str) -> bool:
 
 def _search_package_name(app_name: str) -> str:
     """Search Play Store by app name and return best-matching package name."""
-    results = gp_search(app_name, lang="en", country="in", n_hits=10)
+    cleaned_name = (app_name or "").strip()
+    if not cleaned_name:
+        return ""
+    if "://" in cleaned_name:
+        raise ValueError("App name search input is invalid.")
+
+    try:
+        results = gp_search(cleaned_name, lang="en", country="in", n_hits=10)
+    except Exception as e:
+        raise ValueError(f"Play Store search failed for '{cleaned_name}': {e}") from e
+
     if not results:
         return ""
 

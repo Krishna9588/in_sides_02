@@ -47,7 +47,8 @@ def _is_reddit_url(value: str) -> bool:
         parsed = urlparse((value or "").strip())
     except Exception:
         return False
-    return parsed.scheme in ("http", "https") and "reddit.com" in (parsed.netloc or "")
+    host = (parsed.netloc or "").lower()
+    return parsed.scheme in ("http", "https") and (host == "reddit.com" or host.endswith(".reddit.com"))
 
 
 def _normalize_subreddit_name(value: str) -> str:
@@ -61,7 +62,14 @@ def _normalize_subreddit_name(value: str) -> str:
     raw = raw.strip("/")
     raw = re.sub(r"^r/", "", raw, flags=re.IGNORECASE)
     raw = re.sub(r"^/r/", "", raw, flags=re.IGNORECASE)
-    return re.sub(r"[^A-Za-z0-9_]", "", raw)
+    cleaned = re.sub(r"[^A-Za-z0-9_]", "", raw)
+    if not (3 <= len(cleaned) <= 21):
+        return ""
+    if cleaned.startswith("_") or cleaned.endswith("_"):
+        return ""
+    if not re.fullmatch(r"[A-Za-z0-9_]+", cleaned):
+        return ""
+    return cleaned
 
 
 def _resolve_reddit_target(value: str, mode: str) -> str:
