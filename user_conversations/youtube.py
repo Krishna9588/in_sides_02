@@ -164,7 +164,7 @@ def _find_channel_url_by_name(channel_name: str) -> str:
     if not cleaned_name:
         return ""
     if _is_youtube_url(cleaned_name):
-        raise ValueError("Channel name search input is invalid.")
+        raise ValueError("Channel name search expects a plain channel name, not a URL.")
     if len(cleaned_name) > 100:
         raise ValueError("Channel name is too long.")
     if not re.search(r"[A-Za-z0-9]", cleaned_name):

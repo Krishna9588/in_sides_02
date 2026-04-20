@@ -70,7 +70,7 @@ def _search_package_name(app_name: str) -> str:
     if not cleaned_name:
         return ""
     if "://" in cleaned_name:
-        raise ValueError("App name search input is invalid.")
+        raise ValueError("App name search expects a plain app name, not a URL.")
 
     try:
         results = gp_search(cleaned_name, lang="en", country="in", n_hits=10)

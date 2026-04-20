@@ -60,7 +60,7 @@ def _search_app_id_by_name(app_name: str) -> str:
     if not cleaned_name:
         return ""
     if "://" in cleaned_name:
-        raise ValueError("App name search input is invalid.")
+        raise ValueError("App name search expects a plain app name, not a URL.")
 
     query = quote_plus(cleaned_name)
     url = f"https://itunes.apple.com/search?term={query}&country=in&entity=software&limit=10"
@@ -133,12 +133,14 @@ def _build_context(details: dict, reviews: list[dict]) -> str:
         for r in reviews if (r.get("rating") or 5) <= 2 and r.get("body")
     ]
     description = (details.get("description", "") or "")[:1500]
+    all_reviews_text = "\n".join(review_lines)
+    negative_reviews_text = "\n".join(negative_lines)
     return (
         f"App: {details.get('trackName')}\n"
         f"Developer: {details.get('artistName')}\n"
         f"Description: {description}\n"
-        f"All recent reviews:\n{chr(10).join(review_lines)}\n\n"
-        f"Negative reviews (1-2 star):\n{chr(10).join(negative_lines)}"
+        f"All recent reviews:\n{all_reviews_text}\n\n"
+        f"Negative reviews (1-2 star):\n{negative_reviews_text}"
     )
 
 
