@@ -1,0 +1,261 @@
+{
+  "store": "Google Play Store",
+  "input_source": "app_name",
+  "extracted_data": {
+    "store": "Google Play Store",
+    "app_id": "com.groww",
+    "app_name": "Groww",
+    "company": "Willemse France",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.groww",
+    "icon": "https://play-lh.googleusercontent.com/4jvwB4W3Cn9slxIbpoIoqIZDTnb6tDRGzGY_13IRjzfuEA5otrbk8ae75_hFCsqiWK0",
+    "genre": "Lifestyle",
+    "rating": 3.15,
+    "total_ratings": 1246,
+    "total_reviews": 6,
+    "installs": "100,000+",
+    "content_rating": "Rated for 3+",
+    "version": "Varies with device",
+    "last_updated": null,
+    "description": "Groww is the #1 application to get help in the garden : know when to sow or trim, and never forget to water a plant ever again! How does it work?\r\n\r\n- Search for your plants in our extensive database - more than 1500 vegetables, houseplants and ornementals. You can add the plants you wish to acquire or plant or sow, and Groww will tell you when it's time to get your hands in the dirt!\r\n\r\n- Groww will plan your daily tasks in the garden, with personalized advice, tailored to your needs, plants, location, the season and - if you set your location (*) - your weather conditions.\r\n\r\n- Mark tasks as done, day after day - sow, mulch, dibble, multiply from cuttings, trim and harvest. Groww will keep your agenda up to date, plan the next steps and - ding ding! - keep you posted.\r\n\r\n- A question, a problem? Need to diagnose your sick plant? Our experts answer your questions through the inapp chat.\r\n\r\nGroww is free to use.\r\n\r\n(*) : In the following countries to date : France, Belgium, Swiss, Canada, USA, UK, Germany, Austria, Australia, New-Zealand, Denmark, Spain, Italy.",
+    "reviews_count": 58,
+    "reviews": [
+      {
+        "rating": 1,
+        "body": "App is in French. During setup alone, you have to guess how they have your country input (no drop down menu) which is annoying. Also, I was hoping to be able to see specific cultivars and they only had a single base plant without any nuance. I wish someone could put together an app that had a database of all sorts of different cultivars!"
+      },
+      {
+        "rating": 1,
+        "body": "Maybe I could give a better rating but since I can't even get into the app to use it.. I can't tell. Everytime I try to log in I get an error message >>missing \"en.account_error_invalid_contract_violation \"translation] I tried to make an account, told me I already had one (never used app before), reset password with sent code...didn't work, then used google login which I never wanted to use....didn't work. Sometimes the mainscreen comes up but as soon I try to add plant, log in pops up"
+      },
+      {
+        "rating": 1,
+        "body": "Worked fine for a while. Paid for the subscription and all was good. Now the app will no longer show my plants even though it notifies me that I have \"gardening to do\". I can't mark that I have watered or cared for the plants so the notification is useless. Tried to contact customer service but have received no response. What a waste of my money."
+      },
+      {
+        "rating": 1,
+        "body": "For some reason it's in French and it won't let me change to English, even though I have it set for USA. Also, the reason I wanted this app is because I thought I could set myself reminders on when to water each of my plants, but I don't see anywhere to set a reminder. I will be removing this app for my phone for sure."
+      },
+      {
+        "rating": 1,
+        "body": "Created an account with Facebook and logged in for the first time and a notification came up on my Facebook account. The app won't let me log in and says that account is already registered. So then I tried to get an account with my email address and it said that email address is already registered. I've never used this app in my life. No matter what I do I can't create an account or login."
+      },
+      {
+        "rating": 1,
+        "body": "Couldn't find any of my plants even though they're all extremely popular house species 😂 what a shame, seemed like a nice set-up... also, I am not fluent in French enough to navigate the other 50% of this app - there's no translator option, so I will be uninstalling."
+      },
+      {
+        "rating": 1,
+        "body": "Worked first time that I used the app. Then I closed and re-opened the next day and now the 'My garden' page doesn't load at all. I've checked on Google Play and there are no updates available. Not a very good app if you can't use it for its intended purpose. Can the developer please get in touch with advice on how to resolve? I imagine that there are other people experiencing the same problem"
+      },
+      {
+        "rating": 1,
+        "body": "Was fine. It stopped loading my plants. Was instructed to reinstall. This worked for a short time and now no longer works again. On the latest reinstall it hasn't remember my details at all!"
+      },
+      {
+        "rating": 1,
+        "body": "This app had only half of the six regular houseplants I have in its database. It is cumbersome to use. And the chat feature automatically starts in French, and there was nowhere to change the language settings."
+      },
+      {
+        "rating": 1,
+        "body": "Once you subscribe, there's no option to unsubscribe. And they keep taking my money. Deleting the app doesn't help either. Beware of this app."
+      },
+      {
+        "rating": 1,
+        "body": "Hey I don't do reviews but I needed to and I'll definitely be sharing this forever because my entire province recieved an average of 75mm of rainfall and I recieved three notifications from you today telling me how dry it is. Re-read that. Yes."
+      },
+      {
+        "rating": 1,
+        "body": "clunky and hard to navigate I couldn't find many of my species. Then a notification that says \"giz us some water\"??? Nope."
+      },
+      {
+        "rating": 1,
+        "body": "Seemed like a nice app but functionally and performance are lacking. Wouldn't allow me to create account."
+      },
+      {
+        "rating": 1,
+        "body": "I keep getting an error when I try to sign up or create an account."
+      },
+      {
+        "rating": 1,
+        "body": "Remains stuck on the loading page. tried reinstalling but to no avail."
+      },
+      {
+        "rating": 1,
+        "body": "Unable to open minor account"
+      },
+      {
+        "rating": 1,
+        "body": "The features don't work properly"
+      },
+      {
+        "rating": 1,
+        "body": "this app is totally a flop for it being too slow and delaying to open"
+      },
+      {
+        "rating": 1,
+        "body": "It looks great but will not allow me to connect"
+      },
+      {
+        "rating": 1,
+        "body": "Wont go past the opening screen. a flop?"
+      },
+      {
+        "rating": 2,
+        "body": "Been using this app for a few months now and it was one of my favorite gardening apps. This new update from July changed the app completely. Not only didnt the app prompt an update, after 2 week i find out that everything i had on the acc is lost, the app isnt in english anymore, its hard to navigate now as the UI is totally different and at login it forced me to choose my location, which the system doesnt have but that wasnt an issue before."
+      },
+      {
+        "rating": 2,
+        "body": "It is a really beautiful app, but you have to have a subscription in order to actually use it full time. You get a free trial and after that you only get to choose from 50 different plants if you don't subscribe."
+      },
+      {
+        "rating": 2,
+        "body": "The English would really need some proofreading, and the app keeps crashing when I try to look up the \"Ceanothe victoria\""
+      },
+      {
+        "rating": 2,
+        "body": "Its slow and doesn't have many plants that i am looking for"
+      },
+      {
+        "rating": 2,
+        "body": "The first plant I looked up wasn't in the application."
+      },
+      {
+        "rating": 2,
+        "body": "not satisfied"
+      },
+      {
+        "rating": 3,
+        "body": "Some weird english errors. No way to log that you've actually sown the seeds. Can't find all plant varieties. But...it DOES give a very good oversight of your plants and when to take action (sowing, planting etc) and has pictures of many plants. Can lag a bit after you hit a button, but a useful app with potential"
+      },
+      {
+        "rating": 3,
+        "body": "Usually works fine but lately I can't access my garden, just stuck loading"
+      },
+      {
+        "rating": 3,
+        "body": "Bonjour Ludovic, Merci pour votre retour rapide et le déblocage, 1 étoile en plus ! En essayant l'app, elle a crashé plusieurs fois. 1 fois dont je me souviens particulièrement est après avoir ajouté mes plantes, je suis allé sur la page principale, Aujourd'hui -> j'ai cliqué sur ce que j'ai deviné être un bouton valider (checkmark vert) et l'app à crashée :( Autre point, l'app n'est pas disponible en version thème sombre :( Autre remarque, j'ai mis des tomates semée, et des radis semés, et apparement, il n'est pas à prévoir de les récolter ? ni de les rempoter ? Dernière chose, j'ai vu qu'il y avait des code promo possible, où peut on s'en procurer ? Je suis dev Android, si vous avez besoin de debug, vous pouvez me demander de tester des trucs si vous voulez ;)"
+      },
+      {
+        "rating": 3,
+        "body": "Seems to work really well for identification.. but would be really handy if there was an English translation! 😀 In fact that, happy to help with the translation!"
+      },
+      {
+        "rating": 3,
+        "body": "✋✋"
+      },
+      {
+        "rating": 4,
+        "body": "I love this app because it is so easy to use and track when you water your plants etc. However, I've been having some trouble to attach my own photos to my plants though and this makes it awkward for me to see what plant is what visually. The photos will be off from what I am taking and will be the top corner and not the actual square the plants are meant to be in (I don't know how to explain it). It does this if I upload photos too. I love the app lots but would love if this could be resolved"
+      },
+      {
+        "rating": 4,
+        "body": "Love this app for helping me keep track of my garden. It's easy to use and has great pictures. I love the encyclopedia option with info on the plant and how to grow/when to harvest. CHANGES NEEDED PLEASE: the sort order of my plants, measurements to inches and temperatures to Farenheit."
+      },
+      {
+        "rating": 4,
+        "body": "Hi there! This is a very useful app. I have one problem: I can't choose my city & country, because they are not on the list. I am from Bucharest, Romania. Can you help with that?"
+      },
+      {
+        "rating": 4,
+        "body": "good ideas and location"
+      },
+      {
+        "rating": 4,
+        "body": "give a more points of this app please"
+      },
+      {
+        "rating": 4,
+        "body": "vraiment super appli ! pour moi qui n'ai aucune mémoire c'est génial. j'apprécierais vraiment de pouvoir changer les photos de mes plantes par contre, et pourquoi pas avoir un historique pour en suivre l'évolution visuellement !"
+      },
+      {
+        "rating": 4,
+        "body": "Je ne trouve pas comment tagger une photo et en ajouter plusieurs sur une plante... J'ai déjà ajouté plusieurs photos sur une plante mais une seule n'est visible sur la plante..."
+      },
+      {
+        "rating": 4,
+        "body": "👌👌"
+      },
+      {
+        "rating": 5,
+        "body": "This is a very handy little app. I really like having a single dedicated place to go to for plant info, and I like the ability to save and keep track of plants in my garden. It has a rather charming little glitch where all the notifications appear in French (the main app is still in english), but since I read some French this is not a problem and i look forward to seeing them every day.I wish it had more ornamental plants in its database, but this is a very good start."
+      },
+      {
+        "rating": 5,
+        "body": "Great idea for an app. I truly hope they continue to work on and improve it for decades to come, because I'll definitely keep using it. This app is incredibly useful! I hope they add support for people with weekend homes, to separate the two locations."
+      },
+      {
+        "rating": 5,
+        "body": "Good gardening app you can use to keep track of your plants :) Can subscribe for more features but I've been fine with the free version!"
+      },
+      {
+        "rating": 5,
+        "body": "Update: After trying many other apps, I've come back to this one. It truly does everything I need & more. Does need work expanding the library, but it is constantly growing & I'm happier than ever! (Note: not all settings are on English - needs work) Thanks, I love it! ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆ Initial: Great idea and lots of potential... plant library needs expanding. I know they are working on it but I need more right now. I will revisit in the near future but not for me right now."
+      },
+      {
+        "rating": 5,
+        "body": "This is a beautiful and functional app. my first couple hours with it were great. I almost bought the paid version simply because of the number of plants it has catalogued. However, the same day, multiple crashes, and now won't even open. I sent feedback, and hopefully it will begin to work. This app has so so so much potential. I would love to be able to add different spaces like garden beds, greenhouses, or other types of cultivation. Overall, great work. I'll update my Stars soon. *Update! I am really in love with this app! All this information and guidance is incredibly useful in planning my allotment garden and planning for the future. I'm still not sure about how the projects work, or what other features the app has that I am not using well. I am having a blast with this thing. Quick"
+      },
+      {
+        "rating": 5,
+        "body": "Awesome! Very helpful and knowledgeable of plant care."
+      },
+      {
+        "rating": 5,
+        "body": "i think this plant is very usefull to at our home. thanks to upload it . this is use to venger. i think this is very good .i like it.😊😊"
+      },
+      {
+        "rating": 5,
+        "body": "Very useful and easy to use. love it!"
+      },
+      {
+        "rating": 5,
+        "body": "Really really good and so helpful"
+      },
+      {
+        "rating": 5,
+        "body": "Better"
+      },
+      {
+        "rating": 5,
+        "body": "C'est super, mes plantes grandissent très bien ❤️"
+      },
+      {
+        "rating": 5,
+        "body": "excellent"
+      },
+      {
+        "rating": 5,
+        "body": "J'adore cette application, super pratique quand on a beaucoup d'arbustes, fleurs, à gérer ! parfait !"
+      },
+      {
+        "rating": 5,
+        "body": "C'est une application géniale ! Un peu dommage qu'elle ne marche pas avec les champignons par contre^^"
+      },
+      {
+        "rating": 5,
+        "body": "Très bonne appli, ainsi que les articles qui vont avec. J'attends les mises à jours suivantes avec impatience !"
+      },
+      {
+        "rating": 5,
+        "body": "Formidable!!!"
+      },
+      {
+        "rating": 5,
+        "body": "Very good"
+      },
+      {
+        "rating": 5,
+        "body": "Loved it"
+      },
+      {
+        "rating": 5,
+        "body": "Nice"
+      }
+    ]
+  },
+  "analysis": {},
+  "analysis_status": "failed",
+  "analysis_error": "Analysis returned empty result",
+  "extracted_at": "2026-04-20T14:43:15.838861",
+  "analyzed_at": null
+}

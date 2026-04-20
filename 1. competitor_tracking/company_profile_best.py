@@ -25,9 +25,10 @@ class GeminiCompanyResearcher:
         self.client = genai.Client(api_key=self.api_key)
         # self.model = "gemini-2.0-flash-lite"
         # self.model = "gemini-flash-latest"
-        # self.model = "gemini-2.5-flash-lite"
-        self.model = "gemini-2.5-flash"
-        # self.model = "gemini-flash-latest"
+        self.model = "gemini-2.5-flash-lite"
+        # self.model = "gemini-2.5-flash" # works pretty good
+        # self.model = "gemini-2.0-flash"
+        # self.model = "gemini-3-flash-preview"
 
         # Updated schema with detailed analysis objects for critical categories
         self.json_schema_instruction = """
@@ -53,7 +54,7 @@ class GeminiCompanyResearcher:
             "youtube_official_channel": {"type": "string", "description": "MANDATORY: 1. Find the YouTube icon link on the official domain. 2. If not found, search for the official channel with the 'Verified' badge. 3. Validate by checking if the channel links back to the company domain. Return 'null' if not found."},
             "year_founded": {"type": "string", "description": "With location (city, country)"},
             "names_of_founders": {"type": "array", "items": {"type": "string"}},
-            "c-suite_officer": {"type": "array", "items": {"type": "string"}, description": "With proper description, minimum 5"},
+            "c-suite_officer": {"type": "array", "items": {"type": "string"}, "description": "With proper description, minimum 5"},
             "exact_hq_location": {"type": "string"},
             "locations_operating_in": {"type": "array", "items": {"type": "string"}},
             "industry_and_segment": {"type": "string"},
@@ -69,10 +70,7 @@ class GeminiCompanyResearcher:
                 "type": "object",
                 "properties": {
                   "name": {"type": "string"},
-                  "domain": {"type": "string"},
-                  "revenue": {"type": "string"},
-                  "year_founded": {"type": "string"},
-                  "hq_location": {"type": "string"}
+                  "domain": {"type": "string"}
                 },
               }
             },
@@ -141,113 +139,42 @@ class GeminiCompanyResearcher:
         ```
         """
 
-    '''  
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-        """Runs the research with Google Search, Thinking, and returns parsed JSON."""
+        """Runs research with grounding and returns ONLY JSON output."""
 
-        # 1. Enable both Grounding and URL Context tools
         tools = [
             types.Tool(google_search=types.GoogleSearch()),
-            types.Tool(url_context=types.UrlContext())
+            types.Tool(url_context=types.UrlContext()),
         ]
 
         domain_context = f" (Official Domain: {domain})" if domain else ""
 
-        # 2. Add a strict Research Protocol to the prompt
+        # CRITICAL: Add explicit instruction to output ONLY JSON
         prompt = (
             f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"CRITICAL VERIFICATION RULES:\n"
-            f"1. ONLY cite information from the company's official domain ({domain})\n"
-            f"2. Use Google Search to find current, verified sources (prioritize official pages)\n"
-            f"3. Use URL Context to fetch and validate content from specific URLs before including\n"
-            f"4. For each claim, specify the exact URL source and date accessed\n"
-            f"5. If you cannot verify a claim, mark it as 'Unable to verify' - DO NOT FABRICATE\n"
-            f"6. Discard any links older than 2 years unless they are historical milestones\n"
-            f"7. Cross-reference multiple sources for critical claims\n"
+            f"\n\nCRITICAL INSTRUCTIONS:\n"
+            f"1. ONLY output a valid JSON object. NO text before or after.\n"
+            f"2. Do NOT include any markdown, explanations, or reasoning.\n"
+            f"3. Do NOT use code fences (```json or ```).\n"
+            f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
+            f"5. Use Google Search to find verified sources.\n"
+            f"6. Use URL Context to fetch and validate each URL before citing.\n"
+            f"7. Discard outdated links (>2 years old unless historical).\n"
+            f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
+            f"9. Include exact URLs and access dates as proof.\n"
             f"\n{self.json_schema_instruction}"
         )
 
-        # 3. Apply your Thinking Config and force Native JSON output
-        # config = types.GenerateContentConfig(
-        #     tools=tools,
-        #     thinking_config=types.ThinkingConfig(
-        #         thinking_level="HIGH"
-        #     ),
-        #     temperature=0.2  # Lower temperature reduces creative hallucinations
-        #     # response_mime_type="application/json"  # Forces the output to be pure JSON
-        # )
-
         config = types.GenerateContentConfig(
             tools=tools,
-            thinking_config=types.ThinkingConfig(
-                thinking_level="HIGH",  # ← Forces verification logic
-            ),
-        )
-
-        try:
-            print(
-                f"Searching and analyzing data for '{company_query}'... (This may take longer due to HIGH thinking level)")
-            # response = self.client.models.generate_content(
-            #     model=self.model,
-            #     contents=prompt,
-            #     config=config,
-            # )
-
-            for chunk in self.client.models.generate_content_stream(
-                    model=self.model,
-                    contents=prompt,
-                    config=config,
-            ):
-                if chunk.text:
-                    print(chunk.text, end="")
-                    text = chunk.text
-                    if text is None:
-                        raise ValueError("API returned no text response")
-
-            return json.loads(text.strip())
-
-        except Exception as e:
-            return {"error": f"Research failed: {str(e)}", "raw_response": locals().get('text', 'No response')}
-    '''
-
-    def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-        """Runs research with grounding, thinking mode, and URL verification."""
-
-        # ✅ Add BOTH tools for grounding
-        tools = [
-            types.Tool(google_search=types.GoogleSearch()),
-            types.Tool(url_context=types.UrlContext()),  # NEW
-        ]
-
-        domain_context = f" (Official Domain: {domain})" if domain else ""
-        prompt = (
-            f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"\n\nCRITICAL VERIFICATION RULES:\n"
-            f"1. ONLY cite information from verified, official sources\n"
-            f"2. Use Google Search to find current links\n"
-            f"3. Use URL Context to fetch and validate each URL before citing\n"
-            f"4. Discard outdated links (>2 years old unless historical)\n"
-            f"5. If unverifiable, mark as 'Unable to verify' - NEVER fabricate\n"
-            f"6. Include exact URLs and access dates as proof\n"
-            f"\n{self.json_schema_instruction}"
-        )
-
-        # ✅ Add thinking mode and stream config
-        config = types.GenerateContentConfig(
-            tools=tools,
-            # thinking_config=types.ThinkingConfig(
-            #     thinking_level="HIGH",  # Forces verification reasoning
-            # ),
-            thinking_config=types.ThinkingConfig(
-                thinking_budget=8192,
-            ),
+            # REMOVE thinking_config to avoid intermediate reasoning output
         )
 
         try:
             print(f"Researching '{company_query}' with verification...\n")
             full_text = ""
 
-            # ✅ Use streaming instead
+            # Use streaming if you want, but thinking mode causes the issue
             for chunk in self.client.models.generate_content_stream(
                     model=self.model,
                     contents=prompt,
@@ -255,11 +182,10 @@ class GeminiCompanyResearcher:
             ):
                 if chunk.text:
                     full_text += chunk.text
-                    print(chunk.text, end="", flush=True)
 
             text = full_text.strip()
 
-            # Extract JSON from markdown
+            # Simple JSON extraction
             if "```json" in text:
                 json_str = text.split("```json")[1].split("```")[0].strip()
             elif "```" in text:

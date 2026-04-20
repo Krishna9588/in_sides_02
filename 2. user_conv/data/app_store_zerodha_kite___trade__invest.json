@@ -1,0 +1,627 @@
+{
+  "store": "Apple App Store",
+  "input_source": "app_name",
+  "extracted_data": {
+    "store": "Apple App Store",
+    "app_id": "1449453802",
+    "app_name": "Zerodha Kite - Trade & Invest",
+    "company": "Zerodha Broking Limited",
+    "app_store_url": "https://apps.apple.com/in/app/zerodha-kite-trade-invest/id1449453802?uo=4",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/db/40/fedb408e-8acb-4c77-080a-26b9f4add067/KiteAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "genre": "Finance",
+    "rating": 4.31,
+    "total_ratings": 8821,
+    "price": "Free",
+    "version": "3.11.5",
+    "released": "2019-06-30T00:35:56Z",
+    "description": "Zerodha Kite is our flagship trading app for the share market. We serve over 1.6 crore customers across our platform, with active traders placing 2+ crore orders every day.\n\nInvest in everything\n\n• All stocks on NSE and BSE stock exchanges - trade NSE stock and BSE stock securities.\n• Equity shares, government bonds, T-bills, SDLs, and Sovereign Gold Bonds.\n• Apply for IPO, buybacks, rights issues, and OFS - IPOs with instant application facility.\n• Build wealth through systematic share trading and delivery-based investing.\n\nAccount and Finance Tools\n\n• Open demat account integrated with CDSL depositories for share holding.\n• Track and analyze your portfolio with detailed analytics and market trading insights.\n• Share trading with instant pledge facility for additional margin - pledge shares for leverage.\n• Financial reports and statements for all investments - track charges, profits, and performance.\n• Gift shares, ETFs, and bonds to your loved ones from your demat account.\n\nWhy Kite?\n\n• Zero brokerage delivery investments in stocks, bonds, ETFs, IPOs, government bonds, and gold bonds (statutory charges applicable).\n• Advanced trading tools including option chain, charting, F&O analytics, and investment research.\n• Comprehensive tax-ready reports to track your portfolio and file taxes easily with complete financial statements.\n• Free access to Zerodha's ecosystem products like Sensibull, Tijori, Streak, and Quicko for trading and investing.\n• No gimmicks, spam, or annoying push notifications.\n\nTrade in Stock Market\n\n• Trade futures and options (F&O) like Nifty, Sensex, FinNifty, BankNifty on NSE and BSE exchanges.\n• Intraday trading with advanced charting tools and real-time market live data for stock trading.\n• Currency derivatives trading: Futures on USDINR, EURINR, JPYINR and GBPINR pairs, with options primarily available on USDINR.\n• Option Chain with real-time option prices, IV, OI and OI change for option buying and option trading.\n• Margin Trading Facility (MTF) to buy equity shares with leverage up to 5x for margin trading.\n• Commodities derivatives trading on MCX including crude oil, gold, silver and more commodity contracts.\n\nAll tools you need to trade and invest\n\n• Basket orders to place multiple trades across securities with real-time margin requirements for stock trading.\n• Alerts for price movements on stocks, Nifty 50, and other securities.\n• GTT orders for long-term positions up to one year - for investors who buy and hold equity.\n• Option trading with iceberg orders to reduce impact costs in derivatives and futures options trading.\n• Create SIPs on stocks and ETFs for systematic investing - start investing with as little as ₹500.\n• Access NSE and  BSE markets across intraday, delivery, derivatives and FNO segments for market trading.\n• Online trading with instant order execution across stock exchanges and segments.\n\nZerodha Universe products\n\n• Sensibull for F&O option trading and derivatives analysis with advanced tools.\n• Tijori for fundamental research and stock analysis.\n• Streak for backtesting trading strategies.\n• smallcase for thematic investing in stock baskets - invest in ideas, not just stocks.\n• Quicko for tax filing - file taxes with integrated financial data.\n\nShare market app with complete NSE stock, BSE stock and commodities access. Investors can invest, trade and manage their demat account. Whether you're into intraday trading, long-term investing, or futures options trading, Zerodha provides tools for stock market participation. Start your investment journey with Zerodha for online trading and investing.\n\nZerodha Broking Ltd. SEBI Registration no.: INZ000031633 Broker code: NSE 13906 | BSE: 6498 | MCX: 56550",
+    "reviews_count": 150,
+    "reviews": [
+      {
+        "rating": 3,
+        "body": "Not able to enable DDPI"
+      },
+      {
+        "rating": 1,
+        "body": "This apps are fraud in India they manipulate the prices and make retailers loss don’t use better don’t trade in Indian market"
+      },
+      {
+        "rating": 2,
+        "body": "in holdings i need option to select all . i have 1 bad fund which i need to exclude and see profit for that i have to manually select each stock. if select all was available and i would exclude one stock it would be easier"
+      },
+      {
+        "rating": 1,
+        "body": "Hi Zerodha Team, It would be extremely helpful if Kite could support trailing stop loss and trailing target functionality directly within regular order placement. Currently, users have to manually modify orders, which becomes difficult during fast market movements. Suggested features: - Trailing Stop Loss based on points or percentage - Trailing Target (profit lock-in as price moves favorably) - Ability to set both SL and Target together with trailing option - Applicable for intraday as well as delivery orders - Optional toggle inside bracket / GTT / regular orders This feature would significantly improve risk management and reduce the need for constant monitoring, especially for active traders. Many modern trading platforms already provide trailing exits, and having this in Kite would mak"
+      },
+      {
+        "rating": 5,
+        "body": "The beat app for investing and trading"
+      },
+      {
+        "rating": 1,
+        "body": "Why the hell are all my saved chart indicators, templates and drawing deleted!! Never using Zerodha charts again!!"
+      },
+      {
+        "rating": 5,
+        "body": "Aap SLBM with cdsl TPin de.. dushro s slag"
+      },
+      {
+        "rating": 1,
+        "body": "Only trailing is missing"
+      },
+      {
+        "rating": 1,
+        "body": "No one click buy sell exit. No Trade from chart feature. Zerodha kite is a Stone Age app"
+      },
+      {
+        "rating": 4,
+        "body": "I have to use in public places many times so if I have scheduled that is in off market hours Privacy function from settings turn on automatically and goes off vice versa would be great help. I know it’s small but value adding function for people like me."
+      },
+      {
+        "rating": 2,
+        "body": "Console data with Family Data is out of sync with more than a day And needs lots of reports and improvements in the data points"
+      },
+      {
+        "rating": 5,
+        "body": "I would really love the introduction of foreign exchanges and purchasing of foreign stocks across different domains. Eagerly waiting for the feature."
+      },
+      {
+        "rating": 1,
+        "body": "If ivtrade in future Your Zerodha Terminal Chart and Trading view chart price are not matching in live market this is the serious concern and raising too many doubts about SL hunting and somthing more fishy.."
+      },
+      {
+        "rating": 3,
+        "body": "Hi Team, I would like to request a couple of improvements in the Stop Loss (SL) feature: 1. When updating the trigger price in an SL order, the limit price should automatically adjust. For example, if I set the trigger price to 150, the limit price should auto-update to 149.9. This will help reduce manual effort and save time. 2. Currently, if there is an active SL order, I am unable to exit my position directly. Please remove this dependency and allow users to exit positions anytime. Upon exiting, the related SL order should be automatically cancelled. This functionality is already available in Angel One and would greatly improve the trading experience on your platform. Thanks for considering this request."
+      },
+      {
+        "rating": 1,
+        "body": "Im a forty one year old man with a decent portfolio of about 50 lacs. However I find this app is very suspect. Sometimes orders don’t go through. Sometimes prices dip immediately by 1% upon purchasing. I think this is not a genuine app. Today I placed an order and it’s showing orders open and not executed. Means I’ve suffered a potential profit loss of about 20k to 30k … this is bizarre how this is so awful and no one ever talks of it."
+      },
+      {
+        "rating": 2,
+        "body": "There no app widget for iPhone where in latest iOS version and trend all app have there own widget small, museum, large. But there is no widget for Zerodha. It also shown today buying stock next day in portfolio where in other app like Angel one stocks shown in portfolio at after in second after buying"
+      },
+      {
+        "rating": 5,
+        "body": "Most Reliable, Simple , and No Nonsense Trading app ever in India. Butter smooth UI and Faster Execution."
+      },
+      {
+        "rating": 1,
+        "body": "I only use this app because I trade a lot and paying AMC on zerodha comes out to be lower overall per year than paying per trade on groww. But god, this app is so frustrating. The UI is not user friendly at all, and everything leads to a redirect to browser. Basic information isn’t displayed in orderly fashion, and basic features like history of cancelled orders are missing. If you have been using groww, using zerodha is like downgrading from an Audi to a kia. The QoL and the whole ecosystem is just worlds apart. The day groww implements an AmC option for frequent traders is the day I will dump zerodha. Even now I only use zerodha to book the trade, all the actual R&D is done on groww before hand and all my MF are on groww too. This company is so pretentious with all its “honest” marketing"
+      },
+      {
+        "rating": 1,
+        "body": "Issue"
+      },
+      {
+        "rating": 1,
+        "body": "Worst update till now, precious UI was user friendly compared to current one."
+      },
+      {
+        "rating": 2,
+        "body": "Why the App is charging maintenance fee and other transaction charges. Then opening new primary account also chargeable. Once upon a time Kite used Goto app for everyone. Now I feel it is useless.!"
+      },
+      {
+        "rating": 5,
+        "body": "Best for trading and investing no extra mess and notifications like other app"
+      },
+      {
+        "rating": 1,
+        "body": "The UI is so bad that there can’t be any excuse for it. It is so slow, the process of cancelling and placing every stop loss manually, the constant insufficient funds just because you forgot to cancel a stop loss order, inability to sell due to insufficient funds since your money is locked in the stop loss is just so frustrating. I’ve used other brokers as well, never had to face this. When your money is at line, these things really cannot be excused. Also, the search bar not showing the stock just because you typed an alphabet incorrectly. It really costs a lot In a situation where speed is money"
+      },
+      {
+        "rating": 1,
+        "body": "Make the chart look like ICIC direct"
+      },
+      {
+        "rating": 1,
+        "body": "Hangs crashed many times"
+      },
+      {
+        "rating": 1,
+        "body": "Quarterly maintenance charges"
+      },
+      {
+        "rating": 4,
+        "body": "News section is totally irrelevant, it doesn’t show any updates about the stock. This platform can be integrated with moneycontrol which has every deep insight of the said company."
+      },
+      {
+        "rating": 1,
+        "body": "1) secondary account is tough to use. it goes to a outside site & its tough to understand even via support & support video. pls make process easy inside app itself. or maybe have a tpin types to do this via otp but inside app 2) we need option to create screener for free or have a basics of free screener like 52 week high / low, Ath Atl etc"
+      },
+      {
+        "rating": 1,
+        "body": "Upper circuit and lower circuit not showing whole day, what is done recently? After delete and install same issue. I am waiting for updates whole day and nothing to see"
+      },
+      {
+        "rating": 5,
+        "body": "I am speaking to the person who is reading this !!!!! This is the official abd OG app for stocks you can trust it I am using Zerodha services since 2012 buttery smooth experience For matter of Financial app I trust Zerodha completely ❤️‍🔥"
+      },
+      {
+        "rating": 1,
+        "body": "Worst experience ever! I’ve open an demat account recently on this app and after trying to login, it shows to enter a captcha and keep trying with correct captcha it keep showing wrong captcha!"
+      },
+      {
+        "rating": 1,
+        "body": "GTT orders are not getting placed even though conditions met"
+      },
+      {
+        "rating": 1,
+        "body": "There are lags and the data is really slow to load. Do not recommend at all."
+      },
+      {
+        "rating": 3,
+        "body": "why there is no drag and place SL Target selector, every other broker have it,its so confusing and annoying to place it currently"
+      },
+      {
+        "rating": 1,
+        "body": "It asked 1 rupee to verify I tried 4-5 times money deducted but didn’t get verification"
+      },
+      {
+        "rating": 3,
+        "body": "Old UI"
+      },
+      {
+        "rating": 1,
+        "body": "Worst App Zero rating from me"
+      },
+      {
+        "rating": 5,
+        "body": "This is most awaited enhancement by Zerodha to make all major Indices along with their stocks & ETFs available in Kite. I am waiting for this improvement since last 5 years. Much Appreciated. Thanks!"
+      },
+      {
+        "rating": 1,
+        "body": "Can’t trust the app. It’s 3rd time in last 10 days that i can’t login and face connection timeout. Market opens up but i am struggling downloading and redownloading the app hoping it would work."
+      },
+      {
+        "rating": 2,
+        "body": "It is so tough to navigate and change user settings"
+      },
+      {
+        "rating": 1,
+        "body": "My Silver holding all of a sudden become 1/10. There is no customer care to talk to. If the executives of Zerodha are reading it pls look into"
+      },
+      {
+        "rating": 3,
+        "body": "When the order got placed notification sound doesn't paly in Lastest version, new group button on home screen watchlist affect ux it take much space, after editing watchlist and click on save doesnt route back to home screen, previous version it worked, on lastest version this doesn't work"
+      },
+      {
+        "rating": 1,
+        "body": "GTT sl always fails in Zerodha useless app"
+      },
+      {
+        "rating": 1,
+        "body": "After update to 3.11.2 I am facing issue withwatch list. Half portion of two watch list appears in display."
+      },
+      {
+        "rating": 2,
+        "body": "Good and clean UI. However in latest update few glitches observed especially when we exit from chart in landscape mode. Need to fix it."
+      },
+      {
+        "rating": 3,
+        "body": "The sound notifications on the IOS app despite everything being enabled just doesn’t work for kite but used to do earlier. Tried reinstalling but of no avail. Something is wrong and it’s a pain when i can’t hear key notifications as and when they happen"
+      },
+      {
+        "rating": 5,
+        "body": "Dear app designer, I request you to make a separate button for etf holdings in holding section, Thanks in advance"
+      },
+      {
+        "rating": 1,
+        "body": "This good for nothing app is showing wrong data and I have lost money due to this glitch. I have send them video evidence and they have not yet replied. Now they read suggesting to use kite Web application"
+      },
+      {
+        "rating": 1,
+        "body": "Charts won’t open on time and orders also due to this intraday traders can’t trade properly"
+      },
+      {
+        "rating": 2,
+        "body": "Dear Team, In family holdings tab on website as well as application , we need ay price change (Points/Rupees) and day change(%) so we can get an idea of how much share has increased or decreased, single LTP isn't enough because we just can't see if share has increased on decreased on that day and also by how much percentage. If possible please do the needful. It will help us a lot . By this we don't have to go back and search every share again to see its day's growth."
+      },
+      {
+        "rating": 3,
+        "body": "It’s difficult to Set Entry and SL and Target Separately, if we have the option to Set all of these above while buying itself it would be better and save the time and it will be clear view"
+      },
+      {
+        "rating": 3,
+        "body": "Adding more than 100 instruments in watchlist still unavailable in kite app IOS."
+      },
+      {
+        "rating": 1,
+        "body": "At least improve your account signup process. I am trying to create an account based on my friend’s suggestion, but every time during UPI verification, ₹1 gets deducted and I am not redirected back to the app. Because of this, I am unable to proceed further. This has happened to me approximately 5–6 times"
+      },
+      {
+        "rating": 1,
+        "body": "remove grouping in watchlist ,it’s really bad, can’t move stocks up/down properly, it’s lagging"
+      },
+      {
+        "rating": 1,
+        "body": "Not responding at all Always lag from customer support team. Not advancing tool. Glitch on volatile market. Pause so many times during market hours. Not executed rapidly 😢😢😢"
+      },
+      {
+        "rating": 4,
+        "body": "There is a bug in the recent builds. Stock/Options prices are not updating continuously in watchlist. Sometimes you have to tap on the option to load the latest price"
+      },
+      {
+        "rating": 1,
+        "body": "The Interface is soo bad compared to Groww, doing trades sometimes you are mot able to sell one, the balance shows incorrect in funds. Worst app ever to trade Please change your interface if you want to exist or you will soon die."
+      },
+      {
+        "rating": 4,
+        "body": "I use TradingView to view the charts and most of the time I hope that I can directly buy for sale from the TradingView app. Hope the partnership will be beneficial for both Zerodha and its customer. again, I am seriously requesting."
+      },
+      {
+        "rating": 1,
+        "body": "Charging annually is okay but the amount is absolutely outrageous.. Very very disappointed"
+      },
+      {
+        "rating": 1,
+        "body": "After the latest update prices in live market are updated we have refresh the page prices are getting stuck please check"
+      },
+      {
+        "rating": 1,
+        "body": "There is a delay or the UI gets stuck. Please fix."
+      },
+      {
+        "rating": 1,
+        "body": "This recent update is just trash. Prices are not updating properly. This new watchlist is so horrible. Please reverse this & go back to basics."
+      },
+      {
+        "rating": 2,
+        "body": "Last few updates have been awful"
+      },
+      {
+        "rating": 1,
+        "body": "Recent latest update dosnt refresh prices of stock automatically poor management of the team"
+      },
+      {
+        "rating": 5,
+        "body": "*“Kindly update your app so that we can see leverage on the Margin Trading Facility (MTF) live, just as we currently see the share price. Having real-time visibility of leverage usage would be extremely helpful for investors. At present, while the app shows live prices and holdings, it does not provide a clear picture of how much leverage is being applied or available under MTF. If the app could display: • The exact leverage ratio applied to each stock (e.g., 2x, 3x, 4x),"
+      },
+      {
+        "rating": 5,
+        "body": "Cost of execute is very high in each trade kindly give some rebate for general people so we can access and easily to trade on daily basis"
+      },
+      {
+        "rating": 1,
+        "body": "This is useless and positions wont appear during evnt days or load gets increased. This happened multiple times and i couldnot able to square off positions."
+      },
+      {
+        "rating": 1,
+        "body": "I am facing problem with understand the whole FnO interface, please make user friendly"
+      },
+      {
+        "rating": 1,
+        "body": "This is one of the most frustrating apps I’ve used. The system shows an error saying “your order could not be placed” even though the order actually goes through. This can easily lead to duplicate orders or complete confusion. To make things worse, customer support is no help. Instead of acknowledging a clear technical issue, they repeatedly ask for screenshots — as if users are expected to document every second of using the app just in case it breaks. The problem is on their end, yet the burden is pushed onto customers. An app that handles orders should at the very least be reliable and transparent. This one fails at the most basic functionality. Extremely disappointing experience. Needs serious technical fixes and much better support."
+      },
+      {
+        "rating": 1,
+        "body": "Price not updating automatically, Team after recent kite update IOS mobile price not updating automatically/ refreshing, I have to do manual refresh or clear everyti E. I called aupport and reported the issue"
+      },
+      {
+        "rating": 1,
+        "body": "They will not let you exit when you’re making good profit especially during events. They brag about being lean but it’s not working. They need to go hire good people and fix the bugs and glitches they constantly face. No about of PR or youtube slop is going to save you"
+      },
+      {
+        "rating": 1,
+        "body": "Kite owner using glitch and earn money from retailers. Very soon the app will crash and entire money wipe out from your account🙏"
+      },
+      {
+        "rating": 2,
+        "body": "Resent update is not good , not able to zoom the charts properly"
+      },
+      {
+        "rating": 1,
+        "body": "not a good app for trading in volatile market"
+      },
+      {
+        "rating": 1,
+        "body": "It stops working, hangs every time whenever a big event materialize signalling Insider trading with exchanges and SEBI and everyone who is not a retail participant. Nithin Kamath deserves nothing less than a life sentence but then there’s corrupt judiciary so only solution is keep migrating to the newest broker. FYI - 18 years options experience."
+      },
+      {
+        "rating": 1,
+        "body": "When ever market open with gap up and gap down Zerodha always face error or glitch"
+      },
+      {
+        "rating": 1,
+        "body": "Got hanged when need most"
+      },
+      {
+        "rating": 1,
+        "body": "Hanged when i was about to book peak profits…and this happens everytime when there is big news in the market. Pathetic"
+      },
+      {
+        "rating": 1,
+        "body": "On 3 rd february 2026 it was a 15 minutes continuous glitch on zerodha which caused huge loss to my account."
+      },
+      {
+        "rating": 1,
+        "body": "Its been long time since there are problem with app and team is now doing anything about it"
+      },
+      {
+        "rating": 1,
+        "body": "Zero stars for Kite. Too many tech gliches on critical days like 3rd Feb 2026"
+      },
+      {
+        "rating": 1,
+        "body": "why it’s saying network error in morning critical time 9:20 am. it will impact losses."
+      },
+      {
+        "rating": 1,
+        "body": "On high-volatility days (gap up/down, events, high volumes), the app frequently gets stuck or freezes. Orders fail, positions don’t update in real time, and retries often happen too late, causing real financial losses. A trading app’s first job is reliability — especially on event days. Unfortunately, this fails exactly when it matters most."
+      },
+      {
+        "rating": 1,
+        "body": "This app will stop taking orders on the day it matters a lot.."
+      },
+      {
+        "rating": 1,
+        "body": "Can not use the application on D day"
+      },
+      {
+        "rating": 1,
+        "body": "They charge like a top tier broker, but in ground reality they can’t manage any single peak event. Not at all a credible platform, stay away folks and save money!"
+      },
+      {
+        "rating": 1,
+        "body": "App won’t work properly on Crucial days Like Budget any Trade deals Etc. And finally ending up in Loss due to technical glitch. Customer service centre won’t do anything for that. Worst service"
+      },
+      {
+        "rating": 1,
+        "body": "Whenever there is news and huge volume comes this app crashes like anything and as the user you pay the price for it."
+      },
+      {
+        "rating": 1,
+        "body": "Not getting any messages or call for deduction of charges. Charges of Rs.2 lakh have been debited without any message or call."
+      },
+      {
+        "rating": 1,
+        "body": "Frauds, whenever market gives big move their terminal reject orders, always keep their position reverse direction to loot people. Frauds leave their app, doing manupulation, sebi must ban these frauds. On top of that, The worst customer care experience with zerodha..they never pickup phone for customer queries..useless people..for account opening they will run behind you like if you don’t open account they willvdo suicide but after opening acoount they never pickup calls and no customer support will be given"
+      },
+      {
+        "rating": 1,
+        "body": "Firstly order didnt go thru amd next minute order for double qty. if you are capable of making best things be ready to maintain them too. Nikhil"
+      },
+      {
+        "rating": 1,
+        "body": "Extremely poor testing rates not getting updated, watchlist not upgraded but degraded"
+      },
+      {
+        "rating": 1,
+        "body": "Liquidity issues, app issues not loading data sometimes, also option chain and graph is not user friendly. Don’t recommend to use. Due to liquidity I lost my money, same as glitch. Better use groww app."
+      },
+      {
+        "rating": 2,
+        "body": "I am unable to see my portfolio holdings from last 3 days"
+      },
+      {
+        "rating": 4,
+        "body": "please add top gainers and loosers list on the app. You guys already have the data, why would you want the user to go out of the app? ADV/Decline ratio etc all these macro market insights are very useful for trading."
+      },
+      {
+        "rating": 1,
+        "body": "Zerodha sucks not allowing to exit still holding older price in error message"
+      },
+      {
+        "rating": 1,
+        "body": "Face a few glitches everyday and many a times have lost money because of this app. Groww is much better"
+      },
+      {
+        "rating": 1,
+        "body": "Technicals options under stocks gives white page and also doesnot list top gainers and loosers like earlier in iphone 17 pro max. Issue exists for the past 2 days."
+      },
+      {
+        "rating": 5,
+        "body": "Best app for stocks"
+      },
+      {
+        "rating": 1,
+        "body": "This application complicate to use comparative to other demat accounts app"
+      },
+      {
+        "rating": 2,
+        "body": "how can i invest? price chart is stuck"
+      },
+      {
+        "rating": 5,
+        "body": "Plz develop one single app for stocks and mutual funds both.."
+      },
+      {
+        "rating": 2,
+        "body": "From Apps Option chain option has been removed. That was handy and quick. Can you pls get it back there?"
+      },
+      {
+        "rating": 5,
+        "body": "Old option chain was simple and effective. New option chain is cluttered and confusing, making analysis slow. MTF charges are very high compared to competitors like Dhan. Zerodha is no longer trader-friendly and seems focused more on its own profit than active traders. Shifting away.”"
+      },
+      {
+        "rating": 2,
+        "body": "This Kite is good in both app and web. But the Brokerage and their charges are equivalent to that of a Full service broker, without any stock analysis or research data. Rather one could pay for a Full Service Broker and get all the essential data."
+      },
+      {
+        "rating": 4,
+        "body": "I switched from Groww as they got greedy and started charging huge brokerage for minimal trades, I buy 1-2 shares a day and cost is too much for my buying method, quarterly debits of annual fees is actually lesser so good. But I don’t do f and o so the charts that kite provide are unusable look at grows interface it’s neat and clean For fundamentals why should you open an another app just show it on the main app I am not asking you to ape Groww but make the ui simpler … I go to Groww just to check these details and buy from zerodha as 0 brokerage"
+      },
+      {
+        "rating": 4,
+        "body": "Sir option chain kyu hata di plz wapas leke ayo nhi to i switch zerodha"
+      },
+      {
+        "rating": 1,
+        "body": "I faced 40k lose with tiriggering gtt wt kind of worst I’m withdrawing n uninstalling the application don’t u too install this its not trader’s"
+      },
+      {
+        "rating": 1,
+        "body": "Most of the time I am unable to use the lines trend chart it’s getting hung unable to bring the tool box it self and nor unable to use the time frame change too left side it’s totally unable in the chart plz do check the same"
+      },
+      {
+        "rating": 5,
+        "body": "Can you please add an option YTD(Year till date) to check profit in console."
+      },
+      {
+        "rating": 3,
+        "body": "App interface support is good but have made losses because manually exited trade and forgot to cancel stop loss trade which doesnt get auto cancel once order is manually exited. This is pathetic problem"
+      },
+      {
+        "rating": 1,
+        "body": "Absolute trash, charts tools keeps lagging, no updates wth"
+      },
+      {
+        "rating": 5,
+        "body": "Smooth and seamless"
+      },
+      {
+        "rating": 1,
+        "body": "When it comes to user experience, let’s say KYC, too unnecessary wait periods, complex flows, too bad of a user experience. Totally annoyed!"
+      },
+      {
+        "rating": 4,
+        "body": "One minor suggestion, if you could change the colour of the text when we write in the add notes feature. It gives more visibility while scrolling watchlist."
+      },
+      {
+        "rating": 1,
+        "body": "I feel like all zerodha apps are kinda scam. There are hidden charges being applied on my account every month. I wanted to know it n therefore wanted to connect with the customer care. Its extremely difficult. Even after writing to them, there is no reply. I wanted to close my account but they don’t allow it. Shame on such scamming apps."
+      },
+      {
+        "rating": 5,
+        "body": "Great Interface"
+      },
+      {
+        "rating": 1,
+        "body": "Chart is not opening on iOS This issue happing now days"
+      },
+      {
+        "rating": 1,
+        "body": "When I open on my browser it lacks a lot."
+      },
+      {
+        "rating": 1,
+        "body": "Instead of giving unwanted unasked features. Start giving EXIT ON P&L to save people from loosing hefty money"
+      },
+      {
+        "rating": 1,
+        "body": "Worst app ever I have seen"
+      },
+      {
+        "rating": 3,
+        "body": "If we add a stock to current basket and delete,all other stocks too got deleted after saving"
+      },
+      {
+        "rating": 2,
+        "body": "It is really good application and i love it but i want some updates: - we want one commodity section just like equity we search wouldn’t be better if there is and easy to search and go to? refer grow application in home page equity and commodity? - why everyday it goes to schedule maintenance? if something is updating then its good i hope you guys have test application right please do changes there first then in production application because people who invest in commodities may invest at night also right every time it shows it is in maintenance. im using this application for past an year im happy but just some tweeks we want it will make user friendly application i hope this changes will come to the application."
+      },
+      {
+        "rating": 5,
+        "body": "Fast and neat"
+      },
+      {
+        "rating": 1,
+        "body": "Alerts created not COMMING FREQUENTLY …. It sometimes automatically disabled …. Very poor"
+      },
+      {
+        "rating": 4,
+        "body": "Zerodha has sonmany touch issues when i open it in my ipad especially in chart view. I am not able to click on any thing such as line or anything in chart view. Plese fix it"
+      },
+      {
+        "rating": 5,
+        "body": "The best platform for trading and investment"
+      },
+      {
+        "rating": 1,
+        "body": "If I use app for 10-15mins and minimise it later when I come back to app time frame switching will stop working, I can not open edit tool from left side blue shortcut. Even if i close app and reopen still sometimes screen will found frozen, not responsive to any touch. Device - 14 pro max with latest update app + OS."
+      },
+      {
+        "rating": 5,
+        "body": "Best app in all terms ❤️"
+      },
+      {
+        "rating": 1,
+        "body": "App chal hi ni rhi h aapki dhang se na chart open ho rhe h na after market app Chl rhi h problem Kya h account bnd kr de?"
+      },
+      {
+        "rating": 5,
+        "body": "Zerodha trading app एक बेहतरीन और भरोसेमंद प्लेटफॉर्म है। इसका interface बहुत user-friendly है, जिससे नए और पुराने दोनों तरह के users आसानी से trading कर सकते हैं। App fast है, charts clear हैं और order place करना काफी simple है। सबसे बड़ी खासियत इसकी कम brokerage है, जिससे trading cost काफी कम हो जाती है और profit पर ज्यादा असर नहीं पड़ता। Equity delivery पर zero brokerage और intraday में fixed charge होना इसे बाकी apps से अलग बनाता है। इसके साथ ही Kite app की stability, real-time data और smooth performance trading experience को और बेहतर बनाती है। Overall, Zerodha एक safe, transparent और long-term trading ke liye best app है। ⭐⭐⭐⭐⭐"
+      },
+      {
+        "rating": 1,
+        "body": "There is widget from kite , but it’s not working at all on iOS devices. Please remove if you don’t fix it"
+      },
+      {
+        "rating": 4,
+        "body": "The application submission window for SME IPOs generally closes at 4:00 PM but I was still able to Apply (though it failed after sometime). The “Apply” button should be disabled after 4pm. I hope this will be fixed."
+      },
+      {
+        "rating": 1,
+        "body": "Mismatch of stock price execution. I never expected this from zerodha but still some manipulations are happening inside. We need to be very careful. Match stocks report executions by taking screenshots."
+      },
+      {
+        "rating": 1,
+        "body": "I put a stop loss order in commodity it doesn’t exicuted and i got big loss. Don’t trust zerodha"
+      },
+      {
+        "rating": 1,
+        "body": "I’m keep getting connection time out from last 2 days. I’m using iPhone 12 mini. It’s frustrating. I’m using latest update"
+      },
+      {
+        "rating": 5,
+        "body": "It is the best platform for investing and trading.. no noise. Clear UI"
+      },
+      {
+        "rating": 3,
+        "body": "When veiwing chart on kite app. Position not visible. Grwo and many other app provides UI that shows position when one is viewing chart. So please provide that feature in kite app."
+      },
+      {
+        "rating": 5,
+        "body": "Damn slow on web and notorious for crashing on event days. Time to look elsewhere."
+      },
+      {
+        "rating": 5,
+        "body": "Very easy & secured Zerodha kite app No hassle and Clear Transaction History"
+      },
+      {
+        "rating": 1,
+        "body": "These has happened to me many times and i am not a robot jis se bohot apps ache reviews dalwa lete hai, just a real person telling you about this ch***ya broker app, iski wajah se mera pehle 2-3 baar stop loss nahi active hua and mera bohot zyaada loss hua tha or ek baar maine ek particular price pe option buy kiya thaaa par wo bhi active nahi hua or price upar jaake aake 30 rs phir niche aane pe active huaa jab mujhe buy ni karna thaaa or phir loss hote gaya or hote gaya or mere mai dum ni thaa us loss ko jhelne kaaa, phir maine call karke bola toh bolte hai yes this was actually true ki active ni hua sahi time pe or baatein ghumayi or bole ki hum apni taraf se kuch nahi kar sakte, we are sorry or is tarike se aaj mai betha huuu bas khaali khokla"
+      },
+      {
+        "rating": 1,
+        "body": "It doesn’t have any homepage or dashboard, it doesn’t show P&L on the chart of the stock, drawings on the chart not saving even after clicking save button and it’s hard to see any stocks statistics. Please fix all these team Zerodha. Thank you"
+      },
+      {
+        "rating": 1,
+        "body": "I didn’t recive my deposit money in zerodha account."
+      },
+      {
+        "rating": 1,
+        "body": "No Refresh Button and Close button available in full screen while using in Tablet. And data’s are not showing correct data gets changed after the refresh, Unable to change the charts one index to another without closing the app. Everytime I have to close the app and open again for changing the charts and refreshing the charts."
+      },
+      {
+        "rating": 2,
+        "body": "Unable to view Company Details on IPO Bid page. Details are not loading since some days"
+      },
+      {
+        "rating": 1,
+        "body": "Far behind the other platforms Can’t trade from chart in kite app, no option chain on chart"
+      },
+      {
+        "rating": 2,
+        "body": "2 star"
+      },
+      {
+        "rating": 4,
+        "body": "Two things should add in this app 1) Easy login to web 2) Trailing Stoploss"
+      },
+      {
+        "rating": 5,
+        "body": "If you buy a one stock for ₹100 and the price drops to ₹60, the app should show: “How many qty or how much money you need to buy to reduce your average price.” This feature should be added in the app."
+      },
+      {
+        "rating": 2,
+        "body": "whenever i search a stock or index i have to write complete name of that particular thing it's annoying you living in 2025 ..."
+      }
+    ]
+  },
+  "analysis": {},
+  "analysis_status": "failed",
+  "analysis_error": "Analysis returned empty result",
+  "extracted_at": "2026-04-20T14:55:47.649859",
+  "analyzed_at": null
+}

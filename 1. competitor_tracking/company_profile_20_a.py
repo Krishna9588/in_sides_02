@@ -25,7 +25,8 @@ class GeminiCompanyResearcher:
         self.client = genai.Client(api_key=self.api_key)
         # self.model = "gemini-2.0-flash-lite"
         # self.model = "gemini-flash-latest"
-        self.model = "gemini-2.5-flash-lite"
+        # self.model = "gemini-2.5-flash-lite"
+        self.model = "gemini-2.5-flash"
 
         # Updated schema with detailed analysis objects for critical categories
         self.json_schema_instruction = """

@@ -1,0 +1,1115 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-04-20T16:48:13.999309",
+    "extraction_time_seconds": 4.2,
+    "fields_extracted": 34,
+    "country": "us",
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 886427730,
+      "trackName": "Coinbase: Buy Crypto & Stocks",
+      "bundleId": "com.vilcsak.bitcoin2",
+      "trackViewUrl": "https://apps.apple.com/us/app/coinbase-buy-crypto-stocks/id886427730?uo=4",
+      "artistId": 588530553,
+      "artistName": "Coinbase, Inc.",
+      "artistViewUrl": "https://apps.apple.com/us/developer/coinbase-inc/id588530553?uo=4",
+      "sellerName": "Coinbase, Inc.",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "genres": [
+        "Finance",
+        "Business"
+      ],
+      "genreIds": [
+        "6015",
+        "6000"
+      ],
+      "averageUserRating": 4.68017,
+      "userRatingCount": 1792342,
+      "averageUserRatingForCurrentVersion": 4.68017,
+      "userRatingCountForCurrentVersion": 1792342,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "USD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "14.14.27",
+      "releaseNotes": "Coinbase is the easiest and most trusted place to buy, sell, and manage your digital currency. This update includes bug fixes and performance improvements.",
+      "releaseDate": "2014-06-22T05:13:36Z",
+      "currentVersionReleaseDate": "2026-04-13T16:11:08Z",
+      "description": "Coinbase is the most trusted platform to securely buy, sell, trade, stake, invest and earn - crypto, stocks, prediction markets, derivatives, and more. We’re the first publicly traded crypto exchange in the U.S. and the only crypto company listed on the S&P 500.\n\nSUPPORTED ASSETS\nBitcoin (BTC), Ethereum (ETH), XRP (XRP), Solana (SOL), USD Coin (USDC), Cardano (ADA), Polygon (MATIC), Polkadot (DOT), Tether (USDT), Dai (DAI), VeThor Token (VTHO), Pepe (PEPE), SHIBA INU (SHIB), Dogecoin (DOGE), and many other cryptocurrencies.\n\nHere’s a taste of what Coinbase offers:\n\nBUY, SELL & MANAGE CRYPTO\nCoinbase is the most trusted platform to build, manage, and track your crypto portfolio\nExplore and trade millions of crypto assets¹\nEasily set up automatic or recurring buys\nEarn rewards on stablecoins like USDC²\nStake crypto and earn rewards on cryptocurrencies like Ethereum and Cardano³\nPay with crypto: Securely and seamlessly send and receive crypto\nSeamlessly transfer crypto internationally\n\nPR",
+      "shortDescription": "",
+      "minimumOsVersion": "15.1",
+      "fileSizeBytes": 296075264,
+      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/e4/27/7ee42763-8e4c-ed18-1af3-2abc9c54ff73/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/e4/27/7ee42763-8e4c-ed18-1af3-2abc9c54ff73/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/e4/27/7ee42763-8e4c-ed18-1af3-2abc9c54ff73/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/22/e9/0822e9cf-8e3b-860f-1a01-e09086bf1873/5cbddf4e-d6fb-45fe-84d6-1fec258d1e83_ASO-5.5_-SCREEN1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/38/01/143801ff-2626-ab91-5507-4df566b053e4/da4bf06c-f8e4-40ee-9537-14146a8fe328_ASO-5.5_-SCREEN2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/17/3d/2c173d68-c06a-445d-cb1d-0ce0fcbc32ae/b67f1c60-0052-4fec-b8bf-d8ebb996dfc0_ASO-5.5_-SCREEN3_-_Varaint_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/b0/c1/c8b0c1c2-5076-a29c-2fa8-129de6995fc5/0d351845-7fb0-4990-b8d9-4f20415db513_ASO-5.5_-SCREEN4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/ac/fd/99acfdc1-e7e5-a572-f1e0-bd34698488b9/effbb44b-d3f2-482c-b62a-a7d83058904e_ASO-5.5_-SCREEN5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/e5/d9/05e5d95c-b72b-f457-858e-4889773e1679/b990aef8-4b99-4dec-8220-45068ec3fa24_ASO-5.5_-SCREEN6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/c1/be/82c1beb2-9e02-03e8-980f-635d3b67f6a5/9d02b389-ee32-41c1-adc5-088c36a1ec40_ASO-5.5_-SCREEN8.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+        "iPhone6-iPhone6",
+        "iPhone6Plus-iPhone6Plus",
+        "iPadAir2-iPadAir2",
+        "iPadAir2Cellular-iPadAir2Cellular",
+        "iPadMini3-iPadMini3",
+        "iPadMini3Cellular-iPadMini3Cellular",
+        "iPodTouchSixthGen-iPodTouchSixthGen",
+        "iPhone6s-iPhone6s",
+        "iPhone6sPlus-iPhone6sPlus",
+        "iPadMini4-iPadMini4",
+        "iPadMini4Cellular-iPadMini4Cellular",
+        "iPadPro-iPadPro",
+        "iPadProCellular-iPadProCellular",
+        "iPadPro97-iPadPro97",
+        "iPadPro97Cellular-iPadPro97Cellular",
+        "iPhoneSE-iPhoneSE",
+        "iPhone7-iPhone7",
+        "iPhone7Plus-iPhone7Plus",
+        "iPad611-iPad611",
+        "iPad612-iPad612",
+        "iPad71-iPad71",
+        "iPad72-iPad72",
+        "iPad73-iPad73",
+        "iPad74-iPad74",
+        "iPhone8-iPhone8",
+        "iPhone8Plus-iPhone8Plus",
+        "iPhoneX-iPhoneX",
+        "iPad75-iPad75",
+        "iPad76-iPad76",
+        "iPhoneXS-iPhoneXS",
+        "iPhoneXSMax-iPhoneXSMax",
+        "iPhoneXR-iPhoneXR",
+        "iPad812-iPad812",
+        "iPad834-iPad834",
+        "iPad856-iPad856",
+        "iPad878-iPad878",
+        "iPadMini5-iPadMini5",
+        "iPadMini5Cellular-iPadMini5Cellular",
+        "iPadAir3-iPadAir3",
+        "iPadAir3Cellular-iPadAir3Cellular",
+        "iPodTouchSeventhGen-iPodTouchSeventhGen",
+        "iPhone11-iPhone11",
+        "iPhone11Pro-iPhone11Pro",
+        "iPadSeventhGen-iPadSeventhGen",
+        "iPadSeventhGenCellular-iPadSeventhGenCellular",
+        "iPhone11ProMax-iPhone11ProMax",
+        "iPhoneSESecondGen-iPhoneSESecondGen",
+        "iPadProSecondGen-iPadProSecondGen",
+        "iPadProSecondGenCellular-iPadProSecondGenCellular",
+        "iPadProFourthGen-iPadProFourthGen",
+        "iPadProFourthGenCellular-iPadProFourthGenCellular",
+        "iPhone12Mini-iPhone12Mini",
+        "iPhone12-iPhone12",
+        "iPhone12Pro-iPhone12Pro",
+        "iPhone12ProMax-iPhone12ProMax",
+        "iPadAir4-iPadAir4",
+        "iPadAir4Cellular-iPadAir4Cellular",
+        "iPadEighthGen-iPadEighthGen",
+        "iPadEighthGenCellular-iPadEighthGenCellular",
+        "iPadProThirdGen-iPadProThirdGen",
+        "iPadProThirdGenCellular-iPadProThirdGenCellular",
+        "iPadProFifthGen-iPadProFifthGen",
+        "iPadProFifthGenCellular-iPadProFifthGenCellular",
+        "iPhone13Pro-iPhone13Pro",
+        "iPhone13ProMax-iPhone13ProMax",
+        "iPhone13Mini-iPhone13Mini",
+        "iPhone13-iPhone13",
+        "iPadMiniSixthGen-iPadMiniSixthGen",
+        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+        "iPadNinthGen-iPadNinthGen",
+        "iPadNinthGenCellular-iPadNinthGenCellular",
+        "iPhoneSEThirdGen-iPhoneSEThirdGen",
+        "iPadAirFifthGen-iPadAirFifthGen",
+        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+        "iPhone14-iPhone14",
+        "iPhone14Plus-iPhone14Plus",
+        "iPhone14Pro-iPhone14Pro",
+        "iPhone14ProMax-iPhone14ProMax",
+        "iPadTenthGen-iPadTenthGen",
+        "iPadTenthGenCellular-iPadTenthGenCellular",
+        "iPadPro11FourthGen-iPadPro11FourthGen",
+        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+        "iPadProSixthGen-iPadProSixthGen",
+        "iPadProSixthGenCellular-iPadProSixthGenCellular",
+        "iPhone15-iPhone15",
+        "iPhone15Plus-iPhone15Plus",
+        "iPhone15Pro-iPhone15Pro",
+        "iPhone15ProMax-iPhone15ProMax",
+        "iPadAir11M2-iPadAir11M2",
+        "iPadAir11M2Cellular-iPadAir11M2Cellular",
+        "iPadAir13M2-iPadAir13M2",
+        "iPadAir13M2Cellular-iPadAir13M2Cellular",
+        "iPadPro11M4-iPadPro11M4",
+        "iPadPro11M4Cellular-iPadPro11M4Cellular",
+        "iPadPro13M4-iPadPro13M4",
+        "iPadPro13M4Cellular-iPadPro13M4Cellular",
+        "iPhone16-iPhone16",
+        "iPhone16Plus-iPhone16Plus",
+        "iPhone16Pro-iPhone16Pro",
+        "iPhone16ProMax-iPhone16ProMax",
+        "iPadMiniA17Pro-iPadMiniA17Pro",
+        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+        "iPhone16e-iPhone16e",
+        "iPadA16-iPadA16",
+        "iPadA16Cellular-iPadA16Cellular",
+        "iPadAir11M3-iPadAir11M3",
+        "iPadAir11M3Cellular-iPadAir11M3Cellular",
+        "iPadAir13M3-iPadAir13M3",
+        "iPadAir13M3Cellular-iPadAir13M3Cellular",
+        "iPhone17Pro-iPhone17Pro",
+        "iPhone17ProMax-iPhone17ProMax",
+        "iPhone17-iPhone17",
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      ],
+      "advisoryRating": null,
+      "isGameCenterEnabled": false,
+      "kind": "software",
+      "trackCensoredName": "Coinbase: Buy Crypto & Stocks",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [
+      {
+        "id": "13973057034",
+        "author": "BillPoteat",
+        "rating": 5,
+        "title": "Coinbase",
+        "content": "Easy app to navigate.",
+        "date": "2026-04-18T18:42:05-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972864699",
+        "author": "Ta-ki Smith",
+        "rating": 5,
+        "title": "Ta-ki Smith",
+        "content": "Abundant",
+        "date": "2026-04-18T17:22:13-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972801911",
+        "author": "Gordemio 1",
+        "rating": 4,
+        "title": "Thanks",
+        "content": "Great services",
+        "date": "2026-04-18T16:55:40-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972783704",
+        "author": "Mrimond",
+        "rating": 5,
+        "title": "Must Have",
+        "content": "I love it, easy to use. Also, there’s no behind the scene scams like many other out there, you may already have.",
+        "date": "2026-04-18T16:47:49-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972771631",
+        "author": ";)’……",
+        "rating": 5,
+        "title": "Crypto",
+        "content": "Easiest to use in NY and by far more tradable tokens than any other exchanges I’ve been on 👍",
+        "date": "2026-04-18T16:42:27-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972753442",
+        "author": "Green mountain Son",
+        "rating": 4,
+        "title": "Using Coinbase",
+        "content": "Very user friendly ❤️",
+        "date": "2026-04-18T16:34:32-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972566418",
+        "author": "Charlie Marcus",
+        "rating": 5,
+        "title": "Fees are to high",
+        "content": "I was the fees would come down but I still gave a good review because the website always works please bring on the fees",
+        "date": "2026-04-18T15:11:51-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972504176",
+        "author": "Tessa02L",
+        "rating": 5,
+        "title": "Most exceedingly remarkable and extremely exceptional cryptocurrency recovery technology expertise!",
+        "content": "Please read carefully, I lost my money few weeks ago in bitcoin investment.\nI lost over $185,065 they denied my withdrawal request and also left it pending. I reached out to them and they never responded back to my emails and calls. They eventually locked me out of my account I had reach out a recovery experts at Xaintrecoveryexp@ gMailcom to help me recover all my money back. They're the best when it comes to crypto recovery. Thankfully I have gotten my money back.",
+        "date": "2026-04-18T14:44:48-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972476569",
+        "author": "troy183",
+        "rating": 5,
+        "title": "This is the place",
+        "content": "Oh yah!",
+        "date": "2026-04-18T14:32:53-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13972050158",
+        "author": "Rubetube17",
+        "rating": 1,
+        "title": "Theft at its finest",
+        "content": "This app literally steals money from you. I’ve been trying to cancel my account for the last six months and keep getting charged 4.99 even though I’ve clearly gone ahead and canceled my account. There’s no actual way to go ahead and close out your account when you have less than two dollars in your account. I’ve reached out to help support and they’ve continually told me that they cannot help. It wasn’t until I told them that I literally want off the platform and they can keep my money and delete my data, was it complete. I literally just got charged another $4.99 today and even after cancellation they still kept my money. Actually insane. Do yourself a favor and go find a completely different platform than Coinbase. It’s trash and the customer service is the worst I’ve ever experienced.",
+        "date": "2026-04-18T11:47:18-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13971637028",
+        "author": "D & D",
+        "rating": 5,
+        "title": "Easy, versatile financial tool",
+        "content": "Coinbase makes crypto easy. On top of that they make trading stocks easy. AND they have a handy prediction market. Coinbase has something for everyone and everything for me.",
+        "date": "2026-04-18T09:28:46-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13971593042",
+        "author": "XRPgod",
+        "rating": 5,
+        "title": "I love Coinbase!",
+        "content": "Coinbase is the best crypto platform on Earth. And I know because I’ve tried them all. The worst is Robinhood. Coinbase has the most experienced and courteous staff that’s available 24/7 to answer any of my questions. I wish I found out about Coinbase sooner but I’m happy now!",
+        "date": "2026-04-18T09:15:09-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13971532103",
+        "author": "buylocalbusiness",
+        "rating": 5,
+        "title": "Easy to Use",
+        "content": "I like the Coinbase interface for ease and diverse options.",
+        "date": "2026-04-18T08:56:27-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13971515364",
+        "author": "Roger23$20",
+        "rating": 5,
+        "title": "Awesome app",
+        "content": "Great interface! Easy to download and easy to use!",
+        "date": "2026-04-18T08:51:19-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13971410009",
+        "author": "Bruno_S2_Paloma",
+        "rating": 5,
+        "title": "Ótimo",
+        "content": "Ótimo app, fácil acesso e as opções aparecem no Dashboard principal e simples",
+        "date": "2026-04-18T08:19:29-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13970245815",
+        "author": "Andrew J. Simmons",
+        "rating": 5,
+        "title": "Great App",
+        "content": "Buy Crypto or Cash out Bitcoin or other crypto currency earn the rise of bitcoin to pay for fee xD.\nTransferring bitcoin from other wallets is easy as well.\n\nI really enjoy this app",
+        "date": "2026-04-18T01:20:00-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13970184650",
+        "author": "Mo and Dania",
+        "rating": 4,
+        "title": "Great app",
+        "content": "Charges too much fees",
+        "date": "2026-04-18T00:52:12-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13969623252",
+        "author": "bugger!boy",
+        "rating": 5,
+        "title": "fee are unprofessional and unpredictable",
+        "content": "As a bank Coinbase has a lot to be desired of.",
+        "date": "2026-04-17T20:31:13-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13969275817",
+        "author": "Black & Grey",
+        "rating": 5,
+        "title": "Coinbase One",
+        "content": "The best or the best of the best!",
+        "date": "2026-04-17T18:07:52-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13969013175",
+        "author": "pw1249",
+        "rating": 5,
+        "title": "Works great!",
+        "content": "No problems with crypto trading and general transactions.   Very safe and secure.",
+        "date": "2026-04-17T16:18:21-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13968902777",
+        "author": "Dixienormas4sure",
+        "rating": 5,
+        "title": "Best ever",
+        "content": "Love this app for crypto buying and trading",
+        "date": "2026-04-17T15:31:12-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13968659978",
+        "author": "Nonietteaida",
+        "rating": 5,
+        "title": "Great exchange",
+        "content": "Everything is always smooth and if you need help answers come quickly",
+        "date": "2026-04-17T13:49:01-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13968630102",
+        "author": "Buttcracka",
+        "rating": 5,
+        "title": "Great site",
+        "content": "The other sites have bad customer service. Coinbase explains why they hold the assets for 3 days.",
+        "date": "2026-04-17T13:36:57-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13968584457",
+        "author": "SkyHacker100",
+        "rating": 5,
+        "title": "Great app",
+        "content": "We need more of this service",
+        "date": "2026-04-17T13:18:41-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13968405911",
+        "author": "christian reina jr",
+        "rating": 5,
+        "title": "Best ever",
+        "content": "Super super easy to use",
+        "date": "2026-04-17T12:09:56-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13968159643",
+        "author": "BillPowSF",
+        "rating": 5,
+        "title": "Seamless App",
+        "content": "Straight to the point, great domain appearance!",
+        "date": "2026-04-17T10:39:30-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967854209",
+        "author": "b.bart33",
+        "rating": 5,
+        "title": "Brad",
+        "content": "AAA+++",
+        "date": "2026-04-17T08:55:17-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967789174",
+        "author": "Swarm-Worm",
+        "rating": 5,
+        "title": "Worm",
+        "content": "Excellent platform!",
+        "date": "2026-04-17T08:34:31-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967635999",
+        "author": "atjaguar-rize",
+        "rating": 5,
+        "title": "Sweet crypto!",
+        "content": "Easy, clear and concise trading for more than 10 years!",
+        "date": "2026-04-17T07:46:29-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967548967",
+        "author": "PAPAFREAKY",
+        "rating": 5,
+        "title": "Informed crypto investor;)",
+        "content": "Putting your money into cryptocurrency is better than ever wasting time with outdated banks!!!",
+        "date": "2026-04-17T07:19:40-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967337796",
+        "author": "bribbrifjjj",
+        "rating": 5,
+        "title": "Decent app except they support Trump",
+        "content": "Trump is ruining America sad to see Coinbase grovels to this psycho demented president. Otherwise ok app",
+        "date": "2026-04-17T06:13:50-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967334722",
+        "author": "David R Paul",
+        "rating": 5,
+        "title": "Most exceedingly remarkable and extremely exceptional cryptocurrency recovery technology expertise!",
+        "content": "Please read carefully, I lost my money few weeks ago in bitcoin investment.\nI lost over $155,065 they denied my withdrawal request and also left it pending. I reached out to them and they never responded back to my emails and calls. \nThey eventually locked me out of my account I had reach out a recovery experts at FlashSpyTech @ gMailcom to help me recover all my money back. They're the best when it comes to crypto recovery. Thankfully I have gotten my money back.",
+        "date": "2026-04-17T06:12:50-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967312610",
+        "author": "dl97ag",
+        "rating": 1,
+        "title": "BLOATWARE",
+        "content": "Seriously, pare it down. Just do it.",
+        "date": "2026-04-17T06:05:45-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967127535",
+        "author": "CNN nvchn",
+        "rating": 5,
+        "title": "Journeyman",
+        "content": "Google",
+        "date": "2026-04-17T05:04:05-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967072721",
+        "author": "Harol04",
+        "rating": 5,
+        "title": "Excelente opción",
+        "content": "La mejor opción para operaciones en trading y compra de acciones!!!",
+        "date": "2026-04-17T04:44:41-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13967035840",
+        "author": "Amateur crypto Investor",
+        "rating": 5,
+        "title": "Safe and easy",
+        "content": "Easy and safe application for managing crypto through a centralized exchange",
+        "date": "2026-04-17T04:31:20-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13966902964",
+        "author": "salem pizza store",
+        "rating": 5,
+        "title": "Easy money",
+        "content": "Easy to trade",
+        "date": "2026-04-17T03:39:52-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13966401548",
+        "author": "SealTeam633",
+        "rating": 5,
+        "title": "Very good crypto app",
+        "content": "It’s very quick in transactions. And low chance costs.",
+        "date": "2026-04-16T23:34:34-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13966238551",
+        "author": "Maria. Razo.  google",
+        "rating": 5,
+        "title": "Maria.  Perez. De. Razo",
+        "content": "517. Womack. Ln. Fallbrook. Ca. 92028.  2026",
+        "date": "2026-04-16T22:08:46-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13965888420",
+        "author": "Lamejorrr ñor 01",
+        "rating": 5,
+        "title": "Bien",
+        "content": "Lo mejor",
+        "date": "2026-04-16T19:17:29-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13965731644",
+        "author": "Dlowe4965",
+        "rating": 5,
+        "title": "Dlowe",
+        "content": "Great",
+        "date": "2026-04-16T18:09:11-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13965268457",
+        "author": "Asobuh40",
+        "rating": 5,
+        "title": "Awesome",
+        "content": "This app is awesome, definite 5 star app.",
+        "date": "2026-04-16T14:48:00-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13965219817",
+        "author": "Bingoo47",
+        "rating": 5,
+        "title": "Best",
+        "content": "Legend",
+        "date": "2026-04-16T14:27:07-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13965184230",
+        "author": "Oride60",
+        "rating": 5,
+        "title": "Idk",
+        "content": "What’s wrong with the app",
+        "date": "2026-04-16T14:12:23-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13964888214",
+        "author": "Pics yet",
+        "rating": 5,
+        "title": "Easy",
+        "content": "Easy as 3.14",
+        "date": "2026-04-16T12:14:53-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13964586440",
+        "author": "Xprodigo",
+        "rating": 5,
+        "title": "Coinbase 👌🏽",
+        "content": "I love this app💯 because it makes investing in crypto so easy. It is extremely user friendly.",
+        "date": "2026-04-16T10:22:01-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13964179991",
+        "author": "Chef smith31",
+        "rating": 5,
+        "title": "Love the stock options",
+        "content": "10/10 keep up the great work!",
+        "date": "2026-04-16T08:01:34-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13963703005",
+        "author": "JPB9FTW",
+        "rating": 1,
+        "title": "App isn’t good.",
+        "content": "It locked my account for a payment error. I try to pay it back to them but they won’t let me. They are keeping me in a loop of locking my account and making sure I can’t transfer funds to kraken, which is much better than this stupid app.",
+        "date": "2026-04-16T05:23:32-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13963541471",
+        "author": "Bekhzod 199951972",
+        "rating": 5,
+        "title": "Amazing app",
+        "content": "So easy to use",
+        "date": "2026-04-16T04:24:29-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13963449272",
+        "author": "Bd Ray Ray",
+        "rating": 5,
+        "title": "Coinbase",
+        "content": "App is awesome",
+        "date": "2026-04-16T03:47:46-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13962730850",
+        "author": "Ansuns",
+        "rating": 5,
+        "title": "Easy",
+        "content": "Easy setup and payment",
+        "date": "2026-04-15T21:36:50-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13962686259",
+        "author": "tulip12987",
+        "rating": 5,
+        "title": "Nice App!",
+        "content": "It makes buying and selling crypto very simple!",
+        "date": "2026-04-15T21:13:49-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13962665243",
+        "author": "chriscaro2819",
+        "rating": 5,
+        "title": "Perfect",
+        "content": "I love it",
+        "date": "2026-04-15T21:03:09-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13962531904",
+        "author": "TechOriented",
+        "rating": 1,
+        "title": "Stupid app",
+        "content": "Can’t even access my account. Haven’t used this app for a year. Now try to login. It ask tons of stupid verification methods. Passkey? Selfie? I gave up.",
+        "date": "2026-04-15T19:55:53-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13962197660",
+        "author": "Roy-ed",
+        "rating": 5,
+        "title": "Talking to Judy",
+        "content": "Buying",
+        "date": "2026-04-15T17:26:22-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13962191511",
+        "author": "rekit",
+        "rating": 1,
+        "title": "Too much bloat",
+        "content": "Literally every time I open the app the first several seconds is an obnoxious pop up ad for some random Coinbase feature. I wait several seconds for a “skip” button to appear so I can get out of the ad and actually use the thing. There’s no way to disable them.",
+        "date": "2026-04-15T17:23:39-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13962043303",
+        "author": "Teso T",
+        "rating": 5,
+        "title": "Instant by experience",
+        "content": "I just bought dogecoin by using coin base and it’s fast and also it’s secure. I think I made the best decision to buy Dogecoin.",
+        "date": "2026-04-15T16:17:35-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13961810943",
+        "author": "Wiseowlcool",
+        "rating": 5,
+        "title": "Helpful and educational",
+        "content": "Coinbase has been very helpful. They have educated and kept me informed about the market’s fluctuation.",
+        "date": "2026-04-15T14:34:20-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13961512902",
+        "author": "Amex  Platinum Fan",
+        "rating": 5,
+        "title": "So easy",
+        "content": "App is so easy and enjoy the crypto education also included",
+        "date": "2026-04-15T12:33:23-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13961215064",
+        "author": "FatOpie",
+        "rating": 5,
+        "title": "Easy Peasy",
+        "content": "Best and Easiest Way to buy, sell, trade crypto!",
+        "date": "2026-04-15T10:44:53-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13961146473",
+        "author": "Picture Pawn LLC",
+        "rating": 5,
+        "title": "PICTURE PAWN",
+        "content": "PICTURE PAWN LLC",
+        "date": "2026-04-15T10:20:28-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13960505584",
+        "author": "Brent Taber",
+        "rating": 1,
+        "title": "Garbage",
+        "content": "Have fun figuring out your taxes. Coinbase has been the only platform I’ve used for trading, and every year their tax reporting is not even close to correct. This forces you to go in and manually correct everything otherwise they’ll report you to the IRS.",
+        "date": "2026-04-15T06:45:13-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13960271988",
+        "author": "Marc123$&78",
+        "rating": 5,
+        "title": "Coin base",
+        "content": "Coin base is awesome and simple to use, I would recommend to anyone looking to make investing fun and easy.",
+        "date": "2026-04-15T05:26:24-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13960166649",
+        "author": "B549",
+        "rating": 5,
+        "title": "I like Coinbase",
+        "content": "For me it’s worth it to pay for a monthly subscription. I’m not a big trader but it saves me on fees for sure and buys and sells . They’ve always come through for me on the customer care side also . Have never had problems with them.",
+        "date": "2026-04-15T04:48:29-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13959352021",
+        "author": "bruvvvvvvv",
+        "rating": 5,
+        "title": "Lit",
+        "content": "Having a grand old time fixing my finances one good decision at a time",
+        "date": "2026-04-14T22:11:25-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13959207438",
+        "author": "Futsalito",
+        "rating": 5,
+        "title": "Love it",
+        "content": "As simple depositing in your bank account!",
+        "date": "2026-04-14T20:55:03-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13959200337",
+        "author": "Customcarol",
+        "rating": 5,
+        "title": "Flawless Bank Transfers",
+        "content": "So EZ to fund from your bank, and equally as EZ to convert to digital. \nThank you Link!",
+        "date": "2026-04-14T20:51:20-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13959197311",
+        "author": "Cazador4l",
+        "rating": 5,
+        "title": "Great app!",
+        "content": "I love the simplicity of Coinbase it’s easy to use and fun",
+        "date": "2026-04-14T20:49:49-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13959007314",
+        "author": "Old/Dog",
+        "rating": 5,
+        "title": "Easy as Pie",
+        "content": "Simple use for all your crypto and stock purchases/trades",
+        "date": "2026-04-14T19:18:16-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13958958170",
+        "author": "book3!",
+        "rating": 5,
+        "title": "Been good.",
+        "content": "I like Coinbase because it’s easy to use and transactions complete and conformation emails come quick.",
+        "date": "2026-04-14T18:56:07-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13958884296",
+        "author": "xmobius1",
+        "rating": 5,
+        "title": "Love it",
+        "content": "Super easy to use and understand.",
+        "date": "2026-04-14T18:23:48-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13958844805",
+        "author": "MDAnnT",
+        "rating": 5,
+        "title": "Life is hard….",
+        "content": "Life is hard BUT not with Coinbase! Easy to do what you need to do.",
+        "date": "2026-04-14T18:06:32-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13958529526",
+        "author": "Tommie”T”",
+        "rating": 5,
+        "title": "Awesome",
+        "content": "Very easy to work with",
+        "date": "2026-04-14T15:45:14-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13958283984",
+        "author": "Ayyeyayyayay",
+        "rating": 3,
+        "title": "Stop loss",
+        "content": "Can we get a stop loss??",
+        "date": "2026-04-14T13:57:32-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13958082716",
+        "author": "Avax！",
+        "rating": 5,
+        "title": "Nice",
+        "content": "第一交易所",
+        "date": "2026-04-14T12:36:27-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13958052431",
+        "author": "mikfmfbfsvm",
+        "rating": 5,
+        "title": "Great",
+        "content": "Great",
+        "date": "2026-04-14T12:24:46-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13957974393",
+        "author": "CozF",
+        "rating": 1,
+        "title": "Money stuck on app.",
+        "content": "If you want your money stuck on this app. Put your money into it. Cent even spend the full amount once it’s out in your account nor can you send the crypto to any other wallet and it’s been over a week",
+        "date": "2026-04-14T11:55:30-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13957824427",
+        "author": "Chello M",
+        "rating": 5,
+        "title": "Super Fast",
+        "content": "Everything about this App is lightning fast & easy to use.",
+        "date": "2026-04-14T11:00:09-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13957811737",
+        "author": "Aridio 2780",
+        "rating": 5,
+        "title": "Familia",
+        "content": "Excellence Service, Easy to use and Lern👍",
+        "date": "2026-04-14T10:55:26-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13957717862",
+        "author": "Jaja6767",
+        "rating": 4,
+        "title": "Coinbase review",
+        "content": "It’s a great app to help you get started into investing",
+        "date": "2026-04-14T10:21:18-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13957551208",
+        "author": "أبو  عبد الرحمن",
+        "rating": 5,
+        "title": "Driver",
+        "content": "Nice one",
+        "date": "2026-04-14T09:22:39-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13957484299",
+        "author": "My App and iTunes Stores",
+        "rating": 5,
+        "title": "Talk about user friendly.",
+        "content": "Coinbase definitely doesn’t want their clients to become overwhelmed.",
+        "date": "2026-04-14T08:59:46-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13957360767",
+        "author": "Kmtayyeb",
+        "rating": 5,
+        "title": "Reliable",
+        "content": "Trust worthy exchange",
+        "date": "2026-04-14T08:18:32-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13957226409",
+        "author": "Mydoctork",
+        "rating": 5,
+        "title": "Jeff",
+        "content": "So happy with very smooth quick transactions never a hiccup",
+        "date": "2026-04-14T07:34:42-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13956864344",
+        "author": "Randy and Renee",
+        "rating": 1,
+        "title": "About app",
+        "content": "Do not use this particular app they treat you like a child with there algorithms and put weekly allowances on you to use the platform making me have to put my ID in every time I want to use it. They treat you like a child when using this app do not use it.",
+        "date": "2026-04-14T05:34:00-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13956697435",
+        "author": "Sexo12",
+        "rating": 5,
+        "title": "Miguel",
+        "content": "Díaz",
+        "date": "2026-04-14T04:33:21-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13956393783",
+        "author": "blancodeleon",
+        "rating": 5,
+        "title": "Great app",
+        "content": "Will definitelt continue to use it.",
+        "date": "2026-04-14T02:19:40-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13955432208",
+        "author": "diucjjzbabcov",
+        "rating": 1,
+        "title": "Doe not let you unsubscribe from emails",
+        "content": "App is ok but you unsubscribe multiple times but still get pummeled with emails.",
+        "date": "2026-04-13T18:12:16-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13955326986",
+        "author": "Rileyfa82",
+        "rating": 1,
+        "title": "Processing time",
+        "content": "It takes several days for money to be ready to trade with. Just disappointment",
+        "date": "2026-04-13T17:25:47-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13955276013",
+        "author": "El Danny 11",
+        "rating": 5,
+        "title": "Plataforma",
+        "content": "Excelente trabajo y estoy muy contento con la aplicación y tener mi Wallet digital con ustedes un saludo gigante",
+        "date": "2026-04-13T17:03:23-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13955195967",
+        "author": "Sarge101961",
+        "rating": 5,
+        "title": "Great",
+        "content": "Easy as pie",
+        "date": "2026-04-13T16:27:29-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13955185935",
+        "author": "Johnathan Terrell",
+        "rating": 5,
+        "title": "Easy to use!!",
+        "content": "Fast access, fast transactions, fast money!Also has great rewards and incentives!",
+        "date": "2026-04-13T16:22:58-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13955173690",
+        "author": "Mayacove",
+        "rating": 5,
+        "title": "Trusted App",
+        "content": "Easy and safe",
+        "date": "2026-04-13T16:17:39-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13955172020",
+        "author": "Kelso90$",
+        "rating": 5,
+        "title": "The best way to make a million bucks . I wish that it was easier to use an iPhone for the app though",
+        "content": "Awsome exchange for Winning",
+        "date": "2026-04-13T16:16:55-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13955134625",
+        "author": "Big larryyyyyyy",
+        "rating": 5,
+        "title": "Good",
+        "content": "Good",
+        "date": "2026-04-13T16:00:23-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13954736084",
+        "author": "Venumzcreator",
+        "rating": 1,
+        "title": "Shady",
+        "content": "April 13, 2026 I go to look at my Vanguard oil reserve and after buying and trading on Coinbase I am no longer allowed to. I have to use their Base app and when I go to use their Base app it says not compatible so I have money that I can’t touch and it’s being drained as I look at it. This is corruption. This is illegal. Freezing the market for a majority so the elites can rob everyone",
+        "date": "2026-04-13T13:09:30-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13954484327",
+        "author": "lion1771",
+        "rating": 5,
+        "title": "Best Crypto Exchange on the Market",
+        "content": "Coinbase is the premier crypto exchange for everything.",
+        "date": "2026-04-13T11:33:45-07:00",
+        "version": "14.14.27"
+      },
+      {
+        "id": "13953996636",
+        "author": "DrCaviar",
+        "rating": 5,
+        "title": "So far",
+        "content": "So good",
+        "date": "2026-04-13T08:40:07-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13953951468",
+        "author": "Prana33",
+        "rating": 5,
+        "title": "Hermoso",
+        "content": "Muy rápido e intuitivo, fácil de navegar…me entiende la entiendo.",
+        "date": "2026-04-13T08:25:08-07:00",
+        "version": "14.13.32"
+      },
+      {
+        "id": "13953578083",
+        "author": "Primeknight94027",
+        "rating": 5,
+        "title": "Amazing",
+        "content": ".",
+        "date": "2026-04-13T06:22:56-07:00",
+        "version": "14.13.32"
+      }
+    ],
+    "review_analysis": {
+      "total_reviews": 100,
+      "average_rating": 4.5,
+      "rating_distribution": {
+        "1": 11,
+        "2": 0,
+        "3": 1,
+        "4": 4,
+        "5": 84
+      },
+      "latest_review_date": "2026-04-18T18:42:05-07:00",
+      "oldest_review_date": "2026-04-13T06:22:56-07:00"
+    }
+  },
+  "analysis": null
+}

@@ -1,0 +1,323 @@
+{
+    "company_name": "Physics Wallah",
+    "domain": "https://www.pw.live/",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.physicswallah",
+    "appstore_link": "https://apps.apple.com/in/app/physics-wallah/id1614741480",
+    "youtube_official_channel": "https://www.youtube.com/@PhysicsWallah",
+    "year_founded": "2020 (Noida, Uttar Pradesh, India)",
+    "names_of_founders": [
+        "Alakh Pandey",
+        "Prateek Maheshwari"
+    ],
+    "c-suite_officer": [
+        "Alakh Pandey: Co-Founder & CEO [2]",
+        "Prateek Maheshwari: Co-Founder [2, 5]",
+        "Aditya Agrawal: Chief Operating Officer - New Initiatives [4]",
+        "V. G.: Chief Growth Officer [5]",
+        "S. K.: Chief Human Resources Officer - CHRO [5]",
+        "I. R.: Chief Business Officer [5]",
+        "A. S.: Chief Financial Officer [5]"
+    ],
+    "exact_hq_location": "A-13/5, Sector 62, Noida, Uttar Pradesh, India, 201309 [1, 2, 3]",
+    "locations_operating_in": [
+        "India (reaching 98% of India's pin codes) [5]",
+        "Middle East (198 physical centres across 109 cities in India and the Middle East by March 2025) [1]"
+    ],
+    "industry_and_segment": "Edtech (online and offline education platform), serving K-12 students, competitive exam preparation (JEE, NEET, UPSC, GATE, SSC, Banking, Law, CUET, etc.), government exams, UG & PG entrance exams, finance, study abroad, agriculture, professional upskilling.",
+    "available_platforms": "Both",
+    "funding_raised": "Total funding $312 million (pre-IPO) [3], Series A: $100 million (June 2022) [1, 4], Series B: $210 million (September 2024) [2]. Valued at $2.8 billion (September 2024) [1]. Went public via IPO in November 2025, raising ₹3,820 crore (US$410 million) [1, 2].",
+    "no_of_users": "4.46 million paid users (FY25) [2, 4], 4.13 million unique transacting users (FY25) [1], over 10 million paid students on the PW App [5], 98.8 million subscribers across 207 YouTube channels (June 2025) [2].",
+    "annual_revenue": "₹2,886.6 crore (FY25 operating revenue) [1, 3]",
+    "key_positioning": "Bharat's Trusted & Affordable Educational Platform [pw.live], providing accessible and comprehensive learning experiences at affordable prices, democratizing education at scale, student-first approach, hybrid (online + offline) model. [1, 2, 3, 4, 5]",
+    "revenue_model": "Primarily through course fees for online batches and offline coaching centers. Diversified into other verticals like professional skills, higher education, and study abroad programs, along with in-app purchases for courses and study materials. [1, 2, 3, 4, 5]",
+    "competitors": [
+        {
+            "name": "BYJU'S",
+            "domain": "Not found",
+            "revenue": "Not found",
+            "year_founded": "2008 (Bengaluru, Karnataka) [1]",
+            "hq_location": "Bengaluru, Karnataka, India [1]"
+        },
+        {
+            "name": "Unacademy",
+            "domain": "Not found",
+            "revenue": "Not found",
+            "year_founded": "2015 (Bengaluru, Karnataka) [1]",
+            "hq_location": "Bengaluru, Karnataka, India [1]"
+        },
+        {
+            "name": "Vedantu",
+            "domain": "Not found",
+            "revenue": "Not found",
+            "year_founded": "2011 (Bangalore, Karnataka) [1]",
+            "hq_location": "Bangalore, Karnataka, India [1]"
+        },
+        {
+            "name": "UpGrad",
+            "domain": "Not found",
+            "revenue": "Not found",
+            "year_founded": "Not found",
+            "hq_location": "Not found"
+        },
+        {
+            "name": "Allen & Aakash",
+            "domain": "Not found",
+            "revenue": "Not found",
+            "year_founded": "Not found",
+            "hq_location": "Not found"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Allegations by former teachers of disillusionment of company vision and inadequate education at Kota centers for the fees charged. [1]",
+            "user_type": "Internal Staff, End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0oe6AQheQ7mjdA46Vib8Opgg1yk3D011-OC1h044wEFqoGsHlpt-EYsgJkxfDGV8i6ae9e87rONt0yb_n12TRlAG1jgqmxqRKSt0GM9Lz5GFbAl_Aek9W3HZ66WbkfO5xFuVyY-5K",
+            "date": "2023-03-01",
+            "effect": [
+                "Led to teachers starting an independent YouTube channel 'Sankalp Bharat'.",
+                "Caused reputational damage regarding quality of education, especially at offline centers."
+            ]
+        },
+        {
+            "description": "Technical issues with the app, including overheating devices during live lectures and bugs in new features like community forums, requiring frequent updates. [1]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrVNbYKZOQz-HY856D0innoY3iWh0yj0QeEoaEA8GansmYdNFGjSV3g4sXC9erXNqISxTarCaFWd5ZlODzxsG_n_dbyoWQnt-QpeLMUxD_UYyFMgYaHQsa1UuMiyw9q7yVymz1D9xrunaYq7GVG2larBqyw2ralNqEjA8R29YTxlzQeaplWFt0gDR4-k8ZBz04fJYRix4Jss",
+            "date": "2026-03-28",
+            "effect": [
+                "Disrupts student learning experience.",
+                "Causes frustration among users due to app instability and constant updates."
+            ]
+        },
+        {
+            "description": "Poor customer service, rigid or non-existent refund policies, and instances of loan traps and mis-selling for PW Skills courses. [1, 3]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrVNbYKZOQz-HY856D0innoY3iWh0yj0QeEoaEA8GansmYdNFGjSV3g4sXC9erXNqISxTarCaFWd5ZlODzxsG_n_dbyoWQnt-QpeLMUxD_UYyFMgYaHQsa1UuMiyw9q7yVymz1D9xrunaYq7GVG2larBqyw2ralNqEjA8R29YTxlzQeaplXfFmEJe5tuTg8i15jWSGC4JeezhsjNd_i5Z6xKOIlQT7B2lCL42n-dzzKrGOp4Wh-hnLcez8z6lpxb",
+            "date": "2026-03-28",
+            "effect": [
+                "Students facing difficulties in getting support or refunds, leading to financial distress.",
+                "Negative reviews and complaints on public forums, damaging brand reputation."
+            ]
+        },
+        {
+            "description": "Unprofessional teaching and discriminatory behavior at PW offline centers, with teachers beating around the bush, explaining concepts unclearly, and using unnecessary jokes. [5]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP6WA0DOH-kuSEKaSWHz1Z0g8P43uniHme1RK1BfdjU-LBgYx3-otdgcsFwk-BhOjJc2B_UhlLdNf6fxXv2NA3G29nFrV-O5hjGvMHGL3vtvH2BAEdMnrXVuFyFmEJe5tuTg8i15jWSGC4JeezhsjNd_i5Z6xKOIlQT7B2lCL42n-dzzKrGOp4Wh-hnLcez8z6lpxb",
+            "date": "Recent",
+            "effect": [
+                "Creates confusion and disrupts the flow of learning for students.",
+                "Dilutes the seriousness of the classes and negatively impacts student experience."
+            ]
+        },
+        {
+            "description": "Dashboard on the app does not provide correct information regarding lecture attendance or daily practice problem (DPP) completion. [5]",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP6WA0DOH-kuSEKaSWHz1Z0g8P43uniHme1RK1BfdjU-LBgYx3-otdgcsFwk-BhOjJc2B_UhlLdNf6fxXv2NA3G29nFrV-O5hjGvMHGL3vtvH2BAEdMnrXVuFyFmEJe5tuTg8i15jWSGC4JeezhsjNd_i5Z6xKOIlQT7B2lCL42n-dzzKrGOp4Wh-hnLcez8z6lpxb",
+            "date": "Recent",
+            "effect": [
+                "Students are unable to track their progress accurately.",
+                "Leads to frustration and dissatisfaction when complaints are not resolved."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Extremely Affordable Pricing",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrVNbYKZOQz-HY856D0innoY3iWh0yj0QeEoaEA8GansmYdNFGjSV3g4sXC9erXNqISxTarCaFWd5ZlODzxsG_n_dbyoWQnt-QpeLMUxD_UYyFMgYaHQsa1UuMiyw9q7yVymz1D9xrunaYq7GVG2larBqyw2ralNqEjA8R29YTxlzQeaplWFt0gDR4-k8ZBz04fJYRix4Jss",
+            "date": "2026-03-28",
+            "effect": [
+                "Makes quality education accessible to a broader demographic, including students from lower-income families.",
+                "Positions PW as a market leader in affordable edtech, attracting a high volume of students."
+            ]
+        },
+        {
+            "feature": "Hybrid (Online & Offline) Learning Model",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCTZLr2yzk6XBs_T2cYuZIADc2kdmTspJChR7bZ-qRa3QxPnYGxplqXUzFq8p-RNqaxCgHzdkoCyb7J7uanQh77dfMS_3TuYGIZDHT7qTivjCvGF_JoPbKl4AhKqKujkEQIhyN_UJCKdL7t1OhtEtawK6WLcBo9niPNdqgovGFIVW7JDf8jlgt47Q_HTJsPHZH_cC6f15OZg",
+            "date": "2026-03-20",
+            "effect": [
+                "Provides flexibility and caters to diverse student preferences for learning environments.",
+                "Strengthens trust and conversion, particularly in offline-first markets."
+            ]
+        },
+        {
+            "feature": "Strong Brand & Community Built Through Free YouTube Content",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0U-O9Bza48GU9IkZw7V2priB4ZaJpvTbxJ68biwCrs3ZQUjTTQM586RMjdp0rF6WqKa_96EkCrqPzVSX_cUDmyDGrilukt06wX3oXioZ-uXJP_B5cnaOpovcDsnUX-OugHVEg89hqsA9tzZBGsYB9uH801R9cK1xMbmTOTQ0ES4z-flx8kvI4HYke_-uYTlNexYLn",
+            "date": "2025-10-13",
+            "effect": [
+                "Creates a loyal and engaged student base, fostering trust and credibility.",
+                "Acts as a powerful organic marketing funnel, reducing customer acquisition costs."
+            ]
+        },
+        {
+            "feature": "Focus on Tier 2/3 Cities and Rural Areas",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSmzqMoVfdHaVhnQ7GB5a2DG4oX0icp1uJGsko9MQDR6P5JzaUcuxE3DUqNxJZCBuGtlXwoGndm-YE76C_u4cqjBP7VBp6w7LQWJ1UF6SsYZF7lzwU52na6wJWdhQ7gXznJ7zKGnx0ANTNW1_H_Xf3ev4j8d3Nz4c0rXTvauagB03NF_FtRzg",
+            "date": "2025-06-17",
+            "effect": [
+                "Addresses a massive untapped market, providing quality education where it was previously unavailable or expensive.",
+                "Contributes to democratizing education and enables students from diverse backgrounds to pursue their goals."
+            ]
+        },
+        {
+            "feature": "AI-Powered Learning Tools and Content",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFUO2vhuH9AYNX3ADvRBfxGfCFP7D_hP0Gx72oZd8RgVMXId6G1T8B6uDwkITS7rjkkjJJWQTxt5wbWDR36VPQuU93n_Xgt4xaE_Qna3Gao-zR4kmO7hEbo0JzPgU9pKTam9M8psMnsD32qsDD52SMshE7kZTHCwzUYa_hjN2SjgdRgELtW5k9tWgTNJZOsQV6Na3Ewef2kQGX9L8FGVe-tW3tDhkhfBeM1DIID0idlAFdmpGLcKlP",
+            "date": "2024-03-02",
+            "effect": [
+                "Provides personalized learning experiences through AI Guru and Study Sahayak.",
+                "Enhances accessibility for students lacking internet connectivity with the AI Box, transforming TVs into smart learning tools."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Technical glitches and app performance issues, such as app overheating during live classes, bugs in new features, and inconsistent updates to student progress dashboards. [1, 5]",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrVNbYKZOQz-HY856D0innoY3iWh0yj0QeEoaEA8GansmYdNFGjSV3g4sXC9erXNqISxTarCaFWd5ZlODzxsG_n_dbyoWQnt-QpeLMUxD_UYyFMgYaHQsa1UuMiyw9q7yVymz1D9xrunaYq7GVG2larBqyw2ralNqEjA8R29YTxlzQeaplWFt0gDR4-k8ZBz04fJYRix4Jss",
+            "date": "2026-03-28",
+            "effect": [
+                "Leads to distraction and hampers the learning process.",
+                "Causes frustration due to unaddressed complaints and lack of accurate progress tracking."
+            ]
+        },
+        {
+            "issue": "Lack of clear refund policies and poor customer support, with students reporting difficulties in getting money back or loans canceled, especially for PW Skills courses. [1, 3]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERrVNbYKZOQz-HY856D0innoY3iWh0yj0QeEoaEA8GansmYdNFGjSV3g4sXC9erXNqISxTarCaFWd5ZlODzxsG_n_dbyoWQnt-QpeLMUxD_UYyFMgYaHQsa1UuMiyw9q7yVymz1D9xrunaYq7GVG2larBqyw2ralNqEjA8R29YTxlzQeaplWFt0gDR4-k8ZBz04fJYRix4Jss",
+            "date": "2026-04-16",
+            "effect": [
+                "Results in financial exploitation and distress for students.",
+                "Damages the company's reputation and trust among its user base."
+            ]
+        },
+        {
+            "issue": "Unprofessional and unstructured teaching at offline centers, characterized by unclear explanations, beating around the bush, and excessive casual behavior or jokes. [5]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP6WA0DOH-kuSEKaSWHz1Z0g8P43uniHme1RK1BfdjU-LBgYx3-otdgcsFwk-BhOjJc2B_UhlLdNf6fxXv2NA3G29nFrV-O5hjGvMHGL3vtvH2BAEdMnrXVuFyFmEJe5tuTg8i15jWSGC4JeezhsjNd_i5Z6xKOIlQT7B2lCL42n-dzzKrGOp4Wh-hnLcez8z6lpxb",
+            "date": "Recent",
+            "effect": [
+                "Hinders effective learning and concept clarity.",
+                "Leads to student dissatisfaction and a perception of low-quality education despite payments."
+            ]
+        },
+        {
+            "issue": "Misleading advertisements and alleged paid feedbacks to promote the platform, suggesting a lack of transparency. [4]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Ibn3oFKRnZJy9qNg4kSNG9cHpKljoVb_lVEJx6S7Fq4MrnLS3Zni3FQPNTVEe-meH-24k_F4e-clVvEkCFkJniA13vQAs3guCbtOdt7TKAjDvKJFFrZCv_idUE9R1drwUezyVSo-EEYSr1zwq9pa_iZXH4fjn7lo",
+            "date": "2022-07-14",
+            "effect": [
+                "Erodes trust among potential and existing students.",
+                "Creates a deceptive public image that does not align with actual user experiences."
+            ]
+        },
+        {
+            "issue": "Difficulty in downloading recorded lectures and attending live classes on certain devices like iPads. [5]",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP6WA0DOH-kuSEKaSWHz1Z0g8P43uniHme1RK1BfdjU-LBgYx3-otdgcsFwk-BhOjJc2B_UhlLdNf6fxXv2NA3G29nFrV-O5hjGvMHGL3vtvH2BAEdMnrXVuFyFmEJe5tuTg8i15jWSGC4JeezhsjNd_i5Z6xKOIlQT7B2lCL42n-dzzKrGOp4Wh-hnLcez8z6lpxb",
+            "date": "Recent",
+            "effect": [
+                "Limits flexibility for students to learn anytime, anywhere.",
+                "Leads to inconvenience and missed learning opportunities, especially for users relying on specific devices."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Aggressive expansion into offline learning centers (Vidyapeeths and Pathshalas)",
+            "user_type": "End-user, Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGelVSYMk61_jL0gO0zU9biUvdumj3COT9-UWuDZmjH-UijE9CabGOSr5cFBA5y8hj92rpqR-EWPVzt6rkkhLHOO5uUDdHonfVdZC4p3kVTISvMMkDcU786kS1fDRiMOlAYLBkofycq",
+            "date": "May 2025",
+            "effect": [
+                "Expanded reach to 198 physical centers across 109 cities in India and the Middle East by March 2025 [1].",
+                "Strengthens trust and conversion by providing a blended 'phygital' network for students in offline-first markets [3]."
+            ]
+        },
+        {
+            "move": "Diversification of offerings through new apps and verticals (e.g., PW MedEd, Curious Jr., PW Skills, Utkarsh)",
+            "user_type": "End-user, Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrorg-pXyCpanAbbZV2QSHCmvlswMryEZMN5PFlswuLQYkWyL7rIaPt2j6PSOy9gCPWPKLUu6osjDdzSc9v8e2Vp4IA9SN-VpgNh3wGdQEiwlV9EjlnBrX-rZLfnFBqvsScPe7bz12u3GdJz9SMYJfirF4PnSCjhoZhBaQmQcL_csl_hA2y_72rbFYnLsX_raL5QR1f5R1WmmIcmh2kvtxGW9MtZ600B76ujqYOkCKYwBo9yghDZsCXoHWsbyfhOaqIAI9",
+            "date": "2025-10-07",
+            "effect": [
+                "Captures different learner segments from early learning to competitive exams and professional skills [4].",
+                "Reduces single-market risk and increases average revenue per user (ARPU) [3]."
+            ]
+        },
+        {
+            "move": "Strategic acquisitions of other education platforms and companies",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZpmHmZ0Xr1NVAz15v2Z2KN0vYULPQO9S5w1-k3_XHP-wZvkJMvO_51SggQP4hn2VNgsy9Xf8DCUBYHcbJEXAK1PW1aFLBgNKIqxAcoLaHBitPsCE3_L68CutRO2JjpSQYYLhaX06hKCZG6ECSScQUzMaaWmJT2pfh6dSCa4qIsmeKkDfrZVwBjvQknx5IHUcMo3GoqmL_iS__QOQ-FhfyDfRGbpwSmRoH59Wfm2J6s2pUu4KDz3ctSC6EmhpAM1xNqrk3MDg9U26jbcQ1pLSNmoQ=",
+            "date": "2026-03-19",
+            "effect": [
+                "Expanded operational capabilities and diversified presence across segments (e.g., Nextseed Foundation) [1, 2].",
+                "Strengthens its position in specific markets like government exam prep (Sarrthi IAS) and South India (Xylem Learning) [3, 4]."
+            ]
+        },
+        {
+            "move": "Launch of AI education suite including Alakh AI, AI Guru, Study Sahayak, and the AI Box",
+            "user_type": "End-user, Company",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFUO2vhuH9AYNX3ADvRBfxGfCFP7D_hP0Gx72oZd8RgVMXId6G1T8B6uDwkITS7rjkkjJJWQTxt5wbWDR36VPQuU93n_Xgt4xaE_Qna3Gao-zR4kmO7hEbo0JzPgU9pKTam9M8psMnsD32qsDD52SMshE7kZTHCwzUYa_hjN2SjgdRgELtW5k9tWgTNJZOsQV6Na3Ewef2kQGX9L8FGVe-tW3tDhkhfBeM1DIID0idlAFdmpGLcKlP",
+            "date": "2024-03-02",
+            "effect": [
+                "Offers personalized and engaging learning experiences, transforming how millions of students learn [1].",
+                "Increases digital education accessibility, particularly for students lacking smartphones or internet access, using the AI Box [3]."
+            ]
+        },
+        {
+            "move": "Public listing with an IPO in November 2025",
+            "user_type": "Company, Investors",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPMnEp3gC6FAVTNm97Ijyv5SNiVIdQlg4OWTJsoxmrDMkUhbKhYKoQrZQOX3mM0Cya8jnnyw44bz13YJ8LkcEtf91TAtNjX5-ywyakjxNY9qe25z9V2qircbw6fX7YD_RZqdCZCVNb",
+            "date": "2025-11-01",
+            "effect": [
+                "Raised significant capital (₹3,820 crore) for expansion and growth initiatives [2].",
+                "Solidified its position as a major player in the edtech market, potentially becoming the most valuable listed edtech company in India [2]."
+            ]
+        }
+    ],
+    "milestones": [
+        "January 28, 2014: Alakh Pandey created his YouTube channel \"Physics Wallah - Alakh Pandey\" [3]",
+        "2020: Alakh Pandey and Prateek Maheshwari incorporated Physics Wallah as a company [1]",
+        "June 2022: Physics Wallah became India's 101st unicorn company [1, 4]",
+        "June 2022: Raised $100 million in Series A funding from Westbridge and GSV Ventures [1, 4]",
+        "June 2022: Launched its first offline center, Vidyapeeth, in Kota, Rajasthan [1]",
+        "September 2024: Raised $210 million in Series B funding, with valuation reaching $2.8 billion [1, 2]",
+        "November 2025: Went public on Indian exchanges with an Initial Public Offering (IPO) [1, 2]",
+        "FY25: Achieved operating revenue of ₹2,886.6 crore [1, 3]"
+    ],
+    "new_features_launched": [
+        "Alakh AI: An AI education suite offering AI Guru and Study Sahayak for personalized learning (March 2024) [1]",
+        "Collaborative Learning Environment: Including batch-specific discussion groups and 'Battleground' for live practice sessions (March 2024) [1]",
+        "Low Data Mode: Improved platform efficiency to reduce data consumption by 80-90% for lectures (March 2024) [1]",
+        "LearnOS Tapasya Mode: An Android launcher designed to minimize digital distractions for focused study sessions (March 2024) [1]",
+        "Module 2.0: Revamped academic study material for JEE and NEET, with 'Teachers' Picked' question booklets, structured difficulty progression, chapter-wise checkpoints, and QR-based test generation (February 2026) [2, 4]",
+        "AI Box: An innovative device that transforms any TV or projector into a smart learning tool, designed for offline learning (October 2025) [3]",
+        "Filters in test listing, Real Test, 1-1 and Mentorship, Community tab, Saarthi, and Infinite Mentorship features (Recent app updates) [5]"
+    ],
+    "other_crucial_details": [
+        "A 6-episode web series named 'Physics Wallah' on the life of Alakh Pandey was released on Amazon miniTV (December 2022) [1].",
+        "Another web-series, 'Hello Bachhon', produced by The Viral Fever, premiered on Netflix (March 2026) [1].",
+        "The company laid off 150 employees (0.8% of its workforce) in September 2024, citing performance reasons [1].",
+        "Physics Wallah signed an MoU with the Government of Andhra Pradesh to establish the University of Innovation (December 2024) [1]."
+    ]
+}

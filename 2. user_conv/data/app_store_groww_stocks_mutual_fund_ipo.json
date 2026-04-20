@@ -1,0 +1,627 @@
+{
+  "store": "Apple App Store",
+  "input_source": "app_name",
+  "extracted_data": {
+    "store": "Apple App Store",
+    "app_id": "1404871703",
+    "app_name": "Groww Stocks, Mutual Fund, IPO",
+    "company": "Billionbrains Garage Ventures Private Limited",
+    "app_store_url": "https://apps.apple.com/in/app/groww-stocks-mutual-fund-ipo/id1404871703?uo=4",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/50/93/835093fd-b112-be63-3329-86c0a591f80b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "genre": "Finance",
+    "rating": 4.61,
+    "total_ratings": 152472,
+    "price": "Free",
+    "version": "18.7.0",
+    "released": "2018-08-03T11:22:59Z",
+    "description": "Groww is India's No.1 Stock Broker, trusted by 4 Crore+ Indians. Open a free demat account and start investing & trading.\n\n\nGroww is your one app to invest & trade in:\n\n• Stocks\n\n• Mutual Funds\n\n• Futures and Options Trading (F&O)\n\n• Gold and Silver\n\n• Margin Trading Facility (MTF)\n\n• Commodity Derivatives: Gold, Silver, Crude Oil, Natural Gas and more\n\n• Exchange Traded Funds (ETFs)\n\n• IPO\n\n• Bonds\n\n• API Trading\n\n• UPI Payments\n\n\nReasons why Indians love investing on Groww\n\n• Free demat account (Individual, HUF, Corporate)\n\n• 0 AMC & no hidden charges\n\n• 24*7 customer support\n\n\nStocks, ETFs, IPO, MTF & Intraday Trading\n\n• Open a free demat & trading account in minutes\n\n• Buy & Sell stocks listed on NSE & BSE stock exchanges\n\n• Boost trades with up to 5X leverage on Intraday Trading\n\n• Never miss any corporate actions like splits, dividends, bonus etc.\n\n• Buy up to 4X more stocks with MTF (Margin Trading Facility)\n\n• Explore fundamentals & financials of stocks like Angel One, 5Paisa Capital, Meesho, ICICI Pru, Vodafone Idea etc.\n\n• Apply for upcoming stock market IPOs\n\n• Add money via UPI options like Gpay & PhonePe, Net banking & more\n\n• Trade using TradingView’s advanced charts\n\n• Set alerts to track stock price movements for trading & investing decisions\n\n• Trade smarter with Intraday Screener\n\n• Set Target & Stoploss both with OCO order for Intraday Trading\n\n• Get insights on your investing or trading portfolio’s performance, allocation, risk, dividends & XIRR with Portfolio Analysis\n\n\nMutual Funds Investing\n\n• Invest in direct mutual funds with 0% commission\n\n• Estimate portfolio returns with SIP calculator\n\n• Track all your Mutual Funds investments in ONE place - Import & Redeem external funds easily\n\n• Save tax up to Rs.46,800 with Tax Saving Mutual Funds (ELSS funds)\n\n• Invest money via SIP or lumpsum in Mutual Funds offered by AMCs like Zerodha, SBI, Quant, Parag Parikh, Bandhan, HDFC, Motilal Oswal, Axis, ICICI Mutual Fund etc.\n\n• Switch from one fund to another within the same fund house, without having to redeem it.\n\n\nFutures & Options Trading (F&O)\n\n• Track Indian & Global Indices like Nifty, Sensex, Nasdaq, Gift Nifty, Nifty Midcap, Nifty Next 50 etc to make informed trading calls\n\n• Trade better in Futures & Options with Safe Exit, Advanced Option Chain, Instant Pledge etc\n\n• Use advanced charts to invest smarter & make informed futures & options trading calls\n\n• Super-fast Options Trading with multiple indicators & live portfolio overview\n\n• Place Basket Orders with convenience during option trading\n\n• Test your strategy with Payoff Graph & trade with confidence in futures & options\n\n• Exit your F&O positions instantly in a click with Fast Exit\n\n\nCommodity Derivatives Trading\n\n• Trade in Gold, Silver, Crude Oil, Natural Gas, Zinc, Aluminium & Copper\n\n• Trades executed in under 0.05 seconds for a smooth experience\n\n• Pledge your stock holdings to boost your margin and take larger positions\n\n\nPersonal Loans\n\n• Tenure: 3 to 60 months\n\n• APR: 13-36%\n\n\nRegistered NBFCs & Banks (lenders)\n\n• IDFC First Bank Ltd\n\n• Aditya Birla Finance Ltd\n\n• Kisetsu Saison Finance (India) Pvt Ltd\n\n• Groww Creditserv Technology Pvt Ltd\n\nGroww is the DLA for the above lenders operating the Groww platform & services therein with assistance from other LSPs\n\n\nExample:\n\nTenure -12 months\n\nRate of Interest - 15% per annum\n\nProcessing fee - ₹1000 (2% inclusive GST)\n\nTotal Interest - ₹4156\n\nEMI - ₹4513\n\nAPR -18.89%\n\nAmount Disbursed - ₹49000\n\nTotal repayment amount - ₹54156\n\n\nGroww Invest Tech Pvt Ltd\n\nSEBI Registration no: INZ000301838\n\nMember Code: BSE-6699  NSE-90187, MCX- 57420\n\nSegment/s: Cash & FNO (Equity & Commodity Derivatives)\n\nPrivacy policy: https://groww.in/privacy-policy\n\nGroww’s registered office: Vaishnavi Tech Park,South Tower,3rd floor,Sarjapur Main Road, Bengaluru,Karnataka-560103\n\nGroww is India's No.1 Stock Broker in terms of active customers as per NSE data.",
+    "reviews_count": 150,
+    "reviews": [
+      {
+        "rating": 5,
+        "body": "Best user interface And easy to use"
+      },
+      {
+        "rating": 4,
+        "body": "Ok"
+      },
+      {
+        "rating": 5,
+        "body": "Nice"
+      },
+      {
+        "rating": 5,
+        "body": "Better feel"
+      },
+      {
+        "rating": 5,
+        "body": "Fantastic platform for Investors"
+      },
+      {
+        "rating": 5,
+        "body": "My main investment app since i started investing. Happy with the experience."
+      },
+      {
+        "rating": 5,
+        "body": "Fantastic"
+      },
+      {
+        "rating": 4,
+        "body": "Great app for Investment and trending.After using lot many app I found this one is more useful. My only suggestion is that there should be Tablets /iPad compatible App is required iPad specific app is still pending"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent and immediate execution of orders"
+      },
+      {
+        "rating": 5,
+        "body": "Simple. Smart. Supercool"
+      },
+      {
+        "rating": 5,
+        "body": "Best interface and simple to use ."
+      },
+      {
+        "rating": 5,
+        "body": "Very nice"
+      },
+      {
+        "rating": 5,
+        "body": "*****"
+      },
+      {
+        "rating": 5,
+        "body": "Grow is very User Friendly Mobile Application for Trading. also its Pre-Apply IPO Feature makes you one step ahead of other Application. Off Trading Hours we can book Order and they are placed easily"
+      },
+      {
+        "rating": 5,
+        "body": "Grow is investor friendly particularly for those investors who have little or no knowledge about investing in stocks and mutual funds. The analysis of investments is helpful and provides insight into the investments vis a vis market position."
+      },
+      {
+        "rating": 1,
+        "body": "Worst app for trading… they buy even higher than candlea high… i have screenshots , i will send those tp sebi"
+      },
+      {
+        "rating": 5,
+        "body": "Great experience using this app. The customer service is very responsive and professional. Whenever i had a query, it was handled quickly and efficiency."
+      },
+      {
+        "rating": 5,
+        "body": "Started investing cycle with Groww App, and dealt with equity, Mutual Fund and Bonds. Easy of processing ( both buying and selling) has been an enabling experience. Besides data analysis of portfolio has helped in planning and execution of investment strategies. Great."
+      },
+      {
+        "rating": 5,
+        "body": "Very easy to invest and track!"
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 4,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Interface is good and easy to navigate"
+      },
+      {
+        "rating": 5,
+        "body": "wow"
+      },
+      {
+        "rating": 3,
+        "body": "Add SWP Calculator Below SIP Calculator"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 5,
+        "body": "Elegant, but Simple interface! Apps very easy to use and manage local trades"
+      },
+      {
+        "rating": 5,
+        "body": "Should improve in giving fresh position and charges on mtf should be charged by overnight wherein Groww is out of funds should be charged"
+      },
+      {
+        "rating": 5,
+        "body": "Awesome app"
+      },
+      {
+        "rating": 5,
+        "body": "Great app"
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 4,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Best trading app for beginners. It’s user interface is really smooth and easy to navigate"
+      },
+      {
+        "rating": 5,
+        "body": "Very user friendly application for trading. Pocket investor"
+      },
+      {
+        "rating": 5,
+        "body": "The most User friendly app"
+      },
+      {
+        "rating": 5,
+        "body": "Very easy to use and charts are very friendly to understand."
+      },
+      {
+        "rating": 5,
+        "body": "Very easy to understand and easy for transactions"
+      },
+      {
+        "rating": 5,
+        "body": "Easy to manoeuvre, and trade with useful and transparent , up to date information about the stocks !!"
+      },
+      {
+        "rating": 5,
+        "body": "Best app to invest, easy and reliable"
+      },
+      {
+        "rating": 5,
+        "body": "Very easy to use"
+      },
+      {
+        "rating": 5,
+        "body": "It’s very simple and easy app for investing ✨"
+      },
+      {
+        "rating": 5,
+        "body": "Groww is an excellent trading and investment app, especially for beginners as well as experienced investors. The app interface is extremely clean, simple, and user-friendly, making investing stress-free. Opening an account is quick, and everything from stocks, mutual funds, ETFs, IPOs, and F&O is available on one platform. What I really like is the transparent pricing with zero AMC, fast order execution, and detailed stock & mutual fund information that helps in making informed decisions. The app runs smoothly without lag, and fund transfer & withdrawals are quick and hassle-free. Customer support is responsive, and regular updates keep improving the experience. Overall, Groww has made investing easy, safe, and convenient. Highly recommended for anyone serious about growing their wealth 📈"
+      },
+      {
+        "rating": 5,
+        "body": "It’s good"
+      },
+      {
+        "rating": 5,
+        "body": "5"
+      },
+      {
+        "rating": 5,
+        "body": "Happy user since 2021"
+      },
+      {
+        "rating": 4,
+        "body": "Kindly provide cagr for porfolio in on complete basis profit and loss regarding single scrip also be provided that one shokud know total profit from intial in singke scrio"
+      },
+      {
+        "rating": 5,
+        "body": "Very impressive service and easy to use"
+      },
+      {
+        "rating": 5,
+        "body": "Very easy to use"
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Best app"
+      },
+      {
+        "rating": 2,
+        "body": "Very bad app full of lag and glich"
+      },
+      {
+        "rating": 5,
+        "body": "The app has a very good ui and all features are good and easy to access. It has multiple options of investments like stocks MF’s Bonds etc.. providing all in one option"
+      },
+      {
+        "rating": 5,
+        "body": "Good to go"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 5,
+        "body": "Very user friendly and helpful. Really informative but plz brokerage charge mat badhana."
+      },
+      {
+        "rating": 5,
+        "body": "Have been using it since last 4 years now. and these guys have made things quite simple."
+      },
+      {
+        "rating": 5,
+        "body": "Very nice app out of 10"
+      },
+      {
+        "rating": 5,
+        "body": "Very good and user friendly App for trading"
+      },
+      {
+        "rating": 5,
+        "body": "Convenient, easy and seamless transactions"
+      },
+      {
+        "rating": 1,
+        "body": "We can not do instant withdrawals on this app nowadays"
+      },
+      {
+        "rating": 5,
+        "body": "Extremely Well"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 5,
+        "body": "Best app"
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "I am using Grow app for 3 years and I am fully satisfied.God bless Grow. Tum jug jug jio Maharaja"
+      },
+      {
+        "rating": 5,
+        "body": "I’ve been using this app for last 4 years. It’s a wonderful app with very user friendly UI. Frequent updates makes the app even better. A must try app for all those who are interested in investments."
+      },
+      {
+        "rating": 5,
+        "body": "The app is user friendly. Lovely user interface and safe. Gives a clear picture about different funds."
+      },
+      {
+        "rating": 5,
+        "body": "Superb"
+      },
+      {
+        "rating": 5,
+        "body": "Good vvvvvv"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 5,
+        "body": "Much efficient"
+      },
+      {
+        "rating": 5,
+        "body": "Best trading app. It was very easy and accurate chart."
+      },
+      {
+        "rating": 4,
+        "body": "Interface is good for trading"
+      },
+      {
+        "rating": 5,
+        "body": "Groww is user friendly app with details about stock, company s performance, intuitive user interface."
+      },
+      {
+        "rating": 5,
+        "body": "isse accha app nahi milega"
+      },
+      {
+        "rating": 5,
+        "body": "Very profitable"
+      },
+      {
+        "rating": 4,
+        "body": "Outstanding"
+      },
+      {
+        "rating": 5,
+        "body": "Very user friendly interface, amazing features and fast execution."
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 4,
+        "body": "Nice"
+      },
+      {
+        "rating": 5,
+        "body": "I’m so comfortable using Groww app. It’s so cool, informative, getting time to time notifications and very easy to use."
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Amazing experience"
+      },
+      {
+        "rating": 1,
+        "body": "There should be an option to see only funds purchased from groww. I Don’t want to track other funds in your app."
+      },
+      {
+        "rating": 5,
+        "body": "Nice app"
+      },
+      {
+        "rating": 3,
+        "body": "Tax are so high"
+      },
+      {
+        "rating": 5,
+        "body": "Best part of this app is the user interface and ease of use"
+      },
+      {
+        "rating": 1,
+        "body": "It seems the ui for iPad is not responsive at all, It creates huge confusion when we are looking for charts. kindly fix it ASAP as it is there in Android tabs already."
+      },
+      {
+        "rating": 5,
+        "body": "Very easy to use"
+      },
+      {
+        "rating": 5,
+        "body": "Very good"
+      },
+      {
+        "rating": 5,
+        "body": "5 star"
+      },
+      {
+        "rating": 5,
+        "body": "One of the best app for trading"
+      },
+      {
+        "rating": 5,
+        "body": "Simple and easy to use app."
+      },
+      {
+        "rating": 5,
+        "body": "Best"
+      },
+      {
+        "rating": 5,
+        "body": "Re"
+      },
+      {
+        "rating": 5,
+        "body": "good app"
+      },
+      {
+        "rating": 5,
+        "body": "Good experience"
+      },
+      {
+        "rating": 5,
+        "body": "Has lot to catch up to zerodha in terms of features"
+      },
+      {
+        "rating": 5,
+        "body": "Almost all in one and simple to use app to keep up with the market. We don't need anything else."
+      },
+      {
+        "rating": 5,
+        "body": "Great can be better but lacking in MF fumdamentals and detailed analysis of funds for which we need to switch to other sources. Think seriously and make good adition to make this great."
+      },
+      {
+        "rating": 5,
+        "body": "The application has good features"
+      },
+      {
+        "rating": 5,
+        "body": "Good app . Clean and precise. Shows fundamental of funds."
+      },
+      {
+        "rating": 5,
+        "body": "Nice & Easy"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 4,
+        "body": "Overall app is good and has a very simple ui and can be navigated by any user. The ncd bonds tracking are been not properly tracked in the application. If they can fix this part which will be really helpful to track all the investment"
+      },
+      {
+        "rating": 5,
+        "body": "good and easy app"
+      },
+      {
+        "rating": 5,
+        "body": "Really easy sip app!!"
+      },
+      {
+        "rating": 5,
+        "body": "Very trustable this app"
+      },
+      {
+        "rating": 5,
+        "body": "Its a bunch of features platform where you each type of investment and trading features."
+      },
+      {
+        "rating": 5,
+        "body": "Good for starters"
+      },
+      {
+        "rating": 5,
+        "body": "I found"
+      },
+      {
+        "rating": 5,
+        "body": "Its feel good to grow with groww"
+      },
+      {
+        "rating": 5,
+        "body": "Absolutely loving the experience since 2020. Need some goodies like initial years 😁"
+      },
+      {
+        "rating": 5,
+        "body": "User friendly interface and much easy to use as compare to other application"
+      },
+      {
+        "rating": 5,
+        "body": "👌🏻👌🏻👏🏻"
+      },
+      {
+        "rating": 5,
+        "body": "Easy to use app.."
+      },
+      {
+        "rating": 5,
+        "body": "Very user friendly and smooth to use 👍"
+      },
+      {
+        "rating": 5,
+        "body": "Just growww"
+      },
+      {
+        "rating": 3,
+        "body": "Watchlist are not saving in Alphabetical sorted order. Even though we tried to sort list of stocks in our watchlist it’s not saving that sorted order"
+      },
+      {
+        "rating": 5,
+        "body": "Love the app"
+      },
+      {
+        "rating": 5,
+        "body": "Best app Easy to open and oprate"
+      },
+      {
+        "rating": 5,
+        "body": "Super"
+      },
+      {
+        "rating": 1,
+        "body": "Very good app, when we deposit any payment or withdraw any payment. It will take 3-4 days or some time more than that. For withdrawal i can understand, you people take 3 odd days to reflect the payment in my groww app, Need to be seen and i need solutions for that In thins era we are doing thing like 70-80 speed"
+      },
+      {
+        "rating": 5,
+        "body": "Amazing App… Easy to use compared to all other apps."
+      },
+      {
+        "rating": 5,
+        "body": "Nice work"
+      },
+      {
+        "rating": 5,
+        "body": "Easy to access"
+      },
+      {
+        "rating": 5,
+        "body": "User friendly app"
+      },
+      {
+        "rating": 5,
+        "body": "Kindly learn & invest wisely. You’ll enjoy using this App also earn."
+      },
+      {
+        "rating": 5,
+        "body": "Extremely user friendly"
+      },
+      {
+        "rating": 5,
+        "body": "Nicely programmed and oriented"
+      },
+      {
+        "rating": 5,
+        "body": "Great app"
+      },
+      {
+        "rating": 5,
+        "body": "Very user friendly and my max used application in my phone 😊"
+      },
+      {
+        "rating": 5,
+        "body": "Partner for better future🫶🏻👑"
+      },
+      {
+        "rating": 5,
+        "body": "Very nice easy friendly"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 1,
+        "body": "I funded 38000 but not showing anywhere"
+      },
+      {
+        "rating": 5,
+        "body": "Excellent"
+      },
+      {
+        "rating": 5,
+        "body": "Great app"
+      },
+      {
+        "rating": 5,
+        "body": "Helping in growing my Wealth. Ease of doing equity and other market instrument ."
+      },
+      {
+        "rating": 4,
+        "body": "It is super smooth"
+      },
+      {
+        "rating": 5,
+        "body": "I loved this app using it from past 5 years"
+      },
+      {
+        "rating": 5,
+        "body": "Please remove the loan segment as it looks very weird and kindly consider this as an investment tool. Not a loan app. Though you have a separate dedicated app for loans."
+      },
+      {
+        "rating": 5,
+        "body": "lol"
+      },
+      {
+        "rating": 5,
+        "body": "Very simple app for anyone to invest"
+      },
+      {
+        "rating": 5,
+        "body": "Good experience and very useful"
+      },
+      {
+        "rating": 5,
+        "body": "Good"
+      },
+      {
+        "rating": 5,
+        "body": "Groww is a fantastic app with user friendly navigation and a very easy app for investments."
+      },
+      {
+        "rating": 5,
+        "body": "Amazing app"
+      },
+      {
+        "rating": 5,
+        "body": "Nice"
+      }
+    ]
+  },
+  "analysis": {},
+  "analysis_status": "failed",
+  "analysis_error": "Analysis returned empty result",
+  "extracted_at": "2026-04-20T14:46:24.869454",
+  "analyzed_at": null
+}
