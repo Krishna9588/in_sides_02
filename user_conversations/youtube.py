@@ -163,7 +163,7 @@ def _find_channel_url_by_name(channel_name: str) -> str:
     cleaned_name = (channel_name or "").strip()
     if not cleaned_name:
         return ""
-    if "://" in cleaned_name or "/" in cleaned_name:
+    if _is_youtube_url(cleaned_name):
         raise ValueError("Channel name search input is invalid.")
     if len(cleaned_name) > 100:
         raise ValueError("Channel name is too long.")
