@@ -140,18 +140,33 @@ class GeminiCompanyResearcher:
         """
 
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-        """Runs the research with Google Search and returns parsed JSON."""
-        tools = [types.Tool(google_search=types.GoogleSearch())]
+        """Runs the research with Google Search and URL Context, returning parsed JSON."""
+
+        # 1. Enable both Grounding and URL Context tools
+        tools = [
+            types.Tool(google_search=types.GoogleSearch()),
+            types.Tool(url_context=types.UrlContext())
+        ]
 
         domain_context = f" (Official Domain: {domain})" if domain else ""
+
+        # 2. Add a strict Research Protocol to the prompt
         prompt = (
-            f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"Pay special attention to current struggles, unique differentiators, user complaints, and strategic moves. "
-            f"For these four sections, provide the deep analysis including user types, frequency, sources, dates, and effects. "
-            f"\n\n{self.json_schema_instruction}"
+            f"Perform exhaustive research on the company: {company_query}{domain_context}. \n"
+            f"RESEARCH PROTOCOL:\n"
+            f"- You MUST use Google Search to find the most recent and accurate information.\n"
+            f"- For links, ALWAYS verify the URL is real and not a placeholder.\n"
+            f"- Pay special attention to current struggles, unique differentiators, user complaints, and strategic moves.\n"
+            f"- For these four sections, provide deep analysis including user types, frequency, sources, dates, and effects.\n\n"
+            f"OUTPUT REQUIREMENTS:\n"
+            f"{self.json_schema_instruction}"
         )
 
-        config = types.GenerateContentConfig(tools=tools)
+        # 3. Standard config (Removed ThinkingConfig and response_mime_type)
+        config = types.GenerateContentConfig(
+            tools=tools,
+            temperature=0.2,  # Kept low to reduce creative hallucinations
+        )
 
         try:
             print(f"Searching and analyzing data for '{company_query}'...")
@@ -167,7 +182,6 @@ class GeminiCompanyResearcher:
 
             text = text.strip()
 
-            # Extract JSON from potential markdown backticks
             if "```json" in text:
                 json_str = text.split("```json")[1].split("```")[0].strip()
             elif "```" in text:

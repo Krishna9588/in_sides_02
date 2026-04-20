@@ -1,0 +1,280 @@
+{
+    "company_name": "Trackk",
+    "domain": "www.trackk.in",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.trackk.app",
+    "appstore_link": "https://apps.apple.com/in/app/trackk-stocks-options-trading/id6479584529",
+    "youtube_official_channel": "https://www.youtube.com/channel/UC_t0_eI8u47r03S75gTf-fQ",
+    "year_founded": "2021, Mumbai, India",
+    "names_of_founders": [
+        "Vedant Gupte",
+        "Siddharth Thakkar",
+        "Aryan Jain"
+    ],
+    "c_suite_officer": [
+        {
+            "name": "Vedant Gupte",
+            "description": "Co-Founder & CEO"
+        },
+        {
+            "name": "Siddharth Thakkar",
+            "description": "Co-Founder & CGO"
+        },
+        {
+            "name": "Aryan Jain",
+            "description": "Co-Founder & CCO"
+        }
+    ],
+    "exact_hq_location": "301, 3rd Floor, Plot No. 11A, Sanjona Complex, Next to Hotel Neel Kamal, Chembur, Mumbai, Maharashtra, India, 400071",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Fin-Tech, Online Trading Platform, Investment Tools",
+    "available_platforms": "Mobile",
+    "funding_raised": "$1.69M",
+    "no_of_users": "1.5 lakh+ registered users (prior to SEBI license) / 130k users (as of Jan 2025)",
+    "annual_revenue": "$16.2K (As on Mar 31, 2025)",
+    "key_positioning": "A next-generation stock trading app for India's youth, offering intuitive single-screen trading, data-driven insights, and behavioral feedback.",
+    "revenue_model": "Brokerage services, Investment Tools",
+    "competitors": [
+        {
+            "name": "Groww",
+            "domain": "groww.in",
+            "revenue": "Data not publicly available",
+            "year_founded": "2016",
+            "hq_location": "Bengaluru, India"
+        },
+        {
+            "name": "Saxo Bank",
+            "domain": "home.saxo",
+            "revenue": "Data not publicly available",
+            "year_founded": "1992",
+            "hq_location": "Hellerup, Denmark"
+        },
+        {
+            "name": "Angel One",
+            "domain": "angelone.in",
+            "revenue": "Data not publicly available",
+            "year_founded": "1987",
+            "hq_location": "Mumbai, India"
+        },
+        {
+            "name": "Zerodha",
+            "domain": "zerodha.com",
+            "revenue": "Data not publicly available",
+            "year_founded": "2010",
+            "hq_location": "Bengaluru, India"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Navigating the highly competitive Indian stock trading market.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://www.indiansstartuptimes.com/trackk-raises-1m-seed-funding-secures-sebi-license-for-nse-bse-brokerage/",
+            "date": "August 12, 2025",
+            "effect": [
+                "Requires continuous innovation to differentiate.",
+                "Constant need to acquire and retain users.",
+                "Pressure to offer competitive pricing and features."
+            ]
+        },
+        {
+            "description": "Scaling operations and technology to meet user growth.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://www.indiansstartuptimes.com/trackk-raises-1m-seed-funding-secures-sebi-license-for-nse-bse-brokerage/",
+            "date": "August 12, 2025",
+            "effect": [
+                "Demands significant investment in infrastructure.",
+                "Potential for service disruptions if scaling is not managed effectively.",
+                "Need for robust and efficient backend systems."
+            ]
+        },
+        {
+            "description": "Reliance on SEBI regulations and compliance for brokerage services.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://www.entrackr.com/trackk-raises-1-mn-in-seed-round/",
+            "date": "August 12, 2025",
+            "effect": [
+                "Adds to operational overhead and costs.",
+                "Requires continuous monitoring of regulatory changes.",
+                "Potential for penalties or suspension if non-compliant."
+            ]
+        },
+        {
+            "description": "Educating and attracting the target demographic (Gen Z and millennials) to use their platform.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Requires tailored marketing strategies.",
+                "Need to build trust and credibility with a younger audience.",
+                "Competition from other platforms also targeting this demographic."
+            ]
+        },
+        {
+            "description": "Balancing advanced analytics and features with user-friendliness for a young demographic.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Risk of overwhelming new users with too much data.",
+                "Need for intuitive UI/UX design.",
+                "Constant A/B testing and user feedback loops required."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Actionable Insights: Data distilled into clear, focused signals that help users make smarter calls instantly.",
+            "user_type": "Trader/Investor",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Helps users make quicker and more informed decisions.",
+                "Reduces the time spent on complex data analysis.",
+                "Empowers users with clear trading signals."
+            ]
+        },
+        {
+            "feature": "Custom Screeners: Ability to build, refine, and automate screeners tailored to individual trading styles.",
+            "user_type": "Trader/Investor",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Allows for personalized stock discovery.",
+                "Caters to diverse trading strategies.",
+                "Enhances efficiency in finding investment opportunities."
+            ]
+        },
+        {
+            "feature": "Behavioral Feedback: Understanding trading patterns and providing insights to improve strategy over time.",
+            "user_type": "Trader/Investor",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Helps users identify and correct poor trading habits.",
+                "Promotes self-improvement in trading skills.",
+                "Contributes to more disciplined investing."
+            ]
+        },
+        {
+            "feature": "Lightning-Fast Execution: Designed for speed to react to market movements.",
+            "user_type": "Trader/Investor",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Minimizes slippage on trades.",
+                "Enables timely execution of time-sensitive strategies.",
+                "Improves overall trading performance."
+            ]
+        },
+        {
+            "feature": "Single-Screen Trading Experience: Intuitive interface for discovering stocks, trading, and portfolio management.",
+            "user_type": "Trader/Investor",
+            "frequency": "Continuous",
+            "source": "https://www.indiansstartuptimes.com/trackk-raises-1m-seed-funding-secures-sebi-license-for-nse-bse-brokerage/",
+            "date": "August 12, 2025",
+            "effect": [
+                "Simplifies the trading process.",
+                "Reduces the learning curve for new users.",
+                "Provides a streamlined user experience."
+            ]
+        }
+    ],
+    "user_complaints": [],
+    "strategic_moves": [
+        {
+            "move": "Rebranding from TradeBook to Trackk",
+            "user_type": "Company",
+            "frequency": "Rare",
+            "source": "https://www.business-standard.com/content/companies/tradebook-a-popular-trading-app-amongst-gen-z-millennials-rebrands-itself-as-trackk-125011700065_1.html",
+            "date": "January 17, 2025",
+            "effect": [
+                "Aligned identity with growing ambitions and broader mission.",
+                "Signaled commitment to innovation and wealth-tech.",
+                "Aimed to better resonate with Gen Z and millennial target audience."
+            ]
+        },
+        {
+            "move": "Securing SEBI License for NSE & BSE Brokerage Services",
+            "user_type": "Company",
+            "frequency": "Rare",
+            "source": "https://www.indiansstartuptimes.com/trackk-raises-1m-seed-funding-secures-sebi-license-for-nse-bse-brokerage/",
+            "date": "August 12, 2025",
+            "effect": [
+                "Enabled direct brokerage services on major Indian exchanges.",
+                "Increased credibility and trustworthiness.",
+                "Expanded service offerings and revenue potential."
+            ]
+        },
+        {
+            "move": "Raising Seed Funding ($1M)",
+            "user_type": "Company",
+            "frequency": "Rare",
+            "source": "https://www.entrackr.com/trackk-raises-1-mn-in-seed-round/",
+            "date": "August 12, 2025",
+            "effect": [
+                "Provided capital for team expansion, technology development, and user experience enhancement.",
+                "Supported growth and scaling initiatives.",
+                "Increased runway for product development and market penetration."
+            ]
+        },
+        {
+            "move": "Focus on Youth-Oriented Features (e.g., behavioral insights, single-screen trading)",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Targets a specific and growing demographic in the Indian market.",
+                "Aims to differentiate from competitors by catering to unique needs of younger investors.",
+                "Fosters early adoption and brand loyalty among Gen Z and millennials."
+            ]
+        },
+        {
+            "move": "Developing advanced analytics and personalized portfolio features",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://trackk.in/about-us/",
+            "date": "Recent",
+            "effect": [
+                "Enhances the platform's value proposition.",
+                "Attracts users seeking data-driven investment tools.",
+                "Supports users in making informed investment decisions."
+            ]
+        }
+    ],
+    "milestones": [
+        "Founded in 2021.",
+        "Rebranded from TradeBook to Trackk in January 2025.",
+        "Raised $100K in pre-seed funding from Maahavir Ventures.",
+        "Raised $1M in seed funding in August 2025.",
+        "Secured SEBI license to operate brokerage services on NSE & BSE.",
+        "Amassed over 1.5 lakh registered users prior to obtaining full brokerage license.",
+        "Processed over 6,000 trades daily (prior to obtaining full brokerage license)."
+    ],
+    "new_features_launched": [
+        "Personalized stock reports.",
+        "Data-backed portfolio ideas.",
+        "Behavioral insights for traders.",
+        "Custom screeners with plain English input.",
+        "IPO reports with clear verdicts.",
+        "Single-screen trading experience (upcoming)."
+    ],
+    "other_crucial_details": [
+        "Trackk is a brand under which Tradebook Consultancy Services Private Limited offers its services.",
+        "The company is SEBI-registered as a Broker & Research Analyst.",
+        "Target audience: Gen Z and millennials.",
+        "The app has received high ratings on both Apple App Store (4.7/5) and Google Play Store (4.6/5).",
+        "Legal Name: Tradebook Consultancy Services Private Limited.",
+        "Incorporation Date: October 20, 2021."
+    ]
+}

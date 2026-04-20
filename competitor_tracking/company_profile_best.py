@@ -25,7 +25,9 @@ class GeminiCompanyResearcher:
         self.client = genai.Client(api_key=self.api_key)
         # self.model = "gemini-2.0-flash-lite"
         # self.model = "gemini-flash-latest"
-        self.model = "gemini-2.5-flash-lite"
+        # self.model = "gemini-2.5-flash-lite"
+        self.model = "gemini-2.5-flash"
+        # self.model = "gemini-flash-latest"
 
         # Updated schema with detailed analysis objects for critical categories
         self.json_schema_instruction = """
@@ -139,35 +141,125 @@ class GeminiCompanyResearcher:
         ```
         """
 
+    '''  
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-        """Runs the research with Google Search and returns parsed JSON."""
-        tools = [types.Tool(google_search=types.GoogleSearch())]
+        """Runs the research with Google Search, Thinking, and returns parsed JSON."""
+
+        # 1. Enable both Grounding and URL Context tools
+        tools = [
+            types.Tool(google_search=types.GoogleSearch()),
+            types.Tool(url_context=types.UrlContext())
+        ]
+
+        domain_context = f" (Official Domain: {domain})" if domain else ""
+
+        # 2. Add a strict Research Protocol to the prompt
+        prompt = (
+            f"Perform exhaustive research on the company: {company_query}{domain_context}. "
+            f"CRITICAL VERIFICATION RULES:\n"
+            f"1. ONLY cite information from the company's official domain ({domain})\n"
+            f"2. Use Google Search to find current, verified sources (prioritize official pages)\n"
+            f"3. Use URL Context to fetch and validate content from specific URLs before including\n"
+            f"4. For each claim, specify the exact URL source and date accessed\n"
+            f"5. If you cannot verify a claim, mark it as 'Unable to verify' - DO NOT FABRICATE\n"
+            f"6. Discard any links older than 2 years unless they are historical milestones\n"
+            f"7. Cross-reference multiple sources for critical claims\n"
+            f"\n{self.json_schema_instruction}"
+        )
+
+        # 3. Apply your Thinking Config and force Native JSON output
+        # config = types.GenerateContentConfig(
+        #     tools=tools,
+        #     thinking_config=types.ThinkingConfig(
+        #         thinking_level="HIGH"
+        #     ),
+        #     temperature=0.2  # Lower temperature reduces creative hallucinations
+        #     # response_mime_type="application/json"  # Forces the output to be pure JSON
+        # )
+
+        config = types.GenerateContentConfig(
+            tools=tools,
+            thinking_config=types.ThinkingConfig(
+                thinking_level="HIGH",  # ← Forces verification logic
+            ),
+        )
+
+        try:
+            print(
+                f"Searching and analyzing data for '{company_query}'... (This may take longer due to HIGH thinking level)")
+            # response = self.client.models.generate_content(
+            #     model=self.model,
+            #     contents=prompt,
+            #     config=config,
+            # )
+
+            for chunk in self.client.models.generate_content_stream(
+                    model=self.model,
+                    contents=prompt,
+                    config=config,
+            ):
+                if chunk.text:
+                    print(chunk.text, end="")
+                    text = chunk.text
+                    if text is None:
+                        raise ValueError("API returned no text response")
+
+            return json.loads(text.strip())
+
+        except Exception as e:
+            return {"error": f"Research failed: {str(e)}", "raw_response": locals().get('text', 'No response')}
+    '''
+
+    def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
+        """Runs research with grounding, thinking mode, and URL verification."""
+
+        # ✅ Add BOTH tools for grounding
+        tools = [
+            types.Tool(google_search=types.GoogleSearch()),
+            types.Tool(url_context=types.UrlContext()),  # NEW
+        ]
 
         domain_context = f" (Official Domain: {domain})" if domain else ""
         prompt = (
             f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"Pay special attention to current struggles, unique differentiators, user complaints, and strategic moves. "
-            f"For these four sections, provide the deep analysis including user types, frequency, sources, dates, and effects. "
-            f"\n\n{self.json_schema_instruction}"
+            f"\n\nCRITICAL VERIFICATION RULES:\n"
+            f"1. ONLY cite information from verified, official sources\n"
+            f"2. Use Google Search to find current links\n"
+            f"3. Use URL Context to fetch and validate each URL before citing\n"
+            f"4. Discard outdated links (>2 years old unless historical)\n"
+            f"5. If unverifiable, mark as 'Unable to verify' - NEVER fabricate\n"
+            f"6. Include exact URLs and access dates as proof\n"
+            f"\n{self.json_schema_instruction}"
         )
 
-        config = types.GenerateContentConfig(tools=tools)
+        # ✅ Add thinking mode and stream config
+        config = types.GenerateContentConfig(
+            tools=tools,
+            # thinking_config=types.ThinkingConfig(
+            #     thinking_level="HIGH",  # Forces verification reasoning
+            # ),
+            thinking_config=types.ThinkingConfig(
+                thinking_budget=8192,
+            ),
+        )
 
         try:
-            print(f"Searching and analyzing data for '{company_query}'...")
-            response = self.client.models.generate_content(
-                model=self.model,
-                contents=prompt,
-                config=config,
-            )
+            print(f"Researching '{company_query}' with verification...\n")
+            full_text = ""
 
-            text = response.text
-            if text is None:
-                raise ValueError("API returned no text response")
+            # ✅ Use streaming instead
+            for chunk in self.client.models.generate_content_stream(
+                    model=self.model,
+                    contents=prompt,
+                    config=config,
+            ):
+                if chunk.text:
+                    full_text += chunk.text
+                    print(chunk.text, end="", flush=True)
 
-            text = text.strip()
+            text = full_text.strip()
 
-            # Extract JSON from potential markdown backticks
+            # Extract JSON from markdown
             if "```json" in text:
                 json_str = text.split("```json")[1].split("```")[0].strip()
             elif "```" in text:
@@ -178,7 +270,10 @@ class GeminiCompanyResearcher:
             return json.loads(json_str)
 
         except Exception as e:
-            return {"error": f"Research failed: {str(e)}", "raw_response": locals().get('text', 'No response')}
+            return {
+                "error": f"Research failed: {str(e)}",
+                "raw_response": full_text if 'full_text' in locals() else 'No response'
+            }
 
     def save_results(self, data: Dict[str, Any], original_query: str, storage_folder: str = "data/results"):
         """Saves the JSON data to {storage_folder}/{company_name}.json"""

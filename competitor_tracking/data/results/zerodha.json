@@ -1,0 +1,333 @@
+{
+    "company_name": "Zerodha",
+    "domain": "https://zerodha.com",
+    "playstore_link": "Data not publicly available",
+    "appstore_link": "Data not publicly available",
+    "youtube_official_channel": "Data not publicly available",
+    "year_founded": "2010",
+    "names_of_founders": [
+        "Nithin Kamath",
+        "Nikhil Kamath"
+    ],
+    "exact_hq_location": "Bengaluru, Karnataka, India",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Financial services, Online trading, Brokerage",
+    "available_platforms": "Both",
+    "funding_raised": "No funding raised (bootstrapped)",
+    "no_of_users": "Over 1.6 crore (16 million) active users as of 2025",
+    "annual_revenue": "₹8,870Cr as of March 31, 2025",
+    "key_positioning": "Low-cost, technology-driven online brokerage platform for retail investors, aiming to simplify trading and investing.",
+    "revenue_model": "Flat fee of ₹20 per trade for equity and derivatives, 0.03% for commodity trading, account maintenance fees, and revenue from other services like mutual funds, commodities, bonds, and IPOs.",
+    "competitors": [
+        {
+            "name": "Upstox",
+            "domain": "Data not publicly available",
+            "revenue": "Generates 25% of Zerodha's revenue",
+            "year_founded": "2009",
+            "hq_location": "Mumbai, Maharashtra"
+        },
+        {
+            "name": "Groww",
+            "domain": "Data not publicly available",
+            "revenue": "Data not publicly available",
+            "year_founded": "Data not publicly available",
+            "hq_location": "Bengaluru"
+        },
+        {
+            "name": "SAS Online",
+            "domain": "Data not publicly available",
+            "revenue": "Data not publicly available",
+            "year_founded": "Data not publicly available",
+            "hq_location": "Data not publicly available"
+        },
+        {
+            "name": "Finvasia",
+            "domain": "Data not publicly available",
+            "revenue": "Data not publicly available",
+            "year_founded": "Data not publicly available",
+            "hq_location": "Data not publicly available"
+        },
+        {
+            "name": "Angel One",
+            "domain": "Data not publicly available",
+            "revenue": "Data not publicly available",
+            "year_founded": "Data not publicly available",
+            "hq_location": "Data not publicly available"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Decline in active client numbers.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0cjypy-byMztkAhOHXIqQ0NYwyrFTgTNSKud_hGOlqU-yYlVSjJ-FyZSEdY-Px_J0WtK_k9uOfouwXaSl9lmy-xGeDvTuO4-09CXG923We3Eb132nMS9h-o9-4ll7D4EX2KjEq4gx70QfwDSp6LXQLP9p39K1GstVZLOs-Fd6yS-CQ==",
+            "date": "February to August 2025",
+            "effect": [
+                "Market share reduction.",
+                "Increased competition from other platforms.",
+                "Potential impact on revenue if decline continues."
+            ]
+        },
+        {
+            "description": "Regulatory restrictions impacting futures and options trading.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0cjypy-byMztkAhOHXIqQ0NYwyrFTgTNSKud_hGOlqU-yYlVSjJ-FyZSEdY-Px_J0WtK_k9uOfouwXaSl9lmy-xGeDvTuO4-09CXG923We3Eb132nMS9h-o9-4ll7D4EX2KjEq4gx70QfwDSp6LXQLP9p39K1GstVZLOs-Fd6yS-CQ==",
+            "date": "Recent",
+            "effect": [
+                "Reduced trading volumes for derivatives.",
+                "Shift in focus for some traders to other investment types.",
+                "Pressure on revenue streams tied to high-frequency trading."
+            ]
+        },
+        {
+            "description": "Decline in revenue from operations in FY25 compared to FY24.",
+            "user_type": "Internal Staff",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETTrnh73HumK1vqT2zEo0Z4urGH62n-L179OkH2pZ2TwXo99J-7L_O-Ltjrt8kJXb559EzBLtFWLPFp35TZRqblDbVVmifuh4mdCtZWerSh-8T9foOW1n54K1w3Ml-RMBg7ETwvlawlsXUphnaDjf7isK2aZr5aETHCE3MFM3xTzi5pclLIeoTYizXj2fSWijjXL-zeA==",
+            "date": "2025",
+            "effect": [
+                "Reduced profitability.",
+                "Potential impact on future investments and expansion.",
+                "Increased focus on cost management."
+            ]
+        },
+        {
+            "description": "Slower new investor additions.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETTrnh73HumK1vqT2zEo0Z4urGH62n-L179OkH2pZ2TwXo99J-7L_O-Ltjrt8kJXb559EzBLtFWLPFp35TZRqblDbVVmifuh4mdCtZWerSh-8T9foOW1n54K1w3Ml-RMBg7ETwvlawlsXUphnaDjf7isK2aZr5aETHCE3MFM3xTzi5pclLIeoTYizXj2fSWijjXL-zeA==",
+            "date": "Recent",
+            "effect": [
+                "Slower growth in customer base.",
+                "Increased competition for acquiring new users.",
+                "Need for innovative user acquisition strategies."
+            ]
+        },
+        {
+            "description": "Perceived slow response times for customer support tickets.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAmOtCpRdWSIM9LdtM-gZDZl9FaAB6lr2WMOoxFbGFueoK7pg3_s0Hg-Eav4QS_n1Flf0uh4k-uaNSyjyzCFaYhMEFLiytEjDJkD5b6xMhhu6Hqsqx-qpkMOYe0ih-XrDlMd_OudgbDI9afsPiumnAd7omZJjj8LmPLM6cz5RNyfOeX4jx8464pDJ6M1V0rhCKDFrXQFjHiQUGr2Fx9n_CCzkBjWJAWA==",
+            "date": "March 21, 2021",
+            "effect": [
+                "Customer frustration.",
+                "Potential for customer churn.",
+                "Damage to brand reputation if not addressed."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Zero brokerage for equity delivery and flat ₹20 for other trades.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9WqhrxvHY-odXMH0XrL6XC2u9ug89Zo9BXHJf28Vl7IvNdRhoxi5X4rhy0zUYiwvWmbCrFC6X_4fib8eSHsRPtOpgU72o-PnKJj7Nk8o2K40DsMHafffS9K7geU4aJG2kSVvMz-QyDSk3Hv0tR7PMs4Ta9oVQVh3BisWVyg==",
+            "date": "Recent",
+            "effect": [
+                "Attracts a large volume of retail investors.",
+                "Creates a competitive advantage over traditional brokers.",
+                "Drives high transaction volumes."
+            ]
+        },
+        {
+            "feature": "In-house technology development for trading platforms.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "Recent",
+            "effect": [
+                "Greater control over product development and innovation.",
+                "Potentially lower operational costs.",
+                "Faster implementation of new features."
+            ]
+        },
+        {
+            "feature": "Bootstrapped business model with no external funding.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOqOK5LQRUXmneJI3feOmsE2lrY6pRLJ4aaco0f4TNmBejrO7b_5Up7OnO3XrNZKXwkp66glHDp1JphM_k6S66vQ6xz7V1NDEca2MCClb8QJRMOypLnp429esuluNVv-g6pzQXvB2F-eTud6_qM2zNFRQiWDycCdCGA5_n_nVcNGO_DOKsGMIp0ApeN3c=",
+            "date": "Recent",
+            "effect": [
+                "No pressure from investors to prioritize short-term growth over long-term sustainability.",
+                "Focus on customer needs rather than investor demands.",
+                "Stronger financial resilience and independence."
+            ]
+        },
+        {
+            "feature": "Educational initiatives like Varsity.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERdLLktoBFJmYTeREBUajGA4_acDIZzKDgEruh0dUg-3B1nl6u4qB_pYoRQJe0UMEBYsfGgzTvFFUlWmYNuaMs8n0Okt9KTmjbNk6Q_y2--B8iTHoDJ816YoCPXtOMDh_ZZPNLuJ8exM97ij-CL3RZqDKk0qYgBb00VyhNcvgWgE7Uuwm0zUtx",
+            "date": "Recent",
+            "effect": [
+                "Empowers retail investors with knowledge.",
+                "Builds customer loyalty and trust.",
+                "Contributes to a more informed investment community."
+            ]
+        },
+        {
+            "feature": "Focus on lean operations and automation.",
+            "user_type": "Internal Staff",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-LXw-vdqzfCMEXluOUDDcpMk1TqXDoWhSK51FtwahHCk-V_T3EXiBwoi8RwuO9V5GphF0Xp9SCNv10Re6yh_0CpI60wLajH32cLahqrlMSg6yAI8GzRsc07ryz9c5Jq8va5mcasesi41zMa0=",
+            "date": "Recent",
+            "effect": [
+                "Lower operational costs compared to competitors.",
+                "Higher profit margins.",
+                "Ability to offer competitive pricing."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Technical glitches and platform disruptions.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "Recent",
+            "effect": [
+                "Loss of trading opportunities.",
+                "Financial losses due to inability to execute trades.",
+                "Frustration and distrust in the platform."
+            ]
+        },
+        {
+            "issue": "Slow response times for customer support tickets.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAmOtCpRdWSIM9LdtM-gZDZl9FaAB6lr2WMOoxFbGFueoK7pg3_s0Hg-Eav4QS_n1Flf0uh4k-uaNSyjyzCFaYhMEFLiytEjDJkD5b6xMhhu6Hqsqx-qpkMOYe0ih-XrDlMd_OudgbDI9afsPiumnAd7omZJjj8LmPLM6cz5RNyfOeX4jx8464pDJ6M1V0rhCKDFrXQFjHiQUGr2Fx9n_CCzkBjWJAWA==",
+            "date": "March 21, 2021",
+            "effect": [
+                "Customer dissatisfaction.",
+                "Unresolved issues leading to further complications.",
+                "Negative reviews and word-of-mouth."
+            ]
+        },
+        {
+            "issue": "Incorrect MICR code leading to issues with bank account changes.",
+            "user_type": "End-user",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAmOtCpRdWSIM9LdtM-gZDZl9FaAB6lr2WMOoxFbGFueoK7pg3_s0Hg-Eav4QS_n1Flf0uh4k-uaNSyjyzCFaYhMEFLiytEjDJkD5b6xMhhu6Hqsqx-qpkMOYe0ih-XrDlMd_OudgbDI9afsPiumnAd7omZJjj8LmPLM6cz5RNyfOeX4jx8464pDJ6M1V0rhCKDFrXQFjHiQUGr2Fx9n_CCzkBjWJAWA==",
+            "date": "March 21, 2021",
+            "effect": [
+                "Inconvenience and delays in financial transactions.",
+                "Potential for unauthorized account changes if not resolved.",
+                "Erosion of trust in the platform's accuracy."
+            ]
+        },
+        {
+            "issue": "Issues related to withdrawals.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "Recent",
+            "effect": [
+                "Inability to access funds.",
+                "Impact on trading decisions.",
+                "Significant customer dissatisfaction."
+            ]
+        },
+        {
+            "issue": "Complaints about account opening process.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "Recent",
+            "effect": [
+                "Barriers to new customer acquisition.",
+                "Frustration for potential users.",
+                "Lost business opportunities."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Focus on in-house technology development.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "Recent",
+            "effect": [
+                "Enables customization and rapid innovation.",
+                "Reduces reliance on third-party vendors.",
+                "Builds proprietary intellectual property."
+            ]
+        },
+        {
+            "move": "Maintaining a bootstrapped, self-funded growth model.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOqOK5LQRUXmneJI3feOmsE2lrY6pRLJ4aaco0f4TNmBejrO7b_5Up7OnO3XrNZKXwkp66glHDp1JphM_k6S66vQ6xz7V1NDEca2MCClb8QJRMOypLnp429esuluNVv-g6pzQXvB2F-eTud6_qM2zNFRQiWDycCdCGA5_n_nVcNGO_DOKsGMIp0ApeN3c=",
+            "date": "Recent",
+            "effect": [
+                "Ensures independence and freedom from investor pressure.",
+                "Prioritizes long-term value creation.",
+                "Fosters a culture of profitability and efficiency."
+            ]
+        },
+        {
+            "move": "Expansion into mutual funds with Zerodha Fund House.",
+            "user_type": "Company",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "2023",
+            "effect": [
+                "Diversifies revenue streams.",
+                "Offers a more comprehensive investment product suite.",
+                "Leverages existing customer base for cross-selling."
+            ]
+        },
+        {
+            "move": "Investment in Rainmatter (fintech fund and incubator).",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETadL_8Z5RWKaRZPjo28h_PMiR_wFIZHVV8o-lcIVu2RsNc3GpotX6McyT0Lye-FmmAG0QkIcv5hrgtY9Q_2VNh8R7xDJXV_s3KctSc4yDnaNIZdYF3wzyY_8YOFV13hU=",
+            "date": "Recent",
+            "effect": [
+                "Supports the growth of the Indian capital markets.",
+                "Identifies and nurtures potential future competitors or partners.",
+                "Drives innovation within the fintech ecosystem."
+            ]
+        },
+        {
+            "move": "Emphasis on organic growth and customer referrals over advertising.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz3gv7EmvqiH414SIco7JOeC1_6ZyZBWaPYcfR8dzE8_uOGvvEksd-P38jOjL2Y8zHyW0dz9bGhDxfUwBlQzyKZvfz7GZBE09qnyoK58_e_qcRoCktXHWvHlv9x4npjoE4pnUMDWty_G4mmkXtjpGauBZWEFi52_Ivlvc67OmfNRe0gHej5lQW1nA-ApDIxhs5s2kIcloO68obj4ZokzLxb5eNj5hsuA_6USEZetA4-iUhj1NchfH6J3ZnA80Excx8-Veh-sPWME2b",
+            "date": "Recent",
+            "effect": [
+                "Significant cost savings on marketing expenses.",
+                "Builds a loyal customer base that trusts the platform.",
+                "Focuses resources on product development and customer experience."
+            ]
+        }
+    ],
+    "milestones": [
+        "Founded in August 2010.",
+        "Became a 'unicorn' with a self-assigned valuation of around $1 billion in June 2020.",
+        "Became the largest retail stockbroker in India by active client base in 2019.",
+        "Achieved over 1.6 crore (16 million) active users by 2025.",
+        "Launched Zerodha Fund House in 2023.",
+        "Managed assets worth Rs 6 lakh crore as of January 2025.",
+        "Reported revenues of ₹8,320 crore and profits of ₹4,700 crore in FY23/24."
+    ],
+    "new_features_launched": [
+        "Kite (flagship trading platform)",
+        "Coin (direct mutual fund investment platform)",
+        "Varsity mobile (educational app)",
+        "Zerodha Fund House (AMC)",
+        "Margin Trade Funding (MTF)"
+    ],
+    "other_crucial_details": [
+        "Zerodha's name is a combination of 'zero' and 'rodha' (Sanskrit for barrier), reflecting its mission to break down barriers in trading and investing.",
+        "The company is entirely bootstrapped, meaning it has not raised any external funding.",
+        "Nithin Kamath is the CEO and co-founder, while Nikhil Kamath is the Chief Investment Officer and co-founder.",
+        "Dr. Kailash Nadh is the Chief Technology Officer and is responsible for the in-house development of Zerodha's trading platforms.",
+        "Zerodha is a member of the National Stock Exchange of India (NSE), Bombay Stock Exchange (BSE), and Multi Commodity Exchange (MCX).",
+        "The company has a strong focus on ethical business practices and transparency, actively avoiding practices like spamming users or selling customer data.",
+        "Zerodha is committed to environmental and climate action through its Rainmatter Foundation."
+    ]
+}
