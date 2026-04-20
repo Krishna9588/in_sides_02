@@ -24,6 +24,7 @@ import urllib.request
 from collections import Counter
 from typing import Optional, List, Dict, Any
 from datetime import datetime
+from urllib.parse import urlparse
 from dotenv import load_dotenv
 
 from analyzer import analyzer
@@ -47,11 +48,16 @@ def _safe_name(value: Optional[str]) -> str:
 def _extract_app_id(input_str: str) -> str:
     """Extract numeric app ID from App Store URL or return as-is."""
     clean = (input_str or "").strip()
-    if "apps.apple.com" in clean:
+    if _is_app_store_url(clean):
         m = re.search(r"/id(\d+)", clean)
         if m:
             return m.group(1)
     return clean
+
+
+def _is_app_store_url(value: str) -> bool:
+    parsed = urlparse((value or "").strip())
+    return (parsed.hostname or "").lower() == "apps.apple.com"
 
 
 def _get_app_details(app_id: str) -> dict:
@@ -77,10 +83,13 @@ def _get_app_reviews_rss(app_id: str) -> list:
             for e in entries:
                 if not e.get("im:rating"):
                     continue
+                review_id = e.get("id")
+                if isinstance(review_id, dict):
+                    review_id = review_id.get("label", "")
                 reviews.append({
                     "rating": int(e.get("im:rating", {}).get("label", 0)),
                     "body": e.get("content", {}).get("label", ""),
-                    "id": e.get("id", {}).get("label") or e.get("id"),
+                    "id": review_id,
                 })
         except Exception:
             break
@@ -195,7 +204,7 @@ def analyze_app_store_app(input_str: str, search_query: str, search_method: str,
         app_id = _extract_app_id(input_str)
         result["extracted_data"]["app_id"] = app_id
         if not app_id:
-            errors.append("App ID could not be resolved from the provided input.")
+            errors.append("App ID or App Store URL could not be resolved from the provided input.")
             result["status"]["success"] = False
             return result
 
@@ -323,12 +332,12 @@ def app_store(
             if interactive:
                 fallback = input("Search failed. Enter App ID (numeric) or App Store URL: ").strip()
                 resolved_input = fallback
-                search_method = "url" if "apps.apple.com" in fallback else "direct_id"
+                search_method = "url" if _is_app_store_url(fallback) else "direct_id"
             else:
                 resolved_input = search_query
                 search_method = "direct_id"
     elif resolved_input:
-        if "apps.apple.com" in resolved_input:
+        if _is_app_store_url(resolved_input):
             search_method = "url"
         elif resolved_input.isdigit():
             search_method = "direct_id"

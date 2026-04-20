@@ -57,10 +57,15 @@ def _looks_like_package_name(input_str: str) -> bool:
 def _extract_app_id(input_str: str) -> str:
     """Extract app ID from Play Store URL or return as-is if already an ID."""
     clean = (input_str or "").strip()
-    if "play.google.com" in clean:
+    if _is_play_store_url(clean):
         qs = parse_qs(urlparse(clean).query)
         return qs.get("id", [clean])[0]
     return clean
+
+
+def _is_play_store_url(value: str) -> bool:
+    parsed = urlparse((value or "").strip())
+    return (parsed.hostname or "").lower() == "play.google.com"
 
 
 def _get_app_details(app_id: str) -> dict:
@@ -84,14 +89,14 @@ def _get_app_reviews(app_id: str) -> list:
             )
             for r in result:
                 rid = r.get("reviewId", "")
-                if rid and rid in seen:
+                if rid in seen:
                     continue
                 if rid:
                     seen.add(rid)
                 all_reviews.append({
                     "rating": r.get("score"),
                     "body": r.get("content", ""),
-                    "id": rid or None,
+                    "id": rid,
                 })
             print(f"    {star}★: {len(result)} reviews")
         except Exception as e:
@@ -207,7 +212,7 @@ def analyze_play_app(input_str: str, search_query: str, search_method: str, init
         app_id = _extract_app_id(input_str)
         result["extracted_data"]["app_id"] = app_id
         if not app_id:
-            errors.append("App ID/package could not be resolved from the provided input.")
+            errors.append("App ID or package name could not be resolved from the provided input.")
             return result
 
         if not GP_AVAILABLE:
@@ -336,12 +341,12 @@ def play_store(
             if interactive:
                 fallback = input("Search failed. Enter package name or Play Store URL: ").strip()
                 resolved_input = fallback
-                search_method = "url" if "play.google.com" in fallback else "direct_id"
+                search_method = "url" if _is_play_store_url(fallback) else "direct_id"
             else:
                 resolved_input = search_query
                 search_method = "direct_id"
     elif resolved_input:
-        if "play.google.com" in resolved_input:
+        if _is_play_store_url(resolved_input):
             search_method = "url"
         elif _looks_like_package_name(resolved_input):
             search_method = "direct_id"

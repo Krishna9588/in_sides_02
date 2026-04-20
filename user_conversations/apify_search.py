@@ -6,7 +6,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "").strip()
-APIFY_API_TIMEOUT = int(os.environ.get("APIFY_API_TIMEOUT", "60") or "60")
+try:
+    APIFY_API_TIMEOUT = int(os.environ.get("APIFY_API_TIMEOUT", "60"))
+except ValueError:
+    APIFY_API_TIMEOUT = 60
 
 APPLE_SEARCH_ACTORS = [
     "apify/app-store-search",
