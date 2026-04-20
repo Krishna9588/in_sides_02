@@ -20,8 +20,11 @@ import sys
 import json
 import time
 import argparse
+import re
+import urllib.request
 from typing import Optional
 from datetime import datetime
+from urllib.parse import quote_plus
 from dotenv import load_dotenv
 
 # Import analyzer for LLM analysis
@@ -37,6 +40,7 @@ if not APIFY_TOKEN:
     sys.exit(1)
 
 APIFY_BASE = "https://api.apify.com/v2"
+YOUTUBE_BASE = "https://www.youtube.com"
 
 
 # ── Apify helpers ─────────────────────────────────────────────────────────────
@@ -113,6 +117,72 @@ def _fmt_date(raw: str) -> str:
         return None
     raw = str(raw)[:10]
     return raw
+
+
+def _is_youtube_url(value: str) -> bool:
+    """Check if value is a YouTube URL."""
+    lowered = (value or "").strip().lower()
+    return lowered.startswith("http://") or lowered.startswith("https://")
+
+
+def _looks_like_video_url(value: str) -> bool:
+    """Detect if URL appears to be a YouTube video URL."""
+    lowered = (value or "").lower()
+    return "watch?v=" in lowered or "youtu.be/" in lowered or "/shorts/" in lowered
+
+
+def _looks_like_channel_url(value: str) -> bool:
+    """Detect if URL appears to be a YouTube channel URL."""
+    lowered = (value or "").lower()
+    return any(path in lowered for path in ["/@", "/channel/", "/c/", "/user/"])
+
+
+def _looks_like_channel_handle(value: str) -> bool:
+    """Detect @handle style channel reference."""
+    return bool(re.match(r"^@[a-zA-Z0-9._-]{2,}$", (value or "").strip()))
+
+
+def _looks_like_channel_id(value: str) -> bool:
+    """Detect UC... style channel ID."""
+    return bool(re.match(r"^UC[a-zA-Z0-9_-]{20,}$", (value or "").strip()))
+
+
+def _find_channel_url_by_name(channel_name: str) -> str:
+    """Resolve plain channel name to channel URL using YouTube search page."""
+    query = quote_plus(channel_name.strip())
+    search_url = f"{YOUTUBE_BASE}/results?search_query={query}"
+    with urllib.request.urlopen(search_url, timeout=10) as r:
+        html = r.read().decode("utf-8", errors="ignore")
+
+    handle_match = re.search(r'"canonicalBaseUrl":"(/@[^"]+)"', html)
+    if handle_match:
+        return f"{YOUTUBE_BASE}{handle_match.group(1).replace('\\/', '/')}"
+
+    url_match = re.search(r'"url":"(/@[^"]+)"', html)
+    if url_match:
+        return f"{YOUTUBE_BASE}{url_match.group(1).replace('\\/', '/')}"
+
+    id_match = re.search(r'"channelId":"(UC[a-zA-Z0-9_-]{20,})"', html)
+    if id_match:
+        return f"{YOUTUBE_BASE}/channel/{id_match.group(1)}"
+
+    return ""
+
+
+def _resolve_youtube_target(value: str, mode: str) -> str:
+    """Resolve plain text / handle / channel ID / URL to a YouTube target URL."""
+    cleaned = (value or "").strip()
+    if not cleaned:
+        return ""
+    if _is_youtube_url(cleaned):
+        return cleaned
+    if mode == "video":
+        return cleaned
+    if _looks_like_channel_handle(cleaned):
+        return f"{YOUTUBE_BASE}/{cleaned}"
+    if _looks_like_channel_id(cleaned):
+        return f"{YOUTUBE_BASE}/channel/{cleaned}"
+    return _find_channel_url_by_name(cleaned)
 
 
 # ── Video Analysis ─────────────────────────────────────────────────────────
@@ -320,20 +390,39 @@ def youtube(
         if not url:
             print("Error: URL is required")
             return {}
+    raw_input = (url or "").strip()
+    if not raw_input:
+        return {"error": "Input is required. Provide a YouTube URL or channel name."}
     
     # Auto-detect or confirm mode
     if not mode:
-        if "/@" in url or "/channel/" in url:
+        if _is_youtube_url(raw_input) and _looks_like_video_url(raw_input):
+            mode = "video"
+        elif _is_youtube_url(raw_input) and _looks_like_channel_url(raw_input):
+            mode = "channel"
+        elif _looks_like_channel_handle(raw_input) or _looks_like_channel_id(raw_input):
             mode = "channel"
         else:
-            mode = "video"
+            mode = "channel"
+
+    resolved_target = _resolve_youtube_target(raw_input, mode)
+    if not resolved_target:
+        if mode == "channel":
+            return {"error": "Unable to resolve YouTube channel from input. Try channel URL, @handle, channel ID, or exact channel name."}
+        return {"error": "Unable to resolve YouTube video from input. Provide a valid video URL."}
     
     # Run analysis
     if mode == "video":
-        result = analyze_video(url)
+        try:
+            result = analyze_video(resolved_target)
+        except Exception as e:
+            return {"error": str(e), "input": raw_input}
         name_key = "title"
     elif mode == "channel":
-        result = analyze_channel(url, max_videos=max_items)
+        try:
+            result = analyze_channel(resolved_target, max_videos=max_items)
+        except Exception as e:
+            return {"error": str(e), "input": raw_input}
         name_key = "channel"
     else:
         raise ValueError(f"Unknown mode: {mode}")

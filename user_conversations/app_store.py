@@ -22,7 +22,7 @@ import re
 import urllib.request
 from typing import Optional
 from datetime import datetime
-from urllib.parse import urlparse
+from urllib.parse import quote_plus
 from dotenv import load_dotenv
 
 # Import analyzer for LLM analysis
@@ -42,11 +42,93 @@ if not HF_TOKEN:
 
 def _extract_app_id(input_str: str) -> str:
     """Extract numeric app ID from App Store URL or return as-is."""
-    if "apps.apple.com" in input_str:
-        m = re.search(r"/id(\d+)", input_str)
+    cleaned = (input_str or "").strip()
+    if "apps.apple.com" in cleaned:
+        m = re.search(r"/id(\d+)", cleaned)
         if m:
             return m.group(1)
-    return input_str.strip()
+    m = re.search(r"\bid(\d+)\b", cleaned, re.IGNORECASE)
+    if m:
+        return m.group(1)
+    return cleaned
+
+
+def _search_app_id_by_name(app_name: str) -> str:
+    """Search App Store by app name and return best matching app ID."""
+    query = quote_plus(app_name.strip())
+    url = f"https://itunes.apple.com/search?term={query}&country=in&entity=software&limit=10"
+    with urllib.request.urlopen(url, timeout=10) as r:
+        data = json.loads(r.read())
+    results = data.get("results", [])
+    if not results:
+        return ""
+
+    def _norm(value: str) -> str:
+        return re.sub(r"[^a-z0-9]+", "", (value or "").lower())
+
+    target = _norm(app_name)
+    for item in results:
+        if _norm(item.get("trackName", "")) == target:
+            return str(item.get("trackId", ""))
+
+    return str(results[0].get("trackId", ""))
+
+
+def _resolve_app_id(input_str: str) -> str:
+    """Resolve input string to a numeric App Store app ID."""
+    app_id = _extract_app_id(input_str)
+    if app_id.isdigit():
+        return app_id
+    if not app_id:
+        return ""
+    return _search_app_id_by_name(app_id)
+
+
+def _safe_float(value: object) -> float:
+    """Safely convert value to float."""
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _safe_int(value: object) -> int:
+    """Safely convert value to int."""
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return 0
+
+
+def _clean_review_text(text: object, limit: int = 800) -> str:
+    """Clean and truncate review text."""
+    cleaned = re.sub(r"\s+", " ", str(text or "")).strip()
+    return cleaned[:limit]
+
+
+def _safe_analysis(data: object) -> dict:
+    """Ensure analyzer output is a dictionary."""
+    return data if isinstance(data, dict) else {}
+
+
+def _build_context(details: dict, reviews: list[dict]) -> str:
+    """Build bounded prompt context from app details and reviews."""
+    review_lines = [
+        f"[{r.get('rating')}★] {r.get('body')[:220]}"
+        for r in reviews if r.get("body")
+    ]
+    negative_lines = [
+        f"[{r.get('rating')}★] {r.get('body')[:320]}"
+        for r in reviews if (r.get("rating") or 5) <= 2 and r.get("body")
+    ]
+    description = (details.get("description", "") or "")[:1500]
+    return (
+        f"App: {details.get('trackName')}\n"
+        f"Developer: {details.get('artistName')}\n"
+        f"Description: {description}\n"
+        f"All recent reviews:\n{chr(10).join(review_lines)}\n\n"
+        f"Negative reviews (1-2 star):\n{chr(10).join(negative_lines)}"
+    )
 
 
 def _get_app_details(app_id: str) -> dict:
@@ -87,26 +169,29 @@ def analyze_app_store_app(input_str: str) -> dict:
     """Analyze an Apple App Store app using iTunes API + HuggingFace."""
     print(f"\n[APP STORE] Analyzing: {input_str}...")
     
-    app_id = _extract_app_id(input_str)
+    app_id = _resolve_app_id(input_str)
+    if not app_id:
+        raise ValueError("Unable to resolve App Store app from input. Try app URL, app ID, or exact app name.")
     
     print("  [APP STORE] Fetching app details...")
-    details = _get_app_details(app_id)
+    try:
+        details = _get_app_details(app_id)
+    except Exception as e:
+        raise ValueError(f"Failed to fetch App Store details for '{input_str}': {e}") from e
     
     if not details:
-        raise ValueError(f"No data found for app ID: {app_id}")
+        raise ValueError(f"No App Store data found for input: {input_str}")
     
     print("  [APP STORE] Fetching reviews...")
     all_reviews = _get_app_reviews_rss(app_id)
-    
-    negative_reviews = [r for r in all_reviews if (r.get("rating") or 5) <= 2]
-    all_reviews_text = "\n".join(f"[{r.get('rating')}★] {r.get('body')[:200]}" for r in all_reviews)
-    negative_reviews_text = "\n".join(f"[{r.get('rating')}★] {r.get('body')[:300]}" for r in negative_reviews)
-    
-    description = (details.get("description", "") or "")[:1500]
-    context = f"App: {details.get('trackName')}\nDeveloper: {details.get('artistName')}\nDescription: {description}\nAll recent reviews:\n{all_reviews_text}\n\nNegative reviews (1-2 star):\n{negative_reviews_text}"
+    all_reviews = [{
+        "rating": _safe_int(r.get("rating")),
+        "body": _clean_review_text(r.get("body")),
+    } for r in all_reviews if _clean_review_text(r.get("body"))]
+    context = _build_context(details, all_reviews)
     
     print("  [HF] Analyzing app...")
-    analysis = analyzer(f"""Analyze this mobile app based on its description and user reviews. Return JSON with:
+    analysis = _safe_analysis(analyzer(f"""Analyze this mobile app based on its description and user reviews. Return JSON with:
 - "summary": 2-3 sentence overview of what the app does
 - "key_features": list of main features (max 8)
 - "target_audience": who this app is for (1 sentence)
@@ -119,7 +204,7 @@ def analyze_app_store_app(input_str: str) -> dict:
 Return ONLY valid JSON.
 
 Context:
-{context[:4000]}""")
+{context[:4000]}"""))
     
     # Extracted data section
     extracted_data = {
@@ -130,8 +215,8 @@ Context:
         "app_store_url": details.get("trackViewUrl"),
         "icon": details.get("artworkUrl512") or details.get("artworkUrl100"),
         "genre": details.get("primaryGenreName"),
-        "rating": round(details.get("averageUserRating", 0), 2),
-        "total_ratings": details.get("userRatingCount"),
+        "rating": round(_safe_float(details.get("averageUserRating", 0)), 2),
+        "total_ratings": _safe_int(details.get("userRatingCount")),
         "price": details.get("formattedPrice"),
         "version": details.get("version"),
         "released": details.get("releaseDate"),
@@ -194,9 +279,17 @@ def app_store(
         if not input_str:
             print("Error: Input is required")
             return {}
+    elif isinstance(input_str, str):
+        input_str = input_str.strip()
+    
+    if not input_str:
+        return {"error": "Input is required. Provide App Store URL, app ID, or app name."}
     
     # Run analysis
-    result = analyze_app_store_app(input_str)
+    try:
+        result = analyze_app_store_app(input_str)
+    except Exception as e:
+        return {"error": str(e), "input": input_str}
     
     # Auto-save to data directory
     if save and result and not result.get("error"):
