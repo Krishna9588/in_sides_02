@@ -38,7 +38,7 @@ if not HF_TOKEN:
 
 # Check if google-play-scraper is available
 try:
-    from google_play_scraper import app as gp_app, reviews as gp_reviews, Sort
+    from google_play_scraper import app as gp_app, reviews as gp_reviews, search as gp_search, Sort
     GP_AVAILABLE = True
 except ImportError:
     GP_AVAILABLE = False
@@ -51,10 +51,72 @@ except ImportError:
 
 def _extract_app_id(input_str: str) -> str:
     """Extract app ID from Play Store URL or return as-is if already an ID."""
-    if "play.google.com" in input_str:
-        qs = parse_qs(urlparse(input_str).query)
-        return qs.get("id", [input_str])[0]
-    return input_str.strip()
+    cleaned = (input_str or "").strip()
+    parsed = urlparse(cleaned)
+    if parsed.scheme in ("http", "https") and parsed.netloc == "play.google.com":
+        qs = parse_qs(urlparse(cleaned).query)
+        return qs.get("id", [cleaned])[0].strip()
+    return cleaned
+
+
+def _is_package_name(value: str) -> bool:
+    """Check whether value looks like Android package name."""
+    return bool(re.match(r"^[a-zA-Z][a-zA-Z0-9_]*(\.[a-zA-Z0-9_]+)+$", (value or "").strip()))
+
+
+def _search_package_name(app_name: str) -> str:
+    """Search Play Store by app name and return best-matching package name."""
+    cleaned_name = (app_name or "").strip()
+    if not cleaned_name:
+        return ""
+    if "://" in cleaned_name:
+        raise ValueError("App name search expects a plain app name, not a URL.")
+
+    try:
+        results = gp_search(cleaned_name, lang="en", country="in", n_hits=10)
+    except Exception as e:
+        raise ValueError(f"Play Store search failed for '{cleaned_name}': {e}") from e
+
+    if not results:
+        return ""
+
+    def _norm(value: str) -> str:
+        return re.sub(r"[^a-z0-9]+", "", (value or "").lower())
+
+    target = _norm(app_name)
+    for item in results:
+        if _norm(item.get("title", "")) == target:
+            return item.get("appId", "")
+    return results[0].get("appId", "")
+
+
+def _resolve_app_id(input_str: str) -> str:
+    """Resolve URL, package name, or app name to a package name."""
+    app_id = _extract_app_id(input_str)
+    if _is_package_name(app_id):
+        return app_id
+    if not app_id:
+        return ""
+    return _search_package_name(app_id)
+
+
+def _clean_review_text(text: object, limit: int = 800) -> str:
+    """Clean and truncate review text."""
+    cleaned = re.sub(r"\s+", " ", str(text or "")).strip()
+    return cleaned[:limit]
+
+
+def _safe_analysis(data: object) -> dict:
+    """Ensure analyzer output is a dictionary."""
+    return data if isinstance(data, dict) else {}
+
+
+def _safe_int(value: object) -> int:
+    """Safely convert value to int."""
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return 0
 
 
 def _get_app_details(app_id: str) -> dict:
@@ -94,13 +156,22 @@ def analyze_play_app(input_str: str) -> dict:
     """Analyze a Google Play Store app using google-play-scraper + HuggingFace."""
     print(f"\n[PLAY STORE] Analyzing: {input_str}...")
     
-    app_id = _extract_app_id(input_str)
+    app_id = _resolve_app_id(input_str)
+    if not app_id:
+        raise ValueError("Unable to resolve Play Store app from input. Try URL, package name, or exact app name.")
     
     print("  [PLAY] Fetching app details...")
-    details = _get_app_details(app_id)
+    try:
+        details = _get_app_details(app_id)
+    except Exception as e:
+        raise ValueError(f"Failed to fetch Play Store details for '{input_str}': {e}") from e
     
     print("  [PLAY] Fetching reviews...")
     all_reviews = _get_app_reviews(app_id)
+    all_reviews = [{
+        "rating": _safe_int(r.get("rating")),
+        "body": _clean_review_text(r.get("body")),
+    } for r in all_reviews if _clean_review_text(r.get("body"))]
     
     negative_reviews = [r for r in all_reviews if (r.get("rating") or 5) <= 2]
     all_reviews_text = "\n".join(f"[{r.get('rating')}★] {r.get('body')[:200]}" for r in all_reviews)
@@ -110,7 +181,7 @@ def analyze_play_app(input_str: str) -> dict:
     context = f"App: {details.get('title')}\nDeveloper: {details.get('developer')}\nDescription: {description}\nAll recent reviews:\n{all_reviews_text}\n\nNegative reviews (1-2 star):\n{negative_reviews_text}"
     
     print("  [HF] Analyzing app...")
-    analysis = analyzer(f"""Analyze this mobile app based on its description and user reviews. Return JSON with:
+    analysis = _safe_analysis(analyzer(f"""Analyze this mobile app based on its description and user reviews. Return JSON with:
 - "summary": 2-3 sentence overview of what the app does
 - "key_features": list of main features (max 8)
 - "target_audience": who this app is for (1 sentence)
@@ -123,7 +194,7 @@ def analyze_play_app(input_str: str) -> dict:
 Return ONLY valid JSON.
 
 Context:
-{context[:4000]}""")
+{context[:4000]}"""))
     
     return {
         "store": "Google Play",
@@ -186,9 +257,17 @@ def play_store(
         if not input_str:
             print("Error: Input is required")
             return {}
+    elif isinstance(input_str, str):
+        input_str = input_str.strip()
+
+    if not input_str:
+        return {"error": "Input is required. Provide Play Store URL, package name, or app name."}
     
     # Run analysis
-    result = analyze_play_app(input_str)
+    try:
+        result = analyze_play_app(input_str)
+    except Exception as e:
+        return {"error": str(e), "input": input_str}
     
     # Auto-save to data directory
     if save and result and not result.get("error"):

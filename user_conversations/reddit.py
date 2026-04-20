@@ -23,6 +23,7 @@ import argparse
 import re
 from typing import Optional
 from datetime import datetime, timedelta
+from urllib.parse import urlparse
 from dotenv import load_dotenv
 
 from analyzer import analyzer
@@ -37,6 +38,49 @@ if not APIFY_TOKEN:
     sys.exit(1)
 
 APIFY_BASE = "https://api.apify.com/v2"
+REDDIT_BASE = "https://www.reddit.com"
+
+
+def _is_reddit_url(value: str) -> bool:
+    """Check if value is a reddit URL."""
+    try:
+        parsed = urlparse((value or "").strip())
+    except Exception:
+        return False
+    host = (parsed.netloc or "").lower()
+    return parsed.scheme in ("http", "https") and (host == "reddit.com" or host.endswith(".reddit.com"))
+
+
+def _normalize_subreddit_name(value: str) -> str:
+    """Normalize subreddit input like r/python, /r/python/, python."""
+    raw = (value or "").strip()
+    if not raw:
+        return ""
+    if _is_reddit_url(raw):
+        m = re.search(r"/r/([^/?#]+)/?", raw)
+        return m.group(1) if m else ""
+    raw = raw.strip("/")
+    raw = re.sub(r"^r/", "", raw, flags=re.IGNORECASE)
+    raw = re.sub(r"^/r/", "", raw, flags=re.IGNORECASE)
+    cleaned = re.sub(r"[^A-Za-z0-9_]", "", raw)
+    if not (3 <= len(cleaned) <= 21):
+        return ""
+    if cleaned.startswith("_") or cleaned.endswith("_"):
+        return ""
+    if not re.fullmatch(r"[A-Za-z0-9_]+", cleaned):
+        return ""
+    return cleaned
+
+
+def _resolve_reddit_target(value: str, mode: str) -> str:
+    """Resolve reddit input to canonical URL for selected mode."""
+    cleaned = (value or "").strip()
+    if _is_reddit_url(cleaned):
+        return cleaned
+    if mode == "subreddit":
+        name = _normalize_subreddit_name(cleaned)
+        return f"{REDDIT_BASE}/r/{name}/" if name else ""
+    return ""
 
 
 def _apify_run(actor_id: str, input_data: dict, timeout: int = 120) -> list:
@@ -371,17 +415,33 @@ def reddit(
             print("Error: URL is required")
             return {}
     
+    raw_input = (url or "").strip()
+    if not raw_input:
+        return {"error": "Input is required. Provide a Reddit URL or subreddit name."}
+
     if not mode:
-        if "/r/" in url and "/comments/" not in url:
+        if _is_reddit_url(raw_input) and "/comments/" not in raw_input:
             mode = "subreddit"
         else:
-            mode = "post"
+            mode = "subreddit" if not _is_reddit_url(raw_input) else "post"
+
+    resolved_input = _resolve_reddit_target(raw_input, mode)
+    if not resolved_input:
+        if mode == "subreddit":
+            return {"error": "Unable to resolve subreddit from input. Use subreddit name (e.g. python) or subreddit URL."}
+        return {"error": "Unable to resolve Reddit post URL from input. Please provide a valid Reddit post URL."}
     
     if mode == "post":
-        result = analyze_reddit_post(url)
+        try:
+            result = analyze_reddit_post(resolved_input)
+        except Exception as e:
+            return {"error": str(e), "input": raw_input}
         name_key = "title"
     elif mode == "subreddit":
-        result = analyze_subreddit(url, max_posts=max_items, days=days)
+        try:
+            result = analyze_subreddit(resolved_input, max_posts=max_items, days=days)
+        except Exception as e:
+            return {"error": str(e), "input": raw_input}
         name_key = "subreddit"
     else:
         raise ValueError(f"Unknown mode: {mode}")
