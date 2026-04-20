@@ -117,6 +117,7 @@ The **Founder Intelligence System** acts as a virtual research intern and market
 2. Google Play Store: https://github.com/facundoolano/google-play-scraper
 3. App Store: https://pypi.org/project/app-store-scraper/
 4. Scrape Reddit: https://pypi.org/project/mcp-reddit/
+5. Youtube Videos: https://pypi.org/project/readvideo/
 5. Youtube Videos: https://pypi.org/project/mcp-youtube/
 6. Youtube Videos: https://pypi.org/project/download-youtube-subtitle/
 ---

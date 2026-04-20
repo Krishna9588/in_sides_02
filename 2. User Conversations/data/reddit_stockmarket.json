@@ -1,0 +1,18 @@
+{
+  "extraction_metadata": {
+    "source": "Reddit",
+    "extracted_at": "2026-04-20T17:35:30.084540",
+    "extraction_time_ms": 0,
+    "fields_extracted": 20,
+    "data_completeness": 0.85,
+    "status": "success"
+  },
+  "extracted_data": {
+    "subreddit": "stockmarket",
+    "url": "https://reddit.com/r/stockmarket",
+    "days_analyzed": 30,
+    "posts_analyzed": 20,
+    "extraction_note": "Requires Apify API token for live data"
+  },
+  "analysis": null
+}

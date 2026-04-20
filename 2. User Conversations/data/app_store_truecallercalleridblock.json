@@ -1,0 +1,645 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-04-20T17:50:48.109299",
+    "extraction_time_seconds": 4.77,
+    "fields_extracted": 32,
+    "country": "in",
+    "reviews_distribution": {
+      "1": 20,
+      "2": 20,
+      "3": 20,
+      "4": 20,
+      "5": 20
+    },
+    "total_reviews_extracted": 60,
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 448142450,
+      "trackName": "Truecaller: Caller ID & Block",
+      "bundleId": "com.truesoftware.TrueCallerOther",
+      "trackViewUrl": "https://apps.apple.com/in/app/truecaller-caller-id-block/id448142450?uo=4",
+      "artistId": 336142200,
+      "artistName": "True Software Scandinavia AB",
+      "artistViewUrl": "https://apps.apple.com/in/developer/true-software-scandinavia-ab/id336142200?uo=4",
+      "sellerName": "True Software Scandinavia AB",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "averageUserRating": 4.39526,
+      "userRatingCount": 878355,
+      "averageUserRatingForCurrentVersion": 4.39526,
+      "userRatingCountForCurrentVersion": 878355,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "INR",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "26.14",
+      "releaseNotes": "We update Truecaller weekly to ensure it runs perfectly on your iPhone.\n\nThis update includes performance optimizations and bug fixes.",
+      "releaseDate": "2011-07-12T02:58:52Z",
+      "currentVersionReleaseDate": "2026-04-13T11:47:06Z",
+      "description": "With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and robocalls before you pick up\n• View & search previously identified calls in the Phone app\n• Take advantage of the best spam call blocker for iPhone\n• Enable spam identification and blocking by accessing Settings > Apps > Phone > Call Blocking & Identification\n• A paid subscription is required to access this feature\n\nTRUECALLER ASSISTANT: AI-POWERED CALL SCREENING*\n\n• It uses machine learning and speech-to-text technology to ask questions to the caller, helping you find out who they are and the rea",
+      "shortDescription": "",
+      "minimumOsVersion": "16.0",
+      "fileSizeBytes": 203340800,
+      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/94/1a/4f941a87-f821-ccc5-f249-aaa1b04e3cad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/94/1a/4f941a87-f821-ccc5-f249-aaa1b04e3cad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/94/1a/4f941a87-f821-ccc5-f249-aaa1b04e3cad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "kind": "software",
+      "trackCensoredName": "Truecaller: Caller ID & Block",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [
+      {
+        "id": "13967527907",
+        "author": "Vignesh_91",
+        "rating": 1,
+        "title": "Greedy & Fraudulent",
+        "content": "Never you can identify the caller with iPhones but with Any Android device there is access at all times \nWhy such greediness? \nIn What Aspects Android Users get that privilege than iPhone users ? You people assume just because people who own iPhones wouldn’t care to spend lavish! Its has be same at all aspects \nIf Android users have free access then so does the iPhone users and if iPhone users need to pay for even the basic services then so should the Android users \nStop being a biased cheap mentality people",
+        "date": "2026-04-17T07:13:14-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13966330169",
+        "author": "Roshan sukita",
+        "rating": 1,
+        "title": "Not free anymore",
+        "content": "If I try to check number asking for recharge fist",
+        "date": "2026-04-16T22:57:03-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13963382447",
+        "author": "Dheeraj Naik",
+        "rating": 1,
+        "title": "Dheeraj Naik",
+        "content": "Dheeraj Naik",
+        "date": "2026-04-16T03:18:32-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13962911503",
+        "author": "Rahul Kumar 123",
+        "rating": 1,
+        "title": "Caller id not shown of all call",
+        "content": "Caller name not shown of any call",
+        "date": "2026-04-15T23:13:43-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13962688407",
+        "author": "Aasim94",
+        "rating": 1,
+        "title": "Notifications are all ads",
+        "content": "There is nothing in this app but ads",
+        "date": "2026-04-15T21:14:54-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13956206017",
+        "author": "Atul Jadham",
+        "rating": 1,
+        "title": "It Is a fraud company",
+        "content": "Their management of payment is very bad. I purchased the individual plan and then upgraded to a family plan after  10 days. Truecaller said that they will refund the balance amount of individual plan. The refunded for the family plan but still my individual plan is not active. I'm raising a cybercrime complaint against them",
+        "date": "2026-04-14T00:41:25-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13955995696",
+        "author": "False caller",
+        "rating": 1,
+        "title": "True caller",
+        "content": "Its has almost become a fraudulent aap..extorting money and supporting scam aaps🙏",
+        "date": "2026-04-13T22:47:15-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13954377436",
+        "author": "it99338",
+        "rating": 1,
+        "title": "Subscription app pretending to be a free app",
+        "content": "Useless on iPhone. Nothing works without a paid subscription.\nFully subscription app pretending to be a free app.\n\nApp which harvested and uses YOUR phonebook data and YOUR contribution and reporting to work, paywalls said functionality forgetting what it is built on.",
+        "date": "2026-04-13T10:54:57-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13952654562",
+        "author": "vijaykb03",
+        "rating": 1,
+        "title": "Too much self-promotion",
+        "content": "I’m tired of the constant “Buy Premium” notifications. It’s becoming as annoying as the spam calls i downloaded it to identify and block. Given that official caller ID services are becoming a standard free feature in India, ₹899 to 4,999/year for various plans is way too unprofessional and expensive. I’m considering uninstalling if the notification frequency doesn’t drop.",
+        "date": "2026-04-12T23:35:09-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13950819614",
+        "author": "saqlain__",
+        "rating": 1,
+        "title": "Very bad",
+        "content": "Allows limited search on app\nAds for every search\n\nWorst experience on iPhone\nAndroid better",
+        "date": "2026-04-12T10:17:37-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13949001498",
+        "author": "Nannieeeuuu",
+        "rating": 1,
+        "title": "Not useful",
+        "content": "Keep showing couldn’t perform search",
+        "date": "2026-04-11T22:46:58-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13942541332",
+        "author": "Cred scan",
+        "rating": 1,
+        "title": "Asking for membership fee",
+        "content": "Useless company was good before but now asking for membership fee. I might as well pickup the call and see who it is",
+        "date": "2026-04-10T04:54:04-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13941317633",
+        "author": "verma madan",
+        "rating": 1,
+        "title": "Advertisement",
+        "content": "Only advertising",
+        "date": "2026-04-09T19:12:27-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13938247673",
+        "author": "Nikhil amidwar",
+        "rating": 1,
+        "title": "Spam calls",
+        "content": "I am getting continuous calls having premium subscription , no action and no reply",
+        "date": "2026-04-08T23:14:13-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13937686098",
+        "author": "dc boy89",
+        "rating": 1,
+        "title": "Add",
+        "content": "I am purchased yearly package still add is showing very disappointing",
+        "date": "2026-04-08T18:41:33-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13930022274",
+        "author": "Rat1205",
+        "rating": 1,
+        "title": "useless on ios",
+        "content": "there is no point using this app on apple devices",
+        "date": "2026-04-06T14:07:41-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13925917734",
+        "author": "khata bata",
+        "rating": 1,
+        "title": "f app",
+        "content": "f app",
+        "date": "2026-04-05T10:32:27-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13920476931",
+        "author": "Tyujbh",
+        "rating": 1,
+        "title": "Paid version not working",
+        "content": "Paid version not working",
+        "date": "2026-04-03T22:56:10-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13916869635",
+        "author": "Lldpe",
+        "rating": 1,
+        "title": "Waste of money",
+        "content": "Fully waste of money to buy a premium, its not working properly",
+        "date": "2026-04-02T23:48:36-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13914022921",
+        "author": "Jim bam bey",
+        "rating": 1,
+        "title": "Poor application",
+        "content": "The app is Getting stupid day by day.",
+        "date": "2026-04-02T05:09:19-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13942020605",
+        "author": "avik629",
+        "rating": 2,
+        "title": "Family Protection Feature is the worst",
+        "content": "No longer can each family member set their own block list. Moreover, iPhone app does not allow one to make other family members an admin. Botched feature update. Product manager should be fired.",
+        "date": "2026-04-10T01:07:32-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13941725799",
+        "author": "Deeps.di",
+        "rating": 2,
+        "title": "Bad",
+        "content": "For iPhone I won’t recommend",
+        "date": "2026-04-09T22:34:22-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13918435398",
+        "author": "Amitlimbani",
+        "rating": 2,
+        "title": "Can’t give the name of caller",
+        "content": "Not working property after premium paid",
+        "date": "2026-04-03T09:20:47-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13886917893",
+        "author": "8890732061",
+        "rating": 2,
+        "title": "Hy",
+        "content": "Hy",
+        "date": "2026-03-25T15:27:01-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13846761515",
+        "author": "manojtp",
+        "rating": 2,
+        "title": "Why one time purchase not available via upi on ios for family plan",
+        "content": "I don’t want to subscribe for long periods or years I just want it for the next year I am not able to apply and buy for one year on my Apple device this clearly is a dark pattern",
+        "date": "2026-03-14T03:59:52-07:00",
+        "version": "26.9"
+      },
+      {
+        "id": "13833143218",
+        "author": "Ashutosh786",
+        "rating": 2,
+        "title": "Now it is complete useless App",
+        "content": "Restriction on searching number also, for everything now you have to pay or we will show you only ad… removed from phone, good riddance.",
+        "date": "2026-03-10T04:16:21-07:00",
+        "version": "26.8"
+      },
+      {
+        "id": "13815289312",
+        "author": "l@lit123",
+        "rating": 2,
+        "title": "JayaraJ",
+        "content": "Sikor",
+        "date": "2026-03-04T22:27:07-07:00",
+        "version": "12.85"
+      },
+      {
+        "id": "13955995579",
+        "author": "HASIBUR sk",
+        "rating": 3,
+        "title": "Bad",
+        "content": "Bad",
+        "date": "2026-04-13T22:47:11-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13945948664",
+        "author": "jayram19",
+        "rating": 3,
+        "title": "Very high price for premium",
+        "content": "Hi, I want to subscribe for Truecaller. I find the subscription very high. I feel Rs 35/- per month is value for money for me. I also feel more value can be added by segregating calls based on donations, real estate, share broking would help",
+        "date": "2026-04-11T03:26:33-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13885532960",
+        "author": "DSaoji",
+        "rating": 3,
+        "title": "Good",
+        "content": "Good app",
+        "date": "2026-03-25T07:07:19-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13782235300",
+        "author": "Sabiiii?!?",
+        "rating": 3,
+        "title": "👍👍👍",
+        "content": "👍👍🔥🔥",
+        "date": "2026-02-23T16:27:38-07:00",
+        "version": "26.5"
+      },
+      {
+        "id": "13764857462",
+        "author": "Another Yser",
+        "rating": 3,
+        "title": "TRUE Caller ID & Block",
+        "content": "OK, but free checking very very limited per day numbers. Limiting to 3 numbers a day !! DAY, Date & time NOT DEFINED Trying to mandate purchase of premium.",
+        "date": "2026-02-18T20:08:04-07:00",
+        "version": "26.5"
+      },
+      {
+        "id": "13936014845",
+        "author": "मोनिका soni",
+        "rating": 4,
+        "title": "गुड",
+        "content": "गुड",
+        "date": "2026-04-08T08:02:12-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13909641689",
+        "author": "Jewelathon",
+        "rating": 4,
+        "title": "Jewelathon Pvt Ltd",
+        "content": "Not spam",
+        "date": "2026-03-31T23:47:44-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13858339785",
+        "author": "Mihir S Raval",
+        "rating": 4,
+        "title": "Helpful",
+        "content": "Good",
+        "date": "2026-03-17T10:25:05-07:00",
+        "version": "26.10"
+      },
+      {
+        "id": "13849964502",
+        "author": "જે સી",
+        "rating": 4,
+        "title": "JC",
+        "content": "JC",
+        "date": "2026-03-15T00:56:38-07:00",
+        "version": "26.8"
+      },
+      {
+        "id": "13837339987",
+        "author": "Klay Whitefield",
+        "rating": 4,
+        "title": "Wrong name showing",
+        "content": "After updating my name in app, still showing old wrong name",
+        "date": "2026-03-11T09:18:51-07:00",
+        "version": "26.9"
+      },
+      {
+        "id": "13824484093",
+        "author": "khsngour",
+        "rating": 4,
+        "title": "Ok",
+        "content": "True",
+        "date": "2026-03-07T13:05:53-07:00",
+        "version": "26.6"
+      },
+      {
+        "id": "13822227754",
+        "author": "Abaazzz",
+        "rating": 4,
+        "title": "Incorrect ID of my personal number.",
+        "content": "I like Truecaller honestly but there is one huge issue that my personal number has been getting identified as a business spam. I have had my personal number for at least 15 years but somewhere down the line algorithms messed it up. Even purchased premium thinking maybe this will help me correct my ID when I call someone. But it didn’t. Not sure what else Truecaller needs to show my name instead of a random business.",
+        "date": "2026-03-06T22:51:58-07:00",
+        "version": "26.5"
+      },
+      {
+        "id": "13779574017",
+        "author": "SRI RAMOJU CHANDU",
+        "rating": 4,
+        "title": "Best app",
+        "content": "But IPhone search limits is very less",
+        "date": "2026-02-22T22:59:39-07:00",
+        "version": "26.6"
+      },
+      {
+        "id": "13972534955",
+        "author": "mudassar bhaldar",
+        "rating": 5,
+        "title": "Good luck",
+        "content": "Ok",
+        "date": "2026-04-18T14:58:10-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13967098270",
+        "author": "Shenobhas",
+        "rating": 5,
+        "title": "Doesn’t work on I phone",
+        "content": "Doesn’t work on I phone",
+        "date": "2026-04-17T04:53:49-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13966332154",
+        "author": "Ronshi30",
+        "rating": 5,
+        "title": "Ronshi",
+        "content": "Ronshi",
+        "date": "2026-04-16T22:58:06-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13963297185",
+        "author": "Vipul Sanariya",
+        "rating": 5,
+        "title": "Ok",
+        "content": "Good",
+        "date": "2026-04-16T02:38:39-07:00",
+        "version": "26.14"
+      },
+      {
+        "id": "13960823063",
+        "author": "Toto raj",
+        "rating": 5,
+        "title": "Jayesh’s",
+        "content": "Patel",
+        "date": "2026-04-15T08:29:03-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13953044466",
+        "author": "Basant Hari",
+        "rating": 5,
+        "title": "Vasanta Hari",
+        "content": "Vasanta Hari",
+        "date": "2026-04-13T02:57:25-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13940333192",
+        "author": "Urban Clove",
+        "rating": 5,
+        "title": "Dude To Stupid central government",
+        "content": "Full of benefit,if u are taking premium membership up to 4 members canshare the truecaller app kindly send me any offer code",
+        "date": "2026-04-09T12:16:54-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13937983372",
+        "author": "Anjujaat",
+        "rating": 5,
+        "title": "Anju",
+        "content": "Choudhary",
+        "date": "2026-04-08T20:57:50-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13935456748",
+        "author": "Boss manju",
+        "rating": 5,
+        "title": "Thanks",
+        "content": "Thanks for detecting",
+        "date": "2026-04-08T04:59:52-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13932876941",
+        "author": "Raftaar solanki",
+        "rating": 5,
+        "title": "I phone 7 not supported version",
+        "content": "Version is IOS 15.8.7",
+        "date": "2026-04-07T10:12:18-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13925436067",
+        "author": "ravindran353",
+        "rating": 5,
+        "title": "iPhone result",
+        "content": "I downloaded Truecaller and subscribed for one year. But active results are only 50 % for me. May be iPhone is not responding to many features of true caller. \nPlease comment",
+        "date": "2026-04-05T07:54:19-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13921911155",
+        "author": "kishpanj",
+        "rating": 5,
+        "title": "Kishpanj iphone xs max",
+        "content": "Very useful app",
+        "date": "2026-04-04T08:11:04-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13921751361",
+        "author": "Siva Eng",
+        "rating": 5,
+        "title": "d",
+        "content": "sha",
+        "date": "2026-04-04T07:22:59-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13921062590",
+        "author": "DSC India",
+        "rating": 5,
+        "title": "First yr discount not shown while making paytm payment",
+        "content": "Software is not user friendly",
+        "date": "2026-04-04T03:21:26-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13915133017",
+        "author": "Amit911akumar",
+        "rating": 5,
+        "title": "Nice n daily support",
+        "content": "Safety first",
+        "date": "2026-04-02T11:13:20-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13914877750",
+        "author": "Sanjay Anuj rathore",
+        "rating": 5,
+        "title": "Misc",
+        "content": "A",
+        "date": "2026-04-02T09:45:03-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13913601834",
+        "author": "Prasad anand",
+        "rating": 5,
+        "title": "True app",
+        "content": "One of the improvement i suggest is to never give  permission to add Fake names on a Sim name. Another suggestion is give permission of viewing others contact number from profile views only give to premium members,for others hide even the name it will be appreciated🤝.",
+        "date": "2026-04-02T02:18:00-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13906511873",
+        "author": "Dhurandhar3",
+        "rating": 5,
+        "title": "About truecaller",
+        "content": "It’s very useful app. I am using premium version and I love it.",
+        "date": "2026-03-31T03:59:53-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13903043919",
+        "author": "Sriram111",
+        "rating": 5,
+        "title": "Useful",
+        "content": "This App is really useful for various communication purposes….",
+        "date": "2026-03-30T04:19:20-07:00",
+        "version": "26.11"
+      },
+      {
+        "id": "13896081885",
+        "author": "smaheshb",
+        "rating": 5,
+        "title": "Excellent Criminal Lawyer",
+        "content": "Excellent Criminal Lawyer at Nampally court",
+        "date": "2026-03-28T05:47:29-07:00",
+        "version": "26.10"
+      }
+    ],
+    "review_analysis": {
+      "total_reviews": 60,
+      "average_rating": 3.02,
+      "rating_distribution": {
+        "1": 20,
+        "2": 7,
+        "3": 5,
+        "4": 8,
+        "5": 20
+      },
+      "latest_review_date": "2026-04-17T07:13:14-07:00",
+      "oldest_review_date": "2026-03-28T05:47:29-07:00"
+    },
+    "reviews_metadata": {
+      "1": {
+        "requested": 20,
+        "fetched": 20
+      },
+      "2": {
+        "requested": 20,
+        "fetched": 7
+      },
+      "3": {
+        "requested": 20,
+        "fetched": 5
+      },
+      "4": {
+        "requested": 20,
+        "fetched": 8
+      },
+      "5": {
+        "requested": 20,
+        "fetched": 20
+      }
+    }
+  },
+  "analysis": null
+}
