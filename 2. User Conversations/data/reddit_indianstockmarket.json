@@ -1,18 +1,18 @@
 {
   "extraction_metadata": {
     "source": "Reddit (mcp-reddit MCP)",
-    "extracted_at": "2026-04-20T23:49:01.203895",
-    "extraction_time_seconds": 123.19,
+    "extracted_at": "2026-04-20T23:39:20.106452",
+    "extraction_time_seconds": 123.67,
     "status": "success"
   },
   "extracted_data": {
     "type": "subreddit",
     "metadata": {
-      "subreddit": "stock",
-      "days_analyzed": 30,
+      "subreddit": "indianstockmarket",
+      "days_analyzed": 60,
       "posts_extracted": 0,
       "requested_max_posts": 20,
-      "url": "https://www.reddit.com/r/stock"
+      "url": "https://www.reddit.com/r/indianstockmarket"
     },
     "posts": []
   },

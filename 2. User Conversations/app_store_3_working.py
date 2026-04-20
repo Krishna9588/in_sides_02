@@ -2,6 +2,11 @@
 app_store_2.py - Advanced Apple App Store Scraper (iTunes API)
 With granular control over reviews per rating category.
 
+The fuck
+install the requirements
+
+pip install google-play-scraper
+
 Usage:
     python app_store_2.py -u "Instagram"
     python app_store_2.py -u "Instagram" --reviews-per-rating 30
