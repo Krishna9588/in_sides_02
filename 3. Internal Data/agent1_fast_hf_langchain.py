@@ -575,6 +575,6 @@ def run_agent1(
 
 if __name__ == "__main__":
     # change to your path
-    INPUT_FILE = "Call with Shashank Agarwal_Version2.md"
+    INPUT_FILE = "input/Call with Shashank Agarwal_Version2.md"
     res = run_agent1(INPUT_FILE, output_format="both")
     print(json.dumps(res, indent=2, ensure_ascii=False))

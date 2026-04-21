@@ -1,0 +1,272 @@
+{
+  "stage": "stage2_improved",
+  "source_id": "e359c18ca1e78d13786b8fac3552d0e2",
+  "original_file": "input/Call with Shashank Agarwal_Version2.md",
+  "total_segments": 4,
+  "segment_breakdown": {
+    "problem_statement": 1,
+    "recommendation": 2,
+    "risk": 1
+  },
+  "segments": [
+    {
+      "segment_id": "market_opportunity_challenges_0000",
+      "virtual_file": "Market Opportunity & Challenges",
+      "time_range": null,
+      "block_type": "notes_block",
+      "speaker": "Unknown",
+      "raw_text": "- Strong retail investor growth: 5+ crore demat accounts in India post-COVID\n- Key challenges identified:\n  - 90% of F&O traders lose money\n  - Platform credibility at risk if recommendations fail\n  - Need for proper research basis vs speculation\n- Diversification opportunities beyond stocks:\n  - Bonds, commodities, small case integration\n  - Different products for different investor segments (retail vs HNI)",
+      "summary": "- Strong retail investor growth: 5+ crore demat accounts in India post-COVID\n- Key challenges identified:\n  - 90% of F&O traders lose money\n  - Platform credibility at risk if recommendations fail\n  - Need for proper res...",
+      "classification": {
+        "primary_type": "problem_statement",
+        "primary_confidence": 0.85,
+        "alternatives": [],
+        "reasoning": "Domain rule: 3 signal(s)",
+        "fallback": false,
+        "engine": "rule:domain"
+      },
+      "entities": {
+        "people": [],
+        "organizations": [],
+        "keywords": [
+          "growth",
+          "risk",
+          "retail",
+          "investor",
+          "different",
+          "strong",
+          "crore",
+          "demat",
+          "accounts",
+          "india"
+        ]
+      },
+      "sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.6,
+        "engine": "rule"
+      }
+    },
+    {
+      "segment_id": "platform_concept_feedback_0000",
+      "virtual_file": "Platform Concept Feedback",
+      "time_range": null,
+      "block_type": "notes_block",
+      "speaker": "Unknown",
+      "raw_text": "- Positive reception to advisory-to-execution platform idea\n  - Addresses gap between WhatsApp/Telegram recommendations and actual trading\n  - Provides tracking and credibility vs unauthorized channels\n- Suggested categorization approach:\n  - Different customer segments for each timeframe\n- Revenue model validation: Platform fees + advisor subscription model viable",
+      "summary": "- Positive reception to advisory-to-execution platform idea\n  - Addresses gap between WhatsApp/Telegram recommendations and actual trading\n  - Provides tracking and credibility vs unauthorized channels\n- Suggested catego...",
+      "classification": {
+        "primary_type": "recommendation",
+        "primary_confidence": 0.85,
+        "alternatives": [],
+        "reasoning": "Domain rule: 3 signal(s)",
+        "fallback": false,
+        "engine": "rule:domain"
+      },
+      "entities": {
+        "people": [],
+        "organizations": [],
+        "keywords": [
+          "advisory",
+          "trading",
+          "revenue",
+          "platform",
+          "model",
+          "positive",
+          "reception",
+          "execution",
+          "idea",
+          "addresses"
+        ]
+      },
+      "sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.6,
+        "engine": "rule"
+      }
+    },
+    {
+      "segment_id": "shashank_s_background_expertise_0000",
+      "virtual_file": "Shashank’s Background & Expertise",
+      "time_range": null,
+      "block_type": "notes_block",
+      "speaker": "Unknown",
+      "raw_text": "- Shashank Agarwal, Research Analyst (SEBI registered)\n- Education: Calcutta University (Accounts & Finance), Delhi Institute of Management (Masters in Finance)\n- Experience: ISEC Securities (equity advisory), Mutilal Oswal, Angel One\n  - Built Angel One’s customer onboarding platform and transaction execution system\n  - Developed entire tech stack using Python\n- Current role: Wealth management (not stock picking)\n  - Focus on mutual funds, bonds, CDs, PMS, AIF products\n  - Avoids direct buy/sell calls due to client leverage risks",
+      "summary": "- Shashank Agarwal, Research Analyst (SEBI registered)\n- Education: Calcutta University (Accounts & Finance), Delhi Institute of Management (Masters in Finance)\n- Experience: ISEC Securities (equity advisory), Mutilal Os...",
+      "classification": {
+        "primary_type": "risk",
+        "primary_confidence": 0.8,
+        "alternatives": [],
+        "reasoning": "Domain rule: 2 signal(s)",
+        "fallback": false,
+        "engine": "rule:domain"
+      },
+      "entities": {
+        "people": [],
+        "organizations": [],
+        "keywords": [
+          "sebi",
+          "equity",
+          "advisory",
+          "stock",
+          "mutual",
+          "finance",
+          "management",
+          "angel",
+          "one",
+          "shashank"
+        ]
+      },
+      "sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.6,
+        "engine": "rule"
+      }
+    },
+    {
+      "segment_id": "technical_implementation_insights_0000",
+      "virtual_file": "Technical Implementation Insights",
+      "time_range": null,
+      "block_type": "notes_block",
+      "speaker": "Unknown",
+      "raw_text": "- Terminal integration approach recommended over website-only\n  - Real-time signals with buy/sell/target/stop-loss\n  - API integration with existing broker platforms\n  - Plugin/widget model for seamless execution\n- Existing solutions reference:\n  - Motilal Oswal’s trade guide signals (₹15,000/year subscription)\n  - Value Research, Morning Star for stock recommendations\n- Revenue streams: Subscription model (monthly/quarterly/yearly) + transaction-based fees",
+      "summary": "- Terminal integration approach recommended over website-only\n  - Real-time signals with buy/sell/target/stop-loss\n  - API integration with existing broker platforms\n  - Plugin/widget model for seamless execution\n- Exist...",
+      "classification": {
+        "primary_type": "recommendation",
+        "primary_confidence": 0.4,
+        "alternatives": [],
+        "engine": "rule:fallback",
+        "fallback": true,
+        "reasoning": "Basic fallback rules"
+      },
+      "entities": {
+        "people": [],
+        "organizations": [],
+        "keywords": [
+          "stock",
+          "revenue",
+          "integration",
+          "signals",
+          "existing",
+          "model",
+          "subscription",
+          "terminal",
+          "approach",
+          "recommended"
+        ]
+      },
+      "sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.6,
+        "engine": "rule"
+      }
+    }
+  ],
+  "document_summaries": [
+    {
+      "virtual_file": "Market Opportunity & Challenges",
+      "segments_count": 1,
+      "problems": [
+        {
+          "segment_id": "market_opportunity_challenges_0000",
+          "time_range": null,
+          "text": "- Strong retail investor growth: 5+ crore demat accounts in India post-COVID\n- Key challenges identified:\n  - 90% of F&O traders lose money\n  - Platform credibility at risk if reco"
+        }
+      ],
+      "decisions": [],
+      "risks": [],
+      "recommendations": []
+    },
+    {
+      "virtual_file": "Platform Concept Feedback",
+      "segments_count": 1,
+      "problems": [],
+      "decisions": [],
+      "risks": [],
+      "recommendations": [
+        {
+          "segment_id": "platform_concept_feedback_0000",
+          "time_range": null,
+          "text": "- Positive reception to advisory-to-execution platform idea\n  - Addresses gap between WhatsApp/Telegram recommendations and actual trading\n  - Provides tracking and credibility vs "
+        }
+      ]
+    },
+    {
+      "virtual_file": "Shashank’s Background & Expertise",
+      "segments_count": 1,
+      "problems": [],
+      "decisions": [],
+      "risks": [
+        {
+          "segment_id": "shashank_s_background_expertise_0000",
+          "time_range": null,
+          "text": "- Shashank Agarwal, Research Analyst (SEBI registered)\n- Education: Calcutta University (Accounts & Finance), Delhi Institute of Management (Masters in Finance)\n- Experience: ISEC "
+        }
+      ],
+      "recommendations": []
+    },
+    {
+      "virtual_file": "Technical Implementation Insights",
+      "segments_count": 1,
+      "problems": [],
+      "decisions": [],
+      "risks": [],
+      "recommendations": [
+        {
+          "segment_id": "technical_implementation_insights_0000",
+          "time_range": null,
+          "text": "- Terminal integration approach recommended over website-only\n  - Real-time signals with buy/sell/target/stop-loss\n  - API integration with existing broker platforms\n  - Plugin/wid"
+        }
+      ]
+    }
+  ],
+  "quality": {
+    "fallback_ratio": 0.25,
+    "timestamp_ratio": 0.0,
+    "quality_status": "low_quality",
+    "rerun_recommended": true,
+    "issues": [
+      "Too few segments: 4 (minimum: 5)"
+    ]
+  },
+  "aggregates": {
+    "problems": [
+      {
+        "segment_id": "market_opportunity_challenges_0000",
+        "virtual_file": "Market Opportunity & Challenges",
+        "time_range": null,
+        "text": "- Strong retail investor growth: 5+ crore demat accounts in India post-COVID\n- Key challenges identified:\n  - 90% of F&O traders lose money\n  - Platform credibility at risk if recommendations fail\n  - Need for proper res"
+      }
+    ],
+    "decisions": [],
+    "risks": [
+      {
+        "segment_id": "shashank_s_background_expertise_0000",
+        "virtual_file": "Shashank’s Background & Expertise",
+        "time_range": null,
+        "text": "- Shashank Agarwal, Research Analyst (SEBI registered)\n- Education: Calcutta University (Accounts & Finance), Delhi Institute of Management (Masters in Finance)\n- Experience: ISEC Securities (equity advisory), Mutilal Os"
+      }
+    ],
+    "recommendations": [
+      {
+        "segment_id": "platform_concept_feedback_0000",
+        "virtual_file": "Platform Concept Feedback",
+        "time_range": null,
+        "text": "- Positive reception to advisory-to-execution platform idea\n  - Addresses gap between WhatsApp/Telegram recommendations and actual trading\n  - Provides tracking and credibility vs unauthorized channels\n- Suggested catego"
+      },
+      {
+        "segment_id": "technical_implementation_insights_0000",
+        "virtual_file": "Technical Implementation Insights",
+        "time_range": null,
+        "text": "- Terminal integration approach recommended over website-only\n  - Real-time signals with buy/sell/target/stop-loss\n  - API integration with existing broker platforms\n  - Plugin/widget model for seamless execution\n- Exist"
+      }
+    ],
+    "open_questions": []
+  },
+  "model_info": {
+    "zero_shot_api_model": "facebook/bart-large-mnli",
+    "gen_api_model": "google/flan-t5-base",
+    "mode": "enhanced_rule_fallback"
+  },
+  "created_at": "2026-04-21T12:01:58.133659+00:00"
+}

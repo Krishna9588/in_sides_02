@@ -32,7 +32,7 @@ import requests
 try:
     from langchain.llms import HuggingFaceLLM
     from langchain.prompts import PromptTemplate
-    from langchain.chains import LLMChain
+    # from langchain.chains import LLMChain  # Deprecated - removed
 
     LANGCHAIN_AVAILABLE = True
 except Exception:
@@ -730,12 +730,12 @@ def main():
     print(json.dumps(result, indent=2))
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
 
 if __name__ == "__main__":
     # Example usage
-    INPUT_FILE = "Catchup with Sunil Daga.md"
+    INPUT_FILE = "input/Catchup with Sunil Daga.md"
     pipeline = Agent1IntelligentPipeline()
     result = pipeline.process_file(INPUT_FILE, reprocess=reprocess)
     # result = pipeline.process_file(INPUT_FILE, output_format="both")
