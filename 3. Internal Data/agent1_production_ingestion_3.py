@@ -840,7 +840,7 @@ def interactive_mode():
     # Step 5: Output directory
     output_dir = input("\n📂 Enter output directory (or press Enter for default './outputs_agent1'): ").strip()
     if not output_dir:
-        output_dir = './outputs_agent1'
+        output_dir = 'store/outputs_agent1'
         print(f"  → Using: {output_dir}")
 
     # Step 6: Cache usage
