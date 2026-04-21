@@ -1,0 +1,9 @@
+{
+  "ingestion_57e5418fa903c67d6399e05f1c30000b": {
+    "original_file": "input/Catchup_with_Sunil Daga.txt",
+    "stage": "ingestion",
+    "cache_file": "ingestion_57e5418fa903c67d6399e05f1c30000b.pkl",
+    "timestamp": "2026-04-21T17:41:59.855153+00:00",
+    "size_bytes": 63088
+  }
+}

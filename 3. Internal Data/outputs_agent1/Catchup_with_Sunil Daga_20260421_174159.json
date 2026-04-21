@@ -1,0 +1,4789 @@
+{
+  "status": "success",
+  "input_file": "input/Catchup_with_Sunil Daga.txt",
+  "source_type": "Internal",
+  "entity_name": "Weekly Standup",
+  "entries": [
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "I'll just ping him. He's not joined.",
+      "timestamp": "#5",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "ping",
+        "him",
+        "not",
+        "joined"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3664395809173584,
+      "processing_metadata": {
+        "sequence": 5,
+        "line_start": 34,
+        "character_count": 36
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "yep. Okay. We can hear you.",
+      "timestamp": "#20",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "yep",
+        "can",
+        "hear"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23119759559631348,
+      "processing_metadata": {
+        "sequence": 20,
+        "line_start": 49,
+        "character_count": 27
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "Sorry. I'll be off camera for 15 20 minutes and then I will switch up.",
+      "timestamp": "#22",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "sorry",
+        "off",
+        "camera",
+        "minutes",
+        "then"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2996654212474823,
+      "processing_metadata": {
+        "sequence": 22,
+        "line_start": 51,
+        "character_count": 70
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "All right. So, uh, good evening, Sunil G. I'll introduce myself. My name is Pratik Manut. I've been part of Jambe for the last 15 years. And uh uh I've known Ashwin almost for the same time and um you know primarily what I've done in my life is although I'm an engineer by background I've done a a lot of product building, marketing then go to market/s sales and then um I I'm currently heading delivery overall delivery of all that we do for our customers.\n00:02:22",
+      "timestamp": "#25",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "all",
+        "done",
+        "then",
+        "delivery",
+        "good"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23457224667072296,
+      "processing_metadata": {
+        "sequence": 25,
+        "line_start": 54,
+        "character_count": 466
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "Um so multiple teams reporting to me. Uh we got acquired about two three years ago. Uh and we are a part of a bigger group called CLR and we continue to function um the way we have been as part of the group to build and grow Jungway. um stockly something Ashwin introduced to me to see how we could sort of come together to sort of take it to the market and in that sense we've been doing some research speaking to people and trying to see how it can be taken to the next level. So that's a bit of a background. I'm based in Pune. Uh I'll request a to introduce himself and then soon would love to know a little more about you",
+      "timestamp": "#26",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "about",
+        "part",
+        "group",
+        "been",
+        "see"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2546188533306122,
+      "processing_metadata": {
+        "sequence": 26,
+        "line_start": 58,
+        "character_count": 626
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "plus any thoughts you may have um towards towards maybe your past conversations with Ashwin and happy to then have a",
+      "timestamp": "#28",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "towards",
+        "plus",
+        "any",
+        "thoughts",
+        "may"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2951391339302063,
+      "processing_metadata": {
+        "sequence": 28,
+        "line_start": 60,
+        "character_count": 116
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "Yeah. Hi. This is a um so I've been a investor in the market for the last decade or so.\n00:03:21",
+      "timestamp": "#31",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "been",
+        "investor",
+        "market",
+        "last"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20504043996334076,
+      "processing_metadata": {
+        "sequence": 31,
+        "line_start": 63,
+        "character_count": 96
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "recommendation",
+      "content": "um across different asset classes and uh you know by profession I work with a company called Aoma it's a US- based uh company series they funded I lead the customer success team for the company and manage about $5 million of the uh but what has happened is that like in the past you know couple of years my inclination towards finance investments have been a lot there and then I've also encouraged a lot of friends and family members to you know stay invested in different asset classes and uh you know I was always wanting to do something in fintech and that's where I happened to talk to Pratik because we anyway knew each other and then we got introduced to Ashin as well and that's where this idea of exploring stockly came in so yeah I mean that's a quick brief about uh my background and um we have in the next couple of months looking forward to jump into uh you know this full-time as well. So we as a part of that we talk talking to a couple of uh experts from the domain to seek their understanding their guidance uh on a couple of things and validate a few things that what we feel uh so hence the conversation.\n00:04:33",
+      "timestamp": "#32",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "couple",
+        "company",
+        "different",
+        "asset"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.26502329111099243,
+      "processing_metadata": {
+        "sequence": 32,
+        "line_start": 67,
+        "character_count": 1132
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "Yeah. Yeah. Hi. Uh actually, you know,",
+      "timestamp": "#33",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "actually"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2644687294960022,
+      "processing_metadata": {
+        "sequence": 33,
+        "line_start": 71,
+        "character_count": 38
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "I don't know much about Zombie. If you can just kind of just tell me uh it would help uh because I have very limited understanding of them.",
+      "timestamp": "#35",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "don",
+        "much",
+        "about",
+        "zombie",
+        "can"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23916129767894745,
+      "processing_metadata": {
+        "sequence": 35,
+        "line_start": 73,
+        "character_count": 139
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah. So, Sunil G, we are in the talent assessments, learning and leadership development space. So um in that sense we are an HR technology company back powered by consulting on top of it where we help organizations identify top talent, build successors, do leadership development programs, uh run engagement solutions and now we are also enuring venturing into offering agent KI solutions largely to solve problems in the HR vertical. So my niche or focus has been HR techch, HR consulting, uh talent management, learning and leadership development. I mean that's what the organization uh has known to do over the last so many years. Yeah,",
+      "timestamp": "#36",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "talent",
+        "leadership",
+        "development",
+        "learning",
+        "that"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2826012074947357,
+      "processing_metadata": {
+        "sequence": 36,
+        "line_start": 74,
+        "character_count": 640
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "Okay. And how large is it in terms of people and turnover",
+      "timestamp": "#37",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "how",
+        "large",
+        "terms",
+        "people",
+        "turnover"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2574141025543213,
+      "processing_metadata": {
+        "sequence": 37,
+        "line_start": 75,
+        "character_count": 57
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "we are about 130 odd people at the moment.",
+      "timestamp": "#38",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "about",
+        "odd",
+        "people",
+        "moment"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.272325336933136,
+      "processing_metadata": {
+        "sequence": 38,
+        "line_start": 76,
+        "character_count": 42
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "Uh spread across the country. Client is also spread across the country.\n00:05:41",
+      "timestamp": "#40",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "spread",
+        "across",
+        "country",
+        "client"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2583721876144409,
+      "processing_metadata": {
+        "sequence": 40,
+        "line_start": 78,
+        "character_count": 80
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "Got it. Got it. Nice. Now uh you know small brief about me. I was with Kodak for about 20 years uh plus and uh Ashin happens to be a friend uh because we first onboarded him. Probably the first I think I think the second loan was given by us when he started his journey uh when he has set up the Aenjit I think uh technologies. He were the early uh debt providers to him and uh I have seen his journey grow obviously from where they were 578 cr turnover company to what they are today and uh since I've been on the debt uh underwriting side on MSME funding etc. So kind of I kind of keep meeting a lot of uh founders and in that process some have you know like-minded people have come very close and we kind of keep learning uh with each other. uh I left KTH when you know last I was a president and KC leadership team member uh which is a top 60 across the group uh that's how they call the leadership team KT and uh I started the MSME vertical 2012 and I left it was 200 cr uh no when I started it was 200 when I left it was about 55 55,000 odd cr book on the lending side across secured and secured supply chain etc. largely catering to companies with turnover up to uh 250 cr.\n00:07:17",
+      "timestamp": "#41",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "when",
+        "about",
+        "with",
+        "started",
+        "kind"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2089403122663498,
+      "processing_metadata": {
+        "sequence": 41,
+        "line_start": 82,
+        "character_count": 1189
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "insight",
+      "content": "Uh that's the you know brief uh uh yeah I started uh I started the 14th branch for the bank uh when I started with the today you know we are about 2,000 plus branches as we speak I'm part of a company by name sarati finance uh which I kind of I left in December 2024 created an MBFC and started there we are about now 62 branches 800 people And uh we got uh four private equity investors to back us and uh capitalize you know the NBFC by about 475 cr uh because you know raw material in NBFC is capital eventually so money is the raw material. So yeah I think that's very short. Yeah, because a long career with code 2021. So not many much to add beyond that.",
+      "timestamp": "#42",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "started",
+        "that",
+        "about",
+        "with",
+        "branches"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.16381388902664185,
+      "processing_metadata": {
+        "sequence": 42,
+        "line_start": 86,
+        "character_count": 659
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah. Indeed. And uh just curious now Sarati Finance does it sort of go after a",
+      "timestamp": "#45",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "indeed",
+        "curious",
+        "now",
+        "sarati",
+        "finance"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.16579408943653107,
+      "processing_metadata": {
+        "sequence": 45,
+        "line_start": 89,
+        "character_count": 79
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "particular niche in terms of industry or market segment or",
+      "timestamp": "#47",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "particular",
+        "niche",
+        "terms",
+        "industry",
+        "market"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.44223901629447937,
+      "processing_metadata": {
+        "sequence": 47,
+        "line_start": 91,
+        "character_count": 58
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "know it's a very simple construct. It's a primarily microlab kind of a customer. Uh average ticket size 8 to 10 lakhs.\n00:08:41",
+      "timestamp": "#48",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "simple",
+        "construct",
+        "primarily",
+        "microlab",
+        "kind"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.235407292842865,
+      "processing_metadata": {
+        "sequence": 48,
+        "line_start": 92,
+        "character_count": 127
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "uh we lend at a closer to 20%,",
+      "timestamp": "#50",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "lend",
+        "closer"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.2903268337249756,
+      "processing_metadata": {
+        "sequence": 50,
+        "line_start": 97,
+        "character_count": 30
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "take property, some could be you know imperfect collateral also may not be exactly perfect collateral at times but these are largely semi-urban kind of",
+      "timestamp": "#52",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "collateral",
+        "take",
+        "property",
+        "some",
+        "could"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.22290968894958496,
+      "processing_metadata": {
+        "sequence": 52,
+        "line_start": 99,
+        "character_count": 151
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "customers or probably you know outside of say Pune say 40 50 kilometers away",
+      "timestamp": "#54",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "customers",
+        "probably",
+        "outside",
+        "pune",
+        "kilometers"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2886873483657837,
+      "processing_metadata": {
+        "sequence": 54,
+        "line_start": 101,
+        "character_count": 76
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "from Pune those kind of customers Helaran GI or you know we are not in Maharashtra but I'm",
+      "timestamp": "#56",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "from",
+        "pune",
+        "those",
+        "kind",
+        "customers"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.16528591513633728,
+      "processing_metadata": {
+        "sequence": 56,
+        "line_start": 103,
+        "character_count": 90
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "just kind of giving your genre of what kind of customer these would",
+      "timestamp": "#58",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "kind",
+        "giving",
+        "your",
+        "genre",
+        "what"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26705050468444824,
+      "processing_metadata": {
+        "sequence": 58,
+        "line_start": 105,
+        "character_count": 67
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Okay. Okay. Interesting.",
+      "timestamp": "#61",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "interesting"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.22294741868972778,
+      "processing_metadata": {
+        "sequence": 61,
+        "line_start": 108,
+        "character_count": 24
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "So it's a long tail uh which is not funded today",
+      "timestamp": "#64",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "long",
+        "tail",
+        "which",
+        "not",
+        "funded"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2577619254589081,
+      "processing_metadata": {
+        "sequence": 64,
+        "line_start": 111,
+        "character_count": 48
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "evidence",
+      "content": "and uh yeah it's largely physical because there's a property element attached to it. So you have to think uh since uh Aki is a market veteran and he would know what fivestar finances and SBFC is etc. So I think he could correlate to what I'm talking",
+      "timestamp": "#66",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "what",
+        "largely",
+        "physical",
+        "because",
+        "there"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.2544165551662445,
+      "processing_metadata": {
+        "sequence": 66,
+        "line_start": 113,
+        "character_count": 249
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "objection",
+      "content": "not a veteran per se. It's just out of interest, you know, been in the markets for a longer duration. But yeah, I understand uh where you you are failing to answer. Yeah.",
+      "timestamp": "#69",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "not",
+        "veteran",
+        "per",
+        "out",
+        "interest"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20309370756149292,
+      "processing_metadata": {
+        "sequence": 69,
+        "line_start": 119,
+        "character_count": 170
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "Yeah. Yeah. Yeah. Was telling you know quite exciting very high. I met him in Bombay. So he told me you're creat you know building something very exciting.",
+      "timestamp": "#70",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "exciting",
+        "telling",
+        "quite",
+        "high",
+        "met"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2072925716638565,
+      "processing_metadata": {
+        "sequence": 70,
+        "line_start": 120,
+        "character_count": 155
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "So I thought why not you know catch up because uh there's also a firm of my of my wife. She's kind of putting together something on the wealth side. Same for a mass premium customer.",
+      "timestamp": "#72",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "thought",
+        "why",
+        "not",
+        "catch",
+        "because"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.29141712188720703,
+      "processing_metadata": {
+        "sequence": 72,
+        "line_start": 122,
+        "character_count": 182
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "insight",
+      "content": "uh not the HNI and UHNI but mass premium so they are trying to uh figure out",
+      "timestamp": "#74",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "not",
+        "hni",
+        "uhni",
+        "mass",
+        "premium"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.15712156891822815,
+      "processing_metadata": {
+        "sequence": 74,
+        "line_start": 124,
+        "character_count": 76
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "recommendation",
+      "content": "how we should they should be kind of know targeting this segment of customer on the wealth management side when I say wealth it's not literally wealth management but definitely for their protection and investing needs and also some part of their borrowing needs uh but then",
+      "timestamp": "#76",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "wealth",
+        "should",
+        "management",
+        "their",
+        "needs"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.25174790620803833,
+      "processing_metadata": {
+        "sequence": 76,
+        "line_start": 126,
+        "character_count": 273
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "objection",
+      "content": "this is excluding the top 3 4% of India\n00:10:54",
+      "timestamp": "#78",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "excluding",
+        "top",
+        "india"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.17111094295978546,
+      "processing_metadata": {
+        "sequence": 78,
+        "line_start": 128,
+        "character_count": 48
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Okay. Interesting. Yeah. Yeah. So would love to know a little more about it but maybe I'll go ahead and talk about Stockley a little bit. Um so today the way we are thinking of stockly is to build something that bridges a I mean two gaps a there is gap in terms of receiving genuine advisory and I'm saying when I say genuine advisory more so in the stock market space uh not so much in the MFD space so far because there at least you have these mutual fund distributors advisers wealth managers wealth planners but when it comes to buying or selling of talks that advisory is currently at least our understanding and our research says that heavily crowded by these non-registered advisers who may have a point of view uh but they're not authorized to give those buy sell trading calls and what also happens is in a lot of that a lot of misleading happens uh for retail investors so there is a gap on the advisory side that we're trying to bridge and I'll talk about how and then there is the other gap which is advisory to execution gap.\n00:12:03",
+      "timestamp": "#79",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "advisory",
+        "there",
+        "gap",
+        "about"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.19812819361686707,
+      "processing_metadata": {
+        "sequence": 79,
+        "line_start": 132,
+        "character_count": 1047
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Maybe advice exists but execution is disconnected. I may follow that advice uh because somebody called me and said you know buy this talk or right time to exit this talk or I may follow the advice because it's up you know shared somewhere on a WhatsApp group or a telegram channel. Uh but when it comes to execution I have to log into my broker account separately and then execute. Now this may seem like a a very normal and not so odd behavior but what happens is that people actually actually lose out on opportunities because advice and execution are not connected. Um they don't happen on the same platform. So what Stockley intends to do is to bring advice and execution on the same platform. The advice at least to begin with will come from sebi registered research analysts who have the authority by sebi to give buyell recommendations on stocks. Uh and then people can follow that advice be a part of the communities built by these sebi registered analysts and then click on it right then and there to invest and it will link to their broker amount account uh right there and execute.\n00:13:12",
+      "timestamp": "#80",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "advice",
+        "execution",
+        "then",
+        "may",
+        "follow"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.1628745198249817,
+      "processing_metadata": {
+        "sequence": 80,
+        "line_start": 136,
+        "character_count": 1101
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Now what this will also do is generate a lot of data for analysts to see who is acted on their advice and also to sort of find certain patterns out of it. What it will also generate is a lot of data for investors to see which analysts calls are sort of more successful or have a better hit rate and you know build credibility around analysts also. So that's the start honestly of the platform and that's not the be all end all for now but we are trying to sort of build it around a simple idea that today that advice exists hard to filter between genuine and non-genuine advice and today people still execute on that advice but that behavior is disconnected if you see all these WhatsApp groups and telegram channels we're just trying to sort of build a software to take care of all of this that's the starting point and Aka if you want to Um what I'll also do Sunil G is maybe share my screen um to take you through the web page. Uh the product is in early beta phase so we may not be ready for a demo but I'll at least take you through the concept.\n00:14:21",
+      "timestamp": "#81",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "advice",
+        "sort",
+        "all",
+        "what"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21904036402702332,
+      "processing_metadata": {
+        "sequence": 81,
+        "line_start": 140,
+        "character_count": 1059
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Uh having said that um a over to you in case you want to add anything.",
+      "timestamp": "#83",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "having",
+        "said",
+        "that",
+        "over",
+        "case"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2012857049703598,
+      "processing_metadata": {
+        "sequence": 83,
+        "line_start": 145,
+        "character_count": 70
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "No, no, Pratik, go ahead. Uh, I have a couple of questions,",
+      "timestamp": "#84",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "pratik",
+        "ahead",
+        "couple",
+        "questions"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20308883488178253,
+      "processing_metadata": {
+        "sequence": 84,
+        "line_start": 146,
+        "character_count": 59
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "risk",
+      "content": "but I can take it later.",
+      "timestamp": "#86",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "can",
+        "take",
+        "later"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.35531917214393616,
+      "processing_metadata": {
+        "sequence": 86,
+        "line_start": 148,
+        "character_count": 24
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "recommendation",
+      "content": "Yeah. Yeah. So I'll share my screen. So this is a website and maybe I'll just simply show for example what happens is uh Harshad meta is a is an adviser or an analyst and he recommends that Reliance Industries be bought at a price of 1400 because it may go up to 2,000 and people can click on invest now then and there to execute it will connect to their broker accounts and they can execute right so stockly is built around the single sing simple concept of this what we are",
+      "timestamp": "#87",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "what",
+        "can",
+        "execute",
+        "share"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.3330991864204407,
+      "processing_metadata": {
+        "sequence": 87,
+        "line_start": 149,
+        "character_count": 475
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "objection",
+      "content": "But how did you get Harshad ma from?",
+      "timestamp": "#88",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "how",
+        "did",
+        "get",
+        "harshad",
+        "from"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.13451457023620605,
+      "processing_metadata": {
+        "sequence": 88,
+        "line_start": 150,
+        "character_count": 36
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "trying I mean this is just a mockup uh this is",
+      "timestamp": "#89",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "trying",
+        "mean",
+        "mockup"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.17500130832195282,
+      "processing_metadata": {
+        "sequence": 89,
+        "line_start": 151,
+        "character_count": 46
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "objection",
+      "content": "Where did you get him?",
+      "timestamp": "#90",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "where",
+        "did",
+        "get",
+        "him"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.150126114487648,
+      "processing_metadata": {
+        "sequence": 90,
+        "line_start": 152,
+        "character_count": 22
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "objection",
+      "content": "not it's not harsh ma",
+      "timestamp": "#91",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "not",
+        "harsh"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2564351558685303,
+      "processing_metadata": {
+        "sequence": 91,
+        "line_start": 153,
+        "character_count": 21
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "objection",
+      "content": "No, but no no no Harsh ma is just a name.",
+      "timestamp": "#92",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "harsh",
+        "name"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.36081165075302124,
+      "processing_metadata": {
+        "sequence": 92,
+        "line_start": 154,
+        "character_count": 41
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "complaint",
+      "content": "What I'm trying to say is uh uh how did well how will this you know you you're not doing your",
+      "timestamp": "#94",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "how",
+        "what",
+        "trying",
+        "did",
+        "well"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21578797698020935,
+      "processing_metadata": {
+        "sequence": 94,
+        "line_start": 159,
+        "character_count": 93
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "recommendation",
+      "content": "no so yeah yeah great you asked that question today we don't have that expertise of our own to give this bice recommend ations. What we are trying to do is bring these sebregistered aras on the platform. So the supply side is people who are experts in doing this. Yeah. And demand demand side is the retail investors and we are trying to connect them on one platform. Right. where hersad meta if he is a registered adviser he analyst he will um come on the platform we will give him um basically a portal through which he or she can put these recommendations and I'll quickly scroll through you know there is there are these recommenders who are financial advisers and experts they can share expert stock market recommendations track recommendation analysts analytics and build their reputation and following so harsh Prasad Mata will actually come on Stockly to put together this recommendation which will be made visible to everybody.\n00:16:24",
+      "timestamp": "#97",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "will",
+        "this",
+        "these",
+        "platform",
+        "that"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.2817904055118561,
+      "processing_metadata": {
+        "sequence": 97,
+        "line_start": 162,
+        "character_count": 945
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Now the way it will be made visible through everybody is maybe through a paid community like Harsh Maha might be running something like this on a WhatsApp group or a telegram channel which is a paid community. We replicate that kind of a feature here. Uh and people can subscribe to the paid community. That's one way of doing it. The other way of doing it is that every tip has a price attached to it which is a sache price of 50 rupees 100 rupees and then people can really pay that much to get an access to the tip. So that way we are just trying to bring the supply and demand side together on the platform. That's the idea right now. I hope that answers your question. Yeah. A if you want to add anything.",
+      "timestamp": "#98",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "way",
+        "paid",
+        "community",
+        "now"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26811298727989197,
+      "processing_metadata": {
+        "sequence": 98,
+        "line_start": 166,
+        "character_count": 710
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "objection",
+      "content": "Uh, no. Go ahead, Pratik.",
+      "timestamp": "#99",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "ahead",
+        "pratik"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.35396477580070496,
+      "processing_metadata": {
+        "sequence": 99,
+        "line_start": 167,
+        "character_count": 25
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah. And what happens for investors is they can access all these recommendations. Uh everybody out there is kind of looking for which stock to buy or which one to exit or when to exit.\n00:17:22",
+      "timestamp": "#100",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "which",
+        "exit",
+        "what",
+        "happens",
+        "investors"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24639612436294556,
+      "processing_metadata": {
+        "sequence": 100,
+        "line_start": 168,
+        "character_count": 194
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "uh so imagine those expert recommendations are being given out to them which they can execute with one click and that's the gap we are essentially trying to bridge as well and among other things we are trying to see if we can build some social features around it where because what happens in an offline or disconnected manner today is say I got a stock recommendations I may exchange those ideas with a friend WhatsApp group and then we'll exchange ideas and thoughts there can we replicate some of these behavior online. That's the whole idea. And like I mentioned, today this is focused currently on stock per se. Uh over time this may have potential to expand into other asset classes like mutual funds, commodities, metals and so on. But the starting point or entry point is stocks. Hence the name Stockly at the moment. Um yeah. So this is the simple idea. This is where we are right now.",
+      "timestamp": "#101",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "can",
+        "those",
+        "recommendations",
+        "with"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.28519880771636963,
+      "processing_metadata": {
+        "sequence": 101,
+        "line_start": 172,
+        "character_count": 894
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "And this is the uh uh this is a subscription model.",
+      "timestamp": "#102",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "subscription",
+        "model"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.28421083092689514,
+      "processing_metadata": {
+        "sequence": 102,
+        "line_start": 173,
+        "character_count": 51
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah. Yeah, I mean we are exploring there could be a subscription model or you it could be a paper tip or paper recommendation kind of a model or a mix of both.\n00:18:30",
+      "timestamp": "#103",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "could",
+        "model",
+        "paper",
+        "mean",
+        "exploring"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.25115928053855896,
+      "processing_metadata": {
+        "sequence": 103,
+        "line_start": 174,
+        "character_count": 169
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "Got it. Your biggest competitor will be",
+      "timestamp": "#104",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "got",
+        "your",
+        "biggest",
+        "competitor",
+        "will"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.18824778497219086,
+      "processing_metadata": {
+        "sequence": 104,
+        "line_start": 178,
+        "character_count": 39
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah, it is indeed no doubt about it.",
+      "timestamp": "#105",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "indeed",
+        "doubt",
+        "about"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.19502368569374084,
+      "processing_metadata": {
+        "sequence": 105,
+        "line_start": 179,
+        "character_count": 37
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "WhatsApp and Telegram.",
+      "timestamp": "#107",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "whatsapp",
+        "telegram"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.38563504815101624,
+      "processing_metadata": {
+        "sequence": 107,
+        "line_start": 181,
+        "character_count": 22
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "Yeah. WhatsApp and Telegram.",
+      "timestamp": "#109",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "whatsapp",
+        "telegram"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.36315640807151794,
+      "processing_metadata": {
+        "sequence": 109,
+        "line_start": 183,
+        "character_count": 28
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "What someone fixes, you know, to his own liking.",
+      "timestamp": "#110",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "what",
+        "someone",
+        "fixes",
+        "his",
+        "own"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24588491022586823,
+      "processing_metadata": {
+        "sequence": 110,
+        "line_start": 184,
+        "character_count": 48
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "evidence",
+      "content": "I validated for investing.",
+      "timestamp": "#115",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "validated",
+        "investing"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.204481840133667,
+      "processing_metadata": {
+        "sequence": 115,
+        "line_start": 189,
+        "character_count": 26
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "No idea. It's I mean hard to believe.",
+      "timestamp": "#122",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "idea",
+        "mean",
+        "hard",
+        "believe"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23917053639888763,
+      "processing_metadata": {
+        "sequence": 122,
+        "line_start": 196,
+        "character_count": 37
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "risk",
+      "content": "Highly doubt that we've in fact you know what we have actually purchased I mean we did purchase stock",
+      "timestamp": "#123",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "highly",
+        "doubt",
+        "that",
+        "fact",
+        "what"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.18567486107349396,
+      "processing_metadata": {
+        "sequence": 123,
+        "line_start": 197,
+        "character_count": 101
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "grow uh subscription to see you know how things work. They have a monthly pricing something 3 30 300 350 like and uh there are about",
+      "timestamp": "#125",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "grow",
+        "subscription",
+        "see",
+        "how",
+        "things"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26132792234420776,
+      "processing_metadata": {
+        "sequence": 125,
+        "line_start": 199,
+        "character_count": 132
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "trend",
+      "content": "30 or 40 odd uh say registered voices who are giving tips on stock grow but the number I think they claim what 30 how much I think was that 35 million users or something",
+      "timestamp": "#127",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "odd",
+        "registered",
+        "voices",
+        "who",
+        "giving"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24851202964782715,
+      "processing_metadata": {
+        "sequence": 127,
+        "line_start": 201,
+        "character_count": 169
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "like that right yeah\n00:19:39",
+      "timestamp": "#129",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20629118382930756,
+      "processing_metadata": {
+        "sequence": 129,
+        "line_start": 203,
+        "character_count": 29
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "objection",
+      "content": "35 million users which sounds strange because India itself has some 10 11 cr investors",
+      "timestamp": "#130",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "million",
+        "users",
+        "which",
+        "sounds",
+        "strange"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.16603447496891022,
+      "processing_metadata": {
+        "sequence": 130,
+        "line_start": 207,
+        "character_count": 86
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "right now they are claiming that they have one/ird of uh investors on their platform sounds a little unbelievable honestly",
+      "timestamp": "#133",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "now",
+        "claiming",
+        "that",
+        "one",
+        "ird"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.16297656297683716,
+      "processing_metadata": {
+        "sequence": 133,
+        "line_start": 210,
+        "character_count": 122
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "evidence",
+      "content": "yeah those are the numbers they've published yeah",
+      "timestamp": "#138",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "those",
+        "numbers",
+        "published"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2556370198726654,
+      "processing_metadata": {
+        "sequence": 138,
+        "line_start": 215,
+        "character_count": 49
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "date profit date sir.",
+      "timestamp": "#140",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "date",
+        "profit",
+        "sir"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2286263108253479,
+      "processing_metadata": {
+        "sequence": 140,
+        "line_start": 217,
+        "character_count": 21
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "evidence",
+      "content": "Because when I looked at the financials, I think they got a 100 cr. Is that correct?",
+      "timestamp": "#142",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "because",
+        "when",
+        "looked",
+        "financials",
+        "got"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21857969462871552,
+      "processing_metadata": {
+        "sequence": 142,
+        "line_start": 219,
+        "character_count": 84
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "trend",
+      "content": "And they're burning a lot right",
+      "timestamp": "#144",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "burning",
+        "lot"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.30638402700424194,
+      "processing_metadata": {
+        "sequence": 144,
+        "line_start": 221,
+        "character_count": 31
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "I mean, see nowadays I've seen them on the Yeah. Yeah. Yeah. Yeah. This line is not good.",
+      "timestamp": "#153",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "mean",
+        "see",
+        "nowadays",
+        "seen",
+        "this"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20751594007015228,
+      "processing_metadata": {
+        "sequence": 153,
+        "line_start": 230,
+        "character_count": 89
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "I have heard they are kind of uh yeah but uh in this space I've not heard many of the",
+      "timestamp": "#154",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "heard",
+        "kind",
+        "this",
+        "space",
+        "not"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2272975891828537,
+      "processing_metadata": {
+        "sequence": 154,
+        "line_start": 231,
+        "character_count": 85
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "it's a new space relatively.",
+      "timestamp": "#158",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "new",
+        "space",
+        "relatively"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24302716553211212,
+      "processing_metadata": {
+        "sequence": 158,
+        "line_start": 235,
+        "character_count": 28
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "There are people who are entering the space.\n00:20:58",
+      "timestamp": "#160",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "there",
+        "people",
+        "who",
+        "entering",
+        "space"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21098200976848602,
+      "processing_metadata": {
+        "sequence": 160,
+        "line_start": 237,
+        "character_count": 53
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "So, Storow is the biggest name at the moment. The others are very small in the sense that it's a very tacky website or I don't think there's a very systematic way of doing it right now which others are following.",
+      "timestamp": "#163",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "others",
+        "storow",
+        "biggest",
+        "name",
+        "moment"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2927745282649994,
+      "processing_metadata": {
+        "sequence": 163,
+        "line_start": 243,
+        "character_count": 212
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "risk",
+      "content": "There's something called the stocks box but you'll you'll not even want to look at the",
+      "timestamp": "#166",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "there",
+        "something",
+        "called",
+        "stocks",
+        "box"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.27106890082359314,
+      "processing_metadata": {
+        "sequence": 166,
+        "line_start": 246,
+        "character_count": 86
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "User acquisition. Yeah. Yeah. And second is also stickiness. Uh what is your thoughts on the stickiness? Because typically users who are buying stocks on tips, I don't know how loyal they would be in the long",
+      "timestamp": "#173",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "stickiness",
+        "user",
+        "acquisition",
+        "second",
+        "what"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3795928955078125,
+      "processing_metadata": {
+        "sequence": 173,
+        "line_start": 253,
+        "character_count": 208
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "business continuous activation.",
+      "timestamp": "#176",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "business",
+        "continuous",
+        "activation"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3913068175315857,
+      "processing_metadata": {
+        "sequence": 176,
+        "line_start": 256,
+        "character_count": 31
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "I have a friend of mine who runs but we purist",
+      "timestamp": "#178",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "friend",
+        "mine",
+        "who",
+        "runs",
+        "purist"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.16216029226779938,
+      "processing_metadata": {
+        "sequence": 178,
+        "line_start": 258,
+        "character_count": 46
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "form he's also friend of mine Aayush uh",
+      "timestamp": "#180",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "form",
+        "friend",
+        "mine",
+        "aayush"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.317300945520401,
+      "processing_metadata": {
+        "sequence": 180,
+        "line_start": 260,
+        "character_count": 39
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "trend",
+      "content": "Yeah. Yeah. Very popular one.",
+      "timestamp": "#181",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "popular",
+        "one"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3586643636226654,
+      "processing_metadata": {
+        "sequence": 181,
+        "line_start": 261,
+        "character_count": 29
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah. Yeah. And that's that's a very good good space to be",
+      "timestamp": "#184",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "good",
+        "space"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2260911911725998,
+      "processing_metadata": {
+        "sequence": 184,
+        "line_start": 267,
+        "character_count": 58
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "evidence",
+      "content": "in. This is a research tool.",
+      "timestamp": "#186",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "research",
+        "tool"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26740819215774536,
+      "processing_metadata": {
+        "sequence": 186,
+        "line_start": 269,
+        "character_count": 28
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "insight",
+      "content": "They have grown very organically.",
+      "timestamp": "#187",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "grown",
+        "organically"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.19691085815429688,
+      "processing_metadata": {
+        "sequence": 187,
+        "line_start": 270,
+        "character_count": 33
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "recommendation",
+      "content": "Okay. So, yeah. So one question I had was um you know obviously there are registered and non-registered people and the non-registered pool is maybe 9010 ratio 90% WhatsApp and telegrams of the world are non-registered uh but people still find them they subscribe to their services and they appear also right so the way we were we wanted to build a business which was only by reg run by registered uh recommenders uh se registered versus the people who are not registered, right? But what do you think? Would it make sense to also then think slightly, you know, cast a wider net by inviting non-registered users also on the platform, advisers to come in and give their recommendations from their own community, then the user acquisition typically doesn't become our problem fully. It is because see if you are a non-registered recommener, you will anyways grow your network, right?\n00:24:15",
+      "timestamp": "#188",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "registered",
+        "non",
+        "people",
+        "their",
+        "then"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.2103891223669052,
+      "processing_metadata": {
+        "sequence": 188,
+        "line_start": 271,
+        "character_count": 889
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "You will always try to find people. you will advertise yourself and get people to subscribe to your channel or WhatsApp group or whatever, right? Uh so then the owners of us to bring users significantly goes down if all of them at least bring in 30 40 50 users and they use ours as a platform instead of WhatsApp to make things happen. So what are your thoughts on that?",
+      "timestamp": "#189",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "will",
+        "people",
+        "your",
+        "whatsapp",
+        "bring"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: owner"
+      },
+      "extraction_confidence": 0.16265878081321716,
+      "processing_metadata": {
+        "sequence": 189,
+        "line_start": 275,
+        "character_count": 370
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "See one thing you need to personal view excessive information also is a problem.",
+      "timestamp": "#190",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "see",
+        "one",
+        "thing",
+        "need",
+        "personal"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: need"
+      },
+      "extraction_confidence": 0.21049898862838745,
+      "processing_metadata": {
+        "sequence": 190,
+        "line_start": 276,
+        "character_count": 80
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "So if you get too many then also it's a problem according to me because that somewhere kind of",
+      "timestamp": "#192",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "get",
+        "too",
+        "many",
+        "then",
+        "problem"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21352766454219818,
+      "processing_metadata": {
+        "sequence": 192,
+        "line_start": 278,
+        "character_count": 94
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "loses its essence on you know uh how people consume uh information and that is one of the reason that there are many WhatsApp group and I am part of you I I I don't get that kind of a span attention which I you know is required something good also kind of gets skipped and you know things like that so that you have to be a little mindful of that uh you So just to kind of get everything here only for a user acquisition you may not find uh is my view but uh you know you may kind of as a as a consumer I can tell you that\n00:25:29",
+      "timestamp": "#194",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "kind",
+        "get",
+        "may",
+        "loses"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.1784370392560959,
+      "processing_metadata": {
+        "sequence": 194,
+        "line_start": 280,
+        "character_count": 531
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "See the other thing is also we spoke to a couple of advisers who were on stock grow actually.",
+      "timestamp": "#195",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "see",
+        "other",
+        "thing",
+        "spoke",
+        "couple"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3218441605567932,
+      "processing_metadata": {
+        "sequence": 195,
+        "line_start": 284,
+        "character_count": 93
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "recommendation",
+      "content": "So they were active on stock and they were giving tips on stock grow. Now we spoke to at least three or four of those and uh you know almost the theme was we are using stock grow to build our brand. Do not like follow those tips there fully because in parallel we are trying to build our own community outside of stock grow. So that is a theme that we kind of got to know from a lot of these uh se registered advisers there. Um so that is still you know we don't have good answers to that. Uh would this behavior continue or then you know stockly become so big that they can't afford messing up with stockly and not having their presence on stockly.",
+      "timestamp": "#197",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "stock",
+        "grow",
+        "stockly",
+        "tips"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.16074830293655396,
+      "processing_metadata": {
+        "sequence": 197,
+        "line_start": 286,
+        "character_count": 649
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "uh but but what whatever path you take as I said whether you take a RA or you take a nonRA kind of guy uh you need to kind of you know kind of ensure that you don't take too many uh you know and kind of make it\n00:26:37",
+      "timestamp": "#200",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "take",
+        "kind",
+        "what",
+        "whatever",
+        "path"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: need"
+      },
+      "extraction_confidence": 0.2835991680622101,
+      "processing_metadata": {
+        "sequence": 200,
+        "line_start": 289,
+        "character_count": 219
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "a jantaa kind of a thing because then I think the platform will lose it essence for sure it may take some time to build user but I think",
+      "timestamp": "#202",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "jantaa",
+        "kind",
+        "thing",
+        "because",
+        "then"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.22242487967014313,
+      "processing_metadata": {
+        "sequence": 202,
+        "line_start": 294,
+        "character_count": 136
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "It's better to kind of do that way rather than taking everyone in because your quality can dramatically come",
+      "timestamp": "#204",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "better",
+        "kind",
+        "that",
+        "way",
+        "rather"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.19742463529109955,
+      "processing_metadata": {
+        "sequence": 204,
+        "line_start": 296,
+        "character_count": 108
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "So, focus on quality over quantity at the",
+      "timestamp": "#207",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "focus",
+        "quality",
+        "over",
+        "quantity"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23627835512161255,
+      "processing_metadata": {
+        "sequence": 207,
+        "line_start": 299,
+        "character_count": 41
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "if you have to survive you know all kind of cycles and then you have to be very",
+      "timestamp": "#208",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "survive",
+        "all",
+        "kind",
+        "cycles",
+        "then"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.2672056555747986,
+      "processing_metadata": {
+        "sequence": 208,
+        "line_start": 300,
+        "character_count": 79
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "trend",
+      "content": "clear you will not get the right cohort but uh you will not get great customer review finally it's a flywheel you know flywheel time to kind of take off but when it's take off it kind of it'll keep moving on its own.",
+      "timestamp": "#210",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "will",
+        "not",
+        "get",
+        "flywheel",
+        "kind"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21842889487743378,
+      "processing_metadata": {
+        "sequence": 210,
+        "line_start": 302,
+        "character_count": 216
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "So to I think you should be a little nuanced on that. I don't know how are you funding the venture etc.",
+      "timestamp": "#212",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "should",
+        "little",
+        "nuanced",
+        "that",
+        "don"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.18113665282726288,
+      "processing_metadata": {
+        "sequence": 212,
+        "line_start": 304,
+        "character_count": 103
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "what capital you're putting what's the business projection but yeah so that I think",
+      "timestamp": "#214",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "what",
+        "capital",
+        "putting",
+        "business",
+        "projection"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.23145835101604462,
+      "processing_metadata": {
+        "sequence": 214,
+        "line_start": 306,
+        "character_count": 83
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "you have to be a little more careful and eventually the harsh reality is that it's finally someone's money to to obviously we may say that you are not directly advising and so and so forth but eventually it's you're",
+      "timestamp": "#216",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "eventually",
+        "that",
+        "little",
+        "more",
+        "careful"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.4036588966846466,
+      "processing_metadata": {
+        "sequence": 216,
+        "line_start": 311,
+        "character_count": 215
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "dealing with you're dealing with money eventually",
+      "timestamp": "#218",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "dealing",
+        "with",
+        "money",
+        "eventually"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2536315321922302,
+      "processing_metadata": {
+        "sequence": 218,
+        "line_start": 313,
+        "character_count": 49
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "I was old school on some of it because I come from you know pedigree of code and those kind of",
+      "timestamp": "#223",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "old",
+        "school",
+        "some",
+        "because",
+        "come"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.18735143542289734,
+      "processing_metadata": {
+        "sequence": 223,
+        "line_start": 318,
+        "character_count": 94
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "Yeah. I mean honestly we also don't want to build a business that's personal choice for me and",
+      "timestamp": "#227",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "mean",
+        "honestly",
+        "don",
+        "want",
+        "build"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.1860857903957367,
+      "processing_metadata": {
+        "sequence": 227,
+        "line_start": 322,
+        "character_count": 94
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "Pratik where people eventually don't make money and lose a lot of money. So we also want to be slightly mindful of that fact as well. So the other thought was also like we don't want this to be seen as a trading pure trading platform where you know people kind of open your app every second and see what's happening what tips are coming in. So we also still want it to be a midterm to a long-term kind of a thing.\n00:28:45",
+      "timestamp": "#229",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "want",
+        "where",
+        "people",
+        "don",
+        "money"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2577444911003113,
+      "processing_metadata": {
+        "sequence": 229,
+        "line_start": 324,
+        "character_count": 422
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "recommendation",
+      "content": "So recommendations as well.",
+      "timestamp": "#231",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "recommendations",
+        "well"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.2656700909137726,
+      "processing_metadata": {
+        "sequence": 231,
+        "line_start": 329,
+        "character_count": 27
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "you'll be much in better control versus opening up too many",
+      "timestamp": "#233",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "much",
+        "better",
+        "control",
+        "versus",
+        "opening"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.21561773121356964,
+      "processing_metadata": {
+        "sequence": 233,
+        "line_start": 331,
+        "character_count": 59
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "and that could be a differentiator for that matter versus a stock grow.",
+      "timestamp": "#235",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "could",
+        "differentiator",
+        "matter",
+        "versus"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2375820279121399,
+      "processing_metadata": {
+        "sequence": 235,
+        "line_start": 333,
+        "character_count": 71
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "insight",
+      "content": "uh just think about it in more detail users churn rate or so and so forth. So that could be a differentiator for you. You can position it a little more premium. Why you have to position it you know a mass kind of a mass system?",
+      "timestamp": "#237",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "more",
+        "position",
+        "mass",
+        "about",
+        "detail"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.1539296954870224,
+      "processing_metadata": {
+        "sequence": 237,
+        "line_start": 335,
+        "character_count": 227
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "You you can position it a little top notch",
+      "timestamp": "#239",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "can",
+        "position",
+        "little",
+        "top",
+        "notch"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.305267870426178,
+      "processing_metadata": {
+        "sequence": 239,
+        "line_start": 337,
+        "character_count": 42
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Top-notch or invite only kind of a platform.",
+      "timestamp": "#242",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "top",
+        "notch",
+        "invite",
+        "kind",
+        "platform"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2811553180217743,
+      "processing_metadata": {
+        "sequence": 242,
+        "line_start": 340,
+        "character_count": 44
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "objection",
+      "content": "Why you have to kind of think of getting 1 cr subscriber?",
+      "timestamp": "#243",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "why",
+        "kind",
+        "getting",
+        "subscriber"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.22362105548381805,
+      "processing_metadata": {
+        "sequence": 243,
+        "line_start": 341,
+        "character_count": 57
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "You may think that you want your 10 lakh but want the genuinely someone who has a deep pocket",
+      "timestamp": "#245",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "want",
+        "may",
+        "that",
+        "your",
+        "lakh"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.196127250790596,
+      "processing_metadata": {
+        "sequence": 245,
+        "line_start": 343,
+        "character_count": 93
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "and and you know so and so forth burn come over and your monetization could be",
+      "timestamp": "#247",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "forth",
+        "burn",
+        "come",
+        "over",
+        "your"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.22735904157161713,
+      "processing_metadata": {
+        "sequence": 247,
+        "line_start": 345,
+        "character_count": 78
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "better because there you may you may have a ability to probably charge you know I don't know 800 900,000 double of what these guys are charging I think you can think little differently is my view and make it more professional you can also build features where you know these guys can do a you know kind of a you are arranging a scheduled call every day after the market five six you know where these guys come and people can join and you know they give you you know I think you can do a good job on\n00:30:16",
+      "timestamp": "#249",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "can",
+        "these",
+        "guys",
+        "may",
+        "where"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3465330898761749,
+      "processing_metadata": {
+        "sequence": 249,
+        "line_start": 347,
+        "character_count": 507
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "decision",
+      "content": "So Suni when you were looking at stock grow basically how were you evaluating it like what got you interested in it versus maybe what are some",
+      "timestamp": "#252",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "what",
+        "suni",
+        "when",
+        "looking",
+        "stock"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.2635447680950165,
+      "processing_metadata": {
+        "sequence": 252,
+        "line_start": 353,
+        "character_count": 142
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "in fact. I met him last to last week. He started kind of smiling.",
+      "timestamp": "#253",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "last",
+        "fact",
+        "met",
+        "him",
+        "week"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23923568427562714,
+      "processing_metadata": {
+        "sequence": 253,
+        "line_start": 354,
+        "character_count": 65
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "trend",
+      "content": "He was kind of smiling again. coming back stock grow through a private equity guy.",
+      "timestamp": "#255",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "kind",
+        "smiling",
+        "again",
+        "coming",
+        "back"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2283320426940918,
+      "processing_metadata": {
+        "sequence": 255,
+        "line_start": 356,
+        "character_count": 82
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "He may be evaluating it because they may be planning for some fund raise probably. So he was",
+      "timestamp": "#257",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "may",
+        "evaluating",
+        "because",
+        "planning",
+        "some"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.17640399932861328,
+      "processing_metadata": {
+        "sequence": 257,
+        "line_start": 358,
+        "character_count": 92
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yes. Yes. They did get a fund raise recently. They did.",
+      "timestamp": "#258",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "did",
+        "get",
+        "fund",
+        "raise",
+        "recently"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20549751818180084,
+      "processing_metadata": {
+        "sequence": 258,
+        "line_start": 359,
+        "character_count": 55
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "I know about it but numbers were quite uh",
+      "timestamp": "#261",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "about",
+        "numbers",
+        "quite"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.1787066012620926,
+      "processing_metadata": {
+        "sequence": 261,
+        "line_start": 362,
+        "character_count": 41
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "I was amazed with the numbers.",
+      "timestamp": "#263",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "amazed",
+        "with",
+        "numbers"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.18598541617393494,
+      "processing_metadata": {
+        "sequence": 263,
+        "line_start": 364,
+        "character_count": 30
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "there's some mystery honestly even we were not able to really understand but that's maybe discovered",
+      "timestamp": "#264",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "there",
+        "some",
+        "mystery",
+        "honestly",
+        "not"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.277447909116745,
+      "processing_metadata": {
+        "sequence": 264,
+        "line_start": 365,
+        "character_count": 100
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "Why you have to just think of but I'm just thinking aloud right now as we are discussing you may think that you want to get your 10 lakh subscriber very decent\n00:31:59",
+      "timestamp": "#265",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "why",
+        "thinking",
+        "aloud",
+        "now",
+        "discussing"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.1923934370279312,
+      "processing_metadata": {
+        "sequence": 265,
+        "line_start": 366,
+        "character_count": 168
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "insight",
+      "content": "So honestly based on your understanding of the whole stock market space at least in India what are some top two or three gaps do you see both from say an",
+      "timestamp": "#268",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "honestly",
+        "based",
+        "your",
+        "understanding",
+        "whole"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2837086021900177,
+      "processing_metadata": {
+        "sequence": 268,
+        "line_start": 372,
+        "character_count": 153
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "adviser or experts end and a retail investors end and that investor could be anybody uh it could be an HNI or ultra HNI it could be a trader or it could be a regular investor Joe Naya because there are zerodas and grows of the world and postcoid activity ramp",
+      "timestamp": "#270",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "could",
+        "end",
+        "investor",
+        "hni",
+        "adviser"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2012157440185547,
+      "processing_metadata": {
+        "sequence": 270,
+        "line_start": 374,
+        "character_count": 259
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "complaint",
+      "content": "The fundamental problem underlying is very simple that what you own no one is doing a",
+      "timestamp": "#271",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "fundamental",
+        "problem",
+        "underlying",
+        "simple",
+        "that"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.17320547997951508,
+      "processing_metadata": {
+        "sequence": 271,
+        "line_start": 375,
+        "character_count": 85
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "review of that portfolio today and what you want to buy there is no uh you know",
+      "timestamp": "#273",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "review",
+        "that",
+        "portfolio",
+        "today",
+        "what"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.23203401267528534,
+      "processing_metadata": {
+        "sequence": 273,
+        "line_start": 377,
+        "character_count": 79
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "recommendation",
+      "content": "broadly with most of the investors they don't know why are they buying it either someone has given a tip or you know very few people look at numbers etc etc these are two",
+      "timestamp": "#275",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "etc",
+        "broadly",
+        "with",
+        "most",
+        "investors"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.32212957739830017,
+      "processing_metadata": {
+        "sequence": 275,
+        "line_start": 379,
+        "character_count": 170
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "fundamental problems you're trying to solve So how do you when I say review that means that do you have to stay in that stock or not or you want to kind of exit uh or you want to call it rebalancing or review or etc etc that's everyone is very keen otherwise people keep bulking up you know do script\n00:33:14",
+      "timestamp": "#277",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "review",
+        "want",
+        "etc",
+        "fundamental"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.3938979506492615,
+      "processing_metadata": {
+        "sequence": 277,
+        "line_start": 381,
+        "character_count": 309
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "quarterly numbers. So I think that's itself is a very good use case according to him. Uh the second is that the buying part of it which I told you.",
+      "timestamp": "#279",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "quarterly",
+        "numbers",
+        "itself",
+        "good"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.25449320673942566,
+      "processing_metadata": {
+        "sequence": 279,
+        "line_start": 386,
+        "character_count": 147
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "So this is how I look at you know any platform like this portfolio",
+      "timestamp": "#281",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "this",
+        "how",
+        "look",
+        "any",
+        "platform"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20619499683380127,
+      "processing_metadata": {
+        "sequence": 281,
+        "line_start": 388,
+        "character_count": 66
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "complaint",
+      "content": "right I cannot track result of all that could be one way to position it so that's a lot problem",
+      "timestamp": "#285",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "cannot",
+        "track",
+        "result",
+        "all"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26920631527900696,
+      "processing_metadata": {
+        "sequence": 285,
+        "line_start": 392,
+        "character_count": 95
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Yeah. Yeah. Yeah. Been there honestly.",
+      "timestamp": "#288",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "been",
+        "there",
+        "honestly"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21899965405464172,
+      "processing_metadata": {
+        "sequence": 288,
+        "line_start": 395,
+        "character_count": 38
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "I'm assuming within the family you will find probably out of 10 you'll have",
+      "timestamp": "#289",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "assuming",
+        "within",
+        "family",
+        "will",
+        "find"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.169903963804245,
+      "processing_metadata": {
+        "sequence": 289,
+        "line_start": 396,
+        "character_count": 75
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "So I think that you have to figure out and as I said you may not be to ensure that you are not burning too much. You may think a little more premium so that you're more targeted that",
+      "timestamp": "#293",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "may",
+        "not",
+        "more",
+        "figure"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.2583589255809784,
+      "processing_metadata": {
+        "sequence": 293,
+        "line_start": 400,
+        "character_count": 182
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "that itself should ensure that you get the right uh you know kag and the revenue against that",
+      "timestamp": "#295",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "itself",
+        "should",
+        "ensure",
+        "get"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: should"
+      },
+      "extraction_confidence": 0.2633722424507141,
+      "processing_metadata": {
+        "sequence": 295,
+        "line_start": 402,
+        "character_count": 93
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "recommendation",
+      "content": "Yes. And also um what we also heard from people is maybe you go the B2B route first then going B2C. And when they say B2B today there are these And today that whole process of how they are giving a recommendation and how they tracking it is very manual. Maybe you try to build it for the RAS first through them get the users on the platform and then scale it up. What do you think about H? Yeah. Yeah.",
+      "timestamp": "#298",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "what",
+        "maybe",
+        "first",
+        "then",
+        "today"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.2704794704914093,
+      "processing_metadata": {
+        "sequence": 298,
+        "line_start": 408,
+        "character_count": 401
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "and I'm assuming customer has already",
+      "timestamp": "#301",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "assuming",
+        "customer",
+        "already"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.149593785405159,
+      "processing_metadata": {
+        "sequence": 301,
+        "line_start": 411,
+        "character_count": 37
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "chosen now you're only giving him a probably a platform or a convenience type of",
+      "timestamp": "#303",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "chosen",
+        "now",
+        "giving",
+        "him",
+        "probably"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.26443448662757874,
+      "processing_metadata": {
+        "sequence": 303,
+        "line_start": 413,
+        "character_count": 80
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "yeah. Exactly. Exactly.",
+      "timestamp": "#304",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "exactly"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20084749162197113,
+      "processing_metadata": {
+        "sequence": 304,
+        "line_start": 414,
+        "character_count": 23
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "It may be a decent start but economics you will have to think. I don't know the",
+      "timestamp": "#305",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "may",
+        "decent",
+        "start",
+        "economics",
+        "will"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: have to"
+      },
+      "extraction_confidence": 0.1901637315750122,
+      "processing_metadata": {
+        "sequence": 305,
+        "line_start": 415,
+        "character_count": 79
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "So we are in that space of exploring charge. There could be both models. You pay the RAS for them to give advice on the platform or you charge the RAS for them to do rest of the\n00:36:20",
+      "timestamp": "#308",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "charge",
+        "ras",
+        "that",
+        "space",
+        "exploring"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26578566431999207,
+      "processing_metadata": {
+        "sequence": 308,
+        "line_start": 418,
+        "character_count": 186
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "execution on the platform or some sort of a B.",
+      "timestamp": "#310",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "execution",
+        "platform",
+        "some",
+        "sort"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23625081777572632,
+      "processing_metadata": {
+        "sequence": 310,
+        "line_start": 423,
+        "character_count": 46
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "thank you. Yeah. Yeah. True. Say",
+      "timestamp": "#314",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "thank",
+        "true"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.21136103570461273,
+      "processing_metadata": {
+        "sequence": 314,
+        "line_start": 427,
+        "character_count": 32
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "Apart from this saying that apart from what we spoke right now, are there any other ideas or opportunities you feel that there is a gap in this space overall which is not tapped yet or not the you know best players are out there yet and there's still a bigger opportunity because market and it is only going to grow is what we feel right.",
+      "timestamp": "#332",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "there",
+        "apart",
+        "from",
+        "this",
+        "that"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.6257070302963257,
+      "processing_metadata": {
+        "sequence": 332,
+        "line_start": 445,
+        "character_count": 338
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "basically wealth management space or wealth tech space,",
+      "timestamp": "#333",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "wealth",
+        "space",
+        "basically",
+        "management",
+        "tech"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.33514508605003357,
+      "processing_metadata": {
+        "sequence": 333,
+        "line_start": 446,
+        "character_count": 55
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "recommendation",
+      "content": "right? That's what you refer",
+      "timestamp": "#335",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "what",
+        "refer"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.37766873836517334,
+      "processing_metadata": {
+        "sequence": 335,
+        "line_start": 448,
+        "character_count": 28
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "insight",
+      "content": "I think you're on a good direction since you know this subject",
+      "timestamp": "#339",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "good",
+        "direction",
+        "since",
+        "this",
+        "subject"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23075589537620544,
+      "processing_metadata": {
+        "sequence": 339,
+        "line_start": 455,
+        "character_count": 62
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "I think good to pursue is not a",
+      "timestamp": "#341",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "good",
+        "pursue",
+        "not"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.23719525337219238,
+      "processing_metadata": {
+        "sequence": 341,
+        "line_start": 457,
+        "character_count": 31
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "Okay. And apart from stocks, what do you think would because you know mutual funds we know like already people",
+      "timestamp": "#344",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "apart",
+        "from",
+        "stocks",
+        "what",
+        "would"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24792055785655975,
+      "processing_metadata": {
+        "sequence": 344,
+        "line_start": 460,
+        "character_count": 110
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "are like top 10 mutual funds and all of that stuff people typically do. So mutual funds that's what I'm saying. Yeah. So",
+      "timestamp": "#346",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "mutual",
+        "funds",
+        "that",
+        "top",
+        "all"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2393186092376709,
+      "processing_metadata": {
+        "sequence": 346,
+        "line_start": 462,
+        "character_count": 120
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "engagement engagement layer",
+      "timestamp": "#349",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "engagement",
+        "layer"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.43005651235580444,
+      "processing_metadata": {
+        "sequence": 349,
+        "line_start": 465,
+        "character_count": 27
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "Correct. So is commodities the other sector also to look at apart from stocks?",
+      "timestamp": "#352",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "correct",
+        "commodities",
+        "other",
+        "sector",
+        "look"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26596298813819885,
+      "processing_metadata": {
+        "sequence": 352,
+        "line_start": 468,
+        "character_count": 78
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "trend",
+      "content": "Yes, commodity is becoming very interesting in last one one and a half year gold, silver,",
+      "timestamp": "#353",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "one",
+        "commodity",
+        "becoming",
+        "interesting",
+        "last"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3183731138706207,
+      "processing_metadata": {
+        "sequence": 353,
+        "line_start": 469,
+        "character_count": 89
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "copper rallies but market size but it's a future bet if you know people are kind of will get aligned etc over time if",
+      "timestamp": "#355",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "copper",
+        "rallies",
+        "market",
+        "size",
+        "future"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2335558533668518,
+      "processing_metadata": {
+        "sequence": 355,
+        "line_start": 471,
+        "character_count": 117
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "India kind of opens up bitcoin and things like that then it's different",
+      "timestamp": "#357",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "india",
+        "kind",
+        "opens",
+        "bitcoin",
+        "things"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24849286675453186,
+      "processing_metadata": {
+        "sequence": 357,
+        "line_start": 473,
+        "character_count": 71
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "but I don't think you think\n00:39:16",
+      "timestamp": "#359",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "don"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.22460201382637024,
+      "processing_metadata": {
+        "sequence": 359,
+        "line_start": 475,
+        "character_count": 36
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "I don't think you will be able to get the",
+      "timestamp": "#362",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "don",
+        "will",
+        "able",
+        "get"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.19780294597148895,
+      "processing_metadata": {
+        "sequence": 362,
+        "line_start": 481,
+        "character_count": 41
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "trend",
+      "content": "type product because market off has been very rotational",
+      "timestamp": "#368",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "type",
+        "product",
+        "because",
+        "market",
+        "off"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3781264126300812,
+      "processing_metadata": {
+        "sequence": 368,
+        "line_start": 487,
+        "character_count": 56
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "people you know index is holding but then it's a rotation of indices basically nifty it gener you can create 10 jars within that someone who's",
+      "timestamp": "#370",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "people",
+        "index",
+        "holding",
+        "then",
+        "rotation"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.37559160590171814,
+      "processing_metadata": {
+        "sequence": 370,
+        "line_start": 489,
+        "character_count": 142
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "largely on the very small cap micro cap someone who's kind of more of large cap someone who's on ETF or the or nifty indices or you know those kind of stuff one on Fendo strategies etc.",
+      "timestamp": "#372",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "cap",
+        "someone",
+        "who",
+        "kind",
+        "largely"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3012872338294983,
+      "processing_metadata": {
+        "sequence": 372,
+        "line_start": 491,
+        "character_count": 185
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "those kind you can pick up 10 10 20 specialist RA types and you can kind of start building is my view on the way I'm sure you will get more",
+      "timestamp": "#374",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "kind",
+        "can",
+        "those",
+        "pick",
+        "specialist"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2836898863315582,
+      "processing_metadata": {
+        "sequence": 374,
+        "line_start": 493,
+        "character_count": 139
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "opportunities I think classes bonds market shallow But bonds",
+      "timestamp": "#376",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "bonds",
+        "opportunities",
+        "classes",
+        "market",
+        "shallow"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.19537383317947388,
+      "processing_metadata": {
+        "sequence": 376,
+        "line_start": 495,
+        "character_count": 60
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "participation, but you may be early if you want to do it",
+      "timestamp": "#378",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "participation",
+        "may",
+        "early",
+        "want"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.292762815952301,
+      "processing_metadata": {
+        "sequence": 378,
+        "line_start": 497,
+        "character_count": 56
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "other",
+      "content": "You heard of this ven? Have you heard of\n00:41:00",
+      "timestamp": "#381",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "heard",
+        "this",
+        "ven"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.25107553601264954,
+      "processing_metadata": {
+        "sequence": 381,
+        "line_start": 500,
+        "character_count": 49
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Akshay Nahar",
+      "signal_type": "feature",
+      "content": "I think I think he mentioned I think in one",
+      "timestamp": "#391",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "mentioned",
+        "one"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.2166377753019333,
+      "processing_metadata": {
+        "sequence": 391,
+        "line_start": 513,
+        "character_count": 43
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "It's a huge API business.",
+      "timestamp": "#396",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "huge",
+        "api",
+        "business"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.1687489002943039,
+      "processing_metadata": {
+        "sequence": 396,
+        "line_start": 518,
+        "character_count": 25
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "It's not nothing to do with this and that are very different.",
+      "timestamp": "#398",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "not",
+        "nothing",
+        "with",
+        "this",
+        "that"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.5612918138504028,
+      "processing_metadata": {
+        "sequence": 398,
+        "line_start": 520,
+        "character_count": 61
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "recommendation",
+      "content": "Sure. And um see when you talk about the investor side uh some advice that we got was to go after high transactions momentum. So go after the traders, go after the FNO market also. So what do you think about that? Uh versus maybe there is a category of investors who believe in more medium to long-term kind of an investment. So whom should we target really transaction which is the trading community.",
+      "timestamp": "#399",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "after",
+        "about",
+        "that",
+        "see",
+        "when"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.3196004033088684,
+      "processing_metadata": {
+        "sequence": 399,
+        "line_start": 521,
+        "character_count": 401
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "target anyone. Specific targeting could be very difficult as is my view. You need to kind of build up very phenomenal tools you know on the tech side which is real time kind of giving you strategy about uh you know what to do.\n00:42:37",
+      "timestamp": "#400",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "kind",
+        "target",
+        "anyone",
+        "specific",
+        "targeting"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: need"
+      },
+      "extraction_confidence": 0.24968686699867249,
+      "processing_metadata": {
+        "sequence": 400,
+        "line_start": 522,
+        "character_count": 235
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "risk",
+      "content": "It's it's it's less about RA according to me more about uh know whether the there is a mismatch in pricing and things like that. So if you're thinking of fendo world then you should think more around that it's automation is a is where you will kind of",
+      "timestamp": "#401",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "about",
+        "more",
+        "that",
+        "less",
+        "according"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Contains action indicators: should"
+      },
+      "extraction_confidence": 0.1685284823179245,
+      "processing_metadata": {
+        "sequence": 401,
+        "line_start": 526,
+        "character_count": 251
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "objection",
+      "content": "there is a better use",
+      "timestamp": "#405",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "there",
+        "better",
+        "use"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.16678546369075775,
+      "processing_metadata": {
+        "sequence": 405,
+        "line_start": 530,
+        "character_count": 21
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "Sure. Sure. H. Yeah. So maybe that could be a step two or a step three. It can't be the start.",
+      "timestamp": "#406",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "step",
+        "maybe",
+        "that",
+        "could",
+        "two"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.1865924447774887,
+      "processing_metadata": {
+        "sequence": 406,
+        "line_start": 531,
+        "character_count": 94
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "tech capability if you have it's a good thing but most of the people otherwise just buy you know with some basic common sense because it's so difficult",
+      "timestamp": "#407",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "tech",
+        "capability",
+        "good",
+        "thing",
+        "most"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.3924418091773987,
+      "processing_metadata": {
+        "sequence": 407,
+        "line_start": 532,
+        "character_count": 151
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "feature",
+      "content": "to scan uh so many put in options and all of that it's very difficult to scan and kind of take a",
+      "timestamp": "#409",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "scan",
+        "many",
+        "put",
+        "options",
+        "all"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.20396549999713898,
+      "processing_metadata": {
+        "sequence": 409,
+        "line_start": 534,
+        "character_count": 96
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "Yeah. Mhm. Yeah. Yeah.",
+      "timestamp": "#410",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "mhm"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.23488390445709229,
+      "processing_metadata": {
+        "sequence": 410,
+        "line_start": 535,
+        "character_count": 22
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "decision",
+      "content": "But but when it comes to Fendo then you are not kind of waiting for a you know you are kind of deciding within half",
+      "timestamp": "#411",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "kind",
+        "when",
+        "comes",
+        "fendo",
+        "then"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.23871377110481262,
+      "processing_metadata": {
+        "sequence": 411,
+        "line_start": 536,
+        "character_count": 115
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "other",
+      "content": "an hour or an hour or so.\n00:44:14",
+      "timestamp": "#413",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "hour"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.22575588524341583,
+      "processing_metadata": {
+        "sequence": 413,
+        "line_start": 538,
+        "character_count": 34
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "Sure. Makes sense. I get it. Anything else?",
+      "timestamp": "#414",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "makes",
+        "sense",
+        "get",
+        "anything",
+        "else"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.24126434326171875,
+      "processing_metadata": {
+        "sequence": 414,
+        "line_start": 542,
+        "character_count": 43
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "recommendation",
+      "content": "I'm advising one more company just family friend ETF market That's a huge that's a underperated space but it's not everyone's ball game. It's a high algo high tech",
+      "timestamp": "#415",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "high",
+        "advising",
+        "one",
+        "more"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.4548337161540985,
+      "processing_metadata": {
+        "sequence": 415,
+        "line_start": 543,
+        "character_count": 163
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "What's the name of the",
+      "timestamp": "#416",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "what",
+        "name"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.26507076621055603,
+      "processing_metadata": {
+        "sequence": 416,
+        "line_start": 544,
+        "character_count": 22
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "recommendation",
+      "content": "So I'm advising them on that. That's a good space but it's a very capital intensive also market",
+      "timestamp": "#419",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "advising",
+        "good",
+        "space",
+        "capital"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'recommendation' typically requires action"
+      },
+      "extraction_confidence": 0.4040192663669586,
+      "processing_metadata": {
+        "sequence": 419,
+        "line_start": 547,
+        "character_count": 95
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "decision",
+      "content": "Sure. Okay. Hi. Sorry. Driving back to Pratik's place.",
+      "timestamp": "#422",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "sorry",
+        "driving",
+        "back",
+        "pratik",
+        "place"
+      ],
+      "actionable": {
+        "flag": true,
+        "reason": "Signal type 'decision' typically requires action"
+      },
+      "extraction_confidence": 0.20219475030899048,
+      "processing_metadata": {
+        "sequence": 422,
+        "line_start": 550,
+        "character_count": 54
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "trend",
+      "content": "good to see you but I think directionally you are on good",
+      "timestamp": "#423",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "good",
+        "see",
+        "directionally"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.4763995110988617,
+      "processing_metadata": {
+        "sequence": 423,
+        "line_start": 551,
+        "character_count": 57
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Sunil",
+      "signal_type": "trend",
+      "content": "track now obviously Execution will kind of",
+      "timestamp": "#425",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "track",
+        "now",
+        "obviously",
+        "execution",
+        "will"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.47283321619033813,
+      "processing_metadata": {
+        "sequence": 425,
+        "line_start": 553,
+        "character_count": 42
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "feature",
+      "content": "execution is the key.",
+      "timestamp": "#428",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "execution",
+        "key"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.39542731642723083,
+      "processing_metadata": {
+        "sequence": 428,
+        "line_start": 556,
+        "character_count": 21
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "other",
+      "content": "We would love to stay in touch and maybe you know even Ashwin will uh you are in Mumbai right? Yeah.",
+      "timestamp": "#434",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "would",
+        "love",
+        "stay",
+        "touch",
+        "maybe"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.30755358934402466,
+      "processing_metadata": {
+        "sequence": 434,
+        "line_start": 562,
+        "character_count": 100
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Weekly Standup",
+      "speaker_name": "Pratik Munot",
+      "signal_type": "insight",
+      "content": "Yeah. So I think as we take it to the next level uh maybe at that point in time we would love to reconnect but thank you. it was quite valuable to speak to you. Is there any other uh insight or advice that you may want to share with us? I mean you've been a veteran in the space and uh yeah experience. So thanks I mean this means a lot. Yeah.",
+      "timestamp": "#438",
+      "source_file": "Catchup_with_Sunil Daga.txt",
+      "keywords": [
+        "that",
+        "mean",
+        "take",
+        "next",
+        "level"
+      ],
+      "actionable": {
+        "flag": false,
+        "reason": "No action indicators detected"
+      },
+      "extraction_confidence": 0.29983997344970703,
+      "processing_metadata": {
+        "sequence": 438,
+        "line_start": 566,
+        "character_count": 343
+      }
+    }
+  ],
+  "total_segments": 188,
+  "processing_time_sec": 110.73238801956177,
+  "quality_metrics": {
+    "status": "low_quality",
+    "total_entries": 188,
+    "avg_confidence": 0.256,
+    "actionable_count": 44,
+    "signal_distribution": {
+      "feature": 75,
+      "other": 35,
+      "recommendation": 13,
+      "insight": 7,
+      "decision": 15,
+      "risk": 16,
+      "evidence": 5,
+      "objection": 10,
+      "complaint": 3,
+      "trend": 9
+    },
+    "issues": [
+      "Low average confidence: 25.59%"
+    ]
+  },
+  "errors": []
+}

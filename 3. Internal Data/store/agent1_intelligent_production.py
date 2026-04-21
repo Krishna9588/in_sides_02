@@ -735,7 +735,7 @@ def main():
 
 if __name__ == "__main__":
     # Example usage
-    INPUT_FILE = "input/Catchup with Sunil Daga.md"
+    INPUT_FILE = "../input/Catchup with Sunil Daga.md"
     pipeline = Agent1IntelligentPipeline()
     result = pipeline.process_file(INPUT_FILE, reprocess=reprocess)
     # result = pipeline.process_file(INPUT_FILE, output_format="both")

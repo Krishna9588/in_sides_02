@@ -796,6 +796,6 @@ def run_agent1(
 
 if __name__ == "__main__":
     # Example usage
-    INPUT_FILE = "input/Call with Jinay Sawla_Version2.md"
+    INPUT_FILE = "../input/Call with Jinay Sawla_Version2.md"
     res = run_agent1(INPUT_FILE, output_format="both")
     print(json.dumps(res, indent=2, ensure_ascii=False))
