@@ -21,6 +21,7 @@ google-genai
 
 # Web Scraping
 apify-client
+urllib3<2.0
 
 # Caching
 redis
@@ -33,3 +34,6 @@ tenacity
 # Testing
 pytest
 pytest-asyncio
+
+# MCP (Model Context Protocol)
+mcp

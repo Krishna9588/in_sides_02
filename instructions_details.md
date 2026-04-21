@@ -1,10 +1,14 @@
+Agent 1 Repo:  https://github.com/veeuu/Transcript-Agents.git
+
+AIzaSyDk7XgAtnEIC7-O2X9vJh8grOdXotJPhAk
+
 ---
 
 #### **`Modern AI: Vectors & Embeddings`**
 
-Supabase is now a "Gold Standard" for AI applications due to its **pg_vector** integration.
+Supabase is now a "Golden Standard" for AI applications due to its **pg_vector** integration.
 
-- **Semantic Search:** Instead of searching for exact keywords, you search for "meaning" (e.g., searching "chilly weather" and finding results for "winter").
+- **Semantic Search:** Instead of searching for exact keywords, you search zfor "meaning" (e.g., searching "chilly weather" and finding results for "winter").
 - **RAG (Retrieval-Augmented Generation):** You store your documentation as "vector embeddings" in Postgres. When a user asks an AI agent a question, Supabase finds the relevant text to provide context to the LLM.
 - **HNSW Indexing:** High-speed indexing for vector data, allowing you to perform similarity searches across millions of rows in milliseconds.
 
@@ -27,8 +31,6 @@ When you need custom server-side logic that shouldn't live in the database or th
     | **Collaborative Tools** | Realtime Presence for "who is editing" and Broadcast for live cursor tracking. |
     | **Mobile Apps** | Using the Supabase CLI for offline-first local development and Auth for biometric login. |
     | **E-commerce** | Database triggers to update inventory and Edge Functions to handle complex checkout logic. |
-
----
 
 ---
 
@@ -459,11 +461,12 @@ Company Info - https://apify.com/saswave/crunchbase-company-organization-scraper
 
 Website Scraper - https://github.com/odaysec/ResearchHub.git | https://github.com/tasos-py/Search-Engines-Scraper.git | https://github.com/apify/crawlee-python | https://apify.com/apify/web-scraper/api/python | 
 
-Google Free Search - https://apify.com/apify/google-search-scraper/api/python |  
-
 Google Trend Scraper - https://apify.com/apify/google-trends-scraper
 
 **Company Employees Scraper for LinkedIn  -** https://console.apify.com/actors/cIdqlEvw6afc1do1p/input
+
+Feature Extraction - https://huggingface.co/microsoft/harrier-oss-v1-0.6b
+Text Summaraization - https://huggingface.co/models?pipeline_tag=summarization
 
 ---
 
@@ -577,9 +580,14 @@ Google Trend Scraper - https://apify.com/apify/google-trends-scraper
     
     Track selected high-signal sources (will identify a list and share):
     
-    - YouTube (finance/investing creators) -
-    - Reddit (investing communities) -
-    - App Store / Play Store reviews -
+    - YouTube (finance/investing creators) - 
+    Input as Yt Video or Yt channel link ⇒ If video then do full analysis, and if channel then do live option so when even we have new video then analyze it and with channel so last 10 videos option and if clicked on any then show the analysis of it.
+    - Reddit (investing communities) - 
+    Sub reddit - if Sub reddit then fetch past 20 conversations and analysis them and then keep live tab on if found new then fetch that.
+    Reddit post - if post then run an entire analysis
+    - **App Store** / Play Store reviews -
+    Here we will have direct **link of app** - or app name, then search and fetech the data, entire details like:
+    Company, App Name, Downloads, Rating, Reviews, Images if any, Description, etc.
     
     Filter by:
     
@@ -593,6 +601,17 @@ Google Trend Scraper - https://apify.com/apify/google-trends-scraper
     - Meeting transcripts -
     - Founder notes -
     - Product discussions -
+    
+    ---
+    
+    1. Title
+    2. 2 line summary
+    3. Major Decision
+    4. Problem 
+    5. Possible solution pitched
+    6. Tone - positive and negative
+    7. Timeline - of discussion 
+    8. Improvement - For next Call.
     
     ---
     
@@ -634,10 +653,10 @@ Google Trend Scraper - https://apify.com/apify/google-trends-scraper
     
     ### **Processing**
     
-    - Identify problems mentioned
-    - Group similar signals
-    - Count frequency (approximate is fine)
-    - Identify user type (beginner, trader, long-term investor)
+    - Identify problems mentioned -
+    - Group similar signals - Which points as came, positive and negative points
+    - Count frequency (approximate is fine)  - similar problems come in to account. - account
+    - Identify user type (beginner, trader, long-term investor) -
     
     ---
     
@@ -906,5 +925,7 @@ Google Trend Scraper - https://apify.com/apify/google-trends-scraper
     
     Focus on helping the founder think better and move faster.
     
+
+---
 
 ---

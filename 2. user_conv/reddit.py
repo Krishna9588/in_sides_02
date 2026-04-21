@@ -8,7 +8,11 @@ Usage:
     python reddit.py -u URL -m subreddit  # Force subreddit mode
 
 Install dependencies:
-    pip install requests huggingface-hub python-dotenv
+    pip install requests huggingface-hub python-dotenv urllib3
+
+# Web Scraping
+apify-client
+urllib3<2.0
 
 Set API keys in .env.example:
     APIFY_TOKEN=your_apify_token
