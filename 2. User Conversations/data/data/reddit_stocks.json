@@ -1,0 +1,20 @@
+{
+  "extraction_metadata": {
+    "source": "Reddit (mcp-reddit MCP)",
+    "extracted_at": "2026-04-21T00:01:05.177919",
+    "extraction_time_seconds": 124.22,
+    "status": "success"
+  },
+  "extracted_data": {
+    "type": "subreddit",
+    "metadata": {
+      "subreddit": "stocks",
+      "days_analyzed": 30,
+      "posts_extracted": 0,
+      "requested_max_posts": 20,
+      "url": "https://www.reddit.com/r/stocks"
+    },
+    "posts": []
+  },
+  "analysis": null
+}

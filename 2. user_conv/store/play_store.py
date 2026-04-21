@@ -272,7 +272,7 @@ def play_store(
     # Auto-save to data directory
     if save and result and not result.get("error"):
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        data_dir = os.path.join(script_dir, "data")
+        data_dir = os.path.join(script_dir, "../data")
         if not os.path.exists(data_dir):
             os.makedirs(data_dir)
             print(f"  [INFO] Created data directory: {data_dir}")

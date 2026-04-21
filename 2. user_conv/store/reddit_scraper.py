@@ -36,7 +36,7 @@ if not APIFY_TOKEN:
 
 APIFY_BASE = "https://api.apify.com/v2"
 REDDIT_BASE = "https://www.reddit.com"
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "reddit_data")
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../reddit_data")
 
 
 def _is_reddit_url(value: str) -> bool:

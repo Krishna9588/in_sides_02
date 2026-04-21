@@ -26,7 +26,7 @@ from analyzer import analyzer
 
 load_dotenv()
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "reddit_data")
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../reddit_data")
 
 
 def list_scraped_files() -> list:
@@ -131,7 +131,7 @@ Context:
 def analyze_subreddit_data(scraped_data: dict) -> dict:
     """Analyze scraped subreddit data."""
     subreddit_name = scraped_data.get("subreddit", "")
-    posts_data = scraped_data.get("data", [])
+    posts_data = scraped_data.get("../data", [])
     
     if not posts_data:
         raise ValueError("No posts found in scraped data")
