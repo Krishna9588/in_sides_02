@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "timestamp": "2026-04-21T17:01:28.754110",
+  "elapsed_seconds": 8.55,
+  "video": {
+    "video_id": "UCr_kGLxMb3",
+    "title": "Unknown",
+    "channel": "Unknown",
+    "channel_url": "",
+    "description": "",
+    "views": 0,
+    "likes": 0,
+    "upload_date": "",
+    "duration_seconds": 0,
+    "thumbnail": "",
+    "url": "https://www.youtube.com/watch?v=UCr_kGLxMb3-uNX8ZSDflnzw"
+  },
+  "subtitles": {
+    "available": false,
+    "source": null,
+    "language": "en",
+    "text": null,
+    "char_count": 0,
+    "extraction_method": "html_fallback"
+  },
+  "comments": {
+    "count": 0,
+    "items": [],
+    "extraction_success": false,
+    "method": "yt-dlp"
+  }
+}
