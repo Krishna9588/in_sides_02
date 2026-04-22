@@ -18,8 +18,12 @@ import time
 # ML/NLP libraries
 from transformers import pipeline, AutoTokenizer
 import spacy
+import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 import numpy as np
+
+# Download required NLTK data for sentiment analysis
+nltk.download('vader_lexicon', quiet=True)
 
 # Audio/Document processing
 try:
@@ -730,7 +734,7 @@ if __name__ == "__main__":
     # Example 1: Process a markdown transcript
     try:
         result = agent.process_file(
-            input_file='Call with Jinay Sawla_Version2.md',
+            input_file='input/Catchup with Sunil Daga.md',
             output_format='both',
             use_cache=True
         )

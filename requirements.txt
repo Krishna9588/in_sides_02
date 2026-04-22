@@ -30,6 +30,7 @@ redis
 python-dotenv
 httpx
 tenacity
+nltk
 
 # Testing
 pytest

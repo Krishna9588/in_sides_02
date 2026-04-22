@@ -1,0 +1,16 @@
+{
+  "stage0_86dde2e9bec72f5698be82189371543b": {
+    "original_file": "sample_call.md",
+    "stage": "stage0",
+    "cache_file": "stage0_86dde2e9bec72f5698be82189371543b.pkl",
+    "timestamp": "2026-04-21T17:37:25.673060",
+    "size_bytes": 392
+  },
+  "stage1_86dde2e9bec72f5698be82189371543b": {
+    "original_file": "sample_call.md",
+    "stage": "stage1",
+    "cache_file": "stage1_86dde2e9bec72f5698be82189371543b.pkl",
+    "timestamp": "2026-04-21T17:37:25.675870",
+    "size_bytes": 411
+  }
+}
