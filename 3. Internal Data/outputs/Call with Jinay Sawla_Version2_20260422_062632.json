@@ -1,0 +1,1809 @@
+{
+  "status": "success",
+  "input_file": "input\\Call with Jinay Sawla_Version2.md",
+  "entity_name": "Jinay Sawla",
+  "source_type": "Internal",
+  "total_segments": 66,
+  "processing_time_sec": 0.01,
+  "quality_metrics": {
+    "format": "timestamped",
+    "signal_distribution": {
+      "Complaint": 12,
+      "Feature": 7,
+      "Action Item": 6,
+      "Recommendation": 5,
+      "Insight": 5,
+      "Other": 24,
+      "Trend": 4,
+      "Decision": 1,
+      "Risk": 2
+    },
+    "actionable_count": 39,
+    "avg_confidence": 0.49
+  },
+  "entries": [
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "to figure out what options and most of these guys don't even understand the options and their positionings. Futures, how do you hedge it, how do you create that butterfly effect that wherever the market goes you are at least netting yourself 1-1.5% in a week or something. That was huge given in the whole context of things. But the issue is that they will be there for a while",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "00:00 - 00:31",
+      "keywords": [
+        "options",
+        "how",
+        "figure",
+        "out",
+        "what",
+        "most"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "to figure out what options and most of these guys don't even understand the options and their positionings. Futures, how do you hedge it, how do you create that butterfly effect that wherever the market goes you are at least netting yourself 1-1.5% in a week or something. That was huge given in the whole context of things. But the issue is that they will be there for a while",
+      "segment_index": 0,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "But again, because they were not guided, again there was no hand holding done at the other end, there was nobody telling them that this is your way of, or this is the way you should be putting your money. They will end up having losing positions more and very few winning positions. And then as a result they turn away. Because the switching cost is very easy for them. This platform, this platform, this platform. It's very easy to switch them. So, this...",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "00:32 - 01:05",
+      "keywords": [
+        "them",
+        "very",
+        "platform",
+        "again",
+        "because",
+        "there"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "But again, because they were not guided, again there was no hand holding done at the other end, there was nobody telling them that this is your way of, or this is the way you should be putting your money. They will end up having losing positions more and very few winning positions. And then as a result they turn away. Because the switching cost is very easy for them. This platform, this platform, this platform. It's very easy to switch them. So, this...",
+      "segment_index": 1,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Action Item",
+      "content": "This is what tends to happen. They don't get a return for a month, so they switch to somebody else, then they switch to somebody else, then they switch to somebody else. Eventually they lose out. And even the person who's running the show, running that marketplace, he also loses out because you can say that the investor is not staying long. So when you say publication, you have to do a lot of things with education, right?",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "01:07 - 01:37",
+      "keywords": [
+        "switch",
+        "somebody",
+        "else",
+        "then",
+        "out",
+        "running"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "This is what tends to happen. They don't get a return for a month, so they switch to somebody else, then they switch to somebody else, then they switch to somebody else. Eventually they lose out. And even the person who's running the show, running that marketplace, he also loses out because you can say that the investor is not staying long. So when you say publication, you have to do a lot of things with education, right?",
+      "segment_index": 2,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "So if I am the advisor giving recommendations, are you saying that I only need to educate people on what tips I am giving and why I am giving it and in general the philosophy or there should be an academy where people come and get educated about the stock market fundamentals to advance and then whenever I am giving the tips on the platform as an advisor, the end user is now aware of the technology and then decides",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "01:37 - 02:05",
+      "keywords": [
+        "giving",
+        "advisor",
+        "people",
+        "tips",
+        "then",
+        "recommendations"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So if I am the advisor giving recommendations, are you saying that I only need to educate people on what tips I am giving and why I am giving it and in general the philosophy or there should be an academy where people come and get educated about the stock market fundamentals to advance and then whenever I am giving the tips on the platform as an advisor, the end user is now aware of the technology and then decides",
+      "segment_index": 3,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Recommendation",
+      "content": "the stock that advisor has shared, should they buy or not? So both go hand in hand. It's not either or. It is both needs to go hand in hand. So let's say for example, a lending business in a rural India. So we had a meeting yesterday and it was very interesting. A lending business in a rural area gives a loan against property. I mean, one agricultural lot.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "02:05 - 02:39",
+      "keywords": [
+        "hand",
+        "not",
+        "both",
+        "lending",
+        "business",
+        "rural"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "the stock that advisor has shared, should they buy or not? So both go hand in hand. It's not either or. It is both needs to go hand in hand. So let's say for example, a lending business in a rural India. So we had a meeting yesterday and it was very interesting. A lending business in a rural area gives a loan against property. I mean, one agricultural lot.",
+      "segment_index": 4,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Insight",
+      "content": "or some bad thing and the NPAs can just simply push up in the stock price stage then. Affordable housing, 2017-18 was one of the best things to invest in by 2020-21 comes. Modi also says ki abhi mirko pada nahi hai. Now, the point is the more they understand the nuances, toh shahe they'll not buy Avaaz or they'll not buy any other affordable housing company to that extent in the book.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "02:40 - 03:08",
+      "keywords": [
+        "affordable",
+        "housing",
+        "not",
+        "buy",
+        "some",
+        "bad"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "or some bad thing and the NPAs can just simply push up in the stock price stage then. Affordable housing, 2017-18 was one of the best things to invest in by 2020-21 comes. Modi also says ki abhi mirko pada nahi hai. Now, the point is the more they understand the nuances, toh shahe they'll not buy Avaaz or they'll not buy any other affordable housing company to that extent in the book.",
+      "segment_index": 5,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "So, getting them to position sizing is the main thing. It's always there but in position sizing, they make the biggest error. But then, there will be a role of financial planner in this. Because what happens is... Sir, I think that if there is an academy on our platform, and the one who wants to learn, can learn there and the one who wants to trade,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "03:11 - 03:39",
+      "keywords": [
+        "there",
+        "position",
+        "sizing",
+        "one",
+        "who",
+        "wants"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So, getting them to position sizing is the main thing. It's always there but in position sizing, they make the biggest error. But then, there will be a role of financial planner in this. Because what happens is... Sir, I think that if there is an academy on our platform, and the one who wants to learn, can learn there and the one who wants to trade,",
+      "segment_index": 6,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "that is okay but all we are saying is see education has to be part of the other way you know it is somewhere integrated into the system we cannot just ignore it and you know just think",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "03:39 - 04:03",
+      "keywords": [
+        "know",
+        "just",
+        "okay",
+        "all",
+        "saying",
+        "see"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "that is okay but all we are saying is see education has to be part of the other way you know it is somewhere integrated into the system we cannot just ignore it and you know just think",
+      "segment_index": 7,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Recommendation",
+      "content": "See, we are completely with you and we have also thought about an academic kind of a thing that education will happen. What I am saying is what Jinnah is to Jinnah's point. If I get a tip that you take HDFC Bank, then I don't know right now, let's say I have a lakh rupees, should I go for like 60,000 rupees buying or only 10k buying? That is okay. See, I don't know that person's company profile or his credibility or what he is.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "04:04 - 04:33",
+      "keywords": [
+        "what",
+        "see",
+        "jinnah",
+        "don",
+        "know",
+        "rupees"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "See, we are completely with you and we have also thought about an academic kind of a thing that education will happen. What I am saying is what Jinnah is to Jinnah's point. If I get a tip that you take HDFC Bank, then I don't know right now, let's say I have a lakh rupees, should I go for like 60,000 rupees buying or only 10k buying? That is okay. See, I don't know that person's company profile or his credibility or what he is.",
+      "segment_index": 8,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Trend",
+      "content": "I can bet on that. That is okay. Who is recommending if I am clear about that and I have conviction in that person's research or knowledge, I am ready to bet on that. Then we cannot say whether it will work or not. How good is the idea. I think that we cannot judge at that level. It is quite difficult because the market is dynamic and volatile. Even if the recommendation is correct,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "04:33 - 05:10",
+      "keywords": [
+        "bet",
+        "cannot",
+        "can",
+        "okay",
+        "who",
+        "recommending"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "I can bet on that. That is okay. Who is recommending if I am clear about that and I have conviction in that person's research or knowledge, I am ready to bet on that. Then we cannot say whether it will work or not. How good is the idea. I think that we cannot judge at that level. It is quite difficult because the market is dynamic and volatile. Even if the recommendation is correct,",
+      "segment_index": 9,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "and something external happens in the market times, the retail person doesn't understand that. The stock will come back. Exactly, yeah, that's there. So recommendation is not wrong, the timing can go off. So the retail person perceives the issue as if it was wrong. But they feel that guy is not an expert.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "05:10 - 05:41",
+      "keywords": [
+        "retail",
+        "person",
+        "not",
+        "wrong",
+        "something",
+        "external"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "and something external happens in the market times, the retail person doesn't understand that. The stock will come back. Exactly, yeah, that's there. So recommendation is not wrong, the timing can go off. So the retail person perceives the issue as if it was wrong. But they feel that guy is not an expert.",
+      "segment_index": 10,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Action Item",
+      "content": "So that is the opportunity to shape the investor behaviour. Now how to do it is one question mark. But I am sure that is where the advisor has to put in the effort that I have given this recommendation. Market tank or stock price has gone and you don't need to sort of do any panic buying or panic selling around it. It is something we will see how the platform can enable.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "05:41 - 06:06",
+      "keywords": [
+        "how",
+        "panic",
+        "opportunity",
+        "shape",
+        "investor",
+        "behaviour"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So that is the opportunity to shape the investor behaviour. Now how to do it is one question mark. But I am sure that is where the advisor has to put in the effort that I have given this recommendation. Market tank or stock price has gone and you don't need to sort of do any panic buying or panic selling around it. It is something we will see how the platform can enable.",
+      "segment_index": 11,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "I want to go back to the platform when maybe Junaid asked a fundamental question like what were your first impressions when you saw it like where do you see the utility of it and then of course all that we are discussing is how can it be done better and all that but maybe if I want to break down my two questions in two parts where do you see the utility of it and at what point in time will this platform break I think I'm getting answers on",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "06:06 - 06:32",
+      "keywords": [
+        "want",
+        "platform",
+        "when",
+        "maybe",
+        "like",
+        "what"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "I want to go back to the platform when maybe Junaid asked a fundamental question like what were your first impressions when you saw it like where do you see the utility of it and then of course all that we are discussing is how can it be done better and all that but maybe if I want to break down my two questions in two parts where do you see the utility of it and at what point in time will this platform break I think I'm getting answers on",
+      "segment_index": 12,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Trend",
+      "content": "Why won't it work? Because there is a lot of volatility in the market. So, it won't take time for a retail investor to go from one place to another. But, you know, I am just trying to figure out reasons as to why it will still work. If you have any thoughts on that. I am not saying why it will not work. I am not operating from that. What I am trying to say is that",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "06:33 - 07:03",
+      "keywords": [
+        "why",
+        "work",
+        "not",
+        "won",
+        "from",
+        "trying"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "Why won't it work? Because there is a lot of volatility in the market. So, it won't take time for a retail investor to go from one place to another. But, you know, I am just trying to figure out reasons as to why it will still work. If you have any thoughts on that. I am not saying why it will not work. I am not operating from that. What I am trying to say is that",
+      "segment_index": 13,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Decision",
+      "content": "What I'm just trying to say is that no matter how hard we try, at the end of the day, if the final decision is left on the investor, the investor will be at length. That's the only thing I'm trying to say. My first impression, if I have to go back 10 years, 10 to 12 years back, when I first started 30-40 years back of my own journey of trading, I would have really enjoyed it.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "07:04 - 07:43",
+      "keywords": [
+        "back",
+        "years",
+        "trying",
+        "say",
+        "investor",
+        "first"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "What I'm just trying to say is that no matter how hard we try, at the end of the day, if the final decision is left on the investor, the investor will be at length. That's the only thing I'm trying to say. My first impression, if I have to go back 10 years, 10 to 12 years back, when I first started 30-40 years back of my own journey of trading, I would have really enjoyed it.",
+      "segment_index": 14,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "So if I am a first comer person, I will enjoy whatever there is. There is an access, there is everything. But as I mature, I don't... So as an investor, when we mature, we tend to cut back on, you know, excess information available. So what your product is at this point in time, it will work for first time guys. Jisko naya naya, who's very very happy.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "07:44 - 08:23",
+      "keywords": [
+        "there",
+        "first",
+        "will",
+        "mature",
+        "time",
+        "naya"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "So if I am a first comer person, I will enjoy whatever there is. There is an access, there is everything. But as I mature, I don't... So as an investor, when we mature, we tend to cut back on, you know, excess information available. So what your product is at this point in time, it will work for first time guys. Jisko naya naya, who's very very happy.",
+      "segment_index": 15,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "But the ones who will want to have serious bets and serious investment positions, you won't see any reason for them to be there. Fair point. At this point. How you make it is the second thing. Secondly, like I said, it's good in the starting that there is a lot of information available. But eventually, in my own journey, I don't know about Maksha and Nadeem and yourself,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "08:23 - 08:59",
+      "keywords": [
+        "serious",
+        "there",
+        "point",
+        "ones",
+        "who",
+        "will"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "But the ones who will want to have serious bets and serious investment positions, you won't see any reason for them to be there. Fair point. At this point. How you make it is the second thing. Secondly, like I said, it's good in the starting that there is a lot of information available. But eventually, in my own journey, I don't know about Maksha and Nadeem and yourself,",
+      "segment_index": 16,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "so how do we make sure how do you make sure depending on your just say once you start watching a few series your curation changes so how you how you're going to change that curation of those stocks with regards to",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "09:00 - 09:25",
+      "keywords": [
+        "how",
+        "make",
+        "sure",
+        "your",
+        "curation",
+        "depending"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "so how do we make sure how do you make sure depending on your just say once you start watching a few series your curation changes so how you how you're going to change that curation of those stocks with regards to",
+      "segment_index": 17,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Insight",
+      "content": "that guy's behaviour will matter more because if you see there is this website called Value Picker the two brothers who are screeners, Aayush and Pratyush they are the ones who started it it's a great source for anybody who wants to first understand how to follow news, how to follow the stock but at one point because it was left unmoderated",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "09:26 - 10:00",
+      "keywords": [
+        "who",
+        "because",
+        "how",
+        "follow",
+        "guy",
+        "behaviour"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "that guy's behaviour will matter more because if you see there is this website called Value Picker the two brothers who are screeners, Aayush and Pratyush they are the ones who started it it's a great source for anybody who wants to first understand how to follow news, how to follow the stock but at one point because it was left unmoderated",
+      "segment_index": 18,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "There are a lot of things that you don't want to get at. Whatever you have built, these are my thoughts as of now. This is great. And maybe let's just say that now that you are a serious investor or you know, and you rightly said about there is a lot of noise today.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "10:01 - 10:26",
+      "keywords": [
+        "there",
+        "lot",
+        "now",
+        "things",
+        "don",
+        "want"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "There are a lot of things that you don't want to get at. Whatever you have built, these are my thoughts as of now. This is great. And maybe let's just say that now that you are a serious investor or you know, and you rightly said about there is a lot of noise today.",
+      "segment_index": 19,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "and I see that also on Instagram and everywhere. What are your sources for learning or what do you refer to which is out there available in the online domain? What do you personally read? My reading is usually we read balance sheets, we read the EVA and then we go for studies done by those academics, academia where there are science journals or there is a World Bank report, whatever. There are so many",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "10:26 - 10:58",
+      "keywords": [
+        "there",
+        "what",
+        "read",
+        "see",
+        "also",
+        "instagram"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "and I see that also on Instagram and everywhere. What are your sources for learning or what do you refer to which is out there available in the online domain? What do you personally read? My reading is usually we read balance sheets, we read the EVA and then we go for studies done by those academics, academia where there are science journals or there is a World Bank report, whatever. There are so many",
+      "segment_index": 20,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "Like you said value picker, something like that or some websites do you refer to typically?",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "10:58 - 11:35",
+      "keywords": [
+        "like",
+        "said",
+        "value",
+        "picker",
+        "something",
+        "some"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "Like you said value picker, something like that or some websites do you refer to typically?",
+      "segment_index": 21,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Action Item",
+      "content": "Screener Screener Screener There is so much information happening in this business, it's good to still take time Yeah, yeah Akshay, do you have any other follow up questions? No, Jinnah right now, again feel free to skip this but what is the volume or number of customers that you are managing right now?",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "11:36 - 12:00",
+      "keywords": [
+        "screener",
+        "yeah",
+        "right",
+        "now",
+        "there",
+        "much"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "Screener Screener Screener There is so much information happening in this business, it's good to still take time Yeah, yeah Akshay, do you have any other follow up questions? No, Jinnah right now, again feel free to skip this but what is the volume or number of customers that you are managing right now?",
+      "segment_index": 22,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "How are you managing there? Of course you did mention about you know phone pe kar lete, hum phut bhi kar lete but is the volume right now manageable? That's why you are not thinking of any technology right now? Like where are you on that right now? Volume is toh theek hai because we are managing larger sizes dire dire. Volume is toh around",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "12:02 - 12:24",
+      "keywords": [
+        "volume",
+        "right",
+        "now",
+        "managing",
+        "kar",
+        "lete"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "How are you managing there? Of course you did mention about you know phone pe kar lete, hum phut bhi kar lete but is the volume right now manageable? That's why you are not thinking of any technology right now? Like where are you on that right now? Volume is toh theek hai because we are managing larger sizes dire dire. Volume is toh around",
+      "segment_index": 23,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Action Item",
+      "content": "Sub 50-60 sort of things but volume is managed when keeping resources. If someone is there, just give them a call and get them to do it. Or we, I mean I might just hire a full-time trading hand, a trader, somebody who is just doing that too. It's not a big issue to manage volume. I think the most, how do I say, it's the issue",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "12:24 - 12:59",
+      "keywords": [
+        "just",
+        "volume",
+        "them",
+        "issue",
+        "sub",
+        "sort"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "Sub 50-60 sort of things but volume is managed when keeping resources. If someone is there, just give them a call and get them to do it. Or we, I mean I might just hire a full-time trading hand, a trader, somebody who is just doing that too. It's not a big issue to manage volume. I think the most, how do I say, it's the issue",
+      "segment_index": 24,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "Usually for me personally, it just comes down to one or a couple of algorithms that so if when we start a portfolio, the allocations are different. Yeah. Okay, so the portfolio may be there for the next five to six years depending on whatever we've thought about it. But six months down the line, prices change. So allocations need to be deferred.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "13:00 - 13:27",
+      "keywords": [
+        "down",
+        "portfolio",
+        "allocations",
+        "six",
+        "usually",
+        "personally"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "Usually for me personally, it just comes down to one or a couple of algorithms that so if when we start a portfolio, the allocations are different. Yeah. Okay, so the portfolio may be there for the next five to six years depending on whatever we've thought about it. But six months down the line, prices change. So allocations need to be deferred.",
+      "segment_index": 25,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "So the challenge is always to bring that algorithm in place so that based on those prices and the newer information that needs to come, we can shift it. So that is where we need to land on. Execution wise, we are not getting that much issue. And then because you mentioned you would manage all of this in Excel, right? For each customer you have their portfolio in Excel. Yeah, yeah. Even a two digit number for now.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "13:28 - 13:59",
+      "keywords": [
+        "excel",
+        "yeah",
+        "challenge",
+        "always",
+        "bring",
+        "algorithm"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So the challenge is always to bring that algorithm in place so that based on those prices and the newer information that needs to come, we can shift it. So that is where we need to land on. Execution wise, we are not getting that much issue. And then because you mentioned you would manage all of this in Excel, right? For each customer you have their portfolio in Excel. Yeah, yeah. Even a two digit number for now.",
+      "segment_index": 26,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "Is it like very feasible right now or you have a set of stocks that you are kind of offering in different capacities or in different buying cycles to these customers so that's where you know.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "13:59 - 14:23",
+      "keywords": [
+        "different",
+        "like",
+        "very",
+        "feasible",
+        "right",
+        "now"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "Is it like very feasible right now or you have a set of stocks that you are kind of offering in different capacities or in different buying cycles to these customers so that's where you know.",
+      "segment_index": 27,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Insight",
+      "content": "research is very very hard it's just key what we are trying to figure out right now is the solution where whatever we are buying and selling so spectrum whatever we are buying selling you know pieces that we have bought or sold and we are able to also showcase it very quickly",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "14:26 - 14:57",
+      "keywords": [
+        "very",
+        "whatever",
+        "buying",
+        "selling",
+        "research",
+        "hard"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "research is very very hard it's just key what we are trying to figure out right now is the solution where whatever we are buying and selling so spectrum whatever we are buying selling you know pieces that we have bought or sold and we are able to also showcase it very quickly",
+      "segment_index": 28,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Action Item",
+      "content": "with a challenge at this point in time. What we are trying to do is we are trying to get at more tickets, higher tickets, higher numbers. Yeah, yeah. So, I mean, less number of customers but higher volumes. Correct. So then, Jina, don't you think like the situation that you are in right now, like at least 50, 60, whatever number of customers you are managing. If, let's say, a player like Stoplick comes in and says that you put your recommendations here for your buy-ins.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "14:57 - 15:30",
+      "keywords": [
+        "higher",
+        "like",
+        "trying",
+        "tickets",
+        "yeah",
+        "number"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "with a challenge at this point in time. What we are trying to do is we are trying to get at more tickets, higher tickets, higher numbers. Yeah, yeah. So, I mean, less number of customers but higher volumes. Correct. So then, Jina, don't you think like the situation that you are in right now, like at least 50, 60, whatever number of customers you are managing. If, let's say, a player like Stoplick comes in and says that you put your recommendations here for your buy-ins.",
+      "segment_index": 29,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "For me that is not a solution honestly because it's for different people, my allocations tend to differ. Yeah, correct. If I say I just put in one... Junaid, it can make your work easy, right? With a little more, see, Google, Google Doc is fine but it gave some analytics, some insights, the calls went right, wrong.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "15:59 - 16:24",
+      "keywords": [
+        "right",
+        "google",
+        "some",
+        "not",
+        "solution",
+        "honestly"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "For me that is not a solution honestly because it's for different people, my allocations tend to differ. Yeah, correct. If I say I just put in one... Junaid, it can make your work easy, right? With a little more, see, Google, Google Doc is fine but it gave some analytics, some insights, the calls went right, wrong.",
+      "segment_index": 30,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "proper analysis of everything, will it not help? Automated reporting to your customers and of course you said that. Even to communicate to them in a faster way, I think it can help in a way. The reason is very simple because let's say customers are also very different. Like your portfolio will be more on the all-weather side. Somebody will only come for healthcare, somebody will only come for work.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "16:25 - 17:00",
+      "keywords": [
+        "will",
+        "help",
+        "your",
+        "customers",
+        "way",
+        "very"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "proper analysis of everything, will it not help? Automated reporting to your customers and of course you said that. Even to communicate to them in a faster way, I think it can help in a way. The reason is very simple because let's say customers are also very different. Like your portfolio will be more on the all-weather side. Somebody will only come for healthcare, somebody will only come for work.",
+      "segment_index": 31,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "So sector specific, somebody will come for core satellite. That also you can create. You can create two, three portfolios and then track them accordingly. That's what I was kind of leading to. So imagine three of us or four of us on the call have different portfolios or maybe, you know, Nandish, Pratik and I are your customers. Now, you know, you have a portfolio for Nandish and five other similar people with Pratik and me.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "17:00 - 17:25",
+      "keywords": [
+        "can",
+        "create",
+        "three",
+        "portfolios",
+        "know",
+        "nandish"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So sector specific, somebody will come for core satellite. That also you can create. You can create two, three portfolios and then track them accordingly. That's what I was kind of leading to. So imagine three of us or four of us on the call have different portfolios or maybe, you know, Nandish, Pratik and I are your customers. Now, you know, you have a portfolio for Nandish and five other similar people with Pratik and me.",
+      "segment_index": 32,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "Now imagine what Nandish is buying and selling, you can readily see and 5 other Nandish's right, same as with 5 other Pratis and 5 other Akshay's. Then won't your life become easier and simpler, quickly see on one click and then I also as an investor,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "17:25 - 17:42",
+      "keywords": [
+        "other",
+        "nandish",
+        "see",
+        "then",
+        "now",
+        "imagine"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "Now imagine what Nandish is buying and selling, you can readily see and 5 other Nandish's right, same as with 5 other Pratis and 5 other Akshay's. Then won't your life become easier and simpler, quickly see on one click and then I also as an investor,",
+      "segment_index": 33,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "would get some insights from you you can educate me there and then there is a system which is going to help you in your crm also like managing your in any and actually does this help in getting the fees and all of that through your system yeah we could get that because that's a publicly available information yeah yeah what's possible",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "17:43 - 18:07",
+      "keywords": [
+        "your",
+        "yeah",
+        "get",
+        "there",
+        "system",
+        "help"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "would get some insights from you you can educate me there and then there is a system which is going to help you in your crm also like managing your in any and actually does this help in getting the fees and all of that through your system yeah we could get that because that's a publicly available information yeah yeah what's possible",
+      "segment_index": 34,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "See right now let's say all these 60 people, maybe manually once in a year Jinnah will raise an invoice and they will make the payment or something like that. That's where I was going to come like in the end when I said CRM, managing your customer, their email, phone number, payment links, renewals, automated reminders, everything. Jinnah, ask them, it will be useful. And see this is not a sales pitch. Honestly, right now this is not a sales pitch.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "18:08 - 18:38",
+      "keywords": [
+        "will",
+        "see",
+        "right",
+        "now",
+        "jinnah",
+        "payment"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "See right now let's say all these 60 people, maybe manually once in a year Jinnah will raise an invoice and they will make the payment or something like that. That's where I was going to come like in the end when I said CRM, managing your customer, their email, phone number, payment links, renewals, automated reminders, everything. Jinnah, ask them, it will be useful. And see this is not a sales pitch. Honestly, right now this is not a sales pitch.",
+      "segment_index": 35,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "I mean, I can think about it. We are not trying to convince ourselves that why this will work. We are just trying to brainstorm given your problem statement of the way you are operating right now, would a technology. Yeah. Yeah, yeah, yeah, of course. Okay.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "18:38 - 19:09",
+      "keywords": [
+        "yeah",
+        "trying",
+        "mean",
+        "can",
+        "think",
+        "about"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "I mean, I can think about it. We are not trying to convince ourselves that why this will work. We are just trying to brainstorm given your problem statement of the way you are operating right now, would a technology. Yeah. Yeah, yeah, yeah, of course. Okay.",
+      "segment_index": 36,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "And it's good to be a critic and not be convinced, you know, that will make the idea more robust. Fully agree, fully agree. Let's just look at it this way. What's the pain point or what are some pain points that we are not focusing on because we thought something else is a pain point and that pain point could be from a retail investor standpoint or an advisor standpoint.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "19:09 - 19:31",
+      "keywords": [
+        "pain",
+        "point",
+        "not",
+        "fully",
+        "agree",
+        "what"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "And it's good to be a critic and not be convinced, you know, that will make the idea more robust. Fully agree, fully agree. Let's just look at it this way. What's the pain point or what are some pain points that we are not focusing on because we thought something else is a pain point and that pain point could be from a retail investor standpoint or an advisor standpoint.",
+      "segment_index": 37,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "So for me, receiving fee collection and invoicing has never been a pain point. I may not have thought too much about that. Neither is the CRM a bit of a pain point. Because it is streamlined since month one itself. It has never been that painful. Actually, even with Google checks and all,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "19:33 - 20:06",
+      "keywords": [
+        "never",
+        "been",
+        "pain",
+        "point",
+        "receiving",
+        "fee"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So for me, receiving fee collection and invoicing has never been a pain point. I may not have thought too much about that. Neither is the CRM a bit of a pain point. Because it is streamlined since month one itself. It has never been that painful. Actually, even with Google checks and all,",
+      "segment_index": 38,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "We were able to very quickly understand how do we build our calculators for these and all. That issue never existed. So I've never really, I mean that's what I'm saying, I've never really thought on those terms. For me the pain point has always been passing that conviction to the customer because",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "20:06 - 20:40",
+      "keywords": [
+        "never",
+        "really",
+        "able",
+        "very",
+        "quickly",
+        "understand"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "We were able to very quickly understand how do we build our calculators for these and all. That issue never existed. So I've never really, I mean that's what I'm saying, I've never really thought on those terms. For me the pain point has always been passing that conviction to the customer because",
+      "segment_index": 39,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "Because we are not managing it directly, once we manage, once that fee sorts itself, then that pain point also tends to go away. But because we are not managing it directly, what happens is that sometimes we want to get a higher allocation. That doesn't happen sometimes. And why is this a pain point in the sense that or how are you trying to solve for this pain point on your own?",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "20:40 - 21:11",
+      "keywords": [
+        "pain",
+        "point",
+        "because",
+        "not",
+        "managing",
+        "directly"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "Because we are not managing it directly, once we manage, once that fee sorts itself, then that pain point also tends to go away. But because we are not managing it directly, what happens is that sometimes we want to get a higher allocation. That doesn't happen sometimes. And why is this a pain point in the sense that or how are you trying to solve for this pain point on your own?",
+      "segment_index": 40,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Trend",
+      "content": "Abhi toh hoyi hota hai ki we write extensive notes and we send it to them and then we have a conversation with them. We feel a 12% allocation is good for you in a particular stock or why do we go like a 7% stock on heavy 60% thing in this sort of a market when it is down or when it is up, why do we send? So wohi ek lehta hai. Other than that,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "21:12 - 21:40",
+      "keywords": [
+        "hai",
+        "send",
+        "them",
+        "stock",
+        "why",
+        "when"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "Abhi toh hoyi hota hai ki we write extensive notes and we send it to them and then we have a conversation with them. We feel a 12% allocation is good for you in a particular stock or why do we go like a 7% stock on heavy 60% thing in this sort of a market when it is down or when it is up, why do we send? So wohi ek lehta hai. Other than that,",
+      "segment_index": 41,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "I am just saying at this point, anything else is not really a very big worry. And how much interested are your customers in getting that education, like getting themselves educated? They will love it because what happens is that when we start talking about it, they start themselves thinking.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "21:41 - 22:09",
+      "keywords": [
+        "getting",
+        "themselves",
+        "start",
+        "just",
+        "saying",
+        "point"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "I am just saying at this point, anything else is not really a very big worry. And how much interested are your customers in getting that education, like getting themselves educated? They will love it because what happens is that when we start talking about it, they start themselves thinking.",
+      "segment_index": 42,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Insight",
+      "content": "So my summary is that and I understand why people love it is because everybody likes to be empowered at the end of the day and they want to",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "22:10 - 22:40",
+      "keywords": [
+        "summary",
+        "understand",
+        "why",
+        "people",
+        "love",
+        "because"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So my summary is that and I understand why people love it is because everybody likes to be empowered at the end of the day and they want to",
+      "segment_index": 43,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "feel in control of their decisions even if there is an expert sitting out there who is recommending or giving advice people want to feel in control of their decisions so in that sense such sort of education helps of course how do you cut down the noise and put it across in a manner where people get it as to why you are saying what you are saying is a is a is a pain point",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "22:40 - 23:05",
+      "keywords": [
+        "feel",
+        "control",
+        "their",
+        "decisions",
+        "there",
+        "people"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "feel in control of their decisions even if there is an expert sitting out there who is recommending or giving advice people want to feel in control of their decisions so in that sense such sort of education helps of course how do you cut down the noise and put it across in a manner where people get it as to why you are saying what you are saying is a is a is a pain point",
+      "segment_index": 44,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "Okay, Akshay anything else I think? There has been a lot of food for thought. No, I think good inputs Jinnah and Abish. Jinnah just one question though.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "23:08 - 23:24",
+      "keywords": [
+        "think",
+        "jinnah",
+        "okay",
+        "akshay",
+        "anything",
+        "else"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "Okay, Akshay anything else I think? There has been a lot of food for thought. No, I think good inputs Jinnah and Abish. Jinnah just one question though.",
+      "segment_index": 45,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Risk",
+      "content": "As far as we know, if you are a SEBI registered advisor, you can give out those tips, buying selling tips on your own out there in open. Will there be a limitation or challenge with a platform like Stockly? Like how can Stockly also create a play or a platform for non-registered advisors who are equally good or perhaps better, more credible, more strong at their...",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "23:24 - 23:50",
+      "keywords": [
+        "registered",
+        "can",
+        "out",
+        "tips",
+        "there",
+        "platform"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "As far as we know, if you are a SEBI registered advisor, you can give out those tips, buying selling tips on your own out there in open. Will there be a limitation or challenge with a platform like Stockly? Like how can Stockly also create a play or a platform for non-registered advisors who are equally good or perhaps better, more credible, more strong at their...",
+      "segment_index": 46,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Risk",
+      "content": "So just take a corporate RA and that will be it. You take a corporate RA whatever advice is going it becomes Stockly's advice. No, Stockly doesn't want to give advice but let's say Stockly wants to bring you on the platform. Do you see a challenge with that? No. See advice is only when you talk about recommendations. According to SEBI it is only buy, sell and hold.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "23:51 - 24:24",
+      "keywords": [
+        "advice",
+        "stockly",
+        "take",
+        "corporate",
+        "see",
+        "only"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So just take a corporate RA and that will be it. You take a corporate RA whatever advice is going it becomes Stockly's advice. No, Stockly doesn't want to give advice but let's say Stockly wants to bring you on the platform. Do you see a challenge with that? No. See advice is only when you talk about recommendations. According to SEBI it is only buy, sell and hold.",
+      "segment_index": 47,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "If you steer away from that and talk everything else, which leads to those three decisions, then there is no problem. Yes, perfect. That's what I wanted to discuss. Because right now at least the position we are operating from is we are not the experts. We are software people and we are trying to build a platform. And our thinking is more from that angle than being the market experts. Market experts are people like you and Nandesh and so many people out there.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "24:25 - 24:57",
+      "keywords": [
+        "from",
+        "experts",
+        "people",
+        "there",
+        "market",
+        "steer"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "If you steer away from that and talk everything else, which leads to those three decisions, then there is no problem. Yes, perfect. That's what I wanted to discuss. Because right now at least the position we are operating from is we are not the experts. We are software people and we are trying to build a platform. And our thinking is more from that angle than being the market experts. Market experts are people like you and Nandesh and so many people out there.",
+      "segment_index": 48,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "We are trying to bring them together and then of course perhaps exercise our skill in getting enough users so that this becomes a scalable platform. That's all. Secondly, I mean I am not discouraging of search but the RA engine which people have taken, I really feel, you just talk about it. You start realizing why because of the SAP definitions they have become so",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "24:57 - 25:34",
+      "keywords": [
+        "trying",
+        "bring",
+        "them",
+        "together",
+        "then",
+        "course"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "We are trying to bring them together and then of course perhaps exercise our skill in getting enough users so that this becomes a scalable platform. That's all. Secondly, I mean I am not discouraging of search but the RA engine which people have taken, I really feel, you just talk about it. You start realizing why because of the SAP definitions they have become so",
+      "segment_index": 49,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "hands on, you can make it in 30 or 40 minutes. You know, sort of. So they've become more like these traders. And not traders, they're shouting guys. They used to be like this on the floors. They used to shout on the trading floors, now they've become like this. So, they're not saying it right. That's been also my understanding. The quality has tapered off a bit.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "25:35 - 26:00",
+      "keywords": [
+        "like",
+        "become",
+        "traders",
+        "not",
+        "used",
+        "floors"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "hands on, you can make it in 30 or 40 minutes. You know, sort of. So they've become more like these traders. And not traders, they're shouting guys. They used to be like this on the floors. They used to shout on the trading floors, now they've become like this. So, they're not saying it right. That's been also my understanding. The quality has tapered off a bit.",
+      "segment_index": 50,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Action Item",
+      "content": "and this problem arises when your advisor of quality goes and the value of the platform goes through that so either what you do is you only have four three people and you run it as a proper tech and an investment platform what do you say that we are taking this concentrated bet because the crowd you will create is so dirty it's just irritating and then how do you",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "26:00 - 26:35",
+      "keywords": [
+        "goes",
+        "platform",
+        "what",
+        "problem",
+        "arises",
+        "when"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "and this problem arises when your advisor of quality goes and the value of the platform goes through that so either what you do is you only have four three people and you run it as a proper tech and an investment platform what do you say that we are taking this concentrated bet because the crowd you will create is so dirty it's just irritating and then how do you",
+      "segment_index": 51,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "How do you even stop them from doing things that are not supposed to be done? How do you stop them? What do you do with that? For client acquisition, the RA of RA will come on Stocklink, the client will see it. He will think that he can get an email id or some network connection from behind. The direct will go behind it. Yeah, yeah. Cost of commission. Yeah, yeah. So eventually, your hard work somewhere,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "26:35 - 27:10",
+      "keywords": [
+        "will",
+        "yeah",
+        "how",
+        "stop",
+        "them",
+        "from"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "How do you even stop them from doing things that are not supposed to be done? How do you stop them? What do you do with that? For client acquisition, the RA of RA will come on Stocklink, the client will see it. He will think that he can get an email id or some network connection from behind. The direct will go behind it. Yeah, yeah. Cost of commission. Yeah, yeah. So eventually, your hard work somewhere,",
+      "segment_index": 52,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "I mean, if you're building, I feel you know, try and... I'm trying to think on that. And marketplace and all this, let it be on Telegram. Let it go. Let it die. Trust me. You only build... Because what will happen is, the bigger it is, the quality will perform better. People who are actively doing the right work, they will perform more better. Now, if...",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "27:43 - 28:15",
+      "keywords": [
+        "let",
+        "will",
+        "perform",
+        "better",
+        "mean",
+        "building"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "I mean, if you're building, I feel you know, try and... I'm trying to think on that. And marketplace and all this, let it be on Telegram. Let it go. Let it die. Trust me. You only build... Because what will happen is, the bigger it is, the quality will perform better. People who are actively doing the right work, they will perform more better. Now, if...",
+      "segment_index": 53,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "Capital Mind, this is the example of Deepak Chinoy. The way he started, he started by giving tips. He started by giving trade recommendations. Then he had a momentum portfolio. Then from there he shifted to PMS. Now he is coming out with a mutual fund. Because he was able to connect the investor in a particular thought process and stay. If he had opened it for everyone,",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "28:16 - 28:47",
+      "keywords": [
+        "started",
+        "giving",
+        "then",
+        "had",
+        "capital",
+        "mind"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "Capital Mind, this is the example of Deepak Chinoy. The way he started, he started by giving tips. He started by giving trade recommendations. Then he had a momentum portfolio. Then from there he shifted to PMS. Now he is coming out with a mutual fund. Because he was able to connect the investor in a particular thought process and stay. If he had opened it for everyone,",
+      "segment_index": 54,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Complaint",
+      "content": "So like Smallcase and like everybody else, they didn't bring that kind of growth. And Deepak is one of the biggest, I mean phenomenal growth students. That problem happens when you open it. I mean institutional investors get very happy. They are able to show them numbers and all. But eventually, I don't think so much will go on. Chota stock also shut down because of the same reason. Because it was more important to open it. It was like I'll open the platform but you can't.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "28:48 - 29:26",
+      "keywords": [
+        "like",
+        "open",
+        "growth",
+        "mean",
+        "because",
+        "smallcase"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "So like Smallcase and like everybody else, they didn't bring that kind of growth. And Deepak is one of the biggest, I mean phenomenal growth students. That problem happens when you open it. I mean institutional investors get very happy. They are able to show them numbers and all. But eventually, I don't think so much will go on. Chota stock also shut down because of the same reason. Because it was more important to open it. It was like I'll open the platform but you can't.",
+      "segment_index": 55,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Insight",
+      "content": "That's the worry. Investor behaviour and trading behaviour has to be a place where they come and talk about it. Or they come and seek guidance or they come and talk about it. If you leave them to tech, they will start doing window shopping. Great point. My only thing is if you are making so much effort, then you are going to lock the ecosystem. Don't open the ecosystem. Either the human mind is not evolved enough to understand",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "29:26 - 30:06",
+      "keywords": [
+        "come",
+        "behaviour",
+        "talk",
+        "about",
+        "ecosystem",
+        "worry"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "That's the worry. Investor behaviour and trading behaviour has to be a place where they come and talk about it. Or they come and seek guidance or they come and talk about it. If you leave them to tech, they will start doing window shopping. Great point. My only thing is if you are making so much effort, then you are going to lock the ecosystem. Don't open the ecosystem. Either the human mind is not evolved enough to understand",
+      "segment_index": 56,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "you know money that well let alone you know make them in the future yeah for example there are so many like even if you take mutual funds only so nandesh bhai kitna sara hi hai na there are so many open sources jaha pe people can buy and sell paytm is also selling mutual funds but people will prefer coming to jhago people will prefer coming to",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "30:07 - 30:33",
+      "keywords": [
+        "people",
+        "know",
+        "there",
+        "many",
+        "mutual",
+        "funds"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "you know money that well let alone you know make them in the future yeah for example there are so many like even if you take mutual funds only so nandesh bhai kitna sara hi hai na there are so many open sources jaha pe people can buy and sell paytm is also selling mutual funds but people will prefer coming to jhago people will prefer coming to",
+      "segment_index": 57,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Recommendation",
+      "content": "those areas where they are able to get that lock in facility. They know that these are the places we can get our gradients installed. And the evolution of all these tech companies, you will understand it much better than me, they have entered asset management space. They have not started from asset management space. Yeah, that's true.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "30:34 - 31:06",
+      "keywords": [
+        "get",
+        "these",
+        "asset",
+        "management",
+        "space",
+        "those"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "those areas where they are able to get that lock in facility. They know that these are the places we can get our gradients installed. And the evolution of all these tech companies, you will understand it much better than me, they have entered asset management space. They have not started from asset management space. Yeah, that's true.",
+      "segment_index": 58,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Feature",
+      "content": "FundsIndia started with education right? They started with the platform itself. So can FundsIndia be replicated here like this? Can this happen in for stocking? Yes, so it has to be a proper structure otherwise it will hold",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "31:08 - 31:38",
+      "keywords": [
+        "fundsindia",
+        "started",
+        "can",
+        "education",
+        "right",
+        "platform"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "FundsIndia started with education right? They started with the platform itself. So can FundsIndia be replicated here like this? Can this happen in for stocking? Yes, so it has to be a proper structure otherwise it will hold",
+      "segment_index": 59,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "It will not work like in the real world, it will not work if the structure is not complete, the ecosystem is not complete. Sure, I mean we will study. I think this has been great food for thought. So thanks Jinnah. Funds India, not that I have heard about it, so maybe we will have to study and then see.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "31:39 - 32:08",
+      "keywords": [
+        "not",
+        "will",
+        "work",
+        "complete",
+        "study",
+        "like"
+      ],
+      "actionable": true,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "It will not work like in the real world, it will not work if the structure is not complete, the ecosystem is not complete. Sure, I mean we will study. I think this has been great food for thought. So thanks Jinnah. Funds India, not that I have heard about it, so maybe we will have to study and then see.",
+      "segment_index": 60,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "They are into mutual fund distribution only and then they kept on adding different products. They started with mutual funds then they kept adding FDs and so it's more like the bank model. It is online using technology and when they started it was only the regular plans and then the direct plans came in and",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "32:10 - 32:38",
+      "keywords": [
+        "then",
+        "mutual",
+        "only",
+        "kept",
+        "adding",
+        "started"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "They are into mutual fund distribution only and then they kept on adding different products. They started with mutual funds then they kept adding FDs and so it's more like the bank model. It is online using technology and when they started it was only the regular plans and then the direct plans came in and",
+      "segment_index": 61,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Trend",
+      "content": "from regular to direct just to survive in the market. So ET money started with regular they converted to direct. Lot of such players did that but FundsIndia continued to stay in the regular plans, not in the direct plans. Yeah, I mean they are doing insurance and all that. Yeah, we are doing everything and then the founders were known to us in the start. We did lot of campaigns together even on Jago Investor with them.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "32:40 - 33:10",
+      "keywords": [
+        "regular",
+        "direct",
+        "lot",
+        "did",
+        "plans",
+        "yeah"
+      ],
+      "actionable": false,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "from regular to direct just to survive in the market. So ET money started with regular they converted to direct. Lot of such players did that but FundsIndia continued to stay in the regular plans, not in the direct plans. Yeah, I mean they are doing insurance and all that. Yeah, we are doing everything and then the founders were known to us in the start. We did lot of campaigns together even on Jago Investor with them.",
+      "segment_index": 62,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Recommendation",
+      "content": "And I think then they sold FundsIndia to somebody else and now they have exited. Okay. Alright. Great. Okay. Thank you for sharing. Yeah, this was very valuable. Yeah. Deepak, Shana, you should. Yeah, yeah. Just put him on Twitter. He is very active. There is another...",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "33:10 - 33:41",
+      "keywords": [
+        "yeah",
+        "okay",
+        "very",
+        "think",
+        "then",
+        "sold"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "And I think then they sold FundsIndia to somebody else and now they have exited. Okay. Alright. Great. Okay. Thank you for sharing. Yeah, this was very valuable. Yeah. Deepak, Shana, you should. Yeah, yeah. Just put him on Twitter. He is very active. There is another...",
+      "segment_index": 63,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Other",
+      "content": "There is this another company called Filter Coffee. They run newsletters. They were recently acquired by one broker. The broker is also developing the same ecosystem. Filter Coffee? Yes, Filter Coffee runs on Substack. They are all kids. They are 21 years old kids.",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "33:44 - 34:12",
+      "keywords": [
+        "filter",
+        "coffee",
+        "broker",
+        "kids",
+        "there",
+        "another"
+      ],
+      "actionable": false,
+      "confidence": 0.3,
+      "engine": "rule:fallback",
+      "original_segment": "There is this another company called Filter Coffee. They run newsletters. They were recently acquired by one broker. The broker is also developing the same ecosystem. Filter Coffee? Yes, Filter Coffee runs on Substack. They are all kids. They are 21 years old kids.",
+      "segment_index": 64,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    },
+    {
+      "source_type": "Internal",
+      "entity": "Jinay Sawla",
+      "signal_type": "Recommendation",
+      "content": "got a call they were taken over by somebody is a broker because the broker also then realized me and they should not push some sort of news or some sort of thing so I am just saying Pratik we are what did I call at 5.30 also I take a leave yes please yes I think we are done even I need to move thank you thank you yes okay bye bye",
+      "timestamp": "2026-04-22",
+      "speaker": null,
+      "source_file": "Call with Jinay Sawla_Version2.md",
+      "time_range": "34:13 - 34:41",
+      "keywords": [
+        "yes",
+        "call",
+        "broker",
+        "also",
+        "some",
+        "sort"
+      ],
+      "actionable": true,
+      "confidence": 0.6,
+      "engine": "rule:fallback",
+      "original_segment": "got a call they were taken over by somebody is a broker because the broker also then realized me and they should not push some sort of news or some sort of thing so I am just saying Pratik we are what did I call at 5.30 also I take a leave yes please yes I think we are done even I need to move thank you thank you yes okay bye bye",
+      "segment_index": 65,
+      "processing_metadata": {
+        "block_type": "transcript",
+        "format_detected": "timestamped"
+      }
+    }
+  ],
+  "errors": []
+}

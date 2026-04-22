@@ -41,3 +41,4 @@
 - Revenue streams: Subscription model (monthly/quarterly/yearly) + transaction-based fees
 
 
+---
