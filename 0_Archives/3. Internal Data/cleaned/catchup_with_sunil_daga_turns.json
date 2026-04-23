@@ -1,0 +1,2141 @@
+{
+  "source_file": "Catchup with Sunil Daga.md",
+  "format_detected": "gemini_hybrid",
+  "total_turns": 302,
+  "cleaned_at": "2026-04-23T04:28:31.448259+00:00",
+  "stats": {
+    "raw_chars": 45769,
+    "clean_chars": 35314,
+    "total_turns": 302,
+    "unique_speakers": 3,
+    "speaker_list": [
+      "Pratik Munot",
+      "Akshay Nahar",
+      "Sunil"
+    ],
+    "turns_with_timestamp": 302,
+    "noise_blocks_removed": 5,
+    "filler_turns_removed": 0,
+    "duplicate_turns_removed": 7,
+    "block_type_dist": {
+      "summary_bullet": 10,
+      "transcript": 292
+    }
+  },
+  "turns": [
+    {
+      "index": 0,
+      "speaker": null,
+      "text": "Introductions and Backgrounds: Pratik Munot, who has been with Jambe for 15 years and currently heads overall delivery, introduced themself and provided background on Jambe, noting their recent acquisition by the CLR group. Akshay Nahar, an investor for the last decade, shared that they work with Aoma, a US-based company, and lead their customer success team, adding that they are considering transitioning to working full-time in fintech, which led to exploring Stockly. Sunil provided their background, mentioning a 20-year career with Kotak, where they started the MSME vertical and later became a leadership team member.",
+      "time_range": "00:00:00",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "text": "Details on Jambe and Sunil's Work: Pratik Munot explained that Jambe is an HR technology company specializing in talent assessments, learning, and leadership development, backed by consulting services, which includes offering HR and AI solutions. Sunil detailed their work at Sarati Finance, which they left in December 2024; this non-banking financial company (NBFC) has 62 branches and focuses on micro-loan customers, with an average ticket size of 8 to 10 lakhs and primarily targeting semi-urban customers.",
+      "time_range": "00:04:33",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "text": "Sunil's Thoughts on the Mass Premium Customer Segment: Sunil shared that their spouse has a firm that is developing a wealth management solution for the mass premium customer segment, excluding the top 3-4% of India. This initiative focuses on protection, investing, and some borrowing needs for this demographic.",
+      "time_range": "00:09:48",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "text": "Introduction to Stockly's Concept and Goals: Pratik Munot presented Stockly as a platform intended to bridge two key gaps in the stock market: the gap in receiving genuine advisory from authorized sources and the gap between advice and execution. Stockly's goal is to connect advice and execution on the same platform, initially by featuring buy/sell recommendations from SEBI-registered research analysts (RAs) who can build communities and link directly to users' broker accounts for one-click execution.",
+      "time_range": "00:10:54",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "text": "Stockly's Revenue Model and Competition: Pratik Munot indicated that the revenue model for Stockly is still being explored, suggesting a subscription model, a pay-per-tip/recommendation model, or a combination of both. The speakers agreed that Stockly's biggest competitors are platforms like WhatsApp and Telegram, which are often used for sharing stock market tips.",
+      "time_range": "00:16:24",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "text": "Discussion on Stock Grow and Market Uniqueness: Akshay Nahar mentioned that they purchased a subscription to Stock Grow to study their model, noting they have around 30 to 40 registered voices giving tips and claimed to have 35 million users, which was viewed as somewhat unbelievable. Sunil suggested that high user acquisition may not be necessary, emphasizing that excessive information could be problematic for users, making quality more critical than quantity.",
+      "time_range": "00:18:30",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "text": "Strategy for Registered Analysts and Platform Positioning: Akshay Nahar posed a question about whether to exclusively target SEBI-registered analysts or expand to non-registered advisers, noting that some registered advisers on Stock Grow are using the platform primarily to build their brand outside of it. Sunil advised focusing on quality over quantity and avoiding making the platform too generalized to maintain its essence, suggesting Stockly be positioned as a more premium, mid-to-long-term investment platform, potentially inviting a select number of specialist RAs.",
+      "time_range": "00:22:46",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "text": "Key Gaps in the Stock Market for Retail Investors: Sunil identified two fundamental problems for most retail investors: the lack of portfolio review to determine whether to exit a stock, and the issue of buying stocks based on tips without understanding the underlying numbers. These fundamental problems present a strong use case for a platform that offers portfolio analysis and informed buying decisions.",
+      "time_range": "00:31:59",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "text": "Discussion of Business Models and Future Asset Classes: The group explored a B2B model where Stockly could first target RAs by building tools for their manual processes, then scale to B2C users, with potential monetization coming from charging the RAs or charging users for advice. Regarding future asset classes beyond stocks, Sunil noted that commodities, particularly gold, silver, and copper, are becoming interesting, but the bond market is currently shallow.",
+      "time_range": "00:34:58",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "text": "Targeting Strategies for Traders vs. Long-Term Investors: Pratik Munot asked if Stockly should target high-transaction traders or medium-to-long-term investors, noting that high transaction frequency requires real-time, automated tech solutions. Sunil advised that specific targeting is difficult, suggesting that if the focus is on the Futures and Options (F&O) market, the platform needs phenomenal automation tools, which might be a later-stage step.",
+      "time_range": "00:41:00",
+      "block_type": "summary_bullet"
+    },
+    {
+      "index": 10,
+      "speaker": "Pratik Munot",
+      "text": "Bakery",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 11,
+      "speaker": "Pratik Munot",
+      "text": "cream.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 12,
+      "speaker": "Akshay Nahar",
+      "text": "voice",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 13,
+      "speaker": "Pratik Munot",
+      "text": "I'll just ping him. He's not joined.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 14,
+      "speaker": "Akshay Nahar",
+      "text": "destination. Huh?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 15,
+      "speaker": "Pratik Munot",
+      "text": "good evening.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 16,
+      "speaker": "Pratik Munot",
+      "text": "Can you hear us?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 17,
+      "speaker": "Sunil",
+      "text": "I am.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 18,
+      "speaker": "Sunil",
+      "text": "Can you hear",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 19,
+      "speaker": "Akshay Nahar",
+      "text": "So,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 20,
+      "speaker": "Pratik Munot",
+      "text": "we can.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 21,
+      "speaker": "Sunil",
+      "text": "me?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 22,
+      "speaker": "Akshay Nahar",
+      "text": "yep. Okay. We can hear you.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 23,
+      "speaker": "Akshay Nahar",
+      "text": "Sorry. I'll be off camera for 15 20 minutes and then I will switch up.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 24,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. Yeah. Central.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 25,
+      "speaker": "Pratik Munot",
+      "text": "All right. So, uh, good evening, Sunil G. I'll introduce myself. My name is Pratik Manut. I've been part of Jambe for the last 15 years. And uh I've known Ashwin almost for the same time and um you know primarily what I've done in my life is although I'm an engineer by background I've done a lot of product building, marketing then go to market/s sales and then um I'm currently heading delivery overall delivery of all that we do for our customers. Um so multiple teams reporting to me. Uh we got acquired about two three years ago. Uh and we are a part of a bigger group called CLR and we continue to function um the way we have been as part of the group to build and grow Jungway. um stockly something Ashwin introduced to me to see how we could sort of come together to sort of take it to the market and in that sense we've been doing some research speaking to people and trying to see how it can be taken to the next level. So that's a bit of a background. I'm based in Pune. Uh I'll request a to introduce himself and then soon would love to know a little more about you",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 26,
+      "speaker": "Pratik Munot",
+      "text": "plus any thoughts you may have um towards maybe your past conversations with Ashwin and happy to then have a",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 27,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. Yep. Yeah. Hi.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 28,
+      "speaker": "Pratik Munot",
+      "text": "conversation.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 29,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. Hi. This is a um so I've been a investor in the market for the last decade or so. um across different asset classes and uh you know by profession I work with a company called Aoma it's a US- based uh company series they funded I lead the customer success team for the company and manage about $5 million of the uh but what has happened is that like in the past you know couple of years my inclination towards finance investments have been a lot there and then I've also encouraged a lot of friends and family members to you know stay invested in different asset classes and uh you know I was always wanting to do something in fintech and that's where I happened to talk to Pratik because we anyway knew each other and then we got introduced to Ashin as well and that's where this idea of exploring stockly came in so yeah I mean that's a quick brief about uh my background and um we have in the next couple of months looking forward to jump into uh you know this full-time as well. So we as a part of that we talk talking to a couple of uh experts from the domain to seek their understanding their guidance uh on a couple of things and validate a few things that what we feel uh so hence the conversation.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 30,
+      "speaker": "Sunil",
+      "text": "Yeah. Yeah. Hi. Uh actually, you know,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 31,
+      "speaker": "Sunil",
+      "text": "I don't know much about Zombie. If you can just kind of just tell me uh it would help uh because I have very limited understanding of them.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 32,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. So, Sunil G, we are in the talent assessments, learning and leadership development space. So um in that sense we are an HR technology company back powered by consulting on top of it where we help organizations identify top talent, build successors, do leadership development programs, uh run engagement solutions and now we are also enuring venturing into offering agent KI solutions largely to solve problems in the HR vertical. So my niche or focus has been HR techch, HR consulting, uh talent management, learning and leadership development. I mean that's what the organization uh has known to do over the last so many years. Yeah,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 33,
+      "speaker": "Sunil",
+      "text": "Okay. And how large is it in terms of people and turnover",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 34,
+      "speaker": "Pratik Munot",
+      "text": "we are about 130 odd people at the moment.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 35,
+      "speaker": "Sunil",
+      "text": "time?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 36,
+      "speaker": "Pratik Munot",
+      "text": "Uh spread across the country. Client is also spread across the country.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 37,
+      "speaker": "Sunil",
+      "text": "Got it. Got it. Nice. Now uh you know small brief about me. I was with Kodak for about 20 years uh plus and uh Ashin happens to be a friend uh because we first onboarded him. Probably the first I think I think the second loan was given by us when he started his journey uh when he has set up the Aenjit I think uh technologies. He were the early uh debt providers to him and uh I have seen his journey grow obviously from where they were 578 cr turnover company to what they are today and uh since I've been on the debt uh underwriting side on MSME funding etc. So kind of I kind of keep meeting a lot of uh founders and in that process some have you know like-minded people have come very close and we kind of keep learning uh with each other. uh I left KTH when you know last I was a president and KC leadership team member uh which is a top 60 across the group uh that's how they call the leadership team KT and uh I started the MSME vertical 2012 and I left it was 200 cr uh no when I started it was 200 when I left it was about 55,000 odd cr book on the lending side across secured and secured supply chain etc. largely catering to companies with turnover up to uh 250 cr. Uh that's the you know brief uh yeah I started uh I started the 14th branch for the bank uh when I started with the today you know we are about 2,000 plus branches as we speak I'm part of a company by name sarati finance uh which I kind of I left in December 2024 created an MBFC and started there we are about now 62 branches 800 people And uh we got uh four private equity investors to back us and uh capitalize you know the NBFC by about 475 cr uh because you know raw material in NBFC is capital eventually so money is the raw material. So yeah I think that's very short. Yeah, because a long career with code 2021. So not many much to add beyond that.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 38,
+      "speaker": "Sunil",
+      "text": "So",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 39,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Indeed. And uh just curious now Sarati Finance does it sort of go after a",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 40,
+      "speaker": "Pratik Munot",
+      "text": "particular niche in terms of industry or market segment or",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 41,
+      "speaker": "Sunil",
+      "text": "know it's a very simple construct. It's a primarily microlab kind of a customer. Uh average ticket size 8 to 10 lakhs.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 42,
+      "speaker": "Sunil",
+      "text": "uh we lend at a closer to 20%,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 43,
+      "speaker": "Sunil",
+      "text": "take property, some could be you know imperfect collateral also may not be exactly perfect collateral at times but these are largely semi-urban kind of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 44,
+      "speaker": "Pratik Munot",
+      "text": "H.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 45,
+      "speaker": "Sunil",
+      "text": "customers or probably you know outside of say Pune say 40 50 kilometers away",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 46,
+      "speaker": "Sunil",
+      "text": "from Pune those kind of customers Helaran GI or you know we are not in Maharashtra but I'm",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 47,
+      "speaker": "Sunil",
+      "text": "just kind of giving your genre of what kind of customer these would",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 48,
+      "speaker": "Sunil",
+      "text": "be.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 49,
+      "speaker": "Pratik Munot",
+      "text": "Okay. Okay. Interesting.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 50,
+      "speaker": "Pratik Munot",
+      "text": "Interesting.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 51,
+      "speaker": "Sunil",
+      "text": "So it's a long tail uh which is not funded today",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 52,
+      "speaker": "Sunil",
+      "text": "and uh yeah it's largely physical because there's a property element attached to it. So you have to think uh since uh Aki is a market veteran and he would know what fivestar finances and SBFC is etc. So I think he could correlate to what I'm talking",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 53,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. Yeah. I mean,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 54,
+      "speaker": "Sunil",
+      "text": "about.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 55,
+      "speaker": "Akshay Nahar",
+      "text": "not a veteran per se. It's just out of interest, you know, been in the markets for a longer duration. But yeah, I understand uh where you are failing to answer. Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 56,
+      "speaker": "Sunil",
+      "text": "Yeah. Yeah. Yeah. Was telling you know quite exciting very high. I met him in Bombay. So he told me you're creat you know building something very exciting.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 57,
+      "speaker": "Sunil",
+      "text": "So I thought why not you know catch up because uh there's also a firm of my of my wife. She's kind of putting together something on the wealth side. Same for a mass premium customer.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 58,
+      "speaker": "Sunil",
+      "text": "uh not the HNI and UHNI but mass premium so they are trying to uh figure out",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 59,
+      "speaker": "Pratik Munot",
+      "text": "Just",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 60,
+      "speaker": "Sunil",
+      "text": "how we should they should be kind of know targeting this segment of customer on the wealth management side when I say wealth it's not literally wealth management but definitely for their protection and investing needs and also some part of their borrowing needs uh but then",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 61,
+      "speaker": "Sunil",
+      "text": "this is excluding the top 3 4% of India",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 62,
+      "speaker": "Pratik Munot",
+      "text": "Okay. Interesting. Yeah. Yeah. So would love to know a little more about it but maybe I'll go ahead and talk about Stockley a little bit. Um so today the way we are thinking of stockly is to build something that bridges a I mean two gaps a there is gap in terms of receiving genuine advisory and I'm saying when I say genuine advisory more so in the stock market space uh not so much in the MFD space so far because there at least you have these mutual fund distributors advisers wealth managers wealth planners but when it comes to buying or selling of talks that advisory is currently at least our understanding and our research says that heavily crowded by these non-registered advisers who may have a point of view uh but they're not authorized to give those buy sell trading calls and what also happens is in a lot of that a lot of misleading happens uh for retail investors so there is a gap on the advisory side that we're trying to bridge and I'll talk about how and then there is the other gap which is advisory to execution gap. Maybe advice exists but execution is disconnected. I may follow that advice uh because somebody called me and said you know buy this talk or right time to exit this talk or I may follow the advice because it's up you know shared somewhere on a WhatsApp group or a telegram channel. Uh but when it comes to execution I have to log into my broker account separately and then execute. Now this may seem like a very normal and not so odd behavior but what happens is that people actually lose out on opportunities because advice and execution are not connected. Um they don't happen on the same platform. So what Stockley intends to do is to bring advice and execution on the same platform. The advice at least to begin with will come from sebi registered research analysts who have the authority by sebi to give buyell recommendations on stocks. Uh and then people can follow that advice be a part of the communities built by these sebi registered analysts and then click on it right then and there to invest and it will link to their broker amount account uh right there and execute. Now what this will also do is generate a lot of data for analysts to see who is acted on their advice and also to sort of find certain patterns out of it. What it will also generate is a lot of data for investors to see which analysts calls are sort of more successful or have a better hit rate and you know build credibility around analysts also. So that's the start honestly of the platform and that's not the be all end all for now but we are trying to sort of build it around a simple idea that today that advice exists hard to filter between genuine and non-genuine advice and today people still execute on that advice but that behavior is disconnected if you see all these WhatsApp groups and telegram channels we're just trying to sort of build a software to take care of all of this that's the starting point and Aka if you want to Um what I'll also do Sunil G is maybe share my screen um to take you through the web page. Uh the product is in early beta phase so we may not be ready for a demo but I'll at least take you through the concept.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 63,
+      "speaker": "Sunil",
+      "text": "show.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 64,
+      "speaker": "Pratik Munot",
+      "text": "Uh having said that um a over to you in case you want to add anything.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 65,
+      "speaker": "Akshay Nahar",
+      "text": "No, no, Pratik, go ahead. Uh, I have a couple of questions,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 66,
+      "speaker": "Akshay Nahar",
+      "text": "but I can take it later.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 67,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Yeah. So I'll share my screen. So this is a website and maybe I'll just simply show for example what happens is uh Harshad meta is a is an adviser or an analyst and he recommends that Reliance Industries be bought at a price of 1400 because it may go up to 2,000 and people can click on invest now then and there to execute it will connect to their broker accounts and they can execute right so stockly is built around the single sing simple concept of this what we are",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 68,
+      "speaker": "Sunil",
+      "text": "But how did you get Harshad ma from?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 69,
+      "speaker": "Pratik Munot",
+      "text": "trying I mean this is just a mockup uh this is",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 70,
+      "speaker": "Sunil",
+      "text": "Where did you get him?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 71,
+      "speaker": "Pratik Munot",
+      "text": "not it's not harsh ma",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 72,
+      "speaker": "Sunil",
+      "text": "No, but no no Harsh ma is just a name.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 73,
+      "speaker": "Pratik Munot",
+      "text": "really",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 74,
+      "speaker": "Sunil",
+      "text": "What I'm trying to say is uh how did well how will this you know you're not doing your",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 75,
+      "speaker": "Pratik Munot",
+      "text": "h oh yeah no",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 76,
+      "speaker": "Sunil",
+      "text": "own huh",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 77,
+      "speaker": "Pratik Munot",
+      "text": "no so yeah great you asked that question today we don't have that expertise of our own to give this bice recommend ations. What we are trying to do is bring these sebregistered aras on the platform. So the supply side is people who are experts in doing this. Yeah. And demand side is the retail investors and we are trying to connect them on one platform. Right. where hersad meta if he is a registered adviser he analyst he will um come on the platform we will give him um basically a portal through which he or she can put these recommendations and I'll quickly scroll through you know there is there are these recommenders who are financial advisers and experts they can share expert stock market recommendations track recommendation analysts analytics and build their reputation and following so harsh Prasad Mata will actually come on Stockly to put together this recommendation which will be made visible to everybody. Now the way it will be made visible through everybody is maybe through a paid community like Harsh Maha might be running something like this on a WhatsApp group or a telegram channel which is a paid community. We replicate that kind of a feature here. Uh and people can subscribe to the paid community. That's one way of doing it. The other way of doing it is that every tip has a price attached to it which is a sache price of 50 rupees 100 rupees and then people can really pay that much to get an access to the tip. So that way we are just trying to bring the supply and demand side together on the platform. That's the idea right now. I hope that answers your question. Yeah. A if you want to add anything.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 78,
+      "speaker": "Akshay Nahar",
+      "text": "Uh, no. Go ahead, Pratik.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 79,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. And what happens for investors is they can access all these recommendations. Uh everybody out there is kind of looking for which stock to buy or which one to exit or when to exit. uh so imagine those expert recommendations are being given out to them which they can execute with one click and that's the gap we are essentially trying to bridge as well and among other things we are trying to see if we can build some social features around it where because what happens in an offline or disconnected manner today is say I got a stock recommendations I may exchange those ideas with a friend WhatsApp group and then we'll exchange ideas and thoughts there can we replicate some of these behavior online. That's the whole idea. And like I mentioned, today this is focused currently on stock per se. Uh over time this may have potential to expand into other asset classes like mutual funds, commodities, metals and so on. But the starting point or entry point is stocks. Hence the name Stockly at the moment. Um yeah. So this is the simple idea. This is where we are right now.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 80,
+      "speaker": "Sunil",
+      "text": "And this is the uh this is a subscription model.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 81,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Yeah, I mean we are exploring there could be a subscription model or you it could be a paper tip or paper recommendation kind of a model or a mix of both.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 82,
+      "speaker": "Sunil",
+      "text": "Got it. Your biggest competitor will be",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 83,
+      "speaker": "Pratik Munot",
+      "text": "Yeah, it is indeed no doubt about it.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 84,
+      "speaker": "Sunil",
+      "text": "WhatsApp.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 85,
+      "speaker": "Akshay Nahar",
+      "text": "WhatsApp and Telegram.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 86,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. WhatsApp and Telegram.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 87,
+      "speaker": "Sunil",
+      "text": "What someone fixes, you know, to his own liking.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 88,
+      "speaker": "Sunil",
+      "text": "Interesting.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 89,
+      "speaker": "Sunil",
+      "text": "I validated for investing.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 90,
+      "speaker": "Pratik Munot",
+      "text": "No idea. It's I mean hard to believe.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 91,
+      "speaker": "Akshay Nahar",
+      "text": "Highly doubt that we've in fact you know what we have actually purchased I mean we did purchase stock",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 92,
+      "speaker": "Sunil",
+      "text": "Huh?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 93,
+      "speaker": "Akshay Nahar",
+      "text": "grow uh subscription to see you know how things work. They have a monthly pricing something 3 30 300 350 like and uh there are about",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 94,
+      "speaker": "Akshay Nahar",
+      "text": "30 or 40 odd uh say registered voices who are giving tips on stock grow but the number I think they claim what 30 how much I think was that 35 million users or something",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 95,
+      "speaker": "Akshay Nahar",
+      "text": "like that right yeah",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 96,
+      "speaker": "Pratik Munot",
+      "text": "35 million users which sounds strange because India itself has some 10 11 cr investors",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 97,
+      "speaker": "Sunil",
+      "text": "Active",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 98,
+      "speaker": "Akshay Nahar",
+      "text": "but",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 99,
+      "speaker": "Pratik Munot",
+      "text": "right now they are claiming that they have one/ird of uh investors on their platform sounds a little unbelievable honestly",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 100,
+      "speaker": "Pratik Munot",
+      "text": "speaking",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 101,
+      "speaker": "Akshay Nahar",
+      "text": "I",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 102,
+      "speaker": "Sunil",
+      "text": "subscriber",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 103,
+      "speaker": "Pratik Munot",
+      "text": "yeah those are the numbers they've published yeah",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 104,
+      "speaker": "Akshay Nahar",
+      "text": "sorry how much?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 105,
+      "speaker": "Sunil",
+      "text": "date profit date sir.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 106,
+      "speaker": "Akshay Nahar",
+      "text": "Because when I looked at the financials, I think they got a 100 cr. Is that correct?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 107,
+      "speaker": "Pratik Munot",
+      "text": "that must be",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 108,
+      "speaker": "Akshay Nahar",
+      "text": "And they're burning a lot right",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 109,
+      "speaker": "Pratik Munot",
+      "text": "last.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 110,
+      "speaker": "Akshay Nahar",
+      "text": "now.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 111,
+      "speaker": "Sunil",
+      "text": "I",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 112,
+      "speaker": "Sunil",
+      "text": "think",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 113,
+      "speaker": "Akshay Nahar",
+      "text": "I mean, see nowadays I've seen them on the Yeah. Yeah. Yeah. Yeah. This line is not good.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 114,
+      "speaker": "Sunil",
+      "text": "I have heard they are kind of uh yeah but uh in this space I've not heard many of the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 115,
+      "speaker": "Sunil",
+      "text": "Hello",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 116,
+      "speaker": "Pratik Munot",
+      "text": "it's a new space relatively.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 117,
+      "speaker": "Sunil",
+      "text": "guys.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 118,
+      "speaker": "Pratik Munot",
+      "text": "There are people who are entering the space. Stock grow is no.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 119,
+      "speaker": "Pratik Munot",
+      "text": "So, Storow is the biggest name at the moment. The others are very small in the sense that it's a very tacky website or I don't think there's a very systematic way of doing it right now which others are following.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 120,
+      "speaker": "Sunil",
+      "text": "Got",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 121,
+      "speaker": "Pratik Munot",
+      "text": "There's something called the stocks box but you'll you'll not even want to look at the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 122,
+      "speaker": "Sunil",
+      "text": "it.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 123,
+      "speaker": "Pratik Munot",
+      "text": "website.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 124,
+      "speaker": "Akshay Nahar",
+      "text": "User acquisition. Yeah. Yeah. And second is also stickiness. Uh what is your thoughts on the stickiness? Because typically users who are buying stocks on tips, I don't know how loyal they would be in the long",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 125,
+      "speaker": "Sunil",
+      "text": "treadmill",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 126,
+      "speaker": "Akshay Nahar",
+      "text": "run.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 127,
+      "speaker": "Sunil",
+      "text": "business continuous activation.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 128,
+      "speaker": "Sunil",
+      "text": "I have a friend of mine who runs but we purist",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 129,
+      "speaker": "Sunil",
+      "text": "form he's also friend of mine Aayush uh",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 130,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. Yeah. Very popular one.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 131,
+      "speaker": "Sunil",
+      "text": "screener.in",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 132,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Yeah. And that's that's a very good space to be",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 133,
+      "speaker": "Sunil",
+      "text": "simple fun",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 134,
+      "speaker": "Pratik Munot",
+      "text": "in. This is a research tool.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 135,
+      "speaker": "Sunil",
+      "text": "They have grown very organically.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 136,
+      "speaker": "Akshay Nahar",
+      "text": "Okay. So, yeah. So one question I had was um you know obviously there are registered and non-registered people and the non-registered pool is maybe 9010 ratio 90% WhatsApp and telegrams of the world are non-registered uh but people still find them they subscribe to their services and they appear also right so the way we were we wanted to build a business which was only by reg run by registered uh recommenders uh se registered versus the people who are not registered, right? But what do you think? Would it make sense to also then think slightly, you know, cast a wider net by inviting non-registered users also on the platform, advisers to come in and give their recommendations from their own community, then the user acquisition typically doesn't become our problem fully. It is because see if you are a non-registered recommener, you will anyways grow your network, right? You will always try to find people. you will advertise yourself and get people to subscribe to your channel or WhatsApp group or whatever, right? Uh so then the owners of us to bring users significantly goes down if all of them at least bring in 30 40 50 users and they use ours as a platform instead of WhatsApp to make things happen. So what are your thoughts on that?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 137,
+      "speaker": "Sunil",
+      "text": "See one thing you need to personal view excessive information also is a problem.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 138,
+      "speaker": "Pratik Munot",
+      "text": "It",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 139,
+      "speaker": "Sunil",
+      "text": "So if you get too many then also it's a problem according to me because that somewhere kind of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 140,
+      "speaker": "Pratik Munot",
+      "text": "is.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 141,
+      "speaker": "Sunil",
+      "text": "loses its essence on you know uh how people consume uh information and that is one of the reason that there are many WhatsApp group and I am part of you I I don't get that kind of a span attention which I you know is required something good also kind of gets skipped and you know things like that so that you have to be a little mindful of that uh you So just to kind of get everything here only for a user acquisition you may not find uh is my view but uh you know you may kind of as a as a consumer I can tell you that",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 142,
+      "speaker": "Akshay Nahar",
+      "text": "See the other thing is also we spoke to a couple of advisers who were on stock grow actually.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 143,
+      "speaker": "Akshay Nahar",
+      "text": "So they were active on stock and they were giving tips on stock grow. Now we spoke to at least three or four of those and uh you know almost the theme was we are using stock grow to build our brand. Do not like follow those tips there fully because in parallel we are trying to build our own community outside of stock grow. So that is a theme that we kind of got to know from a lot of these uh se registered advisers there. Um so that is still you know we don't have good answers to that. Uh would this behavior continue or then you know stockly become so big that they can't afford messing up with stockly and not having their presence on stockly.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 144,
+      "speaker": "Sunil",
+      "text": "H understood.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 145,
+      "speaker": "Sunil",
+      "text": "uh but what whatever path you take as I said whether you take a RA or you take a nonRA kind of guy uh you need to kind of you know kind of ensure that you don't take too many uh you know and kind of make it",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 146,
+      "speaker": "Sunil",
+      "text": "a jantaa kind of a thing because then I think the platform will lose it essence for sure it may take some time to build user but I think",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 147,
+      "speaker": "Sunil",
+      "text": "It's better to kind of do that way rather than taking everyone in because your quality can dramatically come",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 148,
+      "speaker": "Sunil",
+      "text": "down because",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 149,
+      "speaker": "Pratik Munot",
+      "text": "So, focus on quality over quantity at the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 150,
+      "speaker": "Sunil",
+      "text": "if you have to survive you know all kind of cycles and then you have to be very",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 151,
+      "speaker": "Pratik Munot",
+      "text": "moment.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 152,
+      "speaker": "Sunil",
+      "text": "clear you will not get the right cohort but uh you will not get great customer review finally it's a flywheel you know flywheel time to kind of take off but when it's take off it kind of it'll keep moving on its own.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 153,
+      "speaker": "Sunil",
+      "text": "So to I think you should be a little nuanced on that. I don't know how are you funding the venture etc.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 154,
+      "speaker": "Sunil",
+      "text": "what capital you're putting what's the business projection but yeah so that I think",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 155,
+      "speaker": "Sunil",
+      "text": "you have to be a little more careful and eventually the harsh reality is that it's finally someone's money to obviously we may say that you are not directly advising and so and so forth but eventually it's you're",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 156,
+      "speaker": "Pratik Munot",
+      "text": "accountability.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 157,
+      "speaker": "Sunil",
+      "text": "dealing with you're dealing with money eventually",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 158,
+      "speaker": "Sunil",
+      "text": "I was old school on some of it because I come from you know pedigree of code and those kind of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 159,
+      "speaker": "Sunil",
+      "text": "organization.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 160,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. I mean honestly we also don't want to build a business that's personal choice for me and",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 161,
+      "speaker": "Akshay Nahar",
+      "text": "Pratik where people eventually don't make money and lose a lot of money. So we also want to be slightly mindful of that fact as well. So the other thought was also like we don't want this to be seen as a trading pure trading platform where you know people kind of open your app every second and see what's happening what tips are coming in. So we also still want it to be a midterm to a long-term kind of a thing.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 162,
+      "speaker": "Akshay Nahar",
+      "text": "So recommendations as well.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 163,
+      "speaker": "Sunil",
+      "text": "you'll be much in better control versus opening up too many",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 164,
+      "speaker": "Sunil",
+      "text": "and that could be a differentiator for that matter versus a stock grow.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 165,
+      "speaker": "Sunil",
+      "text": "uh just think about it in more detail users churn rate or so and so forth. So that could be a differentiator for you. You can position it a little more premium. Why you have to position it you know a mass kind of a mass system?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 166,
+      "speaker": "Pratik Munot",
+      "text": "like a Yeah. Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 167,
+      "speaker": "Sunil",
+      "text": "You can position it a little top notch",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 168,
+      "speaker": "Sunil",
+      "text": "also.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 169,
+      "speaker": "Pratik Munot",
+      "text": "Top-notch or invite only kind of a platform.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 170,
+      "speaker": "Sunil",
+      "text": "Why you have to kind of think of getting 1 cr subscriber?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 171,
+      "speaker": "Sunil",
+      "text": "You may think that you want your 10 lakh but want the genuinely someone who has a deep pocket",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 172,
+      "speaker": "Sunil",
+      "text": "and you know so and so forth burn come over and your monetization could be",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 173,
+      "speaker": "Sunil",
+      "text": "better because there you may you may have a ability to probably charge you know I don't know 800 900,000 double of what these guys are charging I think you can think little differently is my view and make it more professional you can also build features where you know these guys can do a you know kind of a you are arranging a scheduled call every day after the market five six you know where these guys come and people can join and you know they give you know I think you can do a good job on",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 174,
+      "speaker": "Pratik Munot",
+      "text": "Makes sense. Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 175,
+      "speaker": "Pratik Munot",
+      "text": "So Suni when you were looking at stock grow basically how were you evaluating it like what got you interested in it versus maybe what are some",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 176,
+      "speaker": "Sunil",
+      "text": "in fact. I met him last to last week. He started kind of smiling.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 177,
+      "speaker": "Sunil",
+      "text": "He was kind of smiling again. coming back stock grow through a private equity guy.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 178,
+      "speaker": "Pratik Munot",
+      "text": "H Okay.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 179,
+      "speaker": "Sunil",
+      "text": "He may be evaluating it because they may be planning for some fund raise probably. So he was",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 180,
+      "speaker": "Pratik Munot",
+      "text": "Yes. Yes. They did get a fund raise recently. They did.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 181,
+      "speaker": "Sunil",
+      "text": "asking",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 182,
+      "speaker": "Pratik Munot",
+      "text": "Worm stock recently",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 183,
+      "speaker": "Sunil",
+      "text": "I know about it but numbers were quite uh",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 184,
+      "speaker": "Sunil",
+      "text": "I was amazed with the numbers.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 185,
+      "speaker": "Pratik Munot",
+      "text": "there's some mystery honestly even we were not able to really understand but that's maybe discovered",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 186,
+      "speaker": "Sunil",
+      "text": "Why you have to just think of but I'm just thinking aloud right now as we are discussing you may think that you want to get your 10 lakh subscriber very decent",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 187,
+      "speaker": "Sunil",
+      "text": "And",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 188,
+      "speaker": "Pratik Munot",
+      "text": "So honestly based on your understanding of the whole stock market space at least in India what are some top two or three gaps do you see both from say an",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 189,
+      "speaker": "Sunil",
+      "text": "heat.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 190,
+      "speaker": "Pratik Munot",
+      "text": "adviser or experts end and a retail investors end and that investor could be anybody uh it could be an HNI or ultra HNI it could be a trader or it could be a regular investor Joe Naya because there are zerodas and grows of the world and postcoid activity ramp",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 191,
+      "speaker": "Sunil",
+      "text": "The fundamental problem underlying is very simple that what you own no one is doing a",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 192,
+      "speaker": "Pratik Munot",
+      "text": "space.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 193,
+      "speaker": "Sunil",
+      "text": "review of that portfolio today and what you want to buy there is no uh you know",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 194,
+      "speaker": "Sunil",
+      "text": "broadly with most of the investors they don't know why are they buying it either someone has given a tip or you know very few people look at numbers etc these are two",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 195,
+      "speaker": "Sunil",
+      "text": "fundamental problems you're trying to solve So how do you when I say review that means that do you have to stay in that stock or not or you want to kind of exit uh or you want to call it rebalancing or review or etc that's everyone is very keen otherwise people keep bulking up you know do script",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 196,
+      "speaker": "Pratik Munot",
+      "text": "H. H.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 197,
+      "speaker": "Sunil",
+      "text": "quarterly numbers. So I think that's itself is a very good use case according to him. Uh the second is that the buying part of it which I told you.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 198,
+      "speaker": "Sunil",
+      "text": "So this is how I look at you know any platform like this portfolio",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 199,
+      "speaker": "Sunil",
+      "text": "analyze",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 200,
+      "speaker": "Sunil",
+      "text": "right I cannot track result of all that could be one way to position it so that's a lot problem",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 201,
+      "speaker": "Pratik Munot",
+      "text": "Mhm.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 202,
+      "speaker": "Sunil",
+      "text": "today.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 203,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Yeah. Yeah. Been there honestly.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 204,
+      "speaker": "Sunil",
+      "text": "I'm assuming within the family you will find probably out of 10 you'll have",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 205,
+      "speaker": "Pratik Munot",
+      "text": "Huh?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 206,
+      "speaker": "Sunil",
+      "text": "two three for sure.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 207,
+      "speaker": "Sunil",
+      "text": "So I think that you have to figure out and as I said you may not be to ensure that you are not burning too much. You may think a little more premium so that you're more targeted that",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 208,
+      "speaker": "Sunil",
+      "text": "that itself should ensure that you get the right uh you know kag and the revenue against that",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 209,
+      "speaker": "Sunil",
+      "text": "customer.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 210,
+      "speaker": "Pratik Munot",
+      "text": "Yes. And also um what we also heard from people is maybe you go the B2B route first then going B2C. And when they say B2B today there are these And today that whole process of how they are giving a recommendation and how they tracking it is very manual. Maybe you try to build it for the RAS first through them get the users on the platform and then scale it up. What do you think about H? Yeah. Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 211,
+      "speaker": "Sunil",
+      "text": "customer shape",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 212,
+      "speaker": "Sunil",
+      "text": "and I'm assuming customer has already",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 213,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Honestly,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 214,
+      "speaker": "Sunil",
+      "text": "chosen now you're only giving him a probably a platform or a convenience type of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 215,
+      "speaker": "Sunil",
+      "text": "It may be a decent start but economics you will have to think. I don't know the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 216,
+      "speaker": "Sunil",
+      "text": "economics.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 217,
+      "speaker": "Pratik Munot",
+      "text": "So we are in that space of exploring charge. There could be both models. You pay the RAS for them to give advice on the platform or you charge the RAS for them to do rest of the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 218,
+      "speaker": "Pratik Munot",
+      "text": "execution on the platform or some sort of a B.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 219,
+      "speaker": "Sunil",
+      "text": "You guys are kind",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 220,
+      "speaker": "Sunil",
+      "text": "of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 221,
+      "speaker": "Pratik Munot",
+      "text": "thank you. Yeah. Yeah. True. Say",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 222,
+      "speaker": "Sunil",
+      "text": "numbers.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 223,
+      "speaker": "Akshay Nahar",
+      "text": "coffee.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 224,
+      "speaker": "Sunil",
+      "text": "Top",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 225,
+      "speaker": "Sunil",
+      "text": "Modi.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 226,
+      "speaker": "Sunil",
+      "text": "pocket",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 227,
+      "speaker": "Sunil",
+      "text": "pocket.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 228,
+      "speaker": "Pratik Munot",
+      "text": "and on the Yeah,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 229,
+      "speaker": "Pratik Munot",
+      "text": "sorry. Cool.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 230,
+      "speaker": "Sunil",
+      "text": "So,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 231,
+      "speaker": "Akshay Nahar",
+      "text": "Apart from this saying that apart from what we spoke right now, are there any other ideas or opportunities you feel that there is a gap in this space overall which is not tapped yet or not the you know best players are out there yet and there's still a bigger opportunity because market and it is only going to grow is what we feel right.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 232,
+      "speaker": "Pratik Munot",
+      "text": "basically wealth management space or wealth tech space,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 233,
+      "speaker": "Akshay Nahar",
+      "text": "All right. So,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 234,
+      "speaker": "Pratik Munot",
+      "text": "right? That's what you refer",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 235,
+      "speaker": "Pratik Munot",
+      "text": "to.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 236,
+      "speaker": "Akshay Nahar",
+      "text": "Yeah. I",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 237,
+      "speaker": "Sunil",
+      "text": "I think you're on a good direction since you know this subject",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 238,
+      "speaker": "Akshay Nahar",
+      "text": "mean,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 239,
+      "speaker": "Sunil",
+      "text": "I think good to pursue is not a",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 240,
+      "speaker": "Akshay Nahar",
+      "text": "Mhm. Okay.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 241,
+      "speaker": "Sunil",
+      "text": "bad thing.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 242,
+      "speaker": "Akshay Nahar",
+      "text": "Okay. And apart from stocks, what do you think would because you know mutual funds we know like already people",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 243,
+      "speaker": "Akshay Nahar",
+      "text": "are like top 10 mutual funds and all of that stuff people typically do. So mutual funds that's what I'm saying. Yeah. So",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 244,
+      "speaker": "Pratik Munot",
+      "text": "Heat.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 245,
+      "speaker": "Akshay Nahar",
+      "text": "correct.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 246,
+      "speaker": "Sunil",
+      "text": "engagement layer",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 247,
+      "speaker": "Akshay Nahar",
+      "text": "Correct.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 248,
+      "speaker": "Sunil",
+      "text": "strong.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 249,
+      "speaker": "Akshay Nahar",
+      "text": "Correct. So is commodities the other sector also to look at apart from stocks?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 250,
+      "speaker": "Sunil",
+      "text": "Yes, commodity is becoming very interesting in last one and a half year gold, silver,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 251,
+      "speaker": "Sunil",
+      "text": "copper rallies but market size but it's a future bet if you know people are kind of will get aligned etc over time if",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 252,
+      "speaker": "Akshay Nahar",
+      "text": "Mhm.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 253,
+      "speaker": "Sunil",
+      "text": "India kind of opens up bitcoin and things like that then it's different",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 254,
+      "speaker": "Sunil",
+      "text": "but I don't think you think",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 255,
+      "speaker": "Sunil",
+      "text": "I don't think you will be able to get the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 256,
+      "speaker": "Sunil",
+      "text": "type product because market off has been very rotational",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 257,
+      "speaker": "Sunil",
+      "text": "people you know index is holding but then it's a rotation of indices basically nifty it gener you can create 10 jars within that someone who's",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 258,
+      "speaker": "Sunil",
+      "text": "largely on the very small cap micro cap someone who's kind of more of large cap someone who's on ETF or the or nifty indices or you know those kind of stuff one on Fendo strategies etc.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 259,
+      "speaker": "Sunil",
+      "text": "those kind you can pick up 10 20 specialist RA types and you can kind of start building is my view on the way I'm sure you will get more",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 260,
+      "speaker": "Pratik Munot",
+      "text": "Yeah, of course.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 261,
+      "speaker": "Sunil",
+      "text": "opportunities I think classes bonds market shallow But bonds",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 262,
+      "speaker": "Sunil",
+      "text": "participation, but you may be early if you want to do it",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 263,
+      "speaker": "Sunil",
+      "text": "now.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 264,
+      "speaker": "Akshay Nahar",
+      "text": "You heard of this ven? Have you heard of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 265,
+      "speaker": "Pratik Munot",
+      "text": "Sorry,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 266,
+      "speaker": "Pratik Munot",
+      "text": "I didn't catch that.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 267,
+      "speaker": "Sunil",
+      "text": "went well",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 268,
+      "speaker": "Sunil",
+      "text": "for",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 269,
+      "speaker": "Akshay Nahar",
+      "text": "I think I think he mentioned I think in one",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 270,
+      "speaker": "Akshay Nahar",
+      "text": "conversation",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 271,
+      "speaker": "Sunil",
+      "text": "bonds platform.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 272,
+      "speaker": "Sunil",
+      "text": "It's a huge API business.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 273,
+      "speaker": "Sunil",
+      "text": "It's not nothing to do with this and that are very different.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 274,
+      "speaker": "Pratik Munot",
+      "text": "Sure. And um see when you talk about the investor side uh some advice that we got was to go after high transactions momentum. So go after the traders, go after the FNO market also. So what do you think about that? Uh versus maybe there is a category of investors who believe in more medium to long-term kind of an investment. So whom should we target really transaction which is the trading community.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 275,
+      "speaker": "Sunil",
+      "text": "target anyone. Specific targeting could be very difficult as is my view. You need to kind of build up very phenomenal tools you know on the tech side which is real time kind of giving you strategy about uh you know what to do. It's it's it's less about RA according to me more about uh know whether the there is a mismatch in pricing and things like that. So if you're thinking of fendo world then you should think more around that it's automation is a is where you will kind of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 276,
+      "speaker": "Sunil",
+      "text": "score",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 277,
+      "speaker": "Sunil",
+      "text": "there is a better use",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 278,
+      "speaker": "Pratik Munot",
+      "text": "Sure. Sure. H. Yeah. So maybe that could be a step two or a step three. It can't be the start.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 279,
+      "speaker": "Sunil",
+      "text": "tech capability if you have it's a good thing but most of the people otherwise just buy you know with some basic common sense because it's so difficult",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 280,
+      "speaker": "Sunil",
+      "text": "to scan uh so many put in options and all of that it's very difficult to scan and kind of take a",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 281,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. Mhm. Yeah. Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 282,
+      "speaker": "Sunil",
+      "text": "But when it comes to Fendo then you are not kind of waiting for a you know you are kind of deciding within half",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 283,
+      "speaker": "Sunil",
+      "text": "an hour or an hour or so.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 284,
+      "speaker": "Pratik Munot",
+      "text": "Sure. Makes sense. I get it. Anything else?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 285,
+      "speaker": "Sunil",
+      "text": "I'm advising one more company just family friend ETF market That's a huge that's a underperated space but it's not everyone's ball game. It's a high algo high tech",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 286,
+      "speaker": "Pratik Munot",
+      "text": "What's the name of the",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 287,
+      "speaker": "Sunil",
+      "text": "game.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 288,
+      "speaker": "Pratik Munot",
+      "text": "company?",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 289,
+      "speaker": "Sunil",
+      "text": "So I'm advising them on that. That's a good space but it's a very capital intensive also market",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 290,
+      "speaker": "Sunil",
+      "text": "different",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 291,
+      "speaker": "Pratik Munot",
+      "text": "Sure. Okay. Hi. Sorry. Driving back to Pratik's place.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 292,
+      "speaker": "Sunil",
+      "text": "good to see you but I think directionally you are on good",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 293,
+      "speaker": "Pratik Munot",
+      "text": "So, yes.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 294,
+      "speaker": "Sunil",
+      "text": "track now obviously Execution will kind of",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 295,
+      "speaker": "Sunil",
+      "text": "determine",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 296,
+      "speaker": "Pratik Munot",
+      "text": "execution is the key.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 297,
+      "speaker": "Sunil",
+      "text": "ideation,",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 298,
+      "speaker": "Sunil",
+      "text": "you",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 299,
+      "speaker": "Sunil",
+      "text": "know.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 300,
+      "speaker": "Pratik Munot",
+      "text": "We would love to stay in touch and maybe you know even Ashwin will uh you are in Mumbai right? Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    },
+    {
+      "index": 301,
+      "speaker": "Pratik Munot",
+      "text": "Yeah. So I think as we take it to the next level uh maybe at that point in time we would love to reconnect but thank you. it was quite valuable to speak to you. Is there any other uh insight or advice that you may want to share with us? I mean you've been a veteran in the space and uh yeah experience. So thanks I mean this means a lot. Yeah.",
+      "time_range": "00:44:14",
+      "block_type": "transcript"
+    }
+  ]
+}

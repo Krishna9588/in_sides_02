@@ -1,0 +1,50 @@
+{
+  "source_file": "Call with Shashank Agarwal_Version2.md",
+  "format_detected": "structured_notes",
+  "total_turns": 4,
+  "cleaned_at": "2026-04-23T04:27:20.629542+00:00",
+  "stats": {
+    "raw_chars": 1934,
+    "clean_chars": 1883,
+    "total_turns": 4,
+    "unique_speakers": 0,
+    "speaker_list": [],
+    "turns_with_timestamp": 0,
+    "noise_blocks_removed": 0,
+    "filler_turns_removed": 0,
+    "duplicate_turns_removed": 0,
+    "block_type_dist": {
+      "notes_section": 4
+    }
+  },
+  "turns": [
+    {
+      "index": 0,
+      "speaker": null,
+      "text": "### Shashank's Background & Expertise\n- Shashank Agarwal, Research Analyst (SEBI registered)\n- Education: Calcutta University (Accounts & Finance), Delhi Institute of Management (Masters in Finance)\n- Experience: ISEC Securities (equity advisory), Mutilal Oswal, Angel One\n- Built Angel One's customer onboarding platform and transaction execution system\n- Developed entire tech stack using Python\n- Current role: Wealth management (not stock picking)\n- Focus on mutual funds, bonds, CDs, PMS, AIF products\n- Avoids direct buy/sell calls due to client leverage risks",
+      "time_range": null,
+      "block_type": "notes_section"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "text": "### Platform Concept Feedback\n- Positive reception to advisory-to-execution platform idea\n- Addresses gap between WhatsApp/Telegram recommendations and actual trading\n- Provides tracking and credibility vs unauthorized channels\n- Suggested categorization approach:\n- Different customer segments for each timeframe\n- Revenue model validation: Platform fees + advisor subscription model viable",
+      "time_range": null,
+      "block_type": "notes_section"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "text": "### Market Opportunity & Challenges\n- Strong retail investor growth: 5+ crore demat accounts in India post-COVID\n- Key challenges identified:\n- 90% of F&O traders lose money\n- Platform credibility at risk if recommendations fail\n- Need for proper research basis vs speculation\n- Diversification opportunities beyond stocks:\n- Bonds, commodities, small case integration\n- Different products for different investor segments (retail vs HNI)",
+      "time_range": null,
+      "block_type": "notes_section"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "text": "### Technical Implementation Insights\n- Terminal integration approach recommended over website-only\n- Real-time signals with buy/sell/target/stop-loss\n- API integration with existing broker platforms\n- Plugin/widget model for seamless execution\n- Existing solutions reference:\n- Motilal Oswal's trade guide signals (₹15,000/year subscription)\n- Value Research, Morning Star for stock recommendations\n- Revenue streams: Subscription model (monthly/quarterly/yearly) + transaction-based fees",
+      "time_range": null,
+      "block_type": "notes_section"
+    }
+  ]
+}

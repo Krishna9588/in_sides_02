@@ -1,0 +1,223 @@
+#### 
+#### 00:00 - 00:31
+
+to figure out what options and most of these guys don't even understand the options and their positionings. Futures, how do you hedge it, how do you create that butterfly effect that wherever the market goes you are at least netting yourself 1-1.5% in a week or something. That was huge given in the whole context of things. But the issue is that they will be there for a while
+
+#### 00:32 - 01:05
+
+But again, because they were not guided, again there was no hand holding done at the other end, there was nobody telling them that this is your way of, or this is the way you should be putting your money. They will end up having losing positions more and very few winning positions. And then as a result they turn away. Because the switching cost is very easy for them. This platform, this platform, this platform. It's very easy to switch them. So, this...
+
+#### 01:07 - 01:37
+
+This is what tends to happen. They don't get a return for a month, so they switch to somebody else, then they switch to somebody else, then they switch to somebody else. Eventually they lose out. And even the person who's running the show, running that marketplace, he also loses out because you can say that the investor is not staying long. So when you say publication, you have to do a lot of things with education, right?
+
+#### 01:37 - 02:05
+
+So if I am the advisor giving recommendations, are you saying that I only need to educate people on what tips I am giving and why I am giving it and in general the philosophy or there should be an academy where people come and get educated about the stock market fundamentals to advance and then whenever I am giving the tips on the platform as an advisor, the end user is now aware of the technology and then decides
+
+#### 02:05 - 02:39
+
+the stock that advisor has shared, should they buy or not? So both go hand in hand. It's not either or. It is both needs to go hand in hand. So let's say for example, a lending business in a rural India. So we had a meeting yesterday and it was very interesting. A lending business in a rural area gives a loan against property. I mean, one agricultural lot.
+
+#### 02:40 - 03:08
+
+or some bad thing and the NPAs can just simply push up in the stock price stage then. Affordable housing, 2017-18 was one of the best things to invest in by 2020-21 comes. Modi also says ki abhi mirko pada nahi hai. Now, the point is the more they understand the nuances, toh shahe they'll not buy Avaaz or they'll not buy any other affordable housing company to that extent in the book.
+
+#### 03:11 - 03:39
+
+So, getting them to position sizing is the main thing. It's always there but in position sizing, they make the biggest error. But then, there will be a role of financial planner in this. Because what happens is... Sir, I think that if there is an academy on our platform, and the one who wants to learn, can learn there and the one who wants to trade,
+
+#### 03:39 - 04:03
+
+that is okay but all we are saying is see education has to be part of the other way you know it is somewhere integrated into the system we cannot just ignore it and you know just think
+
+#### 04:04 - 04:33
+
+See, we are completely with you and we have also thought about an academic kind of a thing that education will happen. What I am saying is what Jinnah is to Jinnah's point. If I get a tip that you take HDFC Bank, then I don't know right now, let's say I have a lakh rupees, should I go for like 60,000 rupees buying or only 10k buying? That is okay. See, I don't know that person's company profile or his credibility or what he is.
+
+#### 04:33 - 05:10
+
+I can bet on that. That is okay. Who is recommending if I am clear about that and I have conviction in that person's research or knowledge, I am ready to bet on that. Then we cannot say whether it will work or not. How good is the idea. I think that we cannot judge at that level. It is quite difficult because the market is dynamic and volatile. Even if the recommendation is correct,
+
+#### 05:10 - 05:41
+
+and something external happens in the market times, the retail person doesn't understand that. The stock will come back. Exactly, yeah, that's there. So recommendation is not wrong, the timing can go off. So the retail person perceives the issue as if it was wrong. But they feel that guy is not an expert.
+
+#### 05:41 - 06:06
+
+So that is the opportunity to shape the investor behaviour. Now how to do it is one question mark. But I am sure that is where the advisor has to put in the effort that I have given this recommendation. Market tank or stock price has gone and you don't need to sort of do any panic buying or panic selling around it. It is something we will see how the platform can enable.
+
+#### 06:06 - 06:32
+
+I want to go back to the platform when maybe Junaid asked a fundamental question like what were your first impressions when you saw it like where do you see the utility of it and then of course all that we are discussing is how can it be done better and all that but maybe if I want to break down my two questions in two parts where do you see the utility of it and at what point in time will this platform break I think I'm getting answers on
+
+#### 06:33 - 07:03
+
+Why won't it work? Because there is a lot of volatility in the market. So, it won't take time for a retail investor to go from one place to another. But, you know, I am just trying to figure out reasons as to why it will still work. If you have any thoughts on that. I am not saying why it will not work. I am not operating from that. What I am trying to say is that
+
+#### 07:04 - 07:43
+
+What I'm just trying to say is that no matter how hard we try, at the end of the day, if the final decision is left on the investor, the investor will be at length. That's the only thing I'm trying to say. My first impression, if I have to go back 10 years, 10 to 12 years back, when I first started 30-40 years back of my own journey of trading, I would have really enjoyed it.
+
+#### 07:44 - 08:23
+
+So if I am a first comer person, I will enjoy whatever there is. There is an access, there is everything. But as I mature, I don't... So as an investor, when we mature, we tend to cut back on, you know, excess information available. So what your product is at this point in time, it will work for first time guys. Jisko naya naya, who's very very happy.
+
+#### 08:23 - 08:59
+
+But the ones who will want to have serious bets and serious investment positions, you won't see any reason for them to be there. Fair point. At this point. How you make it is the second thing. Secondly, like I said, it's good in the starting that there is a lot of information available. But eventually, in my own journey, I don't know about Maksha and Nadeem and yourself,
+
+#### 09:00 - 09:25
+
+so how do we make sure how do you make sure depending on your just say once you start watching a few series your curation changes so how you how you're going to change that curation of those stocks with regards to
+
+#### 09:26 - 10:00
+that guy's behaviour will matter more because if you see there is this website called Value Picker the two brothers who are screeners, Aayush and Pratyush they are the ones who started it it's a great source for anybody who wants to first understand how to follow news, how to follow the stock but at one point because it was left unmoderated
+
+#### 10:01 - 10:26
+There are a lot of things that you don't want to get at. Whatever you have built, these are my thoughts as of now. This is great. And maybe let's just say that now that you are a serious investor or you know, and you rightly said about there is a lot of noise today.
+
+#### 10:26 - 10:58
+and I see that also on Instagram and everywhere. What are your sources for learning or what do you refer to which is out there available in the online domain? What do you personally read? My reading is usually we read balance sheets, we read the EVA and then we go for studies done by those academics, academia where there are science journals or there is a World Bank report, whatever. There are so many
+
+#### 10:58 - 11:35
+Like you said value picker, something like that or some websites do you refer to typically?
+
+#### 11:36 - 12:00
+Screener Screener Screener There is so much information happening in this business, it's good to still take time Yeah, yeah Akshay, do you have any other follow up questions? No, Jinnah right now, again feel free to skip this but what is the volume or number of customers that you are managing right now?
+
+#### 12:02 - 12:24
+How are you managing there? Of course you did mention about you know phone pe kar lete, hum phut bhi kar lete but is the volume right now manageable? That's why you are not thinking of any technology right now? Like where are you on that right now? Volume is toh theek hai because we are managing larger sizes dire dire. Volume is toh around
+
+#### 12:24 - 12:59
+Sub 50-60 sort of things but volume is managed when keeping resources. If someone is there, just give them a call and get them to do it. Or we, I mean I might just hire a full-time trading hand, a trader, somebody who is just doing that too. It's not a big issue to manage volume. I think the most, how do I say, it's the issue
+
+#### 13:00 - 13:27
+Usually for me personally, it just comes down to one or a couple of algorithms that so if when we start a portfolio, the allocations are different. Yeah. Okay, so the portfolio may be there for the next five to six years depending on whatever we've thought about it. But six months down the line, prices change. So allocations need to be deferred.
+
+#### 13:28 - 13:59
+So the challenge is always to bring that algorithm in place so that based on those prices and the newer information that needs to come, we can shift it. So that is where we need to land on. Execution wise, we are not getting that much issue. And then because you mentioned you would manage all of this in Excel, right? For each customer you have their portfolio in Excel. Yeah, yeah. Even a two digit number for now.
+
+#### 13:59 - 14:23
+Is it like very feasible right now or you have a set of stocks that you are kind of offering in different capacities or in different buying cycles to these customers so that's where you know.
+
+#### 14:26 - 14:57
+research is very very hard it's just key what we are trying to figure out right now is the solution where whatever we are buying and selling so spectrum whatever we are buying selling you know pieces that we have bought or sold and we are able to also showcase it very quickly
+
+#### 14:57 - 15:30
+with a challenge at this point in time. What we are trying to do is we are trying to get at more tickets, higher tickets, higher numbers. Yeah, yeah. So, I mean, less number of customers but higher volumes. Correct. So then, Jina, don't you think like the situation that you are in right now, like at least 50, 60, whatever number of customers you are managing. If, let's say, a player like Stoplick comes in and says that you put your recommendations here for your buy-ins.
+
+#### 15:31 - 15:59
+No.
+
+#### 15:59 - 16:24
+For me that is not a solution honestly because it's for different people, my allocations tend to differ. Yeah, correct. If I say I just put in one... Junaid, it can make your work easy, right? With a little more, see, Google, Google Doc is fine but it gave some analytics, some insights, the calls went right, wrong.
+
+#### 16:25 - 17:00
+proper analysis of everything, will it not help? Automated reporting to your customers and of course you said that. Even to communicate to them in a faster way, I think it can help in a way. The reason is very simple because let's say customers are also very different. Like your portfolio will be more on the all-weather side. Somebody will only come for healthcare, somebody will only come for work.
+
+#### 17:00 - 17:25
+So sector specific, somebody will come for core satellite. That also you can create. You can create two, three portfolios and then track them accordingly. That's what I was kind of leading to. So imagine three of us or four of us on the call have different portfolios or maybe, you know, Nandish, Pratik and I are your customers. Now, you know, you have a portfolio for Nandish and five other similar people with Pratik and me.
+
+#### 17:25 - 17:42
+Now imagine what Nandish is buying and selling, you can readily see and 5 other Nandish's right, same as with 5 other Pratis and 5 other Akshay's. Then won't your life become easier and simpler, quickly see on one click and then I also as an investor,
+
+#### 17:43 - 18:07
+would get some insights from you you can educate me there and then there is a system which is going to help you in your crm also like managing your in any and actually does this help in getting the fees and all of that through your system yeah we could get that because that's a publicly available information yeah yeah what's possible
+
+#### 18:08 - 18:38
+See right now let's say all these 60 people, maybe manually once in a year Jinnah will raise an invoice and they will make the payment or something like that. That's where I was going to come like in the end when I said CRM, managing your customer, their email, phone number, payment links, renewals, automated reminders, everything. Jinnah, ask them, it will be useful. And see this is not a sales pitch. Honestly, right now this is not a sales pitch.
+
+#### 18:38 - 19:09
+I mean, I can think about it. We are not trying to convince ourselves that why this will work. We are just trying to brainstorm given your problem statement of the way you are operating right now, would a technology. Yeah. Yeah, yeah, yeah, of course. Okay.
+
+#### 19:09 - 19:31
+And it's good to be a critic and not be convinced, you know, that will make the idea more robust. Fully agree, fully agree. Let's just look at it this way. What's the pain point or what are some pain points that we are not focusing on because we thought something else is a pain point and that pain point could be from a retail investor standpoint or an advisor standpoint.
+
+#### 19:33 - 20:06
+So for me, receiving fee collection and invoicing has never been a pain point. I may not have thought too much about that. Neither is the CRM a bit of a pain point. Because it is streamlined since month one itself. It has never been that painful. Actually, even with Google checks and all,
+
+#### 20:06 - 20:40
+We were able to very quickly understand how do we build our calculators for these and all. That issue never existed. So I've never really, I mean that's what I'm saying, I've never really thought on those terms. For me the pain point has always been passing that conviction to the customer because
+
+#### 20:40 - 21:11
+Because we are not managing it directly, once we manage, once that fee sorts itself, then that pain point also tends to go away. But because we are not managing it directly, what happens is that sometimes we want to get a higher allocation. That doesn't happen sometimes. And why is this a pain point in the sense that or how are you trying to solve for this pain point on your own?
+
+#### 21:12 - 21:40
+Abhi toh hoyi hota hai ki we write extensive notes and we send it to them and then we have a conversation with them. We feel a 12% allocation is good for you in a particular stock or why do we go like a 7% stock on heavy 60% thing in this sort of a market when it is down or when it is up, why do we send? So wohi ek lehta hai. Other than that,
+
+#### 21:41 - 22:09
+I am just saying at this point, anything else is not really a very big worry. And how much interested are your customers in getting that education, like getting themselves educated? They will love it because what happens is that when we start talking about it, they start themselves thinking.
+
+#### 22:10 - 22:40
+So my summary is that and I understand why people love it is because everybody likes to be empowered at the end of the day and they want to
+
+#### 22:40 - 23:05
+feel in control of their decisions even if there is an expert sitting out there who is recommending or giving advice people want to feel in control of their decisions so in that sense such sort of education helps of course how do you cut down the noise and put it across in a manner where people get it as to why you are saying what you are saying is a is a is a pain point
+
+#### 23:08 - 23:24
+Okay, Akshay anything else I think? There has been a lot of food for thought. No, I think good inputs Jinnah and Abish. Jinnah just one question though.
+
+#### 23:24 - 23:50
+As far as we know, if you are a SEBI registered advisor, you can give out those tips, buying selling tips on your own out there in open. Will there be a limitation or challenge with a platform like Stockly? Like how can Stockly also create a play or a platform for non-registered advisors who are equally good or perhaps better, more credible, more strong at their...
+
+#### 23:51 - 24:24
+So just take a corporate RA and that will be it. You take a corporate RA whatever advice is going it becomes Stockly's advice. No, Stockly doesn't want to give advice but let's say Stockly wants to bring you on the platform. Do you see a challenge with that? No. See advice is only when you talk about recommendations. According to SEBI it is only buy, sell and hold.
+
+#### 24:25 - 24:57
+If you steer away from that and talk everything else, which leads to those three decisions, then there is no problem. Yes, perfect. That's what I wanted to discuss. Because right now at least the position we are operating from is we are not the experts. We are software people and we are trying to build a platform. And our thinking is more from that angle than being the market experts. Market experts are people like you and Nandesh and so many people out there.
+
+#### 24:57 - 25:34
+We are trying to bring them together and then of course perhaps exercise our skill in getting enough users so that this becomes a scalable platform. That's all. Secondly, I mean I am not discouraging of search but the RA engine which people have taken, I really feel, you just talk about it. You start realizing why because of the SAP definitions they have become so
+
+#### 25:35 - 26:00
+hands on, you can make it in 30 or 40 minutes. You know, sort of. So they've become more like these traders. And not traders, they're shouting guys. They used to be like this on the floors. They used to shout on the trading floors, now they've become like this. So, they're not saying it right. That's been also my understanding. The quality has tapered off a bit.
+
+#### 26:00 - 26:35
+and this problem arises when your advisor of quality goes and the value of the platform goes through that so either what you do is you only have four three people and you run it as a proper tech and an investment platform what do you say that we are taking this concentrated bet because the crowd you will create is so dirty it's just irritating and then how do you
+
+#### 26:35 - 27:10
+How do you even stop them from doing things that are not supposed to be done? How do you stop them? What do you do with that? For client acquisition, the RA of RA will come on Stocklink, the client will see it. He will think that he can get an email id or some network connection from behind. The direct will go behind it. Yeah, yeah. Cost of commission. Yeah, yeah. So eventually, your hard work somewhere,
+
+#### 27:12 - 27:42
+Yeah, yeah, makes sense.
+
+#### 27:43 - 28:15
+I mean, if you're building, I feel you know, try and... I'm trying to think on that. And marketplace and all this, let it be on Telegram. Let it go. Let it die. Trust me. You only build... Because what will happen is, the bigger it is, the quality will perform better. People who are actively doing the right work, they will perform more better. Now, if...
+
+#### 28:16 - 28:47
+Capital Mind, this is the example of Deepak Chinoy. The way he started, he started by giving tips. He started by giving trade recommendations. Then he had a momentum portfolio. Then from there he shifted to PMS. Now he is coming out with a mutual fund. Because he was able to connect the investor in a particular thought process and stay. If he had opened it for everyone,
+
+#### 28:48 - 29:26
+So like Smallcase and like everybody else, they didn't bring that kind of growth. And Deepak is one of the biggest, I mean phenomenal growth students. That problem happens when you open it. I mean institutional investors get very happy. They are able to show them numbers and all. But eventually, I don't think so much will go on. Chota stock also shut down because of the same reason. Because it was more important to open it. It was like I'll open the platform but you can't.
+
+#### 29:26 - 30:06
+That's the worry. Investor behaviour and trading behaviour has to be a place where they come and talk about it. Or they come and seek guidance or they come and talk about it. If you leave them to tech, they will start doing window shopping. Great point. My only thing is if you are making so much effort, then you are going to lock the ecosystem. Don't open the ecosystem. Either the human mind is not evolved enough to understand
+
+#### 30:07 - 30:33
+you know money that well let alone you know make them in the future yeah for example there are so many like even if you take mutual funds only so nandesh bhai kitna sara hi hai na there are so many open sources jaha pe people can buy and sell paytm is also selling mutual funds but people will prefer coming to jhago people will prefer coming to
+
+#### 30:34 - 31:06
+those areas where they are able to get that lock in facility. They know that these are the places we can get our gradients installed. And the evolution of all these tech companies, you will understand it much better than me, they have entered asset management space. They have not started from asset management space. Yeah, that's true.
+
+#### 31:08 - 31:38
+FundsIndia started with education right? They started with the platform itself. So can FundsIndia be replicated here like this? Can this happen in for stocking? Yes, so it has to be a proper structure otherwise it will hold
+
+#### 31:39 - 32:08
+It will not work like in the real world, it will not work if the structure is not complete, the ecosystem is not complete. Sure, I mean we will study. I think this has been great food for thought. So thanks Jinnah. Funds India, not that I have heard about it, so maybe we will have to study and then see.
+
+#### 32:10 - 32:38
+They are into mutual fund distribution only and then they kept on adding different products. They started with mutual funds then they kept adding FDs and so it's more like the bank model. It is online using technology and when they started it was only the regular plans and then the direct plans came in and
+
+#### 32:40 - 33:10
+from regular to direct just to survive in the market. So ET money started with regular they converted to direct. Lot of such players did that but FundsIndia continued to stay in the regular plans, not in the direct plans. Yeah, I mean they are doing insurance and all that. Yeah, we are doing everything and then the founders were known to us in the start. We did lot of campaigns together even on Jago Investor with them.
+
+#### 33:10 - 33:41
+And I think then they sold FundsIndia to somebody else and now they have exited. Okay. Alright. Great. Okay. Thank you for sharing. Yeah, this was very valuable. Yeah. Deepak, Shana, you should. Yeah, yeah. Just put him on Twitter. He is very active. There is another...
+
+#### 33:44 - 34:12
+There is this another company called Filter Coffee. They run newsletters. They were recently acquired by one broker. The broker is also developing the same ecosystem. Filter Coffee? Yes, Filter Coffee runs on Substack. They are all kids. They are 21 years old kids.
+
+#### 34:13 - 34:41
+got a call they were taken over by somebody is a broker because the broker also then realized me and they should not push some sort of news or some sort of thing so I am just saying Pratik we are what did I call at 5.30 also I take a leave yes please yes I think we are done even I need to move thank you thank you yes okay bye bye
+

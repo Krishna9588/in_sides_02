@@ -1,0 +1,385 @@
+import os
+import requests
+
+API_URL = "https://router.huggingface.co/hf-inference/models/typeform/distilbert-base-uncased-mnli"
+headers = {
+    "Authorization": f"Bearer {os.environ['HF_TOKEN']}",
+}
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+
+output = query({
+    "inputs": "Hi, I recently bought a device from your company but it is not working as advertised and I would like to get reimbursed!",
+    "parameters": {"candidate_labels": ["refund", "legal", "faq"]},
+})
+
+print(output)
+---
+C:\Users\propl\PycharmProjects\scratch\.venv\Scripts\python.exe C:\Users\propl\PycharmProjects\scratch\testing_hugging_face.py 
+{'error': 'Invalid username or password.'}
+
+Process finished with exit code 0
+---
+
+even with valid HF_TOKEN in .env file why we are not able to access this and getting an error
+-
+The issue isn't likely with your token's validity, but rather that your script **can't actually see it**.
+
+Python’s `os.environ` looks at your system's environment variables, but it doesn't automatically "peek" inside a `.env` file just because it exists in your folder. To bridge that gap, you need a loader.
+
+Here is the breakdown of why this is happening and how to fix it.
+
+### 1. The Missing Link: `python-dotenv`
+Standard Python doesn't know what a `.env` file is. To load those variables into `os.environ`, you typically use the `python-dotenv` library.
+
+**The Fix:**
+1.  Install the library: `pip install python-dotenv`
+2.  Update your code to load the file at the very beginning:
+
+```python
+import os
+import requests
+from dotenv import load_dotenv  # Import the loader
+
+load_dotenv()  # This line "injects" your .env variables into os.environ
+
+API_URL = "https://router.huggingface.co/hf-inference/models/typeform/distilbert-base-uncased-mnli"
+headers = {
+    "Authorization": f"Bearer {os.getenv('HF_TOKEN')}", # os.getenv is safer than os.environ
+}
+# ... rest of your code
+```
+
+---
+
+### 2. PyCharm Specific Settings
+Since I see you are using **PyCharm**, there is a built-in way to handle this without extra code. If you don't want to use `python-dotenv`:
+
+1.  Go to **Run** > **Edit Configurations...**
+2.  Find your script (`testing_hugging_face.py`).
+3.  Look for the **Environment variables** field.
+4.  Click the folder icon and manually add `HF_TOKEN` and your value there.
+
+---
+
+### 3. Debugging the "Invisible" Token
+If you want to be 100% sure the script is actually grabbing the token, add a temporary debug line. **Do not** print your whole token, but print the first few characters to verify it's not `None`:
+
+```python
+token = os.getenv('HF_TOKEN')
+if token:
+    print(f"Token loaded! Starts with: {token[:4]}...")
+else:
+    print("Token is still None. Check your .env file path or loading logic.")
+```
+
+### Quick Checklist:
+* **File Name:** Ensure the file is named exactly `.env` (not `token.env` or `.env.txt`).
+* **Formatting:** Inside the `.env` file, ensure there are no spaces around the equals sign: `HF_TOKEN=hf_your_actual_token_here`.
+* **Restart:** Sometimes IDEs need a quick "Refresh" or a script restart to recognize changes to the local environment.
+
+Give the `load_dotenv()` method a shot—it's the industry standard for keeping secrets out of your source code!
+-
+import os
+import requests
+
+API_URL = "https://router.huggingface.co/hf-inference/models/typeform/distilbert-base-uncased-mnli"
+HF_TOKEN="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"
+headers = {
+    "Authorization": f"Bearer {HF_TOKEN}",
+}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+
+output = query({
+    "inputs": "Hi, I recently bought a device from your company but it is not working as advertised and I would like to get reimbursed!",
+    "parameters": {"candidate_labels": ["refund", "legal", "faq"]},
+})
+
+print(output)
+
+with this code,
+i got C:\Users\propl\PycharmProjects\scratch\.venv\Scripts\python.exe C:\Users\propl\PycharmProjects\scratch\testing_hugging_face.py 
+[{'label': 'refund', 'score': 0.9378498792648315}, {'label': 'faq', 'score': 0.049141641706228256}, {'label': 'legal', 'score': 0.013008513487875462}]
+
+Process finished with exit code 0
+this result does this mean its working
+-
+Yes, it is absolutely working!
+
+The result you received is a successful **Zero-Shot Classification**. Since your input was about a device not working and wanting to be "reimbursed," the model correctly identified **"refund"** as the most relevant category with a high confidence score.
+
+### Breaking Down Your Result
+
+Your output is a list of labels sorted by their probability (confidence score):
+
+| Label | Score | Meaning |
+| :--- | :--- | :--- |
+| **refund** | **0.9378** | The model is **~94% sure** this is a refund request. |
+| **faq** | **0.0491** | There is a ~5% chance this is just a general question. |
+| **legal** | **0.0130** | There is a ~1% chance this is a legal threat. |
+
+Since 0.937 is a very high score, the model did an excellent job understanding the context of your sentence.
+
+---
+
+### ⚠️ Security Warning: Your Token is Public
+In your latest code snippet, you hardcoded your `HF_TOKEN`:
+`HF_TOKEN="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"`
+
+**You should treat this token like a password.** Because you’ve shared it here, anyone who sees this can technically use your Hugging Face account's compute quota.
+
+**I strongly recommend you do the following immediately:**
+1.  Go to your [Hugging Face Settings](https://huggingface.co/settings/tokens).
+2.  **Revoke/Delete** that specific token.
+3.  Create a new one.
+4.  Go back to using the `.env` method we discussed earlier so the token stays hidden in your local files.
+
+---
+
+### How Zero-Shot Works
+This model is clever because you didn't have to "train" it to recognize these specific labels. It uses its general understanding of language to compare your input text against the candidate labels you provided.
+
+
+
+### Next Steps to Try
+To further test the "intelligence" of the script, try changing the `inputs` or the `candidate_labels`. For example:
+* **Input:** "How do I turn on the Bluetooth?"
+* **Labels:** `["technical support", "billing", "shipping"]`
+
+If the code returns "technical support" as the top result, you know your implementation is robust and ready for a real project!
+-
+so if this is working fine,
+
+then whats the issue with my py file. why i am not getting correct results, logs:
+Enter file path (or --download-model): Catchup with Sunil Daga.md
+
+2026-04-23 12:55:32,908 | INFO | Processing: Catchup with Sunil Daga.md
+2026-04-23 12:55:32,910 | INFO |   Format: plain paragraphs (txt/md)
+============================================================
+  Agent 1 Internal - Run
+============================================================
+
+2026-04-23 12:55:45,851 | WARNING |   HF API not available (all models returned 403/timeout). Switching to local model or hybrid for all remaining turns. To fix: create a Fine-grained HF token with 'Make calls to Inference Providers' permission.
+2026-04-23 12:55:45,852 | INFO |   Entity       : Catchup With Sunil Daga
+2026-04-23 12:55:45,852 | INFO |   Meeting type : Customer Interview  [rule_based]
+2026-04-23 12:55:45,852 | INFO |   File date    : 2026-04-22
+2026-04-23 12:55:45,852 | INFO |   Turns loaded : 13
+
+============================================================
+  Files processed: 1
+  Succeeded      : 1
+  Skipped/failed : 0
+============================================================
+The issue is a combination of a silent JSON parsing bug in `agent1_internal.py` and the cold-start times of Hugging Face's free-tier inference API.
+
+Your standalone script proved the token works, but it also revealed exactly why the main script is failing.
+
+Here is the breakdown of the two interacting problems and how to fix them.
+
+### 1. The JSON Response Format Bug
+Look closely at the output your standalone script produced:
+`[{'label': 'refund', 'score': 0.93...}, {'label': 'faq', 'score': 0.04...}, ...]`
+
+This is a **List of Dictionaries**.
+
+Now look at how `agent1_internal.py` parses the Hugging Face API response in the `_hf_classify_one` function (around line 439):
+
+```python
+if "labels" in data and "scores" in data:
+    return data["labels"][0], round(data["scores"][0], 4)
+return None
+```
+
+Because your successful API call returns a `list`, the condition `"labels" in data` evaluates to `False` (it is looking for a string inside a list, rather than checking dictionary keys). Because it doesn't match the expected shape, the script silently swallows the successful response, returns `None`, and assumes the model failed.
+
+### 2. The Timeout Difference
+Your standalone script used the `requests` library, which has no default timeout. It simply waits as long as it takes for the Hugging Face model to wake up from a "cold start" (which can take 10–20 seconds on the free tier).
+
+`agent1_internal.py` uses Python's built-in `urllib` with a strict 5-second timeout:
+`with urllib.request.urlopen(req, timeout=5) as resp:`
+
+If a model is sleeping, the 5-second timeout triggers, the exception is caught silently, and it moves to the next model.
+
+### 3. The Global Kill Switch
+The very first thing `agent1_internal.py` does is try to classify the `meeting_type`.
+Because of the JSON bug and the timeouts, all 4 models in the cascade fail on this first attempt. When the cascade is exhausted, the script sets `_hf_available = False` globally. This acts as a kill switch, permanently locking out the API for all the remaining individual turns in the document to save time, throwing the warning you saw in the logs.
+
+---
+
+### The Fix
+You need to update `_hf_classify_one` to handle both JSON shapes and increase the timeout to allow for cold starts.
+
+Replace the entire `_hf_classify_one` function in `agent1_internal.py` with this updated block:
+
+```python
+def _hf_classify_one(
+    url: str,
+    text: str,
+    candidate_labels: List[str],
+    token: str,
+) -> Optional[Tuple[str, float]]:
+    """
+    Try one HF endpoint. Increased timeout for cold starts.
+    Handles multiple JSON response shapes.
+    """
+    import urllib.request
+    import urllib.error
+
+    body = json.dumps({
+        "inputs"    : text,
+        "parameters": {"candidate_labels": candidate_labels},
+    }).encode("utf-8")
+
+    req = urllib.request.Request(
+        url,
+        data    = body,
+        headers = {
+            "Authorization": f"Bearer {token}",
+            "Content-Type" : "application/json",
+        },
+    )
+    try:
+        # Increased timeout to 15s to allow free-tier models to wake up
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+
+        # Format 1: Dictionary with arrays (standard zero-shot pipeline format)
+        if isinstance(data, dict) and "labels" in data and "scores" in data:
+            return data["labels"][0], round(data["scores"][0], 4)
+
+        # Format 2: List of dictionaries (often returned by specific MNLI models)
+        if isinstance(data, list) and len(data) > 0 and "label" in data[0] and "score" in data[0]:
+            # Assuming the API returns them pre-sorted by score (which it usually does)
+            return data[0]["label"], round(data[0]["score"], 4)
+
+        return None
+
+    except urllib.error.HTTPError as e:
+        log.debug(f"    HF {e.code} on {url}")
+        return None
+    except Exception as exc:
+        log.debug(f"    HF error: {exc}")
+        return None
+```
+
+Once you make this change, the script will successfully parse the responses from the smaller models like `distilbert`, prevent the kill switch from activating, and proceed to process the 13 turns using the API.
+.md if our input file and .json is our output file.
+
+see check our py file, if our api is actually working can we also get some analysis in this as well for our next agents,
+
+Claude_entire - file is an collection of all the discussion and response of claude for your reference.
+
+I also want to make sure when we create our final .json file it should we clean and should have only
+=> A to Z, 1 to 8, and <space> and few , ' ; " etc which are important else remove all the things which are present in that file.
+### 1. The Good News: Your API is Working Perfectly
+
+If you look at the `catchup_with_sunil_daga_signals.json` file you uploaded, the metadata explicitly confirms success:
+`"classifier_used": "hf_api"`
+
+Furthermore, the individual signals show highly specific confidence scores (e.g., `0.4484`, `0.5163`, `0.2673`). If the script had fallen back to the rule-based logic, those scores would be hardcoded flat numbers (like `0.80` or `0.60`). The Hugging Face API successfully processed your turns and generated those nuanced probabilities. You successfully fixed the bottleneck!
+
+---
+
+### 2. Adding "Analysis" for the Next Agents
+
+It is highly recommended to **not** add generative analysis to this specific script.
+
+The Hugging Face models currently running in your cascade (`distilbert`, `deberta`, `bart-large-mnli`) are strictly **Zero-Shot Classifiers**. They are incredibly efficient at looking at a piece of text and sorting it into predefined buckets (Feature, Complaint, Trend, Insight). However, they are fundamentally incapable of generating new text.
+
+To extract deeper, meeting-level analysis—such as the 2-line summary, Major Decisions, Problem/Solution mapping, and Tone—you need a generative LLM. Attempting to force Agent 1 to do this would require hooking up the Gemini API here, which would slow down your ingestion pipeline and mix your structural data extraction (Layer 2) with your generative insights (Layer 1).
+
+Keep Agent 1 exactly as it is: a fast, unbreakable, structural parser that produces clean JSON fragments. Pass this clean JSON to **Agent 2**, and let Agent 2 use Gemini to read the fragments and write the comprehensive analytical summaries.
+
+---
+
+### 3. Cleaning the JSON Output (Strict Text Filtering)
+
+To ensure your final JSON contains only standard alphanumeric characters, spaces, and basic punctuation, you can use Python's Regular Expressions (`re`) to aggressively strip out formatting artifacts like the `●` bullets and `\t` tabs seen in your current output.
+
+Open `agent1_internal_checking.py` and locate the `_Processor` class. Update the `process` method (around line 538) to include a strict sanitization step right after it extracts the text from the turn:
+
+```python
+        for turn in raw_turns:
+            raw_text = turn.get("text", "")
+
+            # 1. STRICT SANITIZATION:
+            # Keep only A-Z, a-z, 0-9, spaces, and specific punctuation
+            clean_text = re.sub(r'[^a-zA-Z0-9\s.,\'";:?!()\-]', '', raw_text)
+
+            # 2. COLLAPSE WHITESPACE:
+            # Turn tabs, newlines, and multiple spaces into a single space
+            clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+
+            if len(clean_text) < MIN_CONTENT_LENGTH:
+                continue
+
+            turn_index = turn.get("index", position)
+            time_range = turn.get("time_range")
+
+            # Continue with classification using the newly cleaned text
+            classified = False
+
+            if USE_LOCAL_MODEL:
+                local_result = _classify_local(clean_text, _SIGNAL_LABELS)
+                # ... [rest of the classification logic remains the same, just ensure you pass 'clean_text' instead of 'text']
+```
+
+**Important:** Make sure you update the variable name inside the loop so that the classifier and the final JSON output are using `clean_text` instead of the raw `text`.
+
+This will automatically strip away any unreadable characters before the data ever touches the Hugging Face API or your database, ensuring Agent 2 only reads perfectly clean English text.
+This script was an backup build for my cloud hosting where i was not asking for any local downloading of any model so can you update this accordinly of its too much write block of code with proper guidence to update this file as well.
+Having a dedicated, lightweight cloud script is a smart architectural decision. It prevents accidental local dependencies from blowing up your deployment costs.
+
+To apply the exact same strict text sanitization to your cloud version, you only need to update the turn-processing loop inside the `_Processor.process` method.
+
+Open **`agent1_internal_cloud.py`** and scroll down to **Line 388** (inside the `process` function).
+
+Replace the existing `for turn in raw_turns:` loop with this updated block:
+
+```python
+        for turn in raw_turns:
+            raw_text = turn.get("text", "")
+
+            # 1. STRICT SANITIZATION:
+            # Keep only A-Z, a-z, 0-9, spaces, and specific punctuation
+            clean_text = re.sub(r'[^a-zA-Z0-9\s.,\'";:?!()\-]', '', raw_text)
+
+            # 2. COLLAPSE WHITESPACE:
+            # Turn tabs, newlines, and multiple spaces into a single space
+            clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+
+            if len(clean_text) < MIN_CONTENT_LENGTH:
+                continue
+
+            # Tier 1: HF API
+            result = _hf_classify(clean_text, _SIGNAL_LABELS, self.token)
+            if result:
+                signal_type, confidence = result
+                clf_used.add("hf_api")
+            else:
+                # Tier 2/3: hybrid (sklearn + rules) or pure rules
+                signal_type, confidence = _classify_hybrid(clean_text)
+                clf_used.add("hybrid")
+
+            position += 1
+            signals.append(SignalRecord(
+                signal_id   = _make_signal_id(initials, position),
+                signal_type = signal_type,
+                confidence  = confidence,
+                content     = clean_text,           # Save the cleaned text
+                time_range  = turn.get("time_range"),
+                turn_index  = turn.get("index", position),
+            ))
+```
+
+### Why this works perfectly for the cloud:
+1.  **Zero Overhead:** It uses Python's built-in `re` module (already imported at the top of your script), so it adds zero external dependencies to your cloud environment.
+2.  **Protects the API:** By stripping out weird hidden characters, bullet points (like `●`), and excessive tabs before making the Hugging Face API call, you reduce token size and prevent weird JSON encoding errors during the `POST` request.
+3.  **Clean Database:** When you eventually push this to your database (like Supabase), you won't have to worry about dirty strings breaking your front-end display.
+---

@@ -1,0 +1,211 @@
+{
+  "source_file": "Vishal_Agarwal.md",
+  "format_detected": "timestamped_paragraphs",
+  "total_turns": 27,
+  "cleaned_at": "2026-04-23T04:29:14.879908+00:00",
+  "stats": {
+    "raw_chars": 10372,
+    "clean_chars": 9900,
+    "total_turns": 27,
+    "unique_speakers": 0,
+    "speaker_list": [],
+    "turns_with_timestamp": 27,
+    "noise_blocks_removed": 0,
+    "filler_turns_removed": 0,
+    "duplicate_turns_removed": 0,
+    "block_type_dist": {
+      "transcript": 27
+    }
+  },
+  "turns": [
+    {
+      "index": 0,
+      "speaker": null,
+      "text": "and take benefit of that higher volumes. So I think this info is pretty useful as an advisor. Okay. And currently in the way you are giving advice or recommendation, how does that process work? How do you do it? So I have taken, there is a website called Learnist, right? So on that web portal, we upload the PDFs, we give login ID passwords to our subscribers, they use it.",
+      "time_range": "00:00 - 00:27",
+      "block_type": "transcript"
+    },
+    {
+      "index": 1,
+      "speaker": null,
+      "text": "they read the reports they have all the salesforce automation things which i talked about right like subscriber reset and expiry email directly number of hours they are spending on reading the reports which reports they are reading all of those things but i don't know how much are they buying or not okay got it what is the name of the website you said learnest it's learn yst learn yst and how much do you pay per like do you pay per user on the website yes but no it's a per year and",
+      "time_range": "00:27 - 00:58",
+      "block_type": "transcript"
+    },
+    {
+      "index": 2,
+      "speaker": null,
+      "text": "I think there is no limit to how many subscribers can I have and I paid them I think 38,000 including GST for a year. Okay, got it. And how many paid subscribers do you have in general currently? As of now, we have 70. 70, okay. And would you...",
+      "time_range": "00:59 - 01:17",
+      "block_type": "transcript"
+    },
+    {
+      "index": 3,
+      "speaker": null,
+      "text": "Kind of. So let's say if we were to pitch this to you again, right now, don't take it the other way, but how much typically would you like to pay for such kind of a service? Of course, it will not stop. Yes, yes, yes. But in general, what's the mindset? Would you first like to pay? If yes, how much, what is the range you would be comfortable with? I think I can pay something 50k for a year. And then what would... Go ahead.",
+      "time_range": "01:18 - 01:47",
+      "block_type": "transcript"
+    },
+    {
+      "index": 4,
+      "speaker": null,
+      "text": "What were your guys' feelings? What do you get from others? We have been talking to people who have pretty much validated that this is a problem for us when we give out recommendations. Right now we want to focus on registered advisors and people who are not registered. We are not focusing on them because there are a lot of legalities and we want people to actually make money.",
+      "time_range": "01:49 - 02:17",
+      "block_type": "transcript"
+    },
+    {
+      "index": 5,
+      "speaker": null,
+      "text": "in a legal, authentic way versus, you know, getting channeled later on, right?",
+      "time_range": "02:19 - 02:23",
+      "block_type": "transcript"
+    },
+    {
+      "index": 6,
+      "speaker": null,
+      "text": "So people are sharing their thoughts ranging from 25k to a lakh. Again it depends on how much business they are themselves making. Right, right, right. Fortunately then people kind of are sharing their numbers. But if we validated that something like this we will be definitely willing to pay. Now, I mean it hasn't stopped only here but then people have also started asking what else can I do, how many leads can I generate or you know how can I.",
+      "time_range": "02:24 - 02:50",
+      "block_type": "transcript"
+    },
+    {
+      "index": 7,
+      "speaker": null,
+      "text": "use this as a CRM itself to manage all my customers, can we create groups and communities, can we create different tier plans and all of that stuff, right? But currently with whatever number of customers you are serving, what are the other pain points or challenges you feel the technology should be there to kind of solve for it? I think as of now I am not getting anything but there are certain things which I am not able to recall right away. But you know, give me one day,",
+      "time_range": "02:51 - 03:19",
+      "block_type": "transcript"
+    },
+    {
+      "index": 8,
+      "speaker": null,
+      "text": "Let me just send you a message on WhatsApp. That would be better because if I just tell you one or two things, that won't do justice. I agree. So let me think about them and send it to you because you have made a group.",
+      "time_range": "03:19 - 03:31",
+      "block_type": "transcript"
+    },
+    {
+      "index": 9,
+      "speaker": null,
+      "text": "Sure, we can pose these questions again on the WhatsApp. You can put it on the chat and I will keep thinking as and when I get an idea. Because you get a challenge and you think it should happen but then you forget about it and you move on. But when you face it again then you realize that this is something which needs to be addressed. But I can't recall all of those things. But obviously there are a lot of pain points which I struggle with.",
+      "time_range": "03:31 - 03:56",
+      "block_type": "transcript"
+    },
+    {
+      "index": 10,
+      "speaker": null,
+      "text": "Gaurav, I mean from a SEBI compliance and regulation standpoint, do you see a challenge in using a platform like this for you? That I am not sure. It should not happen. But you will have to get an opinion from some legal guy on this. I am not so sure on this. Okay. So in today's time, when you have to give stock tips or recommendations to your retail investors, what are some...",
+      "time_range": "03:56 - 04:23",
+      "block_type": "transcript"
+    },
+    {
+      "index": 11,
+      "speaker": null,
+      "text": "We just advise right and we are not executors in this way you are giving them a way to execute it right. So there is some kind of a grey area that you are providing a platform to your subscribers to execute it also. But the same is the case with smallcase they are also giving them a way to execute right and if it is smallcase is doing it so I am sure you guys will also be can do right because it's the same thing.",
+      "time_range": "04:23 - 04:47",
+      "block_type": "transcript"
+    },
+    {
+      "index": 12,
+      "speaker": null,
+      "text": "way more or less cognitively yeah but SEBI authorizes you to give a direct buy sell recommendation right and not just a yes it does it does it does you are a ria ria yeah ria yes and then whenever you give out these recommendations is that it's it's mandatory to maintain your research report right again you may or may not yes",
+      "time_range": "04:47 - 05:12",
+      "block_type": "transcript"
+    },
+    {
+      "index": 13,
+      "speaker": null,
+      "text": "But it's mandatory to maintain it. Yeah, at least one or two pages you need to have, right? That is what is the thinking behind giving out a report. Has anybody so far challenged the recommendations or you see any edge cases here which we need to ensure we have that in the product before we start onboarding more users and more environments?",
+      "time_range": "05:12 - 05:35",
+      "block_type": "transcript"
+    },
+    {
+      "index": 14,
+      "speaker": null,
+      "text": "anything yes so see our by definition we have less number of clients because ours is a pretty expensive one which are the like the highest amount in the industry and it make at least two crore worth of portfolio should be there for anyone to become our client so it's a very selective thing and that's why we don't have any such issues so far okay and then do you also informally would people do people also come to you to seek financial",
+      "time_range": "05:36 - 06:04",
+      "block_type": "transcript"
+    },
+    {
+      "index": 15,
+      "speaker": null,
+      "text": "planning advice or something like that of course you may have they do come but we don't give it yeah but people have that same problem as well yeah they do ask but we generally don't give it because we are only into stocks and you know yeah small caps and what's the subscription fees that you charge to the investors that are your yeah it's minimum fifty thousand and it goes on to one lakh fifty thousand to one lakh okay sure i missed that depends on what their corpus or",
+      "time_range": "06:05 - 06:35",
+      "block_type": "transcript"
+    },
+    {
+      "index": 16,
+      "speaker": null,
+      "text": "Yeah, so if they want only small cap then it is one, then if they want multi-cap plus special situations etc. then it's other. And what's the frequency of the recommendations you give? Like how often do you give tips? Yeah, so in one month we can give five also and then we may not give any for five months. So it totally depends on the market and what kind of ideas you are finding, which phase is the market here.",
+      "time_range": "06:35 - 07:02",
+      "block_type": "transcript"
+    },
+    {
+      "index": 17,
+      "speaker": null,
+      "text": "And we are assuming that quantity is something that you don't dictate, right? Quantity as in how much to buy. We give an allocation that if you are giving us 50 lakhs for one CR, then of this 4% is the allocation. And what is your repeat rate like? Let's say today I sign up with your service for a year. Next year, typically what have you seen? How many people? 100%. That's amazing.",
+      "time_range": "07:03 - 07:32",
+      "block_type": "transcript"
+    },
+    {
+      "index": 18,
+      "speaker": null,
+      "text": "Is this because they have now built that trust on you and maybe people may have also made money? They have made money. It's simple. Everything is going on because of trust. Money should be made. If money is made, people will come. Plus people are making money through your recommendations, right? Yes. So that is our thing. Our clientele is very, very stable. Even though we have only 70, but whenever we launch the AIF, we'll have the people ready to subscribe to our AIF. Okay. Interesting.",
+      "time_range": "07:33 - 08:04",
+      "block_type": "transcript"
+    },
+    {
+      "index": 19,
+      "speaker": null,
+      "text": "One last question from an investor standpoint, let's just say think of a retail investor who is your customer.",
+      "time_range": "08:06 - 08:27",
+      "block_type": "transcript"
+    },
+    {
+      "index": 20,
+      "speaker": null,
+      "text": "Why will they want to use something like a Stockly versus maybe an Anand Rathi or Motilal Oswal? The ones who get the recommendation in the app is what I've heard. They are a very long team and they don't do any specialised work. So that's why people like us survive. Because we are not attached to any institution. Yes, yes, yes. Okay.",
+      "time_range": "08:28 - 08:56",
+      "block_type": "transcript"
+    },
+    {
+      "index": 21,
+      "speaker": null,
+      "text": "That's why I think even though it's a very small industry but people like us, we are growing very fast. And when you say you are growing very fast, what's the year on year growth you are experiencing? When I say a lot of people are leaving the industry to start AIF and BMS. So number of good advisors is reducing.",
+      "time_range": "08:58 - 09:21",
+      "block_type": "transcript"
+    },
+    {
+      "index": 22,
+      "speaker": null,
+      "text": "So it's up to me, how much can I do. So now I am going for the corporate RA registration because so far I had only the individual. Once I have the corporate RA, I will gamify the entire thing. There is a good website, people can come on board on the website itself. I left three different plans, I launched something for the smaller ticket size also which is about 30k.",
+      "time_range": "09:21 - 09:44",
+      "block_type": "transcript"
+    },
+    {
+      "index": 23,
+      "speaker": null,
+      "text": "Now we have done all the homework, we have created the trust. So I am expecting this 70 number to go to 700. And Stockly can also become a channel for you to acquire those additional users maybe. If your advice sort of gains traction and people benefit from it.",
+      "time_range": "09:44 - 10:05",
+      "block_type": "transcript"
+    },
+    {
+      "index": 24,
+      "speaker": null,
+      "text": "Okay, sounds good. I think we'll post more questions, but this was an extremely useful conversation. Thanks, Gaurav. I think for me also, it has helped me to understand what can be done better, you know, so that we can become a better... See, there is, I was reading a book yesterday, where it gave an example on how poor designing, you know, reduces the experience so badly.",
+      "time_range": "10:10 - 10:34",
+      "block_type": "transcript"
+    },
+    {
+      "index": 25,
+      "speaker": null,
+      "text": "Let me give you an example, suppose you have a flight and that flight gets delayed but you don't know how much it has delayed by. In the second case, flight gets delayed and you have the information it has delayed by 45 minutes. What situation you feel will be better? Or let's say 4 hours also. So people want control on their times in their lives. So the more control you give it to them, the more information you give it to them, the easier you make their lives.",
+      "time_range": "10:50 - 11:18",
+      "block_type": "transcript"
+    },
+    {
+      "index": 26,
+      "speaker": null,
+      "text": "it gives them a better experience. Yeah. Yeah, yeah. What's the name of the book, by the way? It's called Alchemy and it is written by Rory Sutherland. Okay. Sure. Thank you. I'll just click a picture of this book right away. Yeah. Akshay, any other questions you want? No, I think I'm really helpful. Yeah. Okay. Thank you, Gaurav. Thanks for your valuable time. We'll stay in touch and... Yes. Take care. Bye-bye. Bye-bye. Bye.",
+      "time_range": "11:19 - 11:54",
+      "block_type": "transcript"
+    }
+  ]
+}
