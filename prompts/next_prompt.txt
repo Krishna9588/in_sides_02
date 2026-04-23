@@ -1,0 +1,31 @@
+Can you help me, clean our file: agent1_internal.py => as all the things are working pretty fine, but we can try to compress it in much less line if possible.
+
+But i dont want to compromise with the results and any function, 
+
+---
+
+And also i want to make another version of this script where the basic logic and hardcoded logic is separate and the API calling logic is separate,
+
+So in second file i want to add an API logic for model calling,
+
+
+
+---
+
+Hugging Face
+
+Groq
+
+Google Gemini - using google-genai (lib only)
+
+Cerebras
+
+OpenRouter
+
+---
+
+and want to create the functions for this so anywhere i want to call any LLM model i will add the bases in this and later use the function to code the specific model using this function,
+
+
+
+Aa i notice i am going to use gemini in more script and writing same logic again and againg is not an good option so putting that logic at one place and using it across the file is an option.
