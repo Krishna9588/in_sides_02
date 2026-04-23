@@ -106,8 +106,6 @@ from typing import List, Dict, Optional, Any, Tuple, Union
 # Paste your HuggingFace token here OR set env var HF_TOKEN
 # Leave "" -> script falls back to rule-based automatically (still works fine)
 HF_TOKEN: str = os.environ.get("HF_TOKEN", "")
-# if not HF_TOKEN:
-#     HF_TOKEN = "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"
 
 # Minimum character length for a turn to be worth keeping as a signal
 MIN_CONTENT_LENGTH: int = 40

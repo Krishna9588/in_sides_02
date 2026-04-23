@@ -1,6 +1,5 @@
 __pycache__/
 *.py[cod]
-.env
 .venv
 .pytest_cache
 .tox
