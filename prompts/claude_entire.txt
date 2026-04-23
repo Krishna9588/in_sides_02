@@ -496,3 +496,48 @@ Build an script next (as an backup for my cloud) - which only has either working
 -
 Smart thinking. Clean separate script — no local model, no download, no transformers dependency. Just HF API → hybrid, nothing else.Good. Now I have everything I need. Writing the cloud script from scratch — clean, minimal, no dead weight:
 -
+
+early morning you were messing with our code alot, here are 2 final files we end up updating this, and this are not working pretty fine,
+
+check both of them and let me know if you have any best option for any thing or anything else you want to add or remove,
+
+thing I am struggling with right now, hugging face API we only have 0.10$ a month and by this we wont be able to use the Model on there interface, but also I dont want to use this on my CPU.
+
+So want to know any alternatives which I can use for this purpose.
+=> Langchain, RunPod, Different Approach to use this model, META site, etc. Anything. which would work for this specific task, caz in the end from next agent we would be using Hardcoded logic.
+
+Let me read both files first before anything else.Good. I have the full picture. Now let me answer your actual question about alternatives before touching any code.Good. Now I have the full picture. Let me give you a clear, honest answer before we touch the code.
+
+---
+
+**The real situation with the two files:**
+
+Both files are structurally fine. The only real problems are:
+1. `import dotenv` in both — `dotenv` isn't in stdlib, and neither file uses it. Should be removed.
+2. The HF token is hardcoded in plain text in the checking file (line 111) — that's a security issue, should stay in `.env` or environment variable.
+3. The `time` import is in the checking file but no longer used — dead import.
+
+Everything else is solid.
+
+---
+
+**Your actual question — alternatives to HF API that are free, no CPU/GPU:**
+
+Here's the honest comparison for your specific task (short text classification, 40–200 chars per turn, ~100 turns per file):
+
+| Option | Free tier | Speed | Quality | Works on cloud | Effort to add |
+|---|---|---|---|---|---|
+| **Groq** (Llama 3.1 8B) | 1,000 req/day, 30 RPM | Very fast | Good | Yes | 10 min |
+| **Google Gemini Flash** | 15 RPM, generous daily | Fast | Good | Yes | 10 min |
+| **Cerebras** | 1M tokens/day | Fastest | Good | Yes | 10 min |
+| **OpenRouter** | ~20 RPM, ~30 free models | Varies | Good | Yes | 10 min |
+| HF API | $0.10/month limit | Slow | Good | Broken for you | Already tried |
+
+**Recommendation: Groq.** Free tier gives you 1,000 requests/day and 30 RPM — no credit card needed. Groq delivers the fastest token generation on custom LPU hardware. For your use case of classifying short transcript turns, 1,000 requests/day is more than enough — a 66-turn file uses 66 requests, meaning you can process ~15 files per day free. And the prompt for classification is tiny — each call is maybe 100 tokens in, 5 tokens out, so token limits won't be an issue.
+
+The key insight: instead of zero-shot NLI models (what HF was doing), you use Groq with a simple prompt like `"Classify this text as Feature, Complaint, Trend, or Insight. Reply with one word only: [text]"`. Llama 3.1 8B is fast enough and accurate enough for this. And the fallback is already built — if Groq fails, hybrid kicks in.
+
+**Second recommendation: Cerebras** as backup. Cerebras offers 1M tokens/day free, ideal for batch processing — that's essentially unlimited for your use case.
+
+Now let me fix both files cleanly — remove dead imports, fix the token exposure, and add Groq as the Tier 1 classifier with the fast-fail pattern already built:
+---

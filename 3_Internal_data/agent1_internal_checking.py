@@ -107,7 +107,7 @@ from typing import List, Dict, Optional, Any, Tuple, Union
 
 # Paste your HuggingFace token here OR set env var HF_TOKEN
 # Used for API calls. Leave "" to skip API and go straight to local/hybrid.
-HF_TOKEN: str = os.environ.get("HF_TOKEN", "")
+# HF_TOKEN: str = os.environ.get("HF_TOKEN", "")
 # print(f"HF_TOKEN: {HF_TOKEN[(len(HF_TOKEN)-4):]}")
 print(f"HF_TOKEN: {HF_TOKEN}")
 
