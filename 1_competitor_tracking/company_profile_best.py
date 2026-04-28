@@ -18,14 +18,19 @@ class GeminiCompanyResearcher:
 
     def __init__(self, api_key: Optional[str] = None):
         self.api_key = api_key or os.getenv("GEMINI_API_KEY")
+        print(self.api_key)
         if not self.api_key:
             raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
 
         # Initialize the Google GenAI Client
         self.client = genai.Client(api_key=self.api_key)
+        self.model = "gemini-2.5-flash-lite"
+
+        # self.model = "gemini-3-flash-preview"
+
+        # ---- Other models
         # self.model = "gemini-2.0-flash-lite"
         # self.model = "gemini-flash-latest"
-        self.model = "gemini-2.5-flash-lite"
         # self.model = "gemini-2.5-flash" # works pretty good
         # self.model = "gemini-2.0-flash"
         # self.model = "gemini-3-flash-preview"
@@ -54,7 +59,7 @@ class GeminiCompanyResearcher:
             "youtube_official_channel": {"type": "string", "description": "MANDATORY: 1. Find the YouTube icon link on the official domain. 2. If not found, search for the official channel with the 'Verified' badge. 3. Validate by checking if the channel links back to the company domain. Return 'null' if not found."},
             "year_founded": {"type": "string", "description": "With location (city, country)"},
             "names_of_founders": {"type": "array", "items": {"type": "string"}},
-            "c-suite_officer": {"type": "array", "items": {"type": "string"}, "description": "With proper description, minimum 5"},
+            "c-suite_officer": {"type": "array", "items": {"type": "string"}, "description": "With proper description, maximum top 5."},
             "exact_hq_location": {"type": "string"},
             "locations_operating_in": {"type": "array", "items": {"type": "string"}},
             "industry_and_segment": {"type": "string"},
@@ -72,7 +77,7 @@ class GeminiCompanyResearcher:
                   "name": {"type": "string"},
                   "domain": {"type": "string"}
                 },
-              }
+              }, "description": "Maximum top 4 only"
             },
             "current_problems_struggling_with": {
               "type": "array",
@@ -84,7 +89,7 @@ class GeminiCompanyResearcher:
                   "frequency": {"type": "string", "enum": ["Rare", "Occasional", "Continuous"]},
                   "source": {"type": "string"},
                   "date": {"type": "string"},
-                  "effect": {"type": "array", "items": {"type": "string"}}
+                  "effect": {"type": "array", "items": {"type": "string"}, "description": "Try to be specific and minimum 3 to 6"}
                 }
               }
             },
@@ -144,7 +149,7 @@ class GeminiCompanyResearcher:
 
         tools = [
             types.Tool(google_search=types.GoogleSearch()),
-            types.Tool(url_context=types.UrlContext()),
+            # types.Tool(url_context=types.UrlContext()), # Removed to avoid exceeding URL lookup limit
         ]
 
         domain_context = f" (Official Domain: {domain})" if domain else ""
@@ -158,7 +163,7 @@ class GeminiCompanyResearcher:
             f"3. Do NOT use code fences (```json or ```).\n"
             f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
             f"5. Use Google Search to find verified sources.\n"
-            f"6. Use URL Context to fetch and validate each URL before citing.\n"
+            f"6. Validate each URL before citing.\n"
             f"7. Discard outdated links (>2 years old unless historical).\n"
             f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
             f"9. Include exact URLs and access dates as proof.\n"
@@ -246,5 +251,3 @@ if __name__ == "__main__":
         print(json.dumps(outcome, indent=2))
     else:
         print(f"\nFailed: {outcome['message']}")
-
-
