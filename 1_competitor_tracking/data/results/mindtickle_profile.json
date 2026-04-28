@@ -1,0 +1,309 @@
+{
+    "company_name": "Mindtickle",
+    "domain": "https://www.mindtickle.com/",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.mindtickle.mindtickle",
+    "appstore_link": "https://apps.apple.com/us/app/mindtickle/id951644998",
+    "youtube_official_channel": "Data not publicly available",
+    "year_founded": "2011",
+    "names_of_founders": [
+        "Krishna Depura",
+        "Deepak Diwakar",
+        "Nishant Mungali",
+        "Mohit Garg"
+    ],
+    "c-suite_officer": [
+        "Krishna Depura (CEO)",
+        "Deepak Diwakar (COO)",
+        "Nishant Mungali (CPO)",
+        "Craig Carney (SVP, Global Sales)",
+        "Ankur Verma (CFO)",
+        "Sunil Setlur (SVP, People Success)",
+        "Shweta Doshi (VP, Product Management)",
+        "Sunil Chandra (VP, Engineering)",
+        "Nikhil Dua (VP, Customer Value)",
+        "Ankit Khadloya (VP, Professional Services)"
+    ],
+    "exact_hq_location": "115 Sansome Street, San Francisco, California 94104, United States",
+    "locations_operating_in": [
+        "San Francisco, CA",
+        "Pune, India",
+        "London, UK",
+        "Costa Rica"
+    ],
+    "industry_and_segment": "SaaS, Enterprise Software, Sales Automation, Sales Enablement, Sales Training, Revenue Enablement",
+    "available_platforms": "Both",
+    "funding_raised": "$281.3M",
+    "no_of_users": "Data not publicly available",
+    "annual_revenue": "$38M",
+    "key_positioning": "Market-leading sales readiness platform for revenue teams, focusing on AI-powered sales enablement, coaching, and continuous learning.",
+    "revenue_model": "Subscription-based",
+    "current_problems_struggling_with": [
+        {
+            "description": "Users find the platform's UI clunky at times and navigating between different sections can require too many clicks.",
+            "user_type": "End-user (Sales Reps, Marketing Reps)",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Can make it difficult to find needed courses.",
+                "Reduces efficiency for users needing quick answers or updates.",
+                "Impacts the overall user experience."
+            ]
+        },
+        {
+            "description": "Issues with Google integration when uploading content.",
+            "user_type": "Admin, Content Uploader",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Disrupts content management workflows.",
+                "Leads to frustration for users responsible for content upload.",
+                "May delay the availability of new training materials."
+            ]
+        },
+        {
+            "description": "The build process for hybrid (blended asynchronous and live) learning courses is not seamless, requiring workarounds.",
+            "user_type": "Content Creator, Administrator",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Increases the time and effort required to create comprehensive training programs.",
+                "May lead to suboptimal user experiences for hybrid courses.",
+                "Discourages the adoption of blended learning strategies."
+            ]
+        },
+        {
+            "description": "AI-driven feedback can sometimes feel generic or template-driven, with room for improvement in customization and contextual depth.",
+            "user_type": "End-user (Sales Reps), Managers",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnrP722UDWF_v3IBBx2gY1-PeX8BiRdzqci_BroiJSaSAS8TTYPAj-ylw9g0VPwhM1ZWUZVBpjvQT1uY698anN13hhKXn5v8fAOmQGkuIujxXHUhH_a74V-GpJvEeFY4H3LT3urrhO_bwhpZgmQJ-j2dZjx7Mi0s2V4DDM1qsOsCLqMsu4xuhBdw==",
+            "date": "Recent",
+            "effect": [
+                "Reduces the perceived value and impact of AI coaching.",
+                "May lead to lower user adoption of AI features.",
+                "Limits the ability to address specific skill gaps effectively."
+            ]
+        },
+        {
+            "description": "The platform can feel overly complex when users need quick answers or fast updates.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Hindrance to quick information retrieval.",
+                "Negative impact on user efficiency.",
+                "Frustration for users seeking simple tasks."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "AI-powered Revenue Enablement Platform",
+            "user_type": "Sales Teams, Enablement Teams, Managers",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYDU0qPmQr4WL_DpOMy8SVgBp1pR_ysl5mnJtCJW1B1N5W5QnYIV3puTuommzDxzBserCPf_6dfULRm0beLDuEdVyzWq6qWdEAEaxUuHCCIxn9OHAWtSiL8AOHU5-OX_3HoU0PJ48otFKVGaEpC-wftoO6MrCdSIpslX2tegBmdaCGsfG3OcLKiVIFUb1lfB5Grwgad3wOlA==",
+            "date": "Recent",
+            "effect": [
+                "Provides personalized coaching and tailored content.",
+                "Automates tasks and offers deal-winning insights.",
+                "Enhances sales team efficiency and effectiveness."
+            ]
+        },
+        {
+            "feature": "Comprehensive Sales Readiness features (training, coaching, content management, conversation intelligence)",
+            "user_type": "Sales Teams, Enablement Teams",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvS_LxvPiSgj3JnD9KFVAAihGb0KQt70AInsEaOJNC1XAYSZOg37ZCCWMzYedGF_pHkIQo01mM1itUdvHcrK9lmfgoNn6PcsrwOKYFgE750FM12OfsMsiUpUNasYauebU0b46iJKUuOl_krT7zU1-aVj5Q8RPzzWG1jCR5EDw9in9DRVU1z3YBo6eVY0U74Cdb2xicuIR2J32C8g==",
+            "date": "Recent",
+            "effect": [
+                "Offers a unified solution for various sales enablement needs.",
+                "Improves sales team performance and knowledge retention.",
+                "Reduces reliance on multiple disparate tools."
+            ]
+        },
+        {
+            "feature": "Gamification for engagement and knowledge retention",
+            "user_type": "Sales Reps",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvS_LxvPiSgj3JnD9KFVAAihGb0KQt70AInsEaOJNC1XAYSZOg37ZCCWMzYedGF_pHkIQo01mM1itUdvHcrK9lmfgoNn6PcsrwOKYFgE750FM12OfsMsiUpUNasYauebU0b46iJKUuOl_krT7zU1-aVj5Q8RPzzWG1jCR5EDw9in9DRVU1z3YBo6eVY0U74Cdb2xicuIR2J32C8g==",
+            "date": "Recent",
+            "effect": [
+                "Increases user motivation and participation in training.",
+                "Boosts knowledge retention and application of learned skills.",
+                "Transforms learning into a more engaging experience."
+            ]
+        },
+        {
+            "feature": "ElevateOS™: Agentic operating system for revenue enablement",
+            "user_type": "Enablement Teams, Revenue Leaders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZv_hH-tR7pvwBPgPDpyyB5KXfd18XkE9OATYjN9yBfD-VSwC1Ri35MSCqij42p9QYPe50pO-TyDVElpfygeaKUSGnEMnxKSvpLIcjvGYxmkikXa20ARDaOVZVZAWoGk5sFDOyA_5lryoRCKRfeWOeS37QdvM8QMg6",
+            "date": "Recent",
+            "effect": [
+                "Bridges the gap between strategy and frontline execution.",
+                "Provides AI-powered teammates for every role.",
+                "Delivers enablement in the flow of work."
+            ]
+        },
+        {
+            "feature": "Readiness Index™ for benchmarking and personalized learning",
+            "user_type": "Sales Managers, Enablement Teams",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOQUJD7LuLOPGj8hd4QN46HKv5pOvhs3I7MAS7W4BxAsmg9bycbWmheI1a_Bgzi-z3Vbf9Ah6YWG-Jj7Fq3Fqb6r5P4IRJpUbJfqW_47RHX5pQCcIDPTSLreKzMugGiVGRc6b4dE4upDk_1rzA4SUuzN7zSCdy78Nf28LIYap2g4Prws_ILC3q4KmfUAaAw4QTlehL",
+            "date": "Recent",
+            "effect": [
+                "Helps identify and close skill gaps.",
+                "Enables tailored coaching and training programs.",
+                "Aligns skills with business outcomes."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Platform UI can be clunky and finding courses can be difficult.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Leads to frustration and reduced efficiency.",
+                "Makes it challenging to locate specific learning materials.",
+                "Can deter users from fully engaging with the platform."
+            ]
+        },
+        {
+            "issue": "Google Drive integration issues when uploading content.",
+            "user_type": "Content Managers, Admins",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Hinders content management workflows.",
+                "Causes delays in making training materials available.",
+                "Creates a point of friction in the user experience."
+            ]
+        },
+        {
+            "issue": "The process for creating hybrid learning courses is not seamless and requires workarounds.",
+            "user_type": "Content Creators, Administrators",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Increases time and effort for course development.",
+                "May result in a less than optimal learning experience for hybrid courses.",
+                "Discourages the use of blended learning approaches."
+            ]
+        },
+        {
+            "issue": "AI feedback can be generic and lack contextual depth.",
+            "user_type": "End-users, Managers",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnrP722UDWF_v3IBBx2gY1-PeX8BiRdzqci_BroiJSaSAS8TTYPAj-ylw9g0VPwhM1ZWUZVBpjvQT1uY698anN13hhKXn5v8fAOmQGkuIujxXHUhH_a74V-GpJvEeFY4H3LT3urrhO_bwhpZgmQJ-j2dZjx7Mi0s2V4DDM1qsOsCLqMsu4xuhBdw==",
+            "date": "Recent",
+            "effect": [
+                "Reduces the effectiveness and perceived value of AI coaching.",
+                "May lead to lower adoption of AI-driven features.",
+                "Hinders truly personalized skill development."
+            ]
+        },
+        {
+            "issue": "The platform can feel overly complex for simple tasks or quick updates.",
+            "user_type": "End-users",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmZb9V0GUYZtdWgjzjm0yZHm4A_nAJmjcX0G_z9j3rETuahi2kOuOle2UZTJC26083R-JkFH8ndnWunwl-NOOZVD36hVTibNTIWzBQ0MwJYcjNoV-FtFaSIKCT3Sr69IS-kTzFAXvMrRTUK8ou7aUkww1bctCOKgs",
+            "date": "Recent",
+            "effect": [
+                "Impairs efficiency and user experience.",
+                "Can be frustrating for users needing quick information.",
+                "May lead to underutilization of the platform's capabilities."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Launch of ElevateOS™, an agentic operating system for revenue enablement.",
+            "user_type": "Enablement Teams, Revenue Leaders, Sales Teams",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZv_hH-tR7pvwBPgPDpyyB5KXfd18XkE9OATYjN9yBfD-VSwC1Ri35MSCqij42p9QYPe50pO-TyDVElpfygeaKUSGnEMnxKSvpLIcjvGYxmkikXa20ARDaOVZVZAWoGk5sFDOyA_5lryoRCKRfeWOeS37QdvM8QMg6",
+            "date": "Recent",
+            "effect": [
+                "Aims to bridge the gap between strategy and execution.",
+                "Integrates AI-powered teammates into workflows.",
+                "Positions Mindtickle as a leader in AI-driven enablement."
+            ]
+        },
+        {
+            "move": "Expansion of AI capabilities, including personalized Real Deal AI Role Plays, AI Deal Guides, and AI Content Creation.",
+            "user_type": "Sales Teams, Sales Managers, Enablement Teams",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYDU0qPmQr4WL_DpOMy8SVgBp1pR_ysl5mnJtCJW1B1N5W5QnYIV3puTuommzDxzBserCPf_6dfULRm0beLDuEdVyzWq6qWdEAEaxUuHCCIxn9OHAWtSiL8AOHU5-OX_3HoU0PJ48otFKVGaEpC-wftoO6MrCdSIpslX2tegBmdaCGsfG3OcLKiVIFUb1lfB5Grwgad3wOlA==",
+            "date": "Recent",
+            "effect": [
+                "Enhances sales team performance and coaching effectiveness.",
+                "Automates tasks and provides real-time guidance.",
+                "Drives measurable revenue impact."
+            ]
+        },
+        {
+            "move": "Strategic partnerships, such as with memoryBlue.",
+            "user_type": "Sales Development Companies, Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEvR31qnoIC3WmrdsgsVQfFN4Cq2Z1EBkOcy0UjAj_7eJBYYOpPA-4ym7sjTG7VjmUTdYZINBEAjic-KULvnYoBHE55u7v_bZ06iNhpmVIIWOm4bub8jm63-P-6xk95lEjM2gs074wgsRprrOvUq4ekOzNBWz3h3OxK-12HWgcZHBYr52FL5KcDuqCnv17R4rPeDDelfXzaJ-zmYhOHChr0Cb6WcdFHSGJpq4ytqUwGqXS5bx89JENB_uQhnaIwIaW3No91jyOIZNhIapP9F_AND_cJnWzqi0qmCp-XkXB",
+            "date": "Recent",
+            "effect": [
+                "Integrates Mindtickle into broader sales development ecosystems.",
+                "Expands market reach and client base.",
+                "Enhances the value proposition for partners and their clients."
+            ]
+        },
+        {
+            "move": "Focus on integrating sales enablement and sales content management into a single platform.",
+            "user_type": "Enablement Teams, Sales Operations",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2G2bbtAA5feXb0drB1s_NatAomfd3_4uwE1cjWv7Kkq755Iw4V8OfwTxIeYwZdDn4J9BLgEGbXz-br_f05eFDoMquYmA80H6gG-jp5HsbFAnMRdKzUtmUEtNOE_cPsqrH0uuNcuzmdFqmAMGZG9GYVU8UeV5ATnaNQLVitadhNbe_P6g2mcxUzTGqiLImXN-AQxeCG6Ph-F67CbWaOLjCX5OXH1P4bWnZrIinjJ3YpaKhXDRuZ3jWs67Yag==",
+            "date": "Recent",
+            "effect": [
+                "Streamlines sales processes by consolidating tools.",
+                "Improves content discoverability and utilization.",
+                "Reduces tech bloat and simplifies workflows."
+            ]
+        },
+        {
+            "move": "Continuous investment in AI innovation and feature development.",
+            "user_type": "All users, Stakeholders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn29xli2WJih85M7HDg2npuyGyV3dFwls4IiMxqI_IkmT3WPqI0S60gQenw8UmhhFXEK9Elpdv4MiQk0MNHM44eN4tS1LrxsUeKP_38xHDMj8eRj7oFTTPKzX-0iV96rjj5hz6xrcctTFZ00HmMm264BZODIxpl_bkTYLF7OnGGHAYWAECYhvjCW0rpH1dtp1Kh924NAibz_ck-quhHTfItGh06eLAyZnjZ44cdVje1resyVjXOckAL5A==",
+            "date": "Recent",
+            "effect": [
+                "Keeps the platform competitive and at the forefront of technology.",
+                "Offers advanced capabilities for sales enablement.",
+                "Meets the evolving needs of revenue teams."
+            ]
+        }
+    ],
+    "milestones": [
+        "Became a unicorn company with a valuation of $1.2 billion as of August 2021.",
+        "Raised $281 million in total funding across multiple rounds, with the latest Series E round of $100 million in August 2021.",
+        "Recognized as a leader in Sales Readiness technology by industry analysts.",
+        "Ranked #1 by G2 for sales onboarding and training.",
+        "Received Stevie® Award for Sales Enablement Solutions in the 2020 Stevie® Awards For Sales & Customer Service."
+    ],
+    "new_features_launched": [
+        "ElevateOS™: The first agentic operating system for revenue enablement.",
+        "AI Innovations including personalized Real Deal AI Role Plays, AI Deal Guides, and AI Content Creation.",
+        "Digital Sales Rooms for persistent, shared portals for each deal.",
+        "Readiness Dashboard for a customized experience with relevant content and activities.",
+        "AI Copilot for personalized coaching, real-time feedback, and deal-acceleration."
+    ],
+    "other_crucial_details": [
+        "Mindtickle was founded by Krishna Depura, Deepak Diwakar, Nishant Mungali, and Mohit Garg.",
+        "The company was founded in 2011 or 2012, with sources slightly varying.",
+        "Mindtickle has a global presence with headquarters in San Francisco, CA, and offices in Pune (India), London (UK), and Costa Rica.",
+        "The company's primary competitors include Seismic, Showpad, Skilljar, Brainshark, and Gong.",
+        "Mindtickle acquired Enable Us to enhance digital collaboration between sales representatives and buyers."
+    ]
+}

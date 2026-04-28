@@ -1,0 +1,387 @@
+{
+    "company_name": "Mindtickle",
+    "domain": "https://www.mindtickle.com/",
+    "playstore_link": null,
+    "appstore_link": null,
+    "youtube_official_channel": null,
+    "year_founded": "2011, San Francisco, USA",
+    "names_of_founders": [
+        "Krishna Depura",
+        "Mohit Garg",
+        "Nishant Mungali",
+        "Deepak Diwakar"
+    ],
+    "c_suite_officer": [
+        {
+            "name": "Krishna Gopal Depura",
+            "description": "Co-Founder & Chief Executive Officer"
+        },
+        {
+            "name": "Ankur Verma",
+            "description": "Chief Financial Officer"
+        },
+        {
+            "name": "Joan Jenkins",
+            "description": "Chief Marketing Officer"
+        },
+        {
+            "name": "Nishant Mungali",
+            "description": "Co-Founder & Chief Product Officer"
+        },
+        {
+            "name": "Deepak Diwakar",
+            "description": "Co-Founder and Chief Operating Officer"
+        },
+        {
+            "name": "Gopkiran Rao",
+            "description": "Chief Strategy Officer"
+        },
+        {
+            "name": "Jeff Santelices",
+            "description": "Chief Revenue Officer"
+        }
+    ],
+    "exact_hq_location": "535 Mission Street, 14th Floor, San Francisco, CA 94105, USA",
+    "locations_operating_in": [
+        "San Francisco, CA, USA",
+        "Pune, India",
+        "London, UK",
+        "Costa Rica"
+    ],
+    "industry_and_segment": "Sales Enablement Software, Business/Productivity Software, SaaS",
+    "available_platforms": "Web, Mobile",
+    "funding_raised": "$281.3 Million",
+    "no_of_users": "Unknown",
+    "annual_revenue": "$168.4M",
+    "key_positioning": "The industry's first 'sales readiness platform' designed to improve business impact across pre- and post-sales teams, leveraging AI and data-driven insights for personalized training, coaching, and performance analytics.",
+    "revenue_model": "Subscription-based (SaaS), Software as a Service (SaaS), Data as a Service (DaaS)",
+    "competitors": [
+        {
+            "name": "Seismic",
+            "domain": "seismic.com"
+        },
+        {
+            "name": "Highspot",
+            "domain": "highspot.com"
+        },
+        {
+            "name": "Showpad",
+            "domain": "showpad.com"
+        },
+        {
+            "name": "Allego",
+            "domain": "allego.com"
+        },
+        {
+            "name": "Brainshark",
+            "domain": "brainshark.com"
+        },
+        {
+            "name": "Gong",
+            "domain": "gong.io"
+        },
+        {
+            "name": "SalesHood",
+            "domain": "saleshood.com"
+        },
+        {
+            "name": "WorkRamp",
+            "domain": "workramp.com"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Difficulty in delineating 'optional' vs. 'mandatory' trainings, causing reporting issues.",
+            "user_type": "Administrator",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Reporting inefficiencies",
+                "Increased administrative burden"
+            ]
+        },
+        {
+            "description": "Admin UI is described as a 'mess', with issues in email templates and poor analytics.",
+            "user_type": "Administrator",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Reduced user satisfaction",
+                "Inefficient administrative tasks"
+            ]
+        },
+        {
+            "description": "Updates are rolled out without proper testing and often break functionalities.",
+            "user_type": "Administrator",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Disruption of workflows",
+                "Decreased system reliability"
+            ]
+        },
+        {
+            "description": "Licensing and pricing can be unclear as new functionalities are added.",
+            "user_type": "Customer",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Potential for unexpected costs",
+                "Confusion regarding feature access"
+            ]
+        },
+        {
+            "description": "Crashes, deletes work, and doesn't restore it, requiring users to restart their work.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Significant loss of productivity",
+                "Frustration and decreased user morale"
+            ]
+        },
+        {
+            "description": "Recording feature tends to crash frequently, and many videos don't record.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Unreliable content creation",
+                "Inability to complete essential tasks"
+            ]
+        },
+        {
+            "description": "Searching and identifying sections is very difficult; it's impossible to search coherently.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Time-consuming navigation",
+                "Reduced utilization of platform features"
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Sales Readiness Platform",
+            "user_type": "Sales Teams",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoM-B8rf6eVCwbZLsQYYjmVCi35zbIqR3UazNHyvcmLvZvPT0ZMGbqJK5iYuStCYW9eQAw-iGx-YU_s537QBc2lyewMgWuqbhrdv4GIRVJ6DyYWk-c9dkwyDKOq7nuQ1wXpqnvLPHXf4NGWh0nGnJ-kPjMfiMkL5Lh4P_DD1PtFRP5AXTIoklPMY=",
+            "date": "Recent",
+            "effect": [
+                "Faster ramp-up for new reps",
+                "Improved coaching effectiveness",
+                "Up-to-date sales knowledge",
+                "Culture of sales excellence"
+            ]
+        },
+        {
+            "feature": "AI-powered Sales Coaching",
+            "user_type": "Sales Managers",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTYXrDUjjG6xOKOLD6yRdAzwTDgK-QGRliWpfqk9hVmKBopKgWSNjGWj1DQ63TnbtTtf_6UsDTsXYG5hTP_FgiWQ58hLr8g4JmzXVj-Fg6vPgZhfe33W__-KwVdvYO2yN-YRKbfrr1XXbacwCnqGtAye_OP81RHoi2ZJZAyan2_JVdughKvU4RokOqnO83zd5KNCiROSKlyTf12k6Hg3PILyWc2flkvhisZkcxNN0tiYTfedMKv4WUv0sOn0yxwPbNWQeRumeuK2L7SykSVQTd",
+            "date": "Recent",
+            "effect": [
+                "Personalized development for reps",
+                "Identification of skill gaps",
+                "Improvement in sales behaviors"
+            ]
+        },
+        {
+            "feature": "Data-driven Insights and Analytics",
+            "user_type": "Revenue Leaders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmRwzFZzdXSRlyDdHNhaXU_1L4JtEgTeR8Etl6Ok9S_PaNwwL7cjooR8ygQw-_vChAe9lM4kbdp8QdmKMZzi-gqGaTHQNtT8IvpMygusqw8sZOFSsX5CfS0WFE8ZdmANarGa-BtbzFNpxK6BpU-lxaw4E=",
+            "date": "Recent",
+            "effect": [
+                "Better understanding of sales performance",
+                "Correlation of learning with outcomes",
+                "Identification of winning behaviors"
+            ]
+        },
+        {
+            "feature": "Gamified Learning Experience",
+            "user_type": "End-users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa4lr3LyyyXfKtlWnO2whTnu77HaMM_WxRogbWDCwRf18esDNvLv0unoxGEvUMkb2TpMPvRsrOCb8u7vPgVUwySmqUumnix1kgZYdLrbsa23IihYFUnLotrxYmvJfCwrWjBL4m3kgF1R2e1Zupe6VfA-W2u9ifEYzNypM_sjMJeXEBidrswA=",
+            "date": "Recent",
+            "effect": [
+                "Increased user engagement",
+                "Improved knowledge retention",
+                "More enjoyable learning process"
+            ]
+        },
+        {
+            "feature": "Mobile-first User Experience",
+            "user_type": "End-users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa4lr3LyyyXfKtlWnO2whTnu77HaMM_WxRogbWDCwRf18esDNvLv0unoxGEvUMkb2TpMPvRsrOCb8u7vPgVUwySmqUumnix1kgZYdLrbsa23IihYFUnLotrxYmvJfCwrWjBL4m3kgF1R2e1Zupe6VfA-W2u9ifEYzNypM_sjMJeXEBidrswA=",
+            "date": "Recent",
+            "effect": [
+                "Access to training anytime, anywhere",
+                "Flexibility in learning",
+                "Higher adoption rates"
+            ]
+        },
+        {
+            "feature": "Integration with Existing Workflows",
+            "user_type": "Sales Operations",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "Recent",
+            "effect": [
+                "Seamless user experience",
+                "Reduced friction in adopting new tools",
+                "Enhanced productivity"
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Reporting needs improvement for easier operationalization.",
+            "user_type": "Administrator",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Difficulty in managing people and processes",
+                "Limited insights into training effectiveness"
+            ]
+        },
+        {
+            "issue": "Admin support is lacking.",
+            "user_type": "Administrator",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Slow resolution of issues",
+                "Increased frustration for administrators"
+            ]
+        },
+        {
+            "issue": "Some promised functions are never delivered.",
+            "user_type": "Customer",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                " unmet expectations",
+                " loss of trust in product roadmap"
+            ]
+        },
+        {
+            "issue": "Platform crashes frequently, leading to data loss and the need to restart work.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Significant disruption and frustration",
+                "Loss of valuable work"
+            ]
+        },
+        {
+            "issue": "Difficulty in searching and identifying content coherently.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPn_BHy7nEPb57NLc_MjwVXGUovgE2MGJfjj3kPwcrKycRpV9XeCoymXWymJN-58Gpp11XRMip5dZy8QTi5grM2vr7Y3pTkjKeXCG7TUMcBfnP45MEuGAMFeaOlaY-jBBtEzvEMtIAMV45ZoywGw==",
+            "date": "2019-06-24",
+            "effect": [
+                "Time wasted searching for information",
+                "Underutilization of platform resources"
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Secured significant funding rounds (Series A, B, C, D, E) totaling over $281M.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiqC0qWg0DNgWjV6KslicOf3_33uLqO_KT5psiXkKuRc4IbvqXbSi_lgQ_nFjr8-OmK_4XXgHeo5C_5yniCXihOe1HJuoATwRGEIkrXOade80f9OuVFO7d1aZx0JJ5i-HtuxtrNHfshsjJ3zj_Qk49JEf7VoO5Ajj5NOGEcwCvT0Efb-eWyG0afLxmOj6OaBwYkg==",
+            "date": "Recent",
+            "effect": [
+                "Accelerated product innovation",
+                "Global expansion",
+                "Enhanced AI capabilities",
+                "Increased market presence"
+            ]
+        },
+        {
+            "move": "Acquisition of Enable Us in May 2023.",
+            "user_type": "Company",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtC-bdB9AEMUglZuutvv8_GixGdHXpBLKvo7V7BJJe9dG1_IXWs3MSK5qWVWLPxRPL40dQ4_pE5A_Oquk7zjxpH2sJmlq2FLyupDwJytlnRepwFhZw99FDwtktBbO3BE5y_sStNGrxw7yT",
+            "date": "2023-05-02",
+            "effect": [
+                "Expanded service offerings",
+                "Strengthened market position"
+            ]
+        },
+        {
+            "move": "Continuous investment in AI innovations, including AI Content Creation and GenAI features.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENH13Rl_ZPPQPpEt69cxMHcKG1x4wGdT0cOcGbNM23C_t-MPAvPyJHj-iHcWp6lL-34lymFRleH002vMH13PgeJdyNeql8cIzkChNFmQn9GMuO1EkXT2-1oQs9HOWWnXf3Sgp3R3P-oEB4E-b7nqnVhgrki3vgwsgzZUCsJY2TO5TV5HRZdh2qbqtqvQ==",
+            "date": "Recent",
+            "effect": [
+                "Enhanced product capabilities",
+                "Targeting organizations seeking advanced AI tools",
+                "Competitive advantage"
+            ]
+        },
+        {
+            "move": "Focus on expanding global operations and go-to-market activities.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiqC0qWg0DNgWjV6KslicOf3_33uLqO_KT5psiXkKuRc4IbvqXbSi_lgQ_nFjr8-OmK_4XXgHeo5C_5yniCXihOe1HJuoATwRGEIkrXOade80f9OuVFO7d1aZx0JJ5i-HtuxtrNHfshsjJ3zj_Qk49JEf7VoO5Ajj5NOGEcwCvT0Efb-eWyG0afLxmOj6OaBwYkg==",
+            "date": "Recent",
+            "effect": [
+                "Increased market reach",
+                "Growth in customer base",
+                "Strengthened brand presence internationally"
+            ]
+        },
+        {
+            "move": "Pivoted from employee engagement focus to a core sales readiness platform.",
+            "user_type": "Company",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPifq5hYN2wifk_ISrQFS6jkHsHQofl2XyE4NftyhsYq7UgN37IdYEbri9wxDBbXZg_6mpqxE5KcDRYUqUlq0RxgWE9ljb0jHgTaZeEo6eUbZQc_oH_SCZzxRV66Unz7s2Kfa6HJllkatrycGrIzSE3uZJAhTx2qvOIkxDdf5v0M7fYjphJLbIcEow37clxFbVaS9yyE1FVW9sCawpq7pUoX3gM7s0rMKpclz51WaewnEr1wARCcegWUT9juQber4TYA==",
+            "date": "2015",
+            "effect": [
+                "Found a stronger product-market fit",
+                "Targeted a larger and more receptive market",
+                "Became a leading SaaS startup"
+            ]
+        }
+    ],
+    "milestones": [
+        "Declared a unicorn in 2021.",
+        "Reached $1.2 billion valuation as of August 2021.",
+        "Acquired Enable Us in May 2023.",
+        "Received 'AI-based Sales Solution of the Year' award in 2025.",
+        "Recognized as a leader in revenue enablement platforms by top analyst firms.",
+        "Secured over $281 million in total funding.",
+        "Established a significant presence in Pune, India, alongside its US headquarters."
+    ],
+    "new_features_launched": [
+        "AI Innovations for closing the GTM Execution Gap (October 2025).",
+        "New AI Innovations Personalized by Role (March 2025).",
+        "Ideal Rep Profile (IRP) Generator.",
+        "Copilot feature for revenue productivity platform."
+    ],
+    "other_crucial_details": [
+        "Mindtickle has over 700 employees as of 2025.",
+        "The company operates across 17 locations worldwide, with a strong presence in India and the US.",
+        "Mindtickle's customer base includes Fortune 500 companies like Cisco, Splunk, Henkel, Juniper Networks, and Janssen.",
+        "The company's platform is used by over 200 enterprises.",
+        "Mindtickle was ranked #1 Enterprise Software Product on G2's Best Software 2020 lists."
+    ]
+}

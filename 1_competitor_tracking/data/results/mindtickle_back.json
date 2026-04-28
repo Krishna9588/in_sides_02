@@ -1,0 +1,75 @@
+{
+    "company_name": "mindtickle",
+    "domain": "https://www.mindtickle.com/",
+    "playstore_link": "null",
+    "appstore_link": "null",
+    "youtube_official_channel": "null",
+    "year_founded": "2011, San Francisco, California, US",
+    "names_of_founders": [
+        "Krishna Depura",
+        "Mohit Garg",
+        "Nishant Mungali",
+        "Deepak Diwakar"
+    ],
+    "c-suite_officer": [
+        "Krishna Gopal Depura, Co-Founder & CEO",
+        "Deepak Diwakar, Co-Founder and Chief Operating Officer",
+        "Nishant Mungali, Co-Founder & Chief Product Officer",
+        "Ankur Verma, Chief Financial Officer"
+    ],
+    "exact_hq_location": "115 Sansome St., Suite 700, San Francisco, California 94105, US",
+    "locations_operating_in": [
+        "San Francisco, California, US",
+        "Pune, India",
+        "London, England, UK",
+        "Costa Rica"
+    ],
+    "industry_and_segment": "Business/Productivity Software, Sales Enablement Software, Information Technology and Services, Internet",
+    "available_platforms": "Web, Mobile",
+    "funding_raised": "$281.3M",
+    "no_of_users": "Unable to verify",
+    "annual_revenue": "$38M",
+    "key_positioning": "AI-powered revenue enablement platform designed to ramp reps faster, engage the modern buyer, and close more deals.",
+    "revenue_model": "Subscription-based model, Software as a Service (SaaS), Data as a Service (DaaS).",
+    "competitors": [
+        {
+            "name": "Seismic",
+            "domain": "https://www.seismic.com/"
+        },
+        {
+            "name": "Showpad",
+            "domain": "https://www.showpad.com/"
+        },
+        {
+            "name": "Highspot",
+            "domain": "https://www.highspot.com/"
+        },
+        {
+            "name": "Allego",
+            "domain": "https://www.allego.com/"
+        },
+        {
+            "name": "SalesHood",
+            "domain": "https://www.saleshood.com/"
+        }
+    ],
+    "current_problems_struggling_with": [],
+    "differentiators": [],
+    "user_complaints": [],
+    "strategic_moves": [],
+    "milestones": [
+        "Became a unicorn in 2021",
+        "Strengthened security with completion of ISO certifications",
+        "Named \"AI-based Sales Solution of the Year\" in 2025 Artificial Intelligence Breakthrough Awards Program"
+    ],
+    "new_features_launched": [
+        "ElevateOS™: The first agentic operating system for revenue enablement",
+        "AI Innovations Personalized by Role",
+        "AI Copilot"
+    ],
+    "other_crucial_details": [
+        "The company's name \"Mindtickle\" comes from a desire to create an engaging, gamified platform with a unique approach to learning and rewarding comprehension.",
+        "Mindtickle operates on a subscription-based model, offering services such as sales training, onboarding, coaching, and performance analytics.",
+        "The platform integrates with over 100 tools, including Salesforce, Microsoft Teams, and Google products."
+    ]
+}

@@ -359,7 +359,7 @@ def scrape_single_video(video_id: str) -> dict:
     transcript = get_transcript(video_id)
 
     return {
-        "scraped_at":  datetime.utcnow().isoformat() + "Z",
+        # "scraped_at":  datetime.utcnow().isoformat() + "Z",
         "video_id":    meta["video_id"],
         "url":         meta["url"],
         "title":       meta["title"],
@@ -586,7 +586,7 @@ if __name__ == "__main__":
     # ── Option A: Single video ───────────────────────────────────────────
     result = youtube_scraper(
         mode="video",
-        video_url="https://www.youtube.com/watch?v=0N86U8W7A4c",
+        video_url=input("Enter youtube url: "),
     )
 
     # ── Option B: Channel (last N videos) ────────────────────────────────
