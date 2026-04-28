@@ -23,7 +23,7 @@ from typing import Optional, List, Dict, Union
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote_plus, urlencode
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Setup logging
 logging.basicConfig(
@@ -33,7 +33,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-load_dotenv()
+# load_dotenv()
 
 # Try requests, if not available use urllib
 try:
