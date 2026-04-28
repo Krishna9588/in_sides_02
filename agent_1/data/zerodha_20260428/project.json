@@ -1,0 +1,13 @@
+{
+  "project_id": "zerodha_20260428",
+  "project_name": "Zerodha",
+  "last_run_at": "2026-04-28T06:20:34.599656+00:00",
+  "agents_run": [
+    "1a_company_profile"
+  ],
+  "success_count": 1,
+  "total_signals": 29,
+  "output_files": {
+    "1a_company_profile": "data\\zerodha_20260428\\1a_company_profile.json"
+  }
+}

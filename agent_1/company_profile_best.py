@@ -17,16 +17,25 @@ class GeminiCompanyResearcher:
     """
 
     def __init__(self, api_key: Optional[str] = None):
-        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
-
+        # self.api_key = api_key or os.getenv("GEMINI_API_KEY")
+        self.api_key = "AIzaSyBOi_SHTfXeqf2b6qNV7ZAgd_lHvMDoGVo"
+        print(self.api_key)
         if not self.api_key:
             raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
 
         # Initialize the Google GenAI Client
         self.client = genai.Client(api_key=self.api_key)
+        self.model = "gemini-2.5-flash"
+        # self.model = "gemini-2.5-flash-lite"
+
+        # self.model = "gemini-3-flash-preview"
+
+        # ---- Other models
         # self.model = "gemini-2.0-flash-lite"
         # self.model = "gemini-flash-latest"
-        self.model = "gemini-2.5-flash"
+        # self.model = "gemini-2.5-flash" # works pretty good
+        # self.model = "gemini-2.0-flash"
+        # self.model = "gemini-3-flash-preview"
 
         # Updated schema with detailed analysis objects for critical categories
         self.json_schema_instruction = """
@@ -52,7 +61,7 @@ class GeminiCompanyResearcher:
             "youtube_official_channel": {"type": "string", "description": "MANDATORY: 1. Find the YouTube icon link on the official domain. 2. If not found, search for the official channel with the 'Verified' badge. 3. Validate by checking if the channel links back to the company domain. Return 'null' if not found."},
             "year_founded": {"type": "string", "description": "With location (city, country)"},
             "names_of_founders": {"type": "array", "items": {"type": "string"}},
-            "c-suite_officer": {"type": "array", "items": {"type": "string"}, description": "With proper description, minimum 5"},
+            "c-suite_officer": {"type": "array", "items": {"type": "string"}, "description": "With proper description, minimum 5"},
             "exact_hq_location": {"type": "string"},
             "locations_operating_in": {"type": "array", "items": {"type": "string"}},
             "industry_and_segment": {"type": "string"},
@@ -68,10 +77,7 @@ class GeminiCompanyResearcher:
                 "type": "object",
                 "properties": {
                   "name": {"type": "string"},
-                  "domain": {"type": "string"},
-                  "revenue": {"type": "string"},
-                  "year_founded": {"type": "string"},
-                  "hq_location": {"type": "string"}
+                  "domain": {"type": "string"}
                 },
               }
             },
@@ -141,34 +147,52 @@ class GeminiCompanyResearcher:
         """
 
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-        """Runs the research with Google Search and returns parsed JSON."""
-        tools = [types.Tool(google_search=types.GoogleSearch())]
+        """Runs research with grounding and returns ONLY JSON output."""
+
+        tools = [
+            types.Tool(google_search=types.GoogleSearch()),
+            types.Tool(url_context=types.UrlContext()),
+        ]
 
         domain_context = f" (Official Domain: {domain})" if domain else ""
+
+        # CRITICAL: Add explicit instruction to output ONLY JSON
         prompt = (
             f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"Pay special attention to current struggles, unique differentiators, user complaints, and strategic moves. "
-            f"For these four sections, provide the deep analysis including user types, frequency, sources, dates, and effects. "
-            f"\n\n{self.json_schema_instruction}"
+            f"\n\nCRITICAL INSTRUCTIONS:\n"
+            f"1. ONLY output a valid JSON object. NO text before or after.\n"
+            f"2. Do NOT include any markdown, explanations, or reasoning.\n"
+            f"3. Do NOT use code fences (```json or ```).\n"
+            f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
+            f"5. Use Google Search to find verified sources.\n"
+            f"6. Use URL Context to fetch and validate each URL before citing.\n"
+            f"7. Discard outdated links (>2 years old unless historical).\n"
+            f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
+            f"9. Include exact URLs and access dates as proof.\n"
+            f"\n{self.json_schema_instruction}"
         )
 
-        config = types.GenerateContentConfig(tools=tools)
+        config = types.GenerateContentConfig(
+            tools=tools,
+            # REMOVE thinking_config to avoid intermediate reasoning output
+        )
 
         try:
-            print(f"Searching and analyzing data for '{company_query}'...")
-            response = self.client.models.generate_content(
-                model=self.model,
-                contents=prompt,
-                config=config,
-            )
+            print(f"Researching '{company_query}' with verification...\n")
+            full_text = ""
 
-            text = response.text
-            if text is None:
-                raise ValueError("API returned no text response")
+            # Use streaming if you want, but thinking mode causes the issue
+            for chunk in self.client.models.generate_content_stream(
+                    model=self.model,
+                    contents=prompt,
+                    config=config,
+            ):
+                if chunk.text:
+                    full_text += chunk.text
 
-            text = text.strip()
+            text = full_text.strip()
 
-            # Extract JSON from potential markdown backticks
+            # Simple JSON extraction
             if "```json" in text:
                 json_str = text.split("```json")[1].split("```")[0].strip()
             elif "```" in text:
@@ -179,7 +203,10 @@ class GeminiCompanyResearcher:
             return json.loads(json_str)
 
         except Exception as e:
-            return {"error": f"Research failed: {str(e)}", "raw_response": locals().get('text', 'No response')}
+            return {
+                "error": f"Research failed: {str(e)}",
+                "raw_response": full_text if 'full_text' in locals() else 'No response'
+            }
 
     def save_results(self, data: Dict[str, Any], original_query: str, storage_folder: str = "data/results"):
         """Saves the JSON data to {storage_folder}/{company_name}.json"""

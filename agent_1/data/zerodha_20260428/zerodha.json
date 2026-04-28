@@ -1,0 +1,334 @@
+{
+    "company_name": "Zerodha",
+    "domain": "zerodha.com",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.zerodha.kite3",
+    "appstore_link": "https://apps.apple.com/in/app/kite-by-zerodha/id944809287",
+    "youtube_official_channel": "https://www.youtube.com/@zerodhaonline",
+    "year_founded": "2010, Bengaluru, India",
+    "names_of_founders": [
+        "Nithin Kamath",
+        "Nikhil Kamath"
+    ],
+    "c-suite_officer": [
+        "Nithin Kamath: Founder, CEO",
+        "Nikhil Kamath: Co-Founder & CFO",
+        "Dr. Kailash Nadh: CTO",
+        "Venu Madhav: COO",
+        "Seema Patil: Director",
+        "Karthik Rangappa: VP - Education Services"
+    ],
+    "exact_hq_location": "#153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India.",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Financial Services, Online brokerage platform for stock trading & investing (stocks, derivatives, mutual funds, ETFs, bonds, commodities), Discount Brokerage.",
+    "available_platforms": "Both",
+    "funding_raised": "₹0 - Completely bootstrapped",
+    "no_of_users": "7.26 million active customers (as of FY25)",
+    "annual_revenue": "₹8,847 crore (FY25)",
+    "key_positioning": "India's largest discount broker, customer-first approach, low-cost/zero-brokerage model, strong technology, extensive financial education.",
+    "revenue_model": "Discount broking model with flat fees (₹20 for intraday and F&O) and zero brokerage for equity delivery and direct mutual funds.",
+    "competitors": [
+        {
+            "name": "Groww",
+            "domain": "groww.in"
+        },
+        {
+            "name": "Upstox",
+            "domain": "upstox.com"
+        },
+        {
+            "name": "5paisa",
+            "domain": "5paisa.com"
+        },
+        {
+            "name": "Angel One",
+            "domain": "angelone.in"
+        },
+        {
+            "name": "ICICIdirect",
+            "domain": "icicidirect.com"
+        },
+        {
+            "name": "HDFC Securities",
+            "domain": "hdfcsec.com"
+        },
+        {
+            "name": "Sharekhan",
+            "domain": "sharekhan.com"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Significant decline in annual revenue and net profit in FY25, marking the first decline in the company's 15-year history.",
+            "user_type": "Internal Staff, Investors",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF9yVeY5gjp6tYZJVdPTh9ys2zqG7PxDMNlJ2Mqlr0QizlVMC3RYcwuqhqP_3I44tcaleq4U2GdOuh4-sz7fQveORDy-mBmuzdhUEs3XAnJKzvWzbxRtwy6uBwsaaWnE97l0H8I_Myye4K3lXM7D9OMTNN0n-HQ==",
+            "date": "2025-11-21",
+            "effect": [
+                "Impacts company's growth trajectory.",
+                "May lead to reduced profitability for stakeholders."
+            ]
+        },
+        {
+            "description": "Loss of active clients and erosion of market share between January and August 2025.",
+            "user_type": "Internal Staff, Investors, End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFshRss1_SXL5sCnQ1rdal6hu_qMZtufxMgp1WsnuAXAoyeDP5G1AnV0yEI7Ia9JwM7uMwwWZIE_vWJpxjEABZcR0phznEzeY5Prh0Slgszo59AU7IyY9Ulc2VFhgM5yoyaIcyGWDNoA39I53nThaM-CnalNT-jLGBRZaw9CfeMohUI6mRTGfvHPp-7mdeY0F_FMCVTBn4jtehXsl73",
+            "date": "2025-10-15",
+            "effect": [
+                "Challenges market leadership position.",
+                "Indicates increased competition or changing user preferences."
+            ]
+        },
+        {
+            "description": "Revenue growth is expected to slow down due to new SEBI regulations impacting derivatives trading, a major revenue source.",
+            "user_type": "Internal Staff, Investors, Traders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpSS1OU9rxlchT-NYX0SigqVTXq1-tL7YuLV6FAF5Za-dICdbKwngCsigr__M1qjPY8Zs5jEWz6L70v2-kg_MeXqDCsA0NF6IhWXw-0p9tLQa9-wZPxM7s1Q49GLkrsNGrIzhOE7NJU90zrNJqCFHJFDQMBouowiGPW7yxuPTTToQmIOiZCi9dH_IvZ_9A_sLGCkM5iXdAIeaY5XUXfswMHlZXxT7VwQVlhFcC0xKom767_EVhTPlY3L8AL3YY5d4hOx3ZsUM1jF-JM1ZK5TVz-Q5vF8L6HOXgGe4l5yzZ0OlwGsbryNNoX7KBVbOVKA==",
+            "date": "2024-11-07",
+            "effect": [
+                "Reduces overall revenue and profitability.",
+                "Requires business model adaptation to new regulatory environment."
+            ]
+        },
+        {
+            "description": "Facing intense price wars, rising costs, and tighter margins in an increasingly competitive and saturated brokerage market.",
+            "user_type": "Internal Staff, Investors, Competitors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC9c9UGcEEbnrNqmdRJPmSjST1KVmrfxThkIErOP2DMhkqUCkyAc0qgn7QgKwCz585E3lGE9tm9oylRJkuvLmReUmtm7Ad-jw6VWPt_npJK3dMNgFpjJMoXGzqqej234FccCyT8zwn6aOJYGZnlE3xMCwb2Qr4GE0TnmQUwV9y2_fvhlVnFg==",
+            "date": "2025-04-16",
+            "effect": [
+                "Erodes profit margins.",
+                "Increases pressure to innovate and retain customers."
+            ]
+        },
+        {
+            "description": "Regulatory uncertainty led to the discontinuation of the Zero1 creator-led content initiative, impacting expansion into new areas.",
+            "user_type": "Internal Staff, Content Creators",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTBHs3Nf_8b7WGxZdU4ZSzKKZ-m5YRsoWR2VYiF2SeZm-RP2FGZcL8PXuGP1hsUJyAUlJ1HW1-wXfEniJsS-2073_D-NQKROuaMYgAjlq15IzKnwXcWSGveIBTy6gyT_wkz74n7OAwk7ReEA4XJso6XJEgx--coV40kfZOzR6PWfkylnESAmKqRXo96T9jzIZbSXxL2Ssh7kKojclXM7D9OMTNN0n-HQ==",
+            "date": "2026-04-22",
+            "effect": [
+                "Limits diversification and innovation efforts.",
+                "Requires adaptation of growth strategies to regulatory landscape."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Pioneered a transparent, low-cost pricing model with flat fees and zero brokerage for equity delivery and direct mutual funds.",
+            "user_type": "End-user (retail investors, traders)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofxRzffLQTg-XcWvraC5-QFsImx4zMLRn1m9PCs8b0fgJ_vnWA2l14mhoy-qAlT59WCFwrNgwaEoZfe2kKAbB3SayssIE4-16h2emIGCg_UwTEmr_sKho8MwClfqmxTC3-CYa0zXLEm23aixrEGSF5ax6-HpQ8XtUeqXvTNA25DdJc9Ec2OZI4Mxa12QjLAVZDntCClEKqzfH",
+            "date": "2023-06-07",
+            "effect": [
+                "Attracts a large customer base due to significant cost savings.",
+                "Disrupted the traditional brokerage industry's fee structure."
+            ]
+        },
+        {
+            "feature": "Offers robust, in-house built technology and user-friendly platforms (Kite, Coin) for seamless trading and investing.",
+            "user_type": "End-user (traders, investors)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofxRzffLQTg-XcWvraC5-QFsImx4zMLRn1m9PCs8b0fgJ_vnWA2l14mhoy-qAlT59WCFwrNgwaEoZfe2kKAbB3SayssIE4-16h2emIGCg_UwTEmr_sKho8MwClfqmxTC3-CYa0zXLEm23aixrEGSF5ax6-HpQ8XtUeqXvTNA25DdJc9Ec2OZI4Mxa12QjLAVZDntCClEKqzfH",
+            "date": "2023-06-07",
+            "effect": [
+                "Enhances trading efficiency and user satisfaction.",
+                "Reduces barriers for new investors to enter the market."
+            ]
+        },
+        {
+            "feature": "Provides extensive, free financial education through Varsity and the TradingQ&A community.",
+            "user_type": "End-user (beginners, experienced traders)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofxRzffLQTg-XcWvraC5-QFsImx4zMLRn1m9PCs8b0fgJ_vnWA2l14mhoy-qAlT59WCFwrNgwaEoZfe2kKAbB3SayssIE4-16h2emIGCg_UwTEmr_sKho8MwClfqmxTC3-CYa0zXLEm23aixrEGSF5ax6-HpQ8XtUeqXvTNA25DdJc9Ec2OZI4Mxa12QjLAVZDntCClEKqzfH",
+            "date": "2023-06-07",
+            "effect": [
+                "Empowers users to make informed investment decisions.",
+                "Builds trust and credibility among potential customers."
+            ]
+        },
+        {
+            "feature": "Operates on a bootstrapped, profitable, and debt-free business model without external funding.",
+            "user_type": "Investors, Internal Staff, End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELRL7E3-DKzBfyBFn9ECTfkc7d-71rZRcZTMRTLBi7mrMfUHF04_SBnnZgzltt5vk3h_vJNavXm364Y5W7mImx6UqRmD2D8tqT-ZvXZiJgJeG4rPYu4qLF52XjyLY3J--hID7fggLu-D7d0yxod3oXzB9nLTX6pOCE1MPHdRgR",
+            "date": "2025-09-16",
+            "effect": [
+                "Ensures business decisions prioritize customer long-term interests.",
+                "Provides financial stability and resilience during market downturns."
+            ]
+        },
+        {
+            "feature": "Relies on a 'no-marketing' strategy, growing primarily through word-of-mouth and customer satisfaction.",
+            "user_type": "End-user, Internal Staff",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofxRzffLQTg-XcWvraC5-QFsImx4zMLRn1m9PCs8b0fgJ_vnWA2l14mhoy-qAlT59WCFwrNgwaEoZfe2kKAbB3SayssIE4-16h2emIGCg_UwTEmr_sKho8MwClfqmxTC3-CYa0zXLEm23aixrEGSF5ax6-HpQ8XtUeqXvTNA25DdJc9Ec2OZI4Mxa12QjLAVZDntCClEKqzfH",
+            "date": "2023-06-07",
+            "effect": [
+                "Builds strong customer loyalty and trust.",
+                "Allows cost savings to be passed on to customers."
+            ]
+        },
+        {
+            "feature": "Developed 'The Zerodha Universe', an ecosystem of 30+ fintech startups (Rainmatter) offering tailored services.",
+            "user_type": "End-user, Developers (partners)",
+            "frequency": "Continuous",
+            "source": "https://zerodha.com/",
+            "date": "2026-04-28",
+            "effect": [
+                "Provides diversified and tailored services to users.",
+                "Fosters innovation within the broader financial ecosystem."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Delayed and boilerplate responses from customer support, sometimes taking weeks for resolution.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyo3L6Z29yaDI6QuVhb3mnUvd3limRpZNOf3JIjo63exL1wwA1khwgeG_kb_4SpzBf_vT9m55_i4LBoOrLNAemVVl2ria9PhDqB_mTBnsdI6KkBWlQov9xPj_M0JXxXXZeDWLN1fBRwimMwsnX3hpxGZlgNbuxuThAk0ZmYf3lx9q3X1AIsr5CV5WXbZDaYr4Ztn1wAivghh_UAwdplBeKpU_Pmbo",
+            "date": "2021-03-21",
+            "effect": [
+                "Leads to prolonged unresolved issues.",
+                "Causes user frustration and may impact trust."
+            ]
+        },
+        {
+            "issue": "Experiencing various technical problems and glitches on the trading platform and app.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwwyruShxFzrH7S_19vFkoLuBb-jGaUG_92NQv20U1k-tYLcGS1CYubLvfO_OjsX6CTT6uL5xaq_F2EWJ0FR_mWhxKD9wFWSGxXU3RRzTA8xzzmBiBkjBG87z3SkJwSq4I5hSD4ev7pY_M7Drc3qWR",
+            "date": "2025-11-05",
+            "effect": [
+                "Disrupts trading activity and order placement.",
+                "Can lead to financial losses or missed opportunities."
+            ]
+        },
+        {
+            "issue": "Problems and delays encountered during fund withdrawals from the platform.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwwyruShxFzrH7S_19vFkoLuBb-jGaUG_92NQv20U1k-tYLcGS1CYubLvfO_OjsX6CTT6uL5xaq_F2EWJ0FR_sdsrQwhw",
+            "date": "2025-11-05",
+            "effect": [
+                "Causes financial inconvenience and frustration.",
+                "Impacts user's ability to access their funds promptly."
+            ]
+        },
+        {
+            "issue": "Difficulties or problems reported during the account opening process.",
+            "user_type": "New End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwwyruShxFzrH7S_19vFkoLuBb-jGaUG_92NQv20U1k-tYLcGS1CYubLvfO_OjsX6CTT6uL5xaq_F2EWJ0FR_sdsrQwhw",
+            "date": "2025-11-05",
+            "effect": [
+                "Creates a poor first impression for potential customers.",
+                "Delays or prevents new users from accessing services."
+            ]
+        },
+        {
+            "issue": "Unauthorized changes to primary bank account details with incorrect MICR code, despite user's attempts to clarify.",
+            "user_type": "End-user",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQyo3L6Z29yaDI6QuVhb3mnUvd3limRpZNOf3JIjo63exL1wwA1khwgeG_kb_4SpzBf_vT9m55_i4LBoOrLNAemVVl2ria9PhDqB_mTBnsdI6KkBWlQov9xPj_M0JXxXXZeDWLN1fBRwimMwsnX3hpxGZlgNbuxuThAk0ZmYf3lx9q3X1AIsr5CV5WXbZDaYr4Ztn1wAivghh_UAwdplBeKpU_Pmbo",
+            "date": "2021-03-21",
+            "effect": [
+                "Creates financial security concerns for users.",
+                "Requires users to take extra steps for rectification."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Launched Zerodha Fund House (AMC) in partnership with Smallcase in October 2023, focusing on index funds with zero commissions.",
+            "user_type": "End-user, Investors",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvabqR29gTN5mJTLVcrhhklAJ8_xQeWV-DBsXGJVeSwVBL3uJZxsGyFx8B9JWLEonFxvexz4eYI3fwrF75kv3Qt_04BtKABgCyG6uPstlEhk-dH_kzYF2f_Iwk-kT1FUUh",
+            "date": "2023-10-00",
+            "effect": [
+                "Diversifies product offerings beyond brokerage.",
+                "Enables users to invest in commission-free mutual funds and ETFs."
+            ]
+        },
+        {
+            "move": "Plans to enable US stock market investments for Indian users, leveraging regulatory clarity through GIFT City, as early as next quarter (from November 2025).",
+            "user_type": "End-user, Investors",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOKk6BcvdRyz-XM7PcXT6MSe2Bf1q7VYQX8_T4Y2RFH2Y-d4h5ldEh9kFBxeb8yeHBdv3qxeWeU96GClzqLQuyzAJbWACVaOxl9ARkEL9xx3ntZiJbu2VTNFrsM1tjn64AYiQ07EZHI74-yrnH2AyDKtdjycq968tkeY8tNp9bJV86Y8nJmpx38Ii9rMdZKnY6l28nslf7bbOp4fO391Wm3U6XvbmXCuD06Me0MYVSljF8qWeQu3hssPPV47i6pi8WkNLxQzbR1KUC-T3iVa-Mfv84T7Z8g8E3jxAxNLcw9dOCkpbROMqLb8P6vPFI",
+            "date": "2025-11-11",
+            "effect": [
+                "Opens up new investment avenues for users.",
+                "Broadens Zerodha's global reach for its clientele."
+            ]
+        },
+        {
+            "move": "Consolidating content strategy to be fully in-house by winding down the Zero1 creator-led initiative due to regulatory uncertainty.",
+            "user_type": "Internal Staff, Content Creators",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTBHs3Nf_8b7WGxZdU4ZSzKKZ-m5YRsoWR2VYiF2SeZm-RP2FGZcL8PXuGP1hsUJyAUlJ1HW1-wXfEniJsS-2073_D-NQKROuaMYgAjlq15IzKnwXcWSGveIBTy6gyT_wkz74n7OAwk7ReEA4XJso6XJEgx--coV40kfZOzR6PWfkylnESAmKqRXo96T9jzIZbSXxL2Ssh7kKojclXM7D9OMTNN0n-HQ==",
+            "date": "2026-04-22",
+            "effect": [
+                "Ensures full control over financial education content.",
+                "Mitigates regulatory risks associated with third-party content creators."
+            ]
+        },
+        {
+            "move": "Introduced daily SIPs and micro savings for mutual funds (e.g., ₹10 daily SIPs) to lower entry barriers for new investors.",
+            "user_type": "New End-user, Retail Investors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIdy6-rauA1w-fUTkpca2sEsdt-at2qVWCOGQW6vJpJ-THDGZ4yKuKyGa-tP5mxM0YK7dS03BbWyqkt795753E9B9P_05uXZqmYpXcNXurDtLyQ7dVT2QNJgEyiCvO0DR4pxxHPQ==",
+            "date": "2026-01-29",
+            "effect": [
+                "Democratizes investing by making it more affordable.",
+                "Helps users smooth out market volatility through consistent small investments."
+            ]
+        },
+        {
+            "move": "Implemented AI integration via Kite Model Context Protocol (MCP) to connect user accounts to AI assistants for personalized financial insights.",
+            "user_type": "End-user, Traders, Investors",
+            "frequency": "Recent",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaIsl8Al_fVIzfZQcNYSa3A12zubjMrGzw7Eurwf3MZpb1XDVXY8wt7qSJF9CRF6HkSYVIdu8yxfLCSXyp3RgizDS_YAdvQXIPviVOq3zcA4Nofryu00L_MCJ5tx0IsRkJZ3JHzMP_DRRcIpQsYOMFoFGcLp1JE2ogz48JYwYAmBtex9pt4JY=",
+            "date": "2025-07-18",
+            "effect": [
+                "Provides advanced, personalized financial analysis.",
+                "Enhances decision-making with real-time portfolio insights."
+            ]
+        },
+        {
+            "move": "Made account opening free for all resident individuals starting June 29, 2024.",
+            "user_type": "New End-user",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8TAx_aBONk73kk0p8AxwFCH0qXRje4tqJEKJBmtoemI8CEjPTpEKb3Jg7f7C2oHlR_IoWvJsZ_qWxD4yvcfff_yFEUlcvjcizgx9hEYQAd8xORGJIj3sbA7vJrkl3kSv6OZRz0Z1adVvHWIjC6ABC3TbAWnVKOOuDo296nymarV6E0G8DH6ltPXrFGA==",
+            "date": "2024-10-10",
+            "effect": [
+                "Removes a barrier for new users to join the platform.",
+                "Increases accessibility for retail investors."
+            ]
+        }
+    ],
+    "milestones": [
+        "Founded in August 2010.",
+        "Became India's largest retail stockbroker by active client base in 2019, overtaking ICICI Securities.",
+        "Achieved unicorn status (self-assigned valuation of ~$1 billion) in June 2020.",
+        "Launched Zerodha Fund House (AMC) in October 2023.",
+        "Account opening became free for all resident individuals starting June 29, 2024."
+    ],
+    "new_features_launched": [
+        "Redesigned New Option Chain on Kite Web with enhanced indicators and Option Greeks (March 2025).",
+        "Introduced Order Slicing for automatic splitting of large orders exceeding exchange freeze limits (March 2025).",
+        "Launched Market Protection feature to safeguard market orders against extreme price movements (March 2025).",
+        "Enabled Trade from Charts (TFC) on TradingView charts within Kite web for direct order placement, modification, and cancellation (June 2025).",
+        "Integrated AI via Kite Model Context Protocol (MCP) allowing connection to AI assistants for personalized financial analysis (June 2025).",
+        "Introduced Daily SIPs and Inter-AMC Systematic Transfer Plan (STP) on Coin for more flexible mutual fund investments (March 2025).",
+        "Expanded the gifting feature to include mutual funds, in addition to stocks and ETFs (March 2025)."
+    ],
+    "other_crucial_details": [
+        "Operates on a 'no spam or gimmicks' philosophy, avoiding 'gamification' or annoying push notifications.",
+        "Nithin Kamath stated in April 2025 he wouldn't start Zerodha in 2025 due to market crowding, intense price wars, rising costs, and tighter margins.",
+        "Maintains a strong balance sheet with approximately ₹22,679 crore ($2.5 billion) in cash and bank balances as of FY25, being bootstrapped, profitable, and debt-free.",
+        "Developed 'Rainmatter', a fintech fund and incubator that supports startups in financial technology and related fields (health, climate).",
+        "Offers its services in 12 Indian languages to promote linguistic inclusivity."
+    ]
+}
