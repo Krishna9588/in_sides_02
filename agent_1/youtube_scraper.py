@@ -38,10 +38,9 @@ import urllib.request
 import urllib.parse
 import subprocess
 import sys
-from datetime import datetime
 from pathlib import Path
 from typing import Optional
-
+from datetime import datetime, timezone
 # ── optional: suppress SSL warnings if user has a MITM proxy ─────────────
 try:
     import urllib3
@@ -112,7 +111,7 @@ def _fetch_url(url: str, timeout: int = 15) -> str:
 # ═══════════════════════════════════════════════════════════════════════════
 # TRANSCRIPT — via youtube-transcript-api (primary) + yt-dlp (fallback)
 # ═══════════════════════════════════════════════════════════════════════════
-
+'''
 def _transcript_via_library(video_id: str) -> Optional[str]:
     """
     Try youtube-transcript-api first.
@@ -167,71 +166,114 @@ def _transcript_via_library(video_id: str) -> Optional[str]:
     except Exception as e:
         print(f"  [WARN] transcript-api failed: {e}")
         return None
+'''
 
+def _transcript_via_library(video_id: str) -> Optional[str]:
+    """
+    Fetches transcript with multi-stage fallback:
+    1. English (Native/Auto) -> 2. Translated to English -> 3. Raw Native (Hindi/etc.)
+    """
+    try:
+        import requests as _req
+        import requests.packages.urllib3 as _u3
+        _u3.disable_warnings()
+        session = _req.Session()
+        session.verify = False
+
+        from youtube_transcript_api import YouTubeTranscriptApi
+        api = YouTubeTranscriptApi(http_client=session)
+
+        transcript_list = api.list(video_id)
+        preferred = None
+
+        # STAGE 1: Try for English
+        try:
+            preferred = transcript_list.find_transcript(['en', 'en-IN', 'en-US', 'en-GB'])
+        except Exception:
+            pass
+
+        # STAGE 2: Try to translate to English
+        if not preferred:
+            try:
+                first = list(transcript_list)[0]
+                preferred = first.translate('en')
+            except Exception:
+                pass
+
+        # STAGE 3: Grab raw native language (Hindi, etc.) if all else fails
+        if not preferred:
+            try:
+                preferred = list(transcript_list)[0]
+                print(f"  [TRANSCRIPT] Saving raw native track: '{preferred.language_code}'")
+            except Exception:
+                return None
+
+        fetched = preferred.fetch()
+
+        # FIX: Handle both object (.text) and dictionary (['text']) access
+        text_parts = []
+        for s in fetched:
+            if isinstance(s, dict):
+                val = s.get('text', '')
+            else:
+                val = getattr(s, 'text', '')
+            if val.strip():
+                text_parts.append(val.strip())
+
+        return " ".join(text_parts)
+
+    except Exception as e:
+        print(f"  [WARN] transcript-api failed: {e}")
+        return None
 
 def _transcript_via_ytdlp(video_id: str) -> Optional[str]:
-    """
-    Fallback: use yt-dlp to write subtitles to a temp file, then read them.
-    Cleans up temp files after reading.
-    """
-    import tempfile, glob
-
-    url = f"https://www.youtube.com/watch?v={video_id}"
-    tmp_dir = tempfile.mkdtemp()
-    out_tmpl = os.path.join(tmp_dir, "%(id)s")
-
-    cmd = [
-        sys.executable, "-m", "yt_dlp",
-        "--no-check-certificate",
-        "--write-auto-sub",
-        "--write-sub",
-        "--sub-lang", "en",
-        "--sub-format", "vtt",
-        "--skip-download",
-        "--quiet",
-        "-o", out_tmpl,
-        url,
-    ]
-
     try:
-        subprocess.run(cmd, capture_output=True, timeout=60)
+        import requests as _req
+        import requests.packages.urllib3 as _u3
+        _u3.disable_warnings()
+        session = _req.Session();
+        session.verify = False
+
+        from youtube_transcript_api import YouTubeTranscriptApi
+        api = YouTubeTranscriptApi(http_client=session)
+        transcript_list = api.list(video_id)
+
+        preferred = None
+
+        # STAGE 1: Try to find any English track (Manual or Auto)
+        try:
+            preferred = transcript_list.find_transcript(['en', 'en-IN', 'en-US', 'en-GB'])
+        except Exception:
+            pass
+
+        # STAGE 2: Try to translate whatever is available to English
+        if not preferred:
+            try:
+                # We look for the first available track and ask for translation
+                first = list(transcript_list)[0]
+                preferred = first.translate('en')
+            except Exception:
+                pass
+
+        # STAGE 3: If translation is blocked by YT, just grab the native Hindi (or other) text
+        # This prevents "No transcript found" and gives you the raw content
+        if not preferred:
+            try:
+                # Specifically targeting 'hi' for your use case, or just index [0]
+                preferred = transcript_list.find_transcript(['hi', 'hi-IN'])
+                print(
+                    f"  [TRANSCRIPT] Translation blocked. Fetching raw native track ('{preferred.language_code}') instead.")
+            except Exception:
+                # Final fallback: just grab the first thing that exists
+                preferred = list(transcript_list)[0]
+
+        fetched = preferred.fetch()
+        text_parts = [s['text'].strip() for s in fetched if s['text'].strip()]
+        return " ".join(text_parts)
+
     except Exception as e:
-        print(f"  [WARN] yt-dlp subprocess failed: {e}")
+        print(f"  [WARN] transcript-api failed: {e}")
         return None
-
-    # Find the downloaded subtitle file
-    vtt_files = glob.glob(os.path.join(tmp_dir, "*.vtt"))
-    if not vtt_files:
-        return None
-
-    raw = Path(vtt_files[0]).read_text(encoding="utf-8", errors="replace")
-
-    # Clean VTT markup → plain text
-    lines = []
-    skip_header = True
-    for line in raw.splitlines():
-        if skip_header:
-            if line.strip() == "":
-                skip_header = False
-            continue
-        if re.match(r"^\d{2}:\d{2}", line):   # timestamp line
-            continue
-        if re.match(r"^NOTE|^STYLE|^REGION", line):
-            continue
-        cleaned = re.sub(r"<[^>]+>", "", line).strip()  # strip HTML tags
-        if cleaned:
-            lines.append(cleaned)
-
-    # De-duplicate consecutive identical lines (common in VTT auto-captions)
-    deduped = []
-    prev = None
-    for ln in lines:
-        if ln != prev:
-            deduped.append(ln)
-        prev = ln
-
-    return " ".join(deduped) if deduped else None
-
 
 def get_transcript(video_id: str) -> Optional[str]:
     """
@@ -359,7 +401,7 @@ def scrape_single_video(video_id: str) -> dict:
     transcript = get_transcript(video_id)
 
     return {
-        "scraped_at":  datetime.utcnow().isoformat() + "Z",
+        "scraped_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "video_id":    meta["video_id"],
         "url":         meta["url"],
         "title":       meta["title"],
@@ -455,7 +497,8 @@ def mode_channel(channel_url: str, count: int = 5) -> list[dict]:
 
     # Build filename from channel handle/path
     slug = re.sub(r"[^\w-]", "_", channel_url.rstrip("/").split("/")[-1])[:40]
-    ts   = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    from datetime import timezone
+    ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     _save_json(results, f"channel_{slug}_{ts}.json")
     return results
 
@@ -519,7 +562,7 @@ def mode_search(query: str, count: int = 5) -> list[dict]:
 
     slug = re.sub(r"\s+", "_", query.lower())[:40]
     slug = re.sub(r"[^\w-]", "", slug)
-    ts   = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    ts   = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     _save_json(results, f"search_{slug}_{ts}.json")
     return results
 
@@ -574,6 +617,7 @@ def youtube_scraper(
         raise ValueError(f"Unknown mode: {mode!r}. Use 'video', 'channel', or 'search'.")
 
 
+
 # ═══════════════════════════════════════════════════════════════════════════
 # RUN BLOCK — edit this to run directly from your IDE
 # ═══════════════════════════════════════════════════════════════════════════
@@ -584,24 +628,24 @@ if __name__ == "__main__":
     # Uncomment ONE of the three blocks below, fill in your values, then hit Run.
 
     # ── Option A: Single video ───────────────────────────────────────────
-    result = youtube_scraper(
-        mode="video",
-        video_url="https://www.youtube.com/watch?v=0N86U8W7A4c",
-    )
+    # result = youtube_scraper(
+    #     mode="video",
+    #     video_url="https://www.youtube.com/watch?v=0N86U8W7A4c",
+    # )
 
     # ── Option B: Channel (last N videos) ────────────────────────────────
     # result = youtube_scraper(
     #     mode="channel",
-    #     channel_url="https://www.youtube.com/@TED",
-    #     count=5,          # change to any number you want
+    #     channel_url="https://www.youtube.com/@CodeWithHarry",
+    #     count=3,          # change to any number you want
     # )
 
     # ── Option C: Search query ────────────────────────────────────────────
-    # result = youtube_scraper(
-    #     mode="search",
-    #     query="python tutorial for beginners 2024",
-    #     count=5,          # 5 or 10
-    # )
+    result = youtube_scraper(
+        mode="search",
+        query="python tutorial for beginners 2024",
+        count=5,          # 5 or 10
+    )
 
     # ─────────────────────────────────────────────────────────────────────
     print("\n── Done ──")
@@ -611,3 +655,55 @@ if __name__ == "__main__":
         print(f"Title: {result.get('title')}")
         print(f"Transcript words: {result.get('transcript_words')}")
         print(f"Saved in ./youtube_data/")
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# Testing space
+# ═══════════════════════════════════════════════════════════════════════════
+'''
+def youtube_clean_scraper(user_input: str, count: int = 5) -> dict | list[dict] | None:
+    """
+    A simplified entry point that automatically detects the input type.
+
+    Logic:
+    1. If it contains '/@' or '/channel/', it's treated as a Channel.
+    2. If it contains 'watch?v=', 'youtu.be/', or is an 11-char ID, it's a Video.
+    3. Otherwise, it's treated as a Search Query.
+
+    Parameters
+    ----------
+    user_input : str - Can be a URL (video/channel) or a plain text search query.
+    count      : int - Number of videos to fetch (used for channel and search modes).
+    """
+
+    input_stripped = user_input.strip()
+
+    # 1. Check for Channel patterns
+    # Matches: youtube.com/@handle, youtube.com/channel/UC..., youtube.com/c/Name
+    if "youtube.com/@" in input_stripped or "/channel/" in input_stripped or "/c/" in input_stripped:
+        print(f"[ROUTER] Detected Channel URL")
+        return youtube_scraper(mode="channel", channel_url=input_stripped, count=count)
+
+    # 2. Check for Video patterns
+    # Matches: watch?v=..., youtu.be/..., shorts/..., or a bare 11-character ID
+    video_id = _video_id_from_url(input_stripped)
+    if video_id and ("http" in input_stripped or len(input_stripped) == 11):
+        print(f"[ROUTER] Detected Video URL/ID: {video_id}")
+        return youtube_scraper(mode="video", video_url=input_stripped)
+
+    # 3. Default to Search
+    # If it's not a known YT URL format, we treat the string as a search query
+    print(f"[ROUTER] Detected Search Query")
+    return youtube_scraper(mode="search", query=input_stripped, count=count)
+
+if __name__ == "__main__":
+    # Example 1: Passing a channel
+    youtube_clean_scraper("https://www.youtube.com/@CodeWithHarry", count=3)
+
+    # Example 2: Passing a specific video
+    youtube_clean_scraper("https://www.youtube.com/watch?v=K5KVEU3aaeQ")
+
+    # Example 3: Passing a search query
+    youtube_clean_scraper("latest news on ai agents", count=5)
+    
+'''
