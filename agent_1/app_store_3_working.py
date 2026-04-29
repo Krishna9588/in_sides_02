@@ -383,12 +383,33 @@ def app_store(
     # Initialize client
     client = AppStoreAPIClient(country=country)
 
+    # # Resolve app ID
+    # app_id = None
+    # search_results = []
+    #
+    # if input_str.isdigit():
+    #     app_id = int(input_str)
+    # else:
+    #     # Search
+    #     search_results = client.search(input_str, limit=10)
+
     # Resolve app ID
     app_id = None
     search_results = []
 
-    if input_str.isdigit():
+    # 1. Check if the input is an App Store URL and extract the ID
+    url_match = re.search(r'id(\d+)', input_str)
+
+    if url_match:
+        app_id = int(url_match.group(1))
+        if verbose:
+            logger.info(f"Extracted App ID {app_id} from URL")
+
+    # 2. Check if the input is just the raw numeric ID
+    elif input_str.isdigit():
         app_id = int(input_str)
+
+    # 3. Otherwise, assume it's an app name and search for it
     else:
         # Search
         search_results = client.search(input_str, limit=10)
