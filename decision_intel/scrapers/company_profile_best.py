@@ -18,8 +18,7 @@ class GeminiCompanyResearcher:
 
     def __init__(self, api_key: Optional[str] = None):
         # self.api_key = api_key or os.getenv("GEMINI_API_KEY")
-        # self.api_key = "AIzaSyBOi_SHTfXeqf2b6qNV7ZAgd_lHvMDoGVo"
-        self.api_key = "AIzaSyBPHAitU87elrUwDkfevrms6O-u3ns4sTk"
+
         print(self.api_key)
         if not self.api_key:
             raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
