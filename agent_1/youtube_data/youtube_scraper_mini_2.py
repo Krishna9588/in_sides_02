@@ -3,6 +3,9 @@ import re
 import ssl
 import subprocess
 import sys
+import tempfile
+import os
+import glob
 from pathlib import Path
 from typing import Optional, Union
 from datetime import datetime, timezone
@@ -15,7 +18,7 @@ try:
 except ImportError:
     pass
 
-OUTPUT_DIR = Path("youtube_data")
+OUTPUT_DIR = Path("")
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -41,6 +44,26 @@ def _video_id_from_url(url: str) -> Optional[str]:
     return None
 
 
+def _clean_vtt(vtt_text: str) -> str:
+    """Parses raw VTT subtitle text into a clean string."""
+    lines = []
+    skip_header = True
+    for line in vtt_text.splitlines():
+        if skip_header:
+            if line.strip() == "": skip_header = False
+            continue
+        if re.match(r"^\d{2}:\d{2}", line) or re.match(r"^NOTE|^STYLE|^REGION", line):
+            continue
+        cleaned = re.sub(r"<[^>]+>", "", line).strip()
+        if cleaned: lines.append(cleaned)
+
+    deduped, prev = [], None
+    for ln in lines:
+        if ln != prev: deduped.append(ln)
+        prev = ln
+    return " ".join(deduped)
+
+
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE LOGIC (NO PRINTS)
 # ═══════════════════════════════════════════════════════════════════════════
@@ -60,6 +83,7 @@ def _get_metadata_silent(video_id: str) -> dict:
 
 
 def _get_transcript_silent(video_id: str) -> Optional[str]:
+    # 1. PRIMARY: youtube-transcript-api
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
         import requests
@@ -69,7 +93,6 @@ def _get_transcript_silent(video_id: str) -> Optional[str]:
         t_list = api.list(video_id)
 
         target = None
-        # Fallback Order: English -> Translate to English -> Raw Native
         try:
             target = t_list.find_transcript(['en', 'en-IN', 'en-US', 'en-GB'])
         except:
@@ -79,17 +102,37 @@ def _get_transcript_silent(video_id: str) -> Optional[str]:
                 try:
                     target = list(t_list)[0]
                 except:
-                    return None
+                    pass
 
-        fetched = target.fetch()
-        parts = [s.get('text', '').strip() if isinstance(s, dict) else getattr(s, 'text', '').strip() for s in fetched]
-        return " ".join(filter(None, parts))
+        if target:
+            fetched = target.fetch()
+            parts = [s.get('text', '').strip() if isinstance(s, dict) else getattr(s, 'text', '').strip() for s in
+                     fetched]
+            return " ".join(filter(None, parts))
     except:
-        return None
+        pass
+
+    # 2. NUCLEAR FALLBACK: yt-dlp Subtitle Scraping
+    try:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            out_tmpl = os.path.join(tmp_dir, "sub")
+            url = f"https://www.youtube.com/watch?v={video_id}"
+            cmd = [
+                sys.executable, "-m", "yt_dlp", "--no-check-certificate", "--write-auto-sub",
+                "--write-sub", "--sub-lang", "en", "--sub-format", "vtt", "--skip-download",
+                "--quiet", "-o", out_tmpl, url
+            ]
+            subprocess.run(cmd, capture_output=True, timeout=40)
+            vtt_files = glob.glob(os.path.join(tmp_dir, "*.vtt"))
+            if vtt_files:
+                raw = Path(vtt_files[0]).read_text(encoding="utf-8", errors="replace")
+                return _clean_vtt(raw)
+    except:
+        pass
+    return None
 
 
 def _scrape_one(video_id: str) -> dict:
-    """Combines all data into a single silent dictionary."""
     meta = _get_metadata_silent(video_id)
     text = _get_transcript_silent(video_id)
     return {
@@ -125,8 +168,6 @@ def youtube_scraper(mode: str, **kwargs) -> Union[dict, list, None]:
             res = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
             ids = [line.strip() for line in res.stdout.splitlines() if line.strip()]
             results = [_scrape_one(vid) for vid in ids]
-
-            # Create a clean filename
             ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
             _save_json(results, f"{mode}_{ts}.json")
             return results
@@ -136,40 +177,36 @@ def youtube_scraper(mode: str, **kwargs) -> Union[dict, list, None]:
 
 
 def youtube_clean_scraper(user_input: str, count: int = 5) -> Union[dict, list, None]:
-    """Routes based on URL patterns for videos and channels."""
     inp = user_input.strip()
-
     if any(marker in inp for marker in ["/@", "/channel/", "/c/"]):
         return youtube_scraper(mode="channel", channel_url=inp, count=count)
-
     v_id = _video_id_from_url(inp)
     if v_id and ("http" in inp or len(inp) == 11):
         return youtube_scraper(mode="video", video_url=inp)
-
     return youtube_scraper(mode="search", query=inp, count=count)
 
 
 # ═══════════════════════════════════════════════════════════════════════════
-# MAIN CONTROL (Terminal Communication Only)
+# MAIN CONTROL
 # ═══════════════════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":
-    # Test items representing your specific examples
+    # Test cases from your specific examples
     test_cases = [
         "https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0",
         "https://www.youtube.com/@CodeWithHarry",
-        "latest stock market fall news"
+        "which python lib should we use for dataset"
     ]
 
     for item in test_cases:
-        print(f"Processing: {item}")
+        print(f"Scraping: {item}")
         result = youtube_clean_scraper(item, count=2)
 
         if result:
             if isinstance(result, list):
-                print(f"  Captured {len(result)} videos successfully.")
+                for vid in result:
+                    print(f"  Captured: {vid['title']} ({vid['transcript_words']} words)")
             else:
-                print(f"  Captured: {result['title']}")
-                print(f"  Link: {result['youtube_link']}")
+                print(f"  Captured: {result['title']} ({result['transcript_words']} words)")
         else:
-            print("  Failed to retrieve data.")
+            print("  No data found.")

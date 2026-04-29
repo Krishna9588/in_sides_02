@@ -48,6 +48,12 @@ try:
 except ImportError:
     pass
 
+import logging
+import urllib3
+
+# This silently suppresses the specific InsecureRequestWarning
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+logging.getLogger("urllib3").setLevel(logging.ERROR)
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CONSTANTS
