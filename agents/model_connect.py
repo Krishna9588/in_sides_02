@@ -92,11 +92,11 @@ def call_llm(
             return call_openai(prompt, system_prompt, target_model)
 
         elif provider.lower() == "claude":
-            target_model = model or "claude-3-5-sonnet-20240620"
+            target_model = model or "claude-sonnet-4-6"
             return call_claude(prompt, system_prompt, target_model)
 
         elif provider.lower() == "gemini":
-            target_model = model or "gemini-2.5-flash"
+            target_model = model or "gemini-2.5-flash-lite"
             return call_gemini(prompt, system_prompt, target_model)
 
         else:
