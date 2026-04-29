@@ -1,0 +1,613 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-04-29T17:49:35.012405",
+    "extraction_time_seconds": 5.71,
+    "fields_extracted": 33,
+    "country": "in",
+    "reviews_distribution": {
+      "1": 20,
+      "2": 20,
+      "3": 20,
+      "4": 20,
+      "5": 20
+    },
+    "total_reviews_extracted": 56,
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 1342565069,
+      "trackName": "Unacademy Learner App",
+      "bundleId": "com.unacademy.learn",
+      "trackViewUrl": "https://apps.apple.com/in/app/unacademy-learner-app/id1342565069?uo=4",
+      "artistId": 1156375098,
+      "artistName": "Unacademy",
+      "artistViewUrl": "https://apps.apple.com/in/developer/unacademy/id1156375098?uo=4",
+      "sellerName": "Sorting Hat Technologies Private Limited",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "genres": [
+        "Education"
+      ],
+      "genreIds": [
+        "6017"
+      ],
+      "averageUserRating": 4.48709,
+      "userRatingCount": 54210,
+      "averageUserRatingForCurrentVersion": 4.48709,
+      "userRatingCountForCurrentVersion": 54210,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "INR",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.3.4",
+      "releaseNotes": "• Bug fixes and performance improvements",
+      "releaseDate": "2018-02-16T05:40:36Z",
+      "currentVersionReleaseDate": "2025-07-10T06:38:21Z",
+      "description": "Embark on the journey to crack your dream exam! \n\nUnacademy, India’s largest learning platform aims to change the way India learns, one Live Class at a time. Unacademy has helped Learners crack their dream exam by getting India’s Top Educators on a single platform.\n\nMillions have cracked it with Unacademy and you can be next! Prepare for JEE, NEET UG, CAT, SSC Exams, State PSCs, other competitive exams and CBSE Class 6 - 12 with India’s Top Educators. The Unacademy App is a complete solution for all your learning needs. Learn for 100+ subjects from the comfort of your home. Take Live Classes, Test Series, Doubt Solving Sessions, Batch Courses and more. From learning to cracking it, Unacademy will be by your side at every step of the way.\n\nGet started with your journey on Unacademy by taking Free Live Classes and stand a chance to win scholarships with Free Mock Tests.\n\nDownload the App and get started today.\n\nUnacademy in Numbers: \n\n59M+ learners impacted\n130k+ Live classes launched  p",
+      "shortDescription": "",
+      "minimumOsVersion": "13.1",
+      "fileSizeBytes": 154763264,
+      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/9d/6c3f9d05-8689-7aa3-afdd-de81da14df6d/5beef84c-206f-446c-a562-cdb3d831c394_Live_Classes_-_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/e6/81/63e6814f-cc90-fbaf-cb5b-05defafa8c04/8a20d010-1238-45ea-931a-9e24f3ee8e4a_Live_Classes_-_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/e3/48/6ee3487b-9876-bf98-e8ad-91cbe98c90f3/f264341d-5813-4ed3-a28a-0898fe5ebca3_Profile__U0026_Stats.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fb/4d/f0fb4d7f-4126-cb75-672c-27b6e72f5779/621e69c6-2eac-4cb3-b0a9-fa325d1258e2_Dark_Mode.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/82/0e/0c820e85-996f-817a-b419-fb08a58fefaf/planner__U00282_U0029.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "kind": "software",
+      "trackCensoredName": "Unacademy Learner App",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [
+      {
+        "id": "14001831379",
+        "author": "Rahul toshawara",
+        "rating": 1,
+        "title": "Don’t download",
+        "content": "Please don’t download this app because this app have so many notifications msg add and it disturb you",
+        "date": "2026-04-27T02:38:54-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13978472652",
+        "author": "Delwinters",
+        "rating": 1,
+        "title": "Worst app.",
+        "content": "Once you login they will harass you through constant calls. 5-6 calls everyday through different numbers.",
+        "date": "2026-04-20T07:38:50-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13976774238",
+        "author": "Cornflakis",
+        "rating": 1,
+        "title": "Worst app for learning",
+        "content": "I found some good lectures on a topic I was interested in however on the app only those lecturers are available who are mainstream and paid not free ones, waste of time",
+        "date": "2026-04-19T19:02:46-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13975494473",
+        "author": "RJ_aka_alba",
+        "rating": 1,
+        "title": "Back option not able to access",
+        "content": "The back button is so in the corner that I’m not able to go back.",
+        "date": "2026-04-19T10:31:01-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13962638947",
+        "author": "Rishabh The Great",
+        "rating": 1,
+        "title": "Worst app for any Edtech Platform",
+        "content": "I have asked and even emailed them about the issues that are happening across both their app and web but there has been no acknowledgement and if there is they make you make video of proofs and even if you send them those they say they cant see those. Just way of deterring any responsibility. \n\nOkay for this app, kindly update it for iOS26. While watching the video the screen locks automatically. Even basic video apps prevent screen from locking. Also the back button merges with the time on left side making it hard to press. Does not happen until the Control Centre has been opened. Guys you have charged a fees for online classes. Goddam fix your apps atleast. This is minimum of any Edtech Provider.",
+        "date": "2026-04-15T20:49:31-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13902646131",
+        "author": "Aanvi Maheshwari",
+        "rating": 1,
+        "title": "Fraud platform",
+        "content": "​I am beyond frustrated. I paid ₹49,999 for the IIT JEE batch three days ago, and since then, I have been completely ghosted. Despite the heavy price tag, the batch shows zero enrollments, and no classes have started. It feels like I've just handed over my hard-earned money to a crook platform.\n​I have sent multiple emails to their support team, but there has been no action, no reply, and no accountability. For an \"educational\" platform, their lack of professionalism is shocking. They are quick to take your money but non-existent when it comes to providing the service or support they promised.\n​Unacademy is a complete fraud",
+        "date": "2026-03-30T01:13:25-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13893825752",
+        "author": "Snnyj000",
+        "rating": 1,
+        "title": "Back button not working",
+        "content": "This is really so much negligence",
+        "date": "2026-03-27T13:38:30-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13892642440",
+        "author": "Rachit Saroha",
+        "rating": 1,
+        "title": "Live class Notifications does not come like in Android.",
+        "content": "Live class Notifications does not come like in Android.",
+        "date": "2026-03-27T06:56:11-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13851530976",
+        "author": "DashDAG",
+        "rating": 1,
+        "title": "No longer works on IOS",
+        "content": "The latest update has effectively broken the app for iOS users. The app opens and appears normal, but whenever I try to join a live class it repeatedly shows “no stable network connection,” even though my Wi-Fi is perfectly fine. Because of this bug, I’m completely unable to attend my classes. The working update seems to be available only on Android, and I don’t have an Android device, so I’m essentially locked out of the platform I depend on for my studies. This is extremely frustrating and needs to be fixed urgently.",
+        "date": "2026-03-15T10:37:25-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13841023350",
+        "author": "Abhi09jp",
+        "rating": 1,
+        "title": "Worst app and mangement",
+        "content": "The interface of the app is very trick. And mangement have zero civic sense they used to call to buy their course daily in afternoon time. They call from different different no. If you block one of them",
+        "date": "2026-03-12T11:05:30-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13840059539",
+        "author": "Zakira sayed",
+        "rating": 1,
+        "title": "Fraud",
+        "content": "Just a waste of time and money \nI paid them for hard copy of books its been 2 years still i did not received any parcel \nI contacted them alot but there was no response",
+        "date": "2026-03-12T05:28:32-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13832436751",
+        "author": "Rathi26",
+        "rating": 1,
+        "title": "Worst thing about this platform",
+        "content": "Worst experience ever .. \nthey will call you thousand times for having a purchase or subscription to their app or their company, but at the time of classes, this educator is not there. This educator is not there. The classes are not going on. I’m talking about. It’s already one exam, but still no educator is being clear and we are wasting money efforts which is very wrong with us. If you don’t have any educated, you should not force anybody to get. We have this sort that best. This is such a big platform, but we are having such issues, which is very it’s my biggest mistake that I enrolled here",
+        "date": "2026-03-09T21:51:41-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13816683014",
+        "author": "ICSE parent feedback",
+        "rating": 1,
+        "title": "Not for ICSE syllabus at all",
+        "content": "I was made false promises that iconic foundation batch will cover 90% of 9th ICSE syllabus but when  compared with academic text books only 50% of the maths chapters were covered. Do not fall for the trap . The support provided by Unacademy is zero. Once you take the subscription then no support is available . The mentor support is only to check the class quality and clear some doubts. Once you identify that you are fooled then there is no one to help",
+        "date": "2026-03-05T08:13:05-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13734182826",
+        "author": "dududhbd",
+        "rating": 1,
+        "title": "fraud and scam",
+        "content": "I contacted customer care 2–3 times and asked whether Moin Sir’s history lectures are available in the Vijeta Batch 2025–2026. Every time, they said yes and told me that Moin Sir’s recorded batch is available and that I would be able to watch the lectures after taking the subscription by going to the batch section.\n\nBut after purchasing the subscription, there are no history lectures by Moin Sir available in the batch. I don’t know who this teacher is, but Ajay Dhyal’s lectures are available, and I do not want to study from him.\n\nI feel that I have been scammed and that fake promises were made to me. \n👎🏻👎🏻",
+        "date": "2026-02-10T06:22:10-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13712021579",
+        "author": "Luchwvwveehdhd",
+        "rating": 1,
+        "title": "App problem",
+        "content": "Very disappointed bhai itni details mangte hai pata nahi kay he karange ab agar mare pas email na ho to mai phone numbes se to kuch kar hi nahi sakta",
+        "date": "2026-02-04T06:06:54-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13532745047",
+        "author": "786Naila",
+        "rating": 1,
+        "title": "Worst app",
+        "content": "Very bad doesn't openfast even though I have good signal  and very bad money wasted instead see YouTube videos just advertiemts otherwise big waste of money",
+        "date": "2025-12-19T15:25:55-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13483486008",
+        "author": "gavingoutham",
+        "rating": 1,
+        "title": "Scam, please don’t waste money",
+        "content": "Unacademy online is scam , please don’t waste money",
+        "date": "2025-12-06T14:03:28-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13477945192",
+        "author": "Tapas wink",
+        "rating": 1,
+        "title": "DO NOT TAKE !!!!!",
+        "content": "Absolute worst app!!!!!\nBetter to go for other coaching apps\nUnacademy has the worst customer service!!!!!!\nOnce u pay them, u ll never hear from them again\n -10000/ 10",
+        "date": "2025-12-05T06:23:13-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13428506977",
+        "author": "UnacademyLearner",
+        "rating": 1,
+        "title": "Too many bugs",
+        "content": "Facing toooo may issues while class lectures….",
+        "date": "2025-11-22T09:02:37-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13371341772",
+        "author": "@s k s.",
+        "rating": 1,
+        "title": "Daily calling",
+        "content": "Daily calling for disturbing students at afternoon",
+        "date": "2025-11-08T01:45:53-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13959543653",
+        "author": "KushallD",
+        "rating": 2,
+        "title": "System",
+        "content": "bad interface \nbuttons overlapping ios system \nwhich makes them u clickable.",
+        "date": "2026-04-14T23:54:47-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13841123894",
+        "author": "Nishkarsh1-12",
+        "rating": 2,
+        "title": "Back button not working",
+        "content": "What is wrong with back button I can’t go back from any interface the back button is merged with the notification bar i have to close the app again and again \nFix this unacademy team",
+        "date": "2026-03-12T11:43:08-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13790984139",
+        "author": "Rev01>",
+        "rating": 2,
+        "title": "App takes too much time to load",
+        "content": "Many times it doesn’t even open due to which I miss my classes it keeps loading but never opens",
+        "date": "2026-02-26T04:05:46-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13734176358",
+        "author": "Mayur@7",
+        "rating": 2,
+        "title": "Green screen issue",
+        "content": "While watching the lecture on right side lower corner a green screen issue is there and the content write by sir/ mam isn’t visible,pls fix this issue as it’s present for a while now.",
+        "date": "2026-02-10T06:20:02-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13189047825",
+        "author": "Kenny writes",
+        "rating": 2,
+        "title": "Need for a Update after the IPad OS 26 update to fix bugs like freeze and hangs",
+        "content": "Recently observed like almost always the app seems to be crashing or freezing while watching videos , this issue came after the iPad os 6 update . Please fix .",
+        "date": "2025-09-26T14:56:03-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12910912236",
+        "author": "Soham360",
+        "rating": 2,
+        "title": "Relentless Customer Service Calls",
+        "content": "I have been using academy since start of 2025. Although the teaching is good, their customer service will call you relentlessly, often ranging from 3-4 calls every day and even at night around 10-11. They will always call from different numbers hence cant even block them out. I am utterly disappointed.",
+        "date": "2025-07-19T07:54:28-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12889081419",
+        "author": "Unsatisfactory response",
+        "rating": 2,
+        "title": "Not usefull",
+        "content": "It will almost be a month since i am an iconic (paid user) of unacademy for ca but they are not at all looking into my complaints and issues regarding mentor i have raised 3 tickets yet the problem is unresolved",
+        "date": "2025-07-13T20:13:36-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12831974169",
+        "author": "MLGahja",
+        "rating": 2,
+        "title": ".",
+        "content": "The promotional team keeps calling once in every hour.\nThey don’t even have the sense of time.\nWhy would you call someone to sell your classes after 10pm?\nNo work ethics.\n\nBut when you need to get some technical problem fixed, you can only mail them which they will reply 24-48 hours later.\n\nEnough money to sell your courses but not to fix issues????",
+        "date": "2025-06-29T09:51:44-07:00",
+        "version": "2.3.3"
+      },
+      {
+        "id": "12679637278",
+        "author": "Medicoretard",
+        "rating": 2,
+        "title": "Very poorly designed app for iPadOS. Please solve!",
+        "content": "-No dark mode.\n-No playback slider on live videos.\n-Video pauses when volume slider is used.\n-Overall padding and scaling of the UI is very poorly done.",
+        "date": "2025-05-20T21:50:52-07:00",
+        "version": "2.3.2"
+      },
+      {
+        "id": "12166262913",
+        "author": "Jack Debbarma",
+        "rating": 2,
+        "title": "Issues in subscription",
+        "content": "When to enter subscription section it just keep loading even though I have a good internet connection",
+        "date": "2025-01-09T23:58:56-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "12087157561",
+        "author": "Lovepreet joshi",
+        "rating": 2,
+        "title": "Searching experience is worst",
+        "content": "Everything is good , but if I search a topic or subject it do not show latest courses , it shows \n4 year old videos.\nMy second issue is you can’t reduce the quality, due to which sometimes my internet pack gets consumed.",
+        "date": "2024-12-20T19:23:33-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "11810436999",
+        "author": "Aman Panchal",
+        "rating": 2,
+        "title": "Live class join issue",
+        "content": "Please fix this bug, inspite of 5G internet, screen showing no internet connection. I am annoyed by this issue",
+        "date": "2024-10-08T02:38:28-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "13969468234",
+        "author": "Addy Sood",
+        "rating": 3,
+        "title": "Bug in the app",
+        "content": "While using this App on mobile, to go  back  from one page to another the respective back button, on top left corner, gets merge with the mobile’s top control panel and hence we need to close the app just to go back.",
+        "date": "2026-04-17T19:25:31-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13248396788",
+        "author": "Polash Lahan",
+        "rating": 3,
+        "title": "Doubt section",
+        "content": "Hey its polash popping up..it has been two weeks since i submitted my doubt and still it shows pending..what is wrong with this…is the doubt section actually legit or just a gimmick ….iconic subscription ive purchased ..are my doubt limits over ..ive sent only like 20 doubts and still figuring out when will i get a response ..this is miserable",
+        "date": "2025-10-10T06:46:18-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13094681955",
+        "author": "MdAteeqRaza",
+        "rating": 3,
+        "title": "Bugs and glitch",
+        "content": "Not working properly. \nMy test results is not showing. \nAlso the test option is not working",
+        "date": "2025-09-03T09:58:10-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13035002057",
+        "author": "Patel SHANKAR",
+        "rating": 3,
+        "title": "Error in planer",
+        "content": "App is not working effective old planer is better than new updated planer",
+        "date": "2025-08-19T04:47:51-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12913264735",
+        "author": "Abhinav Mangal",
+        "rating": 3,
+        "title": "The only reason to give 3 stars",
+        "content": "The teachers on Unacademy are so much good but the app crashes many time and not working properly and no proper customer support I give 3 stars for the teacher",
+        "date": "2025-07-19T22:35:46-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12854665805",
+        "author": "Unfair_Capitalist",
+        "rating": 3,
+        "title": "Fix navigational button padding",
+        "content": "Not able to navigate properly within the app \nThe back button is in the top information bar",
+        "date": "2025-07-05T02:15:35-07:00",
+        "version": "2.3.3"
+      },
+      {
+        "id": "12755233697",
+        "author": "Problem gg",
+        "rating": 3,
+        "title": "Add some widget for this app like planner’s and strike and time spend",
+        "content": "Add some widget for this app like planner’s and strike and time spent",
+        "date": "2025-06-09T11:41:13-07:00",
+        "version": "2.3.2"
+      },
+      {
+        "id": "11895214471",
+        "author": "Fgftihgf",
+        "rating": 3,
+        "title": "Very buggy",
+        "content": "The educators are best but the unacademy ios app is super buggy man. Please fix it . Sometimes after even pausing the video it doesn’t stop but in the screen the button shows paused. Sometimes the lectures are not downloadable. Man please someone fix this app. This makes very inconvenient to study offline.",
+        "date": "2024-10-31T03:15:27-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "11868758417",
+        "author": "Anshuman Hooda",
+        "rating": 3,
+        "title": "Review about app",
+        "content": "Educators are excellent but for now i am reviewing only ipad unacademy app (not the educators) the app was ok at first but now it is getting worse as it is not working properly classes are getting stuck in between full app crash lags and app hang in between unable to operate anything. I hope that developers take it seriously and do something about it. Thanks…..",
+        "date": "2024-10-24T02:38:41-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "11853013952",
+        "author": "Vimal Prasath",
+        "rating": 3,
+        "title": "Needs some optimisation for iPad",
+        "content": "Although the lectures are worthy buying, it feels laggy when skipping the videos. Otherwise, it deserves 5⭐️. There are plenty of teachers to choose from based on our needs, and  love it. 🕊️✌🏻",
+        "date": "2024-10-19T17:39:24-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "13987066763",
+        "author": "@123Kartik123",
+        "rating": 4,
+        "title": "Good",
+        "content": "Everything is good and systematic but the annoying everyday phone calls are worst",
+        "date": "2026-04-22T18:54:17-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13952188088",
+        "author": "Sajalb",
+        "rating": 4,
+        "title": "Good contents, fix app issues",
+        "content": "* Back button on top left doesn’t work on iPhone 17 pm, latest ios.\n* Tests tab doesn’t open on iPad 9 latest iPadOS \n\nOtherwise app content is good.",
+        "date": "2026-04-12T19:28:48-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13448977769",
+        "author": "Premanand sagar",
+        "rating": 4,
+        "title": "Kindly solve the issue",
+        "content": "Problem in creating account",
+        "date": "2025-11-27T18:13:51-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13055081094",
+        "author": "H@9917",
+        "rating": 4,
+        "title": "Una ai",
+        "content": "Una Ai Options not come in IOS and app is already updates latest version",
+        "date": "2025-08-24T07:46:28-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12000272306",
+        "author": "Sanskaf",
+        "rating": 4,
+        "title": "unacdemy",
+        "content": "PW ALLEN BETTER😂🤣🤣",
+        "date": "2024-11-27T21:48:23-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "11820710588",
+        "author": "Jptakeshiscastle",
+        "rating": 4,
+        "title": "Extremely helpful but issue in iPad and iPhone",
+        "content": "In my laptop everything is normal but in iPhone and iPad when ever I open a teachers profile it says “something went wrong try again later”\nThen if a watch a teacher’s class and the teacher uses a green screen background then the background will be visible to me in green",
+        "date": "2024-10-10T23:34:01-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "13695801657",
+        "author": "Prathamehta",
+        "rating": 5,
+        "title": "Best teachers",
+        "content": "Best teachers acid sir seep mam anushka mam aknsha mam anupam sir",
+        "date": "2026-01-30T23:11:29-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13426587695",
+        "author": "shallu m.chawla",
+        "rating": 5,
+        "title": "My experience with PCMC centre",
+        "content": "I am an NEET Aspirant from Unacdemy learning since a year.\nThe academy is a great place to learn. The teachers are helpful, the lessons are clear, Everything is well-organized. It’s a reliable and friendly place to build new skills.\nWe are offered with useful resources, extra activities, and regular updates to keep parents and students informed. The environment is positive and encouraging, helping students build confidence while improving their skills. It’s a dependable place where learning truly feels enjoyable\nThe facilities are excellent—classrooms are clean, spacious, and well-equipped with modern tools that make learning easier. The library and study areas are quiet and comfortable, giving students a good space to focus.",
+        "date": "2025-11-21T21:50:35-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13147302121",
+        "author": "Ritika Rohilla",
+        "rating": 5,
+        "title": "Worst service",
+        "content": "Bad service for customer support",
+        "date": "2025-09-16T23:23:03-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "13073683876",
+        "author": "Law aspirant",
+        "rating": 5,
+        "title": "“Exceptional Mentor for Judiciary Aspirants”.",
+        "content": "“Vishal Singh Thakur “sir is an outstanding educator for judiciary preparation.His teaching style is very clear ,structured,& very engaging.He explains even complex legal concepts in a simple and practical way,making them easy to understand and remember.His classes are highly interactive,and he always takes time to clear doubts patiently.The examples and notes he provides are extremely helpful for revision and exam oriented preparation.I truly recommend his guidance to every Judiciary Aspirants.",
+        "date": "2025-08-29T02:03:49-07:00",
+        "version": "2.3.4"
+      },
+      {
+        "id": "12788777259",
+        "author": "Utkuone",
+        "rating": 5,
+        "title": "Best Education App",
+        "content": "India best educator are available in this platform they make big contributions in planning structure and perfect timing schedule for Mine upsc preparation",
+        "date": "2025-06-18T06:31:33-07:00",
+        "version": "2.3.3"
+      },
+      {
+        "id": "12390769603",
+        "author": "Kanak devesh",
+        "rating": 5,
+        "title": "Downloading problem",
+        "content": "This is very good app …..but I am facing one problem in it after redownloading the app … I am unable to download the classes",
+        "date": "2025-03-06T18:39:42-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "12264821172",
+        "author": "Hardik 07",
+        "rating": 5,
+        "title": "Superb app",
+        "content": "Genuine cat faculty 👌",
+        "date": "2025-02-03T00:23:08-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "11933334781",
+        "author": "A.raza666",
+        "rating": 5,
+        "title": "Very bad app",
+        "content": "After some days app is lagging so much",
+        "date": "2024-11-10T00:36:14-07:00",
+        "version": "2.3.0"
+      }
+    ],
+    "review_analysis": {
+      "total_reviews": 56,
+      "average_rating": 2.46,
+      "rating_distribution": {
+        "1": 20,
+        "2": 12,
+        "3": 10,
+        "4": 6,
+        "5": 8
+      },
+      "latest_review_date": "2026-04-27T02:38:54-07:00",
+      "oldest_review_date": "2024-11-10T00:36:14-07:00"
+    },
+    "reviews_metadata": {
+      "1": {
+        "requested": 20,
+        "fetched": 20
+      },
+      "2": {
+        "requested": 20,
+        "fetched": 12
+      },
+      "3": {
+        "requested": 20,
+        "fetched": 10
+      },
+      "4": {
+        "requested": 20,
+        "fetched": 6
+      },
+      "5": {
+        "requested": 20,
+        "fetched": 8
+      }
+    }
+  },
+  "analysis": null
+}
