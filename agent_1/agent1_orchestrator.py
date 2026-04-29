@@ -144,38 +144,40 @@ async def orchestrate_agent_1(payload: Dict[str, Any]) -> str:
 
 
 # ==========================================
-# HOW TO TEST (Simulating a Frontend API Request)
+# HOW TO TEST (Interactive CLI)
 # ==========================================
 if __name__ == "__main__":
-    # This is exactly what the React Frontend will send as a JSON POST body
-    frontend_payload = {
-        "project_name": "Groww",
-        "domain": "groww.in",
+    print("=" * 60)
+    print("  AGENT 1: INTELLIGENCE GATHERING SETUP")
+    print("=" * 60)
 
-        "play_store": {
-            "link_or_id": "com.nextbillion.groww",
-            "reviews_count": 50
-        },
+    # Mandatory
+    project_name = input("Enter Project/Company Name (Mandatory): ").strip()
+    while not project_name:
+        project_name = input("Project Name is required. Please enter: ").strip()
 
-        "app_store": {
-            "link_or_id": "1434524388",  # Groww iOS ID
-            "reviews_count": 50
-        },
+    # Optional
+    domain = input(f"Enter Domain for {project_name} (Optional, press Enter to skip): ").strip()
 
-        "reddit": {
-            "query_or_subreddit": "Groww app issue",
-            "mode": "search",
-            "limit": 5
-        },
+    play_store_id = input("Enter Play Store App ID (e.g., com.nextbillion.groww) (Optional): ").strip()
+    app_store_id = input("Enter App Store App ID (e.g., 1434524388) (Optional): ").strip()
 
-        "youtube": {
-            "mode": "search",
-            "query": "Groww app review",
-            "count": 3
-        }
+    reddit_query = input("Enter Reddit Search Query or Subreddit (Optional): ").strip()
+    youtube_query = input("Enter YouTube Search Query (Optional): ").strip()
 
-        # Notice we left out "transcripts" entirely. The orchestrator will safely skip it.
-    }
+    transcript_path = input("Enter path to Internal Transcripts folder/file (Optional): ").strip()
+
+    # Build Payload
+    frontend_payload = {"project_name": project_name}
+    if domain: frontend_payload["domain"] = domain
+    if play_store_id: frontend_payload["play_store"] = {"link_or_id": play_store_id, "reviews_count": 50}
+    if app_store_id: frontend_payload["app_store"] = {"link_or_id": app_store_id, "reviews_count": 50}
+    if reddit_query: frontend_payload["reddit"] = {"query_or_subreddit": reddit_query, "mode": "search", "limit": 5}
+    if youtube_query: frontend_payload["youtube"] = {"mode": "search", "query": youtube_query, "count": 3}
+    if transcript_path: frontend_payload["transcripts"] = {"input_path": transcript_path}
+
+    print("\n[INFO] Launching Orchestrator with payload:")
+    print(json.dumps(frontend_payload, indent=2))
 
     # Run the async orchestrator
     asyncio.run(orchestrate_agent_1(frontend_payload))
