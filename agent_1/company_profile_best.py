@@ -17,22 +17,21 @@ class GeminiCompanyResearcher:
     """
 
     def __init__(self, api_key: Optional[str] = None):
-        # self.api_key = api_key or os.getenv("GEMINI_API_KEY")
+        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
         # self.api_key = "AIzaSyBOi_SHTfXeqf2b6qNV7ZAgd_lHvMDoGVo"
-        self.api_key = "AIzaSyBPHAitU87elrUwDkfevrms6O-u3ns4sTk"
+        # self.api_key = "AIzaSyBPHAitU87elrUwDkfevrms6O-u3ns4sTk"
         print(self.api_key)
         if not self.api_key:
             raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
 
         # Initialize the Google GenAI Client
         self.client = genai.Client(api_key=self.api_key)
-        # self.model = "gemini-2.5-flash"
-        # self.model = "gemini-2.5-flash-lite"
-
-        self.model = "gemini-3-flash-preview"
+        self.model = "gemini-2.5-flash"
+        self.model2 = "gemini-2.5-flash-lite"
+        # self.model = "gemini-3-flash-preview"
 
         # ---- Other models
-        # self.model = "gemini-2.0-flash-lite"
+        # self.model = "gemini-2.0-flash"
         # self.model = "gemini-flash-latest"
         # self.model = "gemini-2.5-flash" # works pretty good
         # self.model = "gemini-2.0-flash"
@@ -147,6 +146,7 @@ class GeminiCompanyResearcher:
         ```
         """
 
+    ''' old version
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
         """Runs research with grounding and returns ONLY JSON output."""
 
@@ -208,6 +208,88 @@ class GeminiCompanyResearcher:
                 "error": f"Research failed: {str(e)}",
                 "raw_response": full_text if 'full_text' in locals() else 'No response'
             }
+    '''
+    def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
+        """Runs research with grounding and returns ONLY JSON output with fallback model support."""
+
+        models_to_try = [self.model, self.model2]
+        last_error = None
+
+        for model in models_to_try:
+            try:
+                print(f"Attempting research with model: {model}...\n")
+
+                tools = [
+                    types.Tool(google_search=types.GoogleSearch()),
+                    types.Tool(url_context=types.UrlContext()),
+                ]
+
+                domain_context = f" (Official Domain: {domain})" if domain else ""
+
+                prompt = (
+                    f"Perform exhaustive research on the company: {company_query}{domain_context}. "
+                    f"\n\nCRITICAL INSTRUCTIONS:\n"
+                    f"1. ONLY output a valid JSON object. NO text before or after.\n"
+                    f"2. Do NOT include any markdown, explanations, or reasoning.\n"
+                    f"3. Do NOT use code fences (```json or ```).\n"
+                    f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
+                    f"5. Use Google Search to find verified sources.\n"
+                    f"6. Use URL Context to fetch and validate each URL before citing.\n"
+                    f"7. Discard outdated links (>2 years old unless historical).\n"
+                    f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
+                    f"9. Include exact URLs and access dates as proof.\n"
+                    f"\n{self.json_schema_instruction}"
+                )
+
+                config = types.GenerateContentConfig(
+                    tools=tools,
+                )
+
+                print(f"Researching '{company_query}' with verification...\n")
+                full_text = ""
+
+                # Use streaming
+                for chunk in self.client.models.generate_content_stream(
+                        model=model,
+                        contents=prompt,
+                        config=config,
+                ):
+                    if chunk.text:
+                        full_text += chunk.text
+
+                text = full_text.strip()
+
+                # Simple JSON extraction
+                if "```json" in text:
+                    json_str = text.split("```json")[1].split("```")[0].strip()
+                elif "```" in text:
+                    json_str = text.split("```")[1].split("```")[0].strip()
+                else:
+                    json_str = text
+
+                return json.loads(json_str)
+
+            except Exception as e:
+                error_message = str(e)
+                last_error = error_message
+
+                # Check if it's a 503 error or similar temporary issue
+                if "503" in error_message or "UNAVAILABLE" in error_message or "high demand" in error_message.lower():
+                    print(f"⚠️  Model '{model}' unavailable: {error_message}")
+                    print(f"Attempting fallback to next model...\n")
+                    continue
+                else:
+                    # For non-temporary errors, return immediately
+                    return {
+                        "error": f"Research failed: {error_message}",
+                        "raw_response": full_text if 'full_text' in locals() else 'No response'
+                    }
+
+        # If all models fail
+        return {
+            "error": f"Research failed: All models exhausted. Last error: {last_error}",
+            "raw_response": ""
+        }
 
     def save_results(self, data: Dict[str, Any], original_query: str, storage_folder: str = "data/results"):
         """Saves the JSON data to {storage_folder}/{company_name}.json"""
@@ -254,5 +336,3 @@ if __name__ == "__main__":
         print(json.dumps(outcome, indent=2))
     else:
         print(f"\nFailed: {outcome['message']}")
-
-

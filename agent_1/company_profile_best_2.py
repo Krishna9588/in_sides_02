@@ -17,29 +17,28 @@ class GeminiCompanyResearcher:
     """
 
     def __init__(self, api_key: Optional[str] = None):
-        # self.api_key = api_key or os.getenv("GEMINI_API_KEY")
+        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
         # self.api_key = "AIzaSyBOi_SHTfXeqf2b6qNV7ZAgd_lHvMDoGVo"
-        self.api_key = "AIzaSyBPHAitU87elrUwDkfevrms6O-u3ns4sTk"
+        # self.api_key = "AIzaSyBPHAitU87elrUwDkfevrms6O-u3ns4sTk"
         print(self.api_key)
         if not self.api_key:
             raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
 
         # Initialize the Google GenAI Client
         self.client = genai.Client(api_key=self.api_key)
-        # self.model = "gemini-2.5-flash"
-        # self.model = "gemini-2.5-flash-lite"
-
-        self.model = "gemini-3-flash-preview"
+        self.model = "gemini-2.5-flash"
+        self.model2 = "gemini-2.5-flash-lite"
+        # self.model = "gemini-3-flash-preview"
 
         # ---- Other models
-        # self.model = "gemini-2.0-flash-lite"
+        # self.model = "gemini-2.0-flash"
         # self.model = "gemini-flash-latest"
         # self.model = "gemini-2.5-flash" # works pretty good
         # self.model = "gemini-2.0-flash"
         # self.model = "gemini-3-flash-preview"
 
         # Updated schema with detailed analysis objects for critical categories
-        self.json_schema_instruction = """
+        self.json_schema_instruction_full = """
         Please provide the requested information in the following JSON format.
 
         CRITICAL INSTRUCTIONS FOR ANALYSIS CATEGORIES:
@@ -147,67 +146,152 @@ class GeminiCompanyResearcher:
         ```
         """
 
-    def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-        """Runs research with grounding and returns ONLY JSON output."""
+        # Simplified schema for lite models
+        self.json_schema_instruction_lite = """
+        Please provide the requested information in the following simplified JSON format.
+        Keep all values as simple strings or arrays of strings.
+        Return ONLY the JSON object, nothing else.
 
-        tools = [
-            types.Tool(google_search=types.GoogleSearch()),
-            types.Tool(url_context=types.UrlContext()),
-        ]
+        ```json
+        {
+          "company_name": "string",
+          "domain": "string",
+          "year_founded": "string with location",
+          "founders": ["string array"],
+          "hq_location": "string",
+          "industry_and_segment": "string",
+          "platforms": "Web/Mobile/Both",
+          "funding": "string",
+          "users": "string",
+          "revenue": "string",
+          "positioning": "string",
+          "revenue_model": "string",
+          "competitors": ["competitor names"],
+          "problems": ["key problems faced"],
+          "differentiators": ["unique features"],
+          "complaints": ["user complaints"],
+          "strategic_moves": ["recent moves"],
+          "milestones": ["key milestones"],
+          "new_features": ["recent features"],
+          "other_details": ["other important info"]
+        }
+        ```
+        """
+
+    def get_prompt_for_model(self, company_query: str, domain: Optional[str], model: str) -> tuple:
+        """Returns the appropriate schema and prompt based on the model."""
 
         domain_context = f" (Official Domain: {domain})" if domain else ""
 
-        # CRITICAL: Add explicit instruction to output ONLY JSON
-        prompt = (
-            f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"\n\nCRITICAL INSTRUCTIONS:\n"
-            f"1. ONLY output a valid JSON object. NO text before or after.\n"
-            f"2. Do NOT include any markdown, explanations, or reasoning.\n"
-            f"3. Do NOT use code fences (```json or ```).\n"
-            f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
-            f"5. Use Google Search to find verified sources.\n"
-            f"6. Use URL Context to fetch and validate each URL before citing.\n"
-            f"7. Discard outdated links (>2 years old unless historical).\n"
-            f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
-            f"9. Include exact URLs and access dates as proof.\n"
-            f"\n{self.json_schema_instruction}"
-        )
+        if "lite" in model.lower():
+            # Lite model prompt - simpler and more concise
+            schema = self.json_schema_instruction_lite
+            prompt = (
+                f"Research the company: {company_query}{domain_context}.\n"
+                f"Return ONLY valid JSON. No markdown, no code fences, no explanations.\n"
+                f"Use Google Search for verified sources.\n"
+                f"All string values must be properly terminated.\n"
+                f"\n{schema}"
+            )
+        else:
+            # Full model prompt - detailed and comprehensive
+            schema = self.json_schema_instruction_full
+            prompt = (
+                f"Perform exhaustive research on the company: {company_query}{domain_context}. "
+                f"\n\nCRITICAL INSTRUCTIONS:\n"
+                f"1. ONLY output a valid JSON object. NO text before or after.\n"
+                f"2. Do NOT include any markdown, explanations, or reasoning.\n"
+                f"3. Do NOT use code fences (```json or ```).\n"
+                f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
+                f"5. Use Google Search to find verified sources.\n"
+                f"6. Use URL Context to fetch and validate each URL before citing.\n"
+                f"7. Discard outdated links (>2 years old unless historical).\n"
+                f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
+                f"9. Include exact URLs and access dates as proof.\n"
+                f"10. ENSURE all JSON strings are properly terminated with quotes.\n"
+                f"\n{schema}"
+            )
 
-        config = types.GenerateContentConfig(
-            tools=tools,
-            # REMOVE thinking_config to avoid intermediate reasoning output
-        )
+        return prompt, schema
 
-        try:
-            print(f"Researching '{company_query}' with verification...\n")
-            full_text = ""
+    def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
+        """Runs research with grounding and returns ONLY JSON output with fallback model support."""
 
-            # Use streaming if you want, but thinking mode causes the issue
-            for chunk in self.client.models.generate_content_stream(
-                    model=self.model,
-                    contents=prompt,
-                    config=config,
-            ):
-                if chunk.text:
-                    full_text += chunk.text
+        models_to_try = [self.model, self.model2]
+        last_error = None
 
-            text = full_text.strip()
+        for model in models_to_try:
+            try:
+                print(f"Attempting research with model: {model}...\n")
 
-            # Simple JSON extraction
-            if "```json" in text:
-                json_str = text.split("```json")[1].split("```")[0].strip()
-            elif "```" in text:
-                json_str = text.split("```")[1].split("```")[0].strip()
-            else:
-                json_str = text
+                tools = [
+                    types.Tool(google_search=types.GoogleSearch()),
+                    types.Tool(url_context=types.UrlContext()),
+                ]
 
-            return json.loads(json_str)
+                # Get appropriate prompt based on model
+                prompt, schema = self.get_prompt_for_model(company_query, domain, model)
 
-        except Exception as e:
-            return {
-                "error": f"Research failed: {str(e)}",
-                "raw_response": full_text if 'full_text' in locals() else 'No response'
-            }
+                config = types.GenerateContentConfig(
+                    tools=tools,
+                )
+
+                print(f"Researching '{company_query}' with verification...\n")
+                full_text = ""
+
+                # Use streaming
+                for chunk in self.client.models.generate_content_stream(
+                        model=model,
+                        contents=prompt,
+                        config=config,
+                ):
+                    if chunk.text:
+                        full_text += chunk.text
+
+                text = full_text.strip()
+
+                # Simple JSON extraction
+                if "```json" in text:
+                    json_str = text.split("```json")[1].split("```")[0].strip()
+                elif "```" in text:
+                    json_str = text.split("```")[1].split("```")[0].strip()
+                else:
+                    json_str = text
+
+                # Try to parse and validate JSON
+                try:
+                    result = json.loads(json_str)
+                    print(f"✅ Successfully parsed JSON from model: {model}\n")
+                    return result
+                except json.JSONDecodeError as json_error:
+                    # Log the JSON parsing error
+                    print(f"⚠️  JSON parsing error with model '{model}': {str(json_error)}")
+                    print(f"Raw response preview: {full_text[:200]}...")
+                    print(f"Attempting fallback to next model...\n")
+                    last_error = f"JSON parsing error: {str(json_error)}"
+                    continue
+
+            except Exception as e:
+                error_message = str(e)
+                last_error = error_message
+
+                # Check if it's a 503 error or similar temporary issue
+                if "503" in error_message or "UNAVAILABLE" in error_message or "high demand" in error_message.lower():
+                    print(f"⚠️  Model '{model}' unavailable: {error_message}")
+                    print(f"Attempting fallback to next model...\n")
+                    continue
+                else:
+                    # For non-temporary errors, return immediately
+                    return {
+                        "error": f"Research failed: {error_message}",
+                        "raw_response": full_text if 'full_text' in locals() else 'No response'
+                    }
+
+        # If all models fail
+        return {
+            "error": f"Research failed: All models exhausted. Last error: {last_error}",
+            "raw_response": ""
+        }
 
     def save_results(self, data: Dict[str, Any], original_query: str, storage_folder: str = "data/results"):
         """Saves the JSON data to {storage_folder}/{company_name}.json"""
@@ -215,6 +299,7 @@ class GeminiCompanyResearcher:
             print(f"Error found in data, skipping save: {data['error']}")
             return
 
+        # Handle both full and lite schema responses
         name = data.get("company_name", original_query)
         clean_name = re.sub(r'[^a-zA-Z0-9]', '_', name).lower()
 
@@ -251,8 +336,6 @@ if __name__ == "__main__":
     if outcome["status"] == "success":
         print("\nResearch complete and saved.")
         print("\n--- RESEARCH SUMMARY ---")
-        print(json.dumps(outcome, indent=2))
+        print(json.dumps(outcome["data"], indent=2))
     else:
         print(f"\nFailed: {outcome['message']}")
-
-

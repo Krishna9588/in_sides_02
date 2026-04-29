@@ -1,0 +1,189 @@
+I am working on this project and till now,
+Agent 1
+A. Competitor Tracking
+B. User Conversations
+C. Internal Data
+
+* all the files are attached.
+Next i want to build this system for an team of 10 users.
+So I want to start with designing part of this project.
+considering all the things of an working project like
+Database, Frontend, Backend, API connection, .env file storing. async working.
+---
+RIght now my main problems are
+
+building Agent 2, Agent 3 Agent 4
+As we have access to Paid Gemini and Claude, -> first i want to build an script model_connect.py -> in that make 3 function to connect me with gemini, openai - chatgpt, claude.
+
+and in the end one function name same as file_name which will be called by all this 3 agents for API call to LLM models.
+I know all the models are different and take different input but this would allow me to control which model we are using and when so i will just change this in one file and enitre project would be using that model.
+->
+
+later for all this 3 agents we need to first build structure of agent 1 -> in that all this file are being control by one file the outputs are saved properly and then delived to next agent 2, 3 ,4. -> As when user will use this we will ask for an Project name: example: Groww so in that we will make an json or tag to store in database like mongodb -> from there we will use this to feed next agent 2 -> the output would later be update in same json file and then give to agent 3 and so on to 4.
+---
+
+We also need to write an proper clean prompts for Agent 2, 3 and 4.
+
+Once done this is an RAG enabled system so whateven we scrape run and store we should be using this to ask LLM models via chat on this data for insights.
+
+If any questions let me know, and tell me what should i build next in sequence.
+-
+Let me read all the uploaded files first to understand the full project.Now I have a thorough picture of the entire project. Let me build the architecture diagram and then write `model_connect.py` and the Agent 1 orchestrator.Let me build everything you need directly. I'll start with `model_connect.py`, then the Agent 1 orchestrator, and the prompts for Agents 2/3/4.Here's everything you need. Let me walk you through what was built and what to do next.
+
+---
+
+## What was built
+
+**`model_connect.py`** — the single LLM gateway. Change `DEFAULT_PROVIDER` and `DEFAULT_MODEL` at the top and the entire project switches models. Supports Gemini, Claude, and OpenAI. Has a `model_connect_json()` convenience wrapper that auto-parses JSON back to a dict.
+
+**`agent1_orchestrator.py`** — coordinates all three Agent 1 data sources (A: competitor profile, B: scrapers, C: internal files). Creates the project document in MongoDB (or falls back to `data/projects/groww.json` if Mongo is unavailable). Runs steps in sequence and saves status after each.
+
+**`agent2/3/4.py`** — each loads the project doc, calls the LLM via `model_connect`, and writes its output back to the same project doc. The flow is: problems → insights → product briefs.
+
+**`pipeline.py`** — single entry point to run everything:
+```bash
+python pipeline.py --project Groww --domain groww.in
+python pipeline.py --project Groww --start-from agent2   # resume after agent1
+python pipeline.py --project Groww --only agent3          # re-run just one step
+```
+
+---
+
+## Three things to hook up before it runs
+
+1. **Scraper function names** — in `agent1_orchestrator.py`, the imports like `from reddit_6_working_f import scrape_reddit` assume a function called `scrape_reddit`. Check the actual function names in your scraper files and update those 4 import lines.
+
+2. **`.env` file** — copy `.env.example` to `.env`, add your `GEMINI_API_KEY` (or `ANTHROPIC_API_KEY`), and your `HF_TOKEN`.
+
+3. **MongoDB** — if you have Atlas, paste the URI into `.env`. If not, it silently falls back to local JSON files — works fine for now.
+
+---
+
+## What to build next (in order)
+
+1. **`rag_ingest.py`** — after pipeline completes, embed all the project data (problems, insights, briefs, signals) into Supabase pgvector. This is the RAG layer.
+2. **`chat.py` (Agent 5 / Copilot)** — takes a natural language question, retrieves relevant chunks from Supabase, passes them to the LLM, returns a cited answer.
+3. **FastAPI backend** — wraps `pipeline.py` and `chat.py` as REST endpoints so the frontend can call them.
+4. **React dashboard** — project list, pipeline status, problems/insights/briefs viewer, and the chat box.
+-
+Great we have all this file, next i will need an guide or [readme.md](http://readme.md) file to help me set this up properly at there location.
+I will design an project as instructed.
+and
+A file of python which will help me test all of this build,
+
+Make sure not to show any logos in the terminal, all file should have a function by which we can call entire files logic to another file.
+-
+Here's what was built and exactly how to use both files.
+
+---
+
+## README covers
+
+The full setup in order — folder structure with a visual tree, where each file goes (table), virtual environment setup, `requirements.txt` contents, `.env` configuration, how to wire your scraper function names into the orchestrator, how to change the active LLM in one edit, how to set the `PYTHONPATH`, every `pipeline.py` run command, how to run tests, MongoDB setup, and common errors with fixes.
+
+---
+
+## Test file (`test_pipeline.py`) design
+
+**No logos, no ASCII art** — just clean `[HH:MM:SS] [PASS] test_name` lines.
+
+**Every test function is independently callable** — the runner uses `inspect.signature` to detect whether to pass `tmp_dir`, so you can call any test function directly from another file if needed.
+
+**Two tiers of tests:**
+
+| Tier | What it tests | Needs API key? |
+|---|---|---|
+| Default (fast) | Imports, structure, prompt building, DB fallback, platform detection | No |
+| `--live` | Real LLM calls for agent2/3/4, full end-to-end pipeline | Yes |
+
+**Run order to start:**
+```bash
+# 1. First — make sure imports work (no API needed)
+PYTHONPATH=agents:scrapers:core python tests/test_pipeline.py
+
+# 2. Once .env is filled in — test real LLM
+PYTHONPATH=agents:scrapers:core python tests/test_pipeline.py --live
+
+# 3. After hooking up scrapers — full pipeline
+PYTHONPATH=agents:scrapers:core python tests/test_pipeline.py --test full_pipeline --live
+```
+
+The one thing to do before running: in `agent1_orchestrator.py`, update the four scraper function names as described in README Step 5. Everything else should work out of the box.
+-
+Whats next, Lets build the next part of our project,
+-- But the test didnt worked properly.
+---
+C:\Python313\python.exe C:\Users\propl\PycharmProjects\in_sides_02\agent_1\agent1_[orchestrator.py](http://orchestrator.py)
+Enter file path: Groww
+🚀 [AGENT 1 ORCHESTRATOR] Starting Intelligence Gathering for: GROWW
+-> Dispatching concurrent scraping tasks...
+AIzaSyBPHAitU87elrUwDkfevrms6O-u3ns4sTk
+[2026-04-29 12:52:37] INFO - Searching: Groww
+[2026-04-29 12:52:37] INFO - Searching: Groww
+[2026-04-29 12:52:38] INFO - Found 9 results
+[2026-04-29 12:52:38] INFO - Default selected: Groww Credit: Instant Loan App (in.groww.dash)
+[2026-04-29 12:52:38] INFO - Extracting metadata for package: in.groww.dash
+Researching 'Groww' with verification...
+[2026-04-29 12:52:38] INFO - AFC is enabled with max remote calls: 10.
+[2026-04-29 12:52:38] INFO - Found 9 results
+[2026-04-29 12:52:38] INFO - Fetching details for app ID: 1404871703
+[2026-04-29 12:52:38] INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse "HTTP/1.1 429 Too Many Requests"
+[2026-04-29 12:52:38] INFO - Extracted 33 fields
+[2026-04-29 12:52:38] INFO - Fetching reviews for app ID: 1404871703
+[2026-04-29 12:52:38] INFO - Distribution: {'1': 20, '2': 20, '3': 20, '4': 20, '5': 20}
+[2026-04-29 12:52:38] INFO - Fetching 20 reviews for 1★ rating
+[2026-04-29 12:52:39] INFO - Extracted 29 fields
+[2026-04-29 12:52:39] INFO - Fetching reviews for package: in.groww.dash
+[2026-04-29 12:52:39] INFO - Distribution: {'1': 20, '2': 20, '3': 20, '4': 20, '5': 20}
+[2026-04-29 12:52:39] INFO - Fetching 20 reviews for 1★ rating
+[2026-04-29 12:52:39] INFO - 1★: Fetched 0/20 reviews
+[2026-04-29 12:52:39] INFO - Fetching 20 reviews for 2★ rating
+[2026-04-29 12:52:39] INFO - 1★: Fetched 20/20
+[2026-04-29 12:52:39] INFO - Fetching 20 reviews for 2★ rating
+[2026-04-29 12:52:39] INFO - 2★: Fetched 0/20 reviews
+[2026-04-29 12:52:39] INFO - Fetching 20 reviews for 3★ rating
+[2026-04-29 12:52:40] INFO - 3★: Fetched 0/20 reviews
+[2026-04-29 12:52:40] INFO - Fetching 20 reviews for 4★ rating
+[2026-04-29 12:52:40] INFO - 2★: Fetched 20/20
+[2026-04-29 12:52:40] INFO - Fetching 20 reviews for 3★ rating
+[2026-04-29 12:52:40] INFO - 4★: Fetched 0/20 reviews
+[2026-04-29 12:52:40] INFO - Fetching 20 reviews for 5★ rating
+[2026-04-29 12:52:40] INFO - 5★: Fetched 0/20 reviews
+[2026-04-29 12:52:40] INFO - Total reviews fetched: 0
+[2026-04-29 12:52:41] INFO - 3★: Fetched 20/20
+[2026-04-29 12:52:41] INFO - Fetching 20 reviews for 4★ rating
+[2026-04-29 12:52:41] INFO - 4★: Fetched 20/20
+[2026-04-29 12:52:41] INFO - Fetching 20 reviews for 5★ rating
+-> Structuring Data...
+✅ [SUCCESS] Agent 1 data saved to Database: database_mock\Groww\agent1_raw_signals.json
+[2026-04-29 12:52:42] INFO - 5★: Fetched 20/20
+[2026-04-29 12:52:42] INFO - Total reviews fetched: 100
+Process finished with exit code 0
+
+---
+Ask me for input and i will give you accurate input for research
+-
+Looking at both outputs, I can see two things to address:
+
+1. **The one failing test** - `agent1.skip_steps` is failing because the skip logic check is wrong
+2. **The real Agent 1 orchestrator** you're running is a different, more advanced version than what I built against - it has concurrent scraping, emoji logos, and a different structure
+
+Let me ask a few things before building:Also — can you share the real `agent1_orchestrator.py` file? I need to see its actual function names, how it saves output, and what `agent1_raw_signals.json` looks like so I can wire Agent 2 to read it correctly.
+-
+Q: The real agent1_orchestrator.py you're running looks different from the one I built. Which should be the "truth" going forward?
+A: Merge both — keep real scraper logic, replace shell with my clean structure
+
+Q: For the test fix — agent1.skip_steps fails because when all steps are skipped, the status logic marks it 'agent1_done' instead of 'agent1_partial'. How strict should this be?
+A: Add a separate status like 'agent1_skipped' for this case
+
+Q: What do you want to build next after fixing the test?
+A: Fix agent1 integration first, then decide
+-
+Perfect. Share the real `agent1_orchestrator.py` file and also the `agent1_raw_signals.json` it produced for Groww. I need to see:
+
+1. The actual function signatures it exposes
+2. How it saves output (folder structure, file naming)
+3. What the JSON schema looks like so Agent 2 reads it correctly
+
+Once I have those two files I can do the merge properly without guessing.
+-
