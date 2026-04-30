@@ -1,0 +1,308 @@
+{
+    "company_name": "Unacademy",
+    "domain": "www.unacademy.com",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.unacademyapp",
+    "appstore_link": "https://apps.apple.com/in/app/unacademy-learner-app/id1342568600",
+    "youtube_official_channel": "https://www.youtube.com/@unacademy",
+    "year_founded": "2015, Bangalore, India",
+    "names_of_founders": [
+        "Gaurav Munjal",
+        "Hemesh Singh",
+        "Roman Saini"
+    ],
+    "c-suite_officer": [
+        "Gaurav Munjal: Co-Founder & CEO (as of late 2025, preparing to step down)",
+        "Sumit Jain: Chief Executive Officer (appointed May 2025)",
+        "Hemesh Singh: Co-Founder & CTO (exited June 2024)",
+        "Roman Saini: Co-Founder & Chief Educator (stepping back from active duties as of May 2025)",
+        "Vivek Sinha: Chief Operating Officer (elevated July 2021)",
+        "Sachin Gupta: Co-Founder & Head of Engineering"
+    ],
+    "exact_hq_location": "NO 11/1,12/1 2nd FLOOR, BlOCK B MARUTI INFO-TECH CENTRE, AMARJYOTHI LAYOUT, INTERMEDIATE RING ROAD, Domlur, Bangalore, Bangalore North, Karnataka, India, 560071",
+    "locations_operating_in": [
+        "India (primarily Bengaluru, Kota, Delhi, Mumbai, Jaipur, Lucknow)",
+        "Worldwide (Airlearn users in US, UK, Germany)"
+    ],
+    "industry_and_segment": "Edtech, focusing on test preparation (competitive exams like UPSC, IIT JEE, NEET UG, CAT), K-12 coaching, and professional upskilling.",
+    "available_platforms": "Both",
+    "funding_raised": "$880 million across 13 rounds, with the latest Series H round of $440 million in August 2021.",
+    "no_of_users": "75M+ users (as of March 2026)",
+    "annual_revenue": "₹988.4 crore (approximately US$120 million) in FY24, down 5.33% from ₹1,044 crore in FY23.",
+    "key_positioning": "India's largest learning platform, aiming to democratize education by providing high-quality, accessible, and affordable learning resources for competitive exams and skill development.",
+    "revenue_model": "Freemium model, primarily through paid subscriptions (Plus and Iconic tiers), microtransactions for single courses/live classes, partnerships with educational institutions, and revenue from offline learning centers. Monetizes celebrity educators via revenue-share and premium bundles.",
+    "competitors": [
+        {
+            "name": "BYJU'S",
+            "domain": "www.byjus.com"
+        },
+        {
+            "name": "Vedantu",
+            "domain": "www.vedantu.com"
+        },
+        {
+            "name": "Physics Wallah (PW)",
+            "domain": "www.physicswallah.live"
+        },
+        {
+            "name": "Adda247",
+            "domain": "www.adda247.com"
+        },
+        {
+            "name": "upGrad",
+            "domain": "www.upgrad.com"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Decline in demand for online education post-pandemic as students returned to offline classrooms.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGarVMRxWncwwmDj8bNFFpLqLtnDw0fq_SXPWcAAScTVLn_MAxmW2gBAvIAf7x2yG7huAUiQ16Oq2K8C7Hn0B4-3gfiY4fFClsLUKgYSIS_Jg6lAOw617bSwhbpWXNtNc1RWFNHf9iTy_nFo_1LG4Bnw4uI8k9Ks4GukGCVqqXE5ALTWvqGunDAfEyJyGFcEqsm6Spa8ayaqECOLeVkMZvocW0RB3yOY2l52E-uBBW8BcPg [1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElnckZbdTrSE8TtOdX6V9FA5Yxq2fVD1xpUYJHkC_RE83Hr8nhhP3KfgLC6Kq-AyBoFMKbJ8Bn2z8Z2-KiUffzhOyvfL7DgHGfEuzpULE2xYJm2Ad_6HlCDSe810zAhhic6s1-XWOLdEZS1hgzHwquvWGyRo6e8osZSQ== [1]",
+            "date": "Recent",
+            "effect": [
+                "Core online revenue declined significantly.",
+                "Shift in focus towards offline learning centers to compensate."
+            ]
+        },
+        {
+            "description": "High customer acquisition costs and intense competition in the edtech market.",
+            "user_type": "Internal Staff",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElnckZbdTrSE8TtOdX6V9FA5Yxq2fVD1xpUYJHkC_RE83Hr8nhhP3KfgLC6Kq-AyBoFMKbJ8Bn2z8Z2-KiUffzhOyvfL7DgHGfEuzpULE2xYJm2Ad_6HlCDSe810zAhhic6s1-XWOLdEZS1hgzHwquvWGyRo6e8osZSQ== [1]",
+            "date": "Recent",
+            "effect": [
+                "Increased financial pressure and reduced profitability.",
+                "Required slashing of marketing budgets."
+            ]
+        },
+        {
+            "description": "Layoffs and cost-cutting measures due to lack of profitability and high cash burn.",
+            "user_type": "Internal Staff",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElnckZbdTrSE8TtOdX6V9FA5Yxq2fVD1xpUYJHkC_RE83Hr8nhhP3KfgLC6Kq-AyBoFMKbJ8Bn2z8Z2-KiUffzhOyvfL7DgHGfEuzpULE2xYJm2Ad_6HlCDSe810zAhhic6s1-XWOLdEZS1hgzHwquvWGyRo6e8osZSQ== [1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-bp-zEF47ab1gICaAfsl4qZY0a_BKXGGZXXSDQs4YgUByTzeb-VlDkZQb7UuHkXJM1S2AO6Ui_QD6wLEcwh5py3qEq3UBXZ5Wlcrk53OgNOYVpsc7SrTZTAbNBsEB4VJTJH0pQ05VZK_wZ7CX7xUjZTfYaDayPMpLKMM1RJPRNWfmWDPcDuSWIh-5acH49AT-TbGmx6gFfy1UPw-CrUx8pfR6w7x0F-WEK4vs0yFgqJSb [3]",
+            "date": "2022-2024",
+            "effect": [
+                "Reduced employee morale.",
+                "Impacted company growth and diversification efforts."
+            ]
+        },
+        {
+            "description": "Teacher attrition (educators leaving the platform) impacting course continuity and quality.",
+            "user_type": "End-user, Internal Staff",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEzEJ304otxoZQfJsR6xfRCUDpBC1lDuUQX4TlEBTfNlHXNjz3pBqbY7_STL_P4Rg8rgfpVJh5t7eY7ENFitttZ3rbT2ngZZg5ddO3y2XURcSyHZkooq2tFU61Y7A8U3MA6_UN8IwLKeGQqkgoNW69Lv6ILZF1Yg== [1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVruc8R1QEU3Imt_aW33Go_F5RxwnmtVKJ3AIacCd62QM5gJEA7_XcRyxVCI1XcldA439IXe19iKfD4FKW-Y53Y97gOnzHvmlNRXht99Skryi1RIlup31VqAGGnPe4TyxeXB_v1wnyAipZyrOH0QFUh_8rCKi7Uf0VuaA8e1CUureDLvIdne6oXcfCp2I= [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOcLYoMv8B-PH6Mt7FAD9W47eKiM4OJJntRKOSC8apRUvMDknZ-FHC8UATKbsDWwTYCPwx3Tc_pR0s-hksWqanew9eFq-MN7dx9eEnY4d8HQ3IH1qyMBm-EKpJjM8X9eaApG7DWTQ== [5]",
+            "date": "Recent",
+            "effect": [
+                "Students lose access to preferred educators, impacting learning journey.",
+                "Questionable quality of remaining content if top educators leave."
+            ]
+        },
+        {
+            "description": "Unsuccessful acquisitions and challenges in managing diversified verticals, leading to financial losses.",
+            "user_type": "Internal Staff, Management",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-bp-zEF47ab1gICaAfsl4qZY0a_BKXGGZXXSDQs4YgUByTzeb-VlDkZQb7UuHkXJM1S2AO6Ui_QD6wLEcwh5py3qEq3UBXZ5Wlcrk53OgNOYVpsc7SrTZTAbNBsEB4VJTJH0pQ05VZK_wZ7CX7xUjZTfYaDayPMpLKMM1RJPRNWfmWDPcDuSWIh-5acH49AT-TbGmx6gFfy1UPw-CrUx8pfR6w7x0F-WEK4vs0yFgqJSb [3]",
+            "date": "2021-2022",
+            "effect": [
+                "Resulted in significant financial losses and impairment charges.",
+                "Raised questions about management's growth strategies."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Wide choice of top educators and diverse course offerings across 60+ exam categories.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5r_f50MvQ10AU-Gc2kKaA2k9SSKH--mqlfDSGA56Lshw9WeK4rNz0aZ-sVsKqKO-dMzDIiqboTI-QB6n3f7H1rnr8gqxFnyEDMrqABLlp5Q== [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEX6Pr5Z1-K4NgoaES1GdsFF3ozEej80dBbVoor7ufIcya-kOAbF4TjWdaSeWgnoLWAuYkJ2WYHrUkhvZnXzlx3Cw47qQYyMENtJXKUmS4vwe4o5dHvcbDZT9hTRpo5TRbXWXOcNEy9Cew9ws= [1]",
+            "date": "Recent",
+            "effect": [
+                "Provides learners with multiple options to find suitable teachers and courses.",
+                "Catters to a broad spectrum of competitive exam aspirants."
+            ]
+        },
+        {
+            "feature": "Interactive live classes with features like live chat, polls, and dedicated doubt-clearing sessions.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5r_f50MvQ10AU-Gc2kKaA2k9SSKH--mqlfDSGA56Lshw9WeK4rNz0aZ-sVsKqKO-dMzDIiqboTI-QB6n3f7H1rnr8gqxFnyEDMrqABLlp5Q== [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdLxqw7nubDfCUnOAQkJcGap2-4OZ3elIYzS3LHkcGn2ICH8nRzqTtB-s7x_jUTEHC2K7sezvKOAjH0V1DEU5qaaZSY-N3FztSmjkgc56SJKMxEwACx8zrKQ5kdzV06HzICZPXEMcnS_UP [5]",
+            "date": "Recent",
+            "effect": [
+                "Enhances student engagement and provides real-time interaction with educators.",
+                "Helps in clarifying doubts instantly."
+            ]
+        },
+        {
+            "feature": "Flexible learning (learn anytime, anywhere) with recorded classes and offline downloads.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5r_f50MvQ10AU-Gc2kKaA2k9SSKH--mqlfDSGA56Lshw9WeK4rNz0aZ-sVsKqKO-dMzDIiqboTI-QB6n3f7H1rnr8gqxFnyEDMrqABLlp5Q== [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdLxqw7nubDfCUnOAQkJcGap2-4OZ3elIYzS3LHkcGn2ICH8nRzqTtB-s7x_jUTEHC2K7sezvKOAjH0V1DEU5qaaZSY-N3FztSmjkgc56SJKMxEwACx8zrKQ5kdzV06HzICZPXEMcnS_UP [5]",
+            "date": "Recent",
+            "effect": [
+                "Offers convenience and accessibility to learners across various devices and locations.",
+                "Supports self-paced learning."
+            ]
+        },
+        {
+            "feature": "Personalized learning paths with AI-driven assistance and dedicated coaches (for Iconic subscriptions).",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjChjci61oOgYhJb_3P51QnMX8DjsYpbGFx2qQzvyqOlrfExidmyqNPCGZ37GgNzZrWvaAt1OTrtsWqcK_fBCupKtk3XVfYoqjsp65pJeLMMdmVa9f5SvqkLSpghVb-lJilrgKtWgsoTN-0w== [2], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxJgsH1J-hQdq40DrJBpbVkvhwfjd4ViJ7zHTg6ZUbpPwQtumP0N3jgD4wy21Px9mPTvCAMnjF9tf_pe8SMonTmmXMru63Qz4LM9ziMU6HTc5mu927MErbpQdC4V8e7pnGom5sUwQOOWEbpc8DEDvXzSTJhSNPpVj_Y1cef65NiA7kHQ== [4]",
+            "date": "Recent",
+            "effect": [
+                "Improves learning outcomes by adapting to individual student pace.",
+                "Provides tailored support for academic and strategic doubts."
+            ]
+        },
+        {
+            "feature": "Omnichannel presence blending online subscriptions with physical learning centers.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFckcZTevc6S5LOdCpnsRC9ejZjCLxwd9_qaneaad60F-Ulj4wNre5jeyRo_utqrRhC33Ljr0q1od4ze6cBK3MR57aUY95-iuQBXEh6Y__Pm62O6I-Q48MTd-c0DhA1uAHgH4QtsTGmKEQ7YJWIz3cyU7rQbGyOH66NCE71p8qPWvSxCyGK6J3lxrAK4jjL1mdxsho_ [3], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxJgsH1J-hQdq40DrJBpbVkvhwfjd4ViJ7zHTg6ZUbpPwQtumP0N3jgD4wy21Px9mPTvCAMnjF9tf_pe8SMonTmmXMru63Qz4LM9ziMU6HTc5mu927MErbpQdC4V8e7pnGom5sUwQOOWEbpc8DEDvXzSTJhSNPpVj_Y1cef65NiA7kHQ== [4]",
+            "date": "Recent",
+            "effect": [
+                "Addresses the preference for hybrid learning models, especially post-pandemic.",
+                "Expands market reach into India's traditionally offline coaching market."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Teachers leaving the platform frequently and abruptly.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEzEJ304otxoZQfJsR6xfRCUDpBC1lDuUQX4TlEBTfNlHXNjz3pBqbY7_STL_P4Rg8rgfpVJh5t7eY7ENFitttZ3rbT2ngZZg5ddO3y2XURcSyHZkooq2tFU61Y7A8U3MA6_UN8IwLKeGQqkgoNW69Lv6ILZF1Yg== [1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhs2YUk7cQWAxapN1xyMvTDuiQuPpyV2MgJc2GixR4t6sR62G5AsRIh83Xqxz386O8QUaMhrwIErDewUGdRbl-KFg8-HMd4hYnCjhQgtO8HQZMj9Y_w8B6KaMFPVlFZvTTVZ581cdIzq7gOSCQq0p5liz1IvWnb-e1WaHOGnCO0w_9CPMpZ7QbG2tZfqY2evFDMM-suyfZk0_bIDB8qwzlV6MapMoQ-zdsjQI38s-Jj_a64Qbhyz4= [3]",
+            "date": "April 2024",
+            "effect": [
+                "Students lose access to preferred educators.",
+                "Impacts continuity of learning and subscription value."
+            ]
+        },
+        {
+            "issue": "Repetitive and unverified content, and lack of proper course structure/delivery plan.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEzEJ304otxoZQfJsR6xfRCUDpBC1lDuUQX4TlEBTfNlHXNjz3pBqbY7_STL_P4Rg8rgfpVJh5t7eY7ENFitttZ3rbT2ngZZg5ddO3y2XURcSyHZkooq2tFU61Y7A8U3MA6_UN8IwLKeGQqkgoNW69Lv6ILZF1Yg== [1]",
+            "date": "April 2024",
+            "effect": [
+                "Degraded quality of content and learning experience.",
+                "Students have to blindly trust teachers' discretion."
+            ]
+        },
+        {
+            "issue": "Cluttered app interface and difficulty in finding relevant content or scheduling classes/doubt sessions.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhs2YUk7cQWAxapN1xyMvTDuiQuPpyV2MgJc2GixR4t6sR62G5AsRIh83Xqxz386O8QUaMhrwIErDewUGdRbl-KFg8-HMd4hYnCjhQgtO8HQZMj9Y_w8B6KaMFPVlFZvTTVZ581cdIzq7gOSCQq0p5liz1IvWnb-e1WaHOGnCO0w_9CPMpZ7QbG2tZfqY2evFDMM-suyfZk0_bIDB8qwzlV6MapMoQ-zdsjQI38s-Jj_a64Qbhyz4= [3], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdLxqw7nubDfCUnOAQkJcGap2-4OZ3elIYzS3LHkcGn2ICH8nRzqTtB-s7x_jUTEHC2K7sezvKOAjH0V1DEU5qaaZSY-N3FztSmjkgc56SJKMxEwACx8zrKQ5kdzV06HzICZPXEMcnS_UP [5]",
+            "date": "August 2024",
+            "effect": [
+                "Frustrates users and makes navigation difficult.",
+                "Impacts efficiency of learning and accessing support."
+            ]
+        },
+        {
+            "issue": "Technical problems during live classes, such as lagging, buffering, and issues with video playback/CC.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdLxqw7nubDfCUnOAQkJcGap2-4OZ3elIYzS3LHkcGn2ICH8nRzqTtB-s7x_jUTEHC2K7sezvKOAjH0V1DEU5qaaZSY-N3FztSmjkgc56SJKMxEwACx8zrKQ5kdzV06HzICZPXEMcnS_UP [5]",
+            "date": "January 2024",
+            "effect": [
+                "Disrupts live learning experience.",
+                "Hampers ability to follow classes effectively."
+            ]
+        },
+        {
+            "issue": "High price of courses/subscriptions and poor value for money perceived by some users.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdLxqw7nubDfCUnOAQkJcGap2-4OZ3elIYzS3LHkcGn2ICH8nRzqTtB-s7x_jUTEHC2K7sezvKOAjH0V1DEU5qaaZSY-N3FztSmjkgc56SJKMxEwACx8zrKQ5kdzV06HzICZPXEMcnS_UP [5], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESNHzgBB5hGcCfKrpQDn8yw24gvwv2k-3f044WYqE6bw0x6z4W7S9EVvhJUNOTwnKpQw6qP30pE8tKRg4ZhNlXmDQW6ojIkHmPz-uwZkLdjTl3zsiFwtFS8BrTG8OuuuNJKGBG0CB9PMKoxj0pPFk7Bg== [5]",
+            "date": "January 2024",
+            "effect": [
+                "Limits accessibility for some students.",
+                "Leads to dissatisfaction and demand for refunds."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Pivot from online-only to an omnichannel learning model with physical coaching centers.",
+            "user_type": "Management, End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQIYh2Jq0f5fT_OR_SO0YoY0iR4orXDY0UI9rWSe2AGVQQWINxIn4mVD4XqcDaCsW5Ha4wMrGa50FN0oZNPiqYK3x7DHOFB0OGrxegG4W9nVUVTHtfL0GeMB7mGxZmh5N5rPfGsSfv4AxCkVPzlOLydwjD_mzen4g1EwdSSquBHZQQlJzUbEIyJqI9yQJLjM_R6C-pPYpQJ [1], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFckcZTevc6S5LOdCpnsRC9ejZjCLxwd9_qaneaad60F-Ulj4wNre5jeyRo_utqrRhC33Ljr0q1od4ze6cBK3MR57aUY95-iuQBXEh6Y__Pm62O6I-Q48MTd-c0DhA1uAHgH4QtsTGmKEQ7YJWIz3cyU7rQbGyOH66NCE71p8qPWvSxCyGK6J3lxrAK4jjL1mdxsho_ [3], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxJgsH1J-hQdq40DrJBpbVkvhwfjd4ViJ7zHTg6ZUbpPwQtumP0N3jgD4wy21Px9mPTvCAMnjF9tf_pe8SMonTmmXMru63Qz4LM9ziMU6HTc5mu927MErbpQdC4V8e7pnGom5sUwQOOWEbpc8DEDvXzSTJhSNPpVj_Y1cef65NiA7kHQ== [4]",
+            "date": "Started May 2022, 60+ centers by 2026",
+            "effect": [
+                "Expanded market reach into the traditionally offline coaching segment.",
+                "Diversified revenue streams and reduced reliance on online-only model."
+            ]
+        },
+        {
+            "move": "Aggressive cost-cutting measures and layoffs to reduce cash burn and achieve profitability.",
+            "user_type": "Management, Internal Staff",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfu8FCkDnSwtXSlZpDmu2g_TYsYFcPtbg0B6wAa91dj1e9UMfDLKXsqpog4XwqwS6CWfTFxTqwsLnD9M8ZZOlAwTG-nf_qCgXSU4FaIvtCzl0jMofhitqLaPexkMxhJii4l090Sgnh7QKkm-_RyVvjQiq719r5kLxA1A== [4], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaiuqT8z6d2DZ2BXAPrPfFjkChLgMWtbdPW1mp4HimWG9AInXBbxynOIP-i8-vUFvcvijVor-kE6nhe6CqCSEJmNSKGY0Ed8L76-h106rRJJOmnYfbzaXJFdsjvuim899o8XeRe854JT_-GasOCEt80frUepM= [5]",
+            "date": "FY23-FY24",
+            "effect": [
+                "Significantly narrowed net losses and reduced cash burn.",
+                "Caused employee morale issues and concerns about company stability."
+            ]
+        },
+        {
+            "move": "Strategic acquisitions of other edtech platforms to expand offerings and reach.",
+            "user_type": "Management, End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqIo6y_TlHtZ-2A0rpyd6hfhtBJE1lsec5Ax8t3MY7rXZ0_mJsO5YnVwiue3gsRDd8WBsgQkEoTR5NNn0h580ri0tYfBFbTmQ3LaApMfNRimcVR-kBiQojmB108suRf4S24Ho_QffHkM6r2tLSTjEwcNClg96NU2Ic [2], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl1OAt6SqpolDOzbq7WptAdSMb-uWaBU9VVj475T8-BryHS1HihTJP7CiF8idAjBi_vqpcqVNpVynOinPq3ssrrjGiuiPvOaaGmon9h0L2dx8BNG-h01vGZ2OljyV3aAoB [1]",
+            "date": "2018-2021",
+            "effect": [
+                "Enhanced diverse course offerings and entered new niche markets (e.g., medical test prep, coding).",
+                "Expanded user base and technological capabilities."
+            ]
+        },
+        {
+            "move": "Launch of new specialized apps and products like Airlearn (language learning) and UnacademyX (self-paced UPSC).",
+            "user_type": "Management, End-user",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqqhq8cEeK6g2-qX2jcUdBDVGa9N1bULnb3fXgY7LGC_I4vGxiI3BQLyEwfnGE3KEbIQbaRtj5Z2HuZEmcn0V4eV9ZNemSliPb11lO22-kZ7MOz7m-LE4VgU6I0rAJm1kjjmiFGaOiANLgXj1UPdgPfMhjgY8usVJHo6WqvBJjUqmdiL_dtkdlkBSPfV0E5yhEDuYKj2RCap8ihkE7DQpcSDQdlsKBWLIX-MBaC3vuuEoWhXdfldstGqEtoh8PtVZ7jeds1H_mQ== [2], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQHTN-2w_5MQQLOvzgF6rsWp2h1DITbq6KDWhEDaJzuCJq6AVJBmJZSArRLxFDYOOShWRmSE6_bJ-vPto-crrBeQCsxVAjwtn6zlm0JV-cJvkRFEmRpv3lFwtyxHoJ-TSYMgH1VhIA3Cvd3z8tysou3pjfrwNeazejZ2Q7NgS6xksMqtTUjujp2CpIppbYjW0X6kkLV-jKZDeMAnGjACqHAvcnjQY7N_CcjClO2yBbMUtLPc= [3]",
+            "date": "June 2023 - June 2024",
+            "effect": [
+                "Diversified product portfolio beyond core test-prep.",
+                "Aimed at capturing new market segments and user needs."
+            ]
+        },
+        {
+            "move": "Shift to a subscription-based revenue model (Unacademy Plus) from an initial free content model.",
+            "user_type": "Management, End-user",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9LV7CTil_qy2yJtvN4oIh0H7mR1tpPFsKbtmESImz4rGBC9J0Oew66MC69FHtDuYbXzzuOp6rWmhwLclmgKGNlrKkPxLjbhe_edqTM50kA5UFpqVE2nAdOoSt83FZPOmTZKYIaAJycF0jqVX6GkxkoEN6nlu8WetYwYJOglrk_Yma421p [3], https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOn-O50JHDFV6kOxMRaqcaT6tptNDMN99ZVBWLnzfwjBBQcCfDxhH8tP2aAo274BWKd94sap4YIuUSWhV2oDf0RN_mWcwPrInuw-kBLx9c_46BCxKXVVasu1iT_9uh5FICHNhumUnXBIUIMEVKslyjkgmrZC8Ag_fG1Et7Nf6iApgntRlxLyESa7fNVmowzlBfIrfaKCvOFyhxrt-seMxpSaVR7-i57C5Mj205-ekIxLc= [3]",
+            "date": "2019",
+            "effect": [
+                "Created stable and recurring revenue streams.",
+                "Transformed the platform into a full learning ecosystem with continuous education."
+            ]
+        }
+    ],
+    "milestones": [
+        "Started as a YouTube channel by Gaurav Munjal in 2010.",
+        "Officially registered as an education company in Bengaluru in 2015.",
+        "Achieved Unicorn status in September 2020 with a $1.45 billion valuation after raising $150 million from Softbank.",
+        "Valued at $3.44 billion as of May 2022.",
+        "Opened first offline learning centers in Kota, Rajasthan, followed by Delhi, Mumbai, and Bengaluru in 2022.",
+        "Surpassed 800,000 active paid subscribers as of April 2022.",
+        "Crossed 75M+ users by March 2026."
+    ],
+    "new_features_launched": [
+        "Introduced 'Language Preference' feature (2017).",
+        "Rolled out 'Verified Educators' initiative (2017).",
+        "Launched 'Unacademy Plus' subscription for live, structured learning (October 2017).",
+        "Launched 'Unacademy Icons' with Sachin Tendulkar, offering structured curriculum by industry stalwarts (February 2022).",
+        "Launched 50 new educational channels (September 2022).",
+        "Introduced 'Cohesive AI' content editor for creation, refining, and publishing (April 2023).",
+        "Unveiled 'UnacademyX', a self-paced learning app for UPSC aspirants with features like 'Speak & Revise' (June 2023).",
+        "Launched 'Airlearn' language learning app (June 2024)."
+    ],
+    "other_crucial_details": [
+        "Parent company is Sorting Hat Technologies Pvt Ltd.",
+        "Acquired by upGrad in a 100% share-swap deal in March 2026, after Unacademy's valuation dropped below $500 million.",
+        "Unacademy was considering merger and acquisition opportunities in September 2024.",
+        "The company aims to make education accessible to all, democratizing it."
+    ]
+}
