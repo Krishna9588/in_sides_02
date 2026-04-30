@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "source_file": "unacademy.txt",
+    "source_type": "Internal",
+    "entity": "Unacademy",
+    "meeting_type": "Investor Call",
+    "file_date": "2026-04-29",
+    "processed_at": "2026-04-30T11:53:01.517376+00:00",
+    "classifier_used": "hybrid",
+    "total_signals": 21
+  },
+  "signals": [
+    {
+      "signal_id": "U_001",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Date: April 29, 2026 Attendees: Manager, Unacademy: (Product Educator Experience) FounderInnovator: (Pitching the new Whiteboard solution)",
+      "time_range": null,
+      "turn_index": 0
+    },
+    {
+      "signal_id": "U_002",
+      "signal_type": "Feature",
+      "confidence": 0.68,
+      "content": "Manager: Hi there! Thanks for taking the time to meet with me today. I know weve been looking for ways to upgrade our educator tools, and your email about a next-generation whiteboard caught my eye. How are you doing?",
+      "time_range": null,
+      "turn_index": 1
+    },
+    {
+      "signal_id": "U_003",
+      "signal_type": "Feature",
+      "confidence": 0.68,
+      "content": "Innovator: Im doing great, thank you! I really appreciate you squeezing me into your schedule. Ive been following Unacademys growth, and I know how heavily your educators rely on the digital whiteboard for live classes.",
+      "time_range": null,
+      "turn_index": 2
+    },
+    {
+      "signal_id": "U_004",
+      "signal_type": "Feature",
+      "confidence": 0.74,
+      "content": "Manager: They absolutely do. Its the core of the teaching experience. But Ill be honestwe already have a proprietary system that works relatively well. What are we missing, and what exactly are you pitching today?",
+      "time_range": null,
+      "turn_index": 3
+    },
+    {
+      "signal_id": "U_005",
+      "signal_type": "Feature",
+      "confidence": 0.69,
+      "content": "Innovator: You have a solid system, but \"relatively well\" still leaves room for friction. Right now, educators face slight latency issues during heavy diagramming, and students on 4G networks in tier-2 and tier-3 cities sometimes experience lag between the audio and the pen strokes.",
+      "time_range": null,
+      "turn_index": 4
+    },
+    {
+      "signal_id": "U_006",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "My solution is a vector-based, AI-assisted whiteboard software. We call it AuraBoard. It doesnt transmit video data of the screen. Instead, it transmits mathematical coordinates of the pen strokes.",
+      "time_range": null,
+      "turn_index": 5
+    },
+    {
+      "signal_id": "U_007",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Manager: Okay, thats interesting. Vector-based rendering means it takes up a lot less bandwidth. How much of a reduction are we talking about?",
+      "time_range": null,
+      "turn_index": 6
+    },
+    {
+      "signal_id": "U_008",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Innovator: It uses about 90 less data than screen-sharing a traditional whiteboard. A student in a remote area with a patchy 3G or 4G connection will see the educator's writing instantly, perfectly synced with the audio. It also means infinite zoom without pixelation for complex subjects like organic chemistry or calculus.",
+      "time_range": null,
+      "turn_index": 7
+    },
+    {
+      "signal_id": "U_009",
+      "signal_type": "Feature",
+      "confidence": 0.68,
+      "content": "Manager: Bandwidth optimization is huge for us, especially given our user base across India. But what about the educator's experience? Is there a learning curve? Teachers don't like adopting new, complicated tools right before a live class with thousands of students.",
+      "time_range": null,
+      "turn_index": 8
+    },
+    {
+      "signal_id": "U_010",
+      "signal_type": "Feature",
+      "confidence": 0.76,
+      "content": "Innovator: Weve designed the UI to mirror standard physical whiteboards. But weve added what we call \"Invisible AI.\" If a physics teacher quickly sketches a rough, wobbly circle or a right-angle triangle, the system instantly snaps it into a perfect geometric shape. If they write a complex equation, the board can optionally format it cleanly or even generate a 3D graph of it with a single tap.",
+      "time_range": null,
+      "turn_index": 9
+    },
+    {
+      "signal_id": "U_011",
+      "signal_type": "Feature",
+      "confidence": 0.68,
+      "content": "Manager: Snapping shapes and auto-generating graphs... that would save our top educators a lot of time. What about interactivity? Live classes aren't just one-way broadcasts anymore.",
+      "time_range": null,
+      "turn_index": 10
+    },
+    {
+      "signal_id": "U_012",
+      "signal_type": "Feature",
+      "confidence": 0.74,
+      "content": "Innovator: Exactly. AuraBoard has a \"Split-Zone\" feature. The educator can highlight a section of the board and temporarily give edit access to a specific studentor a group of studentsto solve a math problem live in front of the class. Its completely moderated, so the teacher can revoke access instantly.",
+      "time_range": null,
+      "turn_index": 11
+    },
+    {
+      "signal_id": "U_013",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Manager: I like the sound of that. Peer-to-peer solving in a live digital classroom drives up engagement metrics significantly. But lets talk integration. Our entire backend is custom-built. How easily does your tech slide into our existing infrastructure?",
+      "time_range": null,
+      "turn_index": 12
+    },
+    {
+      "signal_id": "U_014",
+      "signal_type": "Feature",
+      "confidence": 0.95,
+      "content": "Innovator: We built it API-first. You don't need to use a separate app. AuraBoard integrates directly into your existing web and mobile platforms via our SDK. It usually takes a standard engineering team less than two weeks to implement a fully working prototype into a testing environment.",
+      "time_range": null,
+      "turn_index": 13
+    },
+    {
+      "signal_id": "U_015",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Manager: That sounds promising, but I've been in product long enough to know integrations are rarely seamless. What about pricing? Since it's API-based, are we looking at a per-minute, per-user cost?",
+      "time_range": null,
+      "turn_index": 14
+    },
+    {
+      "signal_id": "U_016",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Innovator: We use a tiered pricing model based on concurrent active sessions, rather than per individual student. This makes it highly scalable for Unacademy. You won't be penalized for having a mega-class with 20,000 students, because the data transmission cost on our end is incredibly low due to the vector architecture.",
+      "time_range": null,
+      "turn_index": 15
+    },
+    {
+      "signal_id": "U_017",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Manager: That makes sense. Honestly, the bandwidth savings alone could offset the integration costs. Heres what Im thinkingI want to see this in action. Can you set up a sandbox environment for my technical lead and a couple of our top educators to play around with?",
+      "time_range": null,
+      "turn_index": 16
+    },
+    {
+      "signal_id": "U_018",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Innovator: Absolutely. I can send over the API keys and the sandbox documentation by the end of the day. Id love to get your educators' raw feedback.",
+      "time_range": null,
+      "turn_index": 17
+    },
+    {
+      "signal_id": "U_019",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Manager: Perfect. Lets do a two-week internal trial. If the latency is as low as you claim and the teachers find the interface intuitive, we can discuss a broader pilot program.",
+      "time_range": null,
+      "turn_index": 18
+    },
+    {
+      "signal_id": "U_020",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Innovator: Sounds like a plan. Thank you for your time, I'll get those credentials sent over to you right away!",
+      "time_range": null,
+      "turn_index": 19
+    },
+    {
+      "signal_id": "U_021",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "Manager: Looking forward to it. Have a great evening!",
+      "time_range": null,
+      "turn_index": 20
+    }
+  ]
+}

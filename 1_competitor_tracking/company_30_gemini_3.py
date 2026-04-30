@@ -1,42 +1,44 @@
 import os
 import json
 import re
+import time
 from google import genai
 from google.genai import types
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, List
 from dotenv import load_dotenv
 
-# Load environment variables from .env.example file
+# Load environment variables from .env file
 load_dotenv()
 
 
 class GeminiCompanyResearcher:
     """
-    A unified script to perform deep company research using Gemini 2.5 Flash,
-    Google Search grounding, and dynamic JSON file storage.
+    A unified script to perform deep company research using Gemini models,
+    Google Search grounding, API Key rotation, Model Fallbacks,
+    and dynamic JSON file storage.
     """
 
-    def __init__(self, api_key: Optional[str] = None):
-        # self.api_key = api_key or os.getenv("GEMINI_API_KEY")
-        self.api_key = "AIzaSyDaTCz6YKoEEMGPSfi9x6IgD6DMn-sf_Eg"
-        print(self.api_key)
-        if not self.api_key:
-            raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
+    def __init__(self):
+        # 1. Load multiple API Keys instead of a hardcoded one
+        self.api_keys = self._load_api_keys()
+        if not self.api_keys:
+            raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env file.")
 
-        # Initialize the Google GenAI Client
-        self.client = genai.Client(api_key=self.api_key)
-        # self.model = "gemini-2.5-flash"
-        # self.model = "gemini-3-flash-preview"
-        self.model = "gemini-3.1-flash-lite-preview"
+        print(f"✅ Loaded {len(self.api_keys)} API key(s)")
 
-        # self.model = "gemini-3-flash-preview"
+        # Initialize the Google GenAI Client with the first key
+        self.client = genai.Client(api_key=self.api_keys[0])
 
-        # ---- Other models
-        # self.model = "gemini-2.0-flash-lite"
-        # self.model = "gemini-flash-latest"
-        # self.model = "gemini-2.5-flash" # works pretty good
-        # self.model = "gemini-2.0-flash"
-        # self.model = "gemini-3-flash-preview"
+        # 2. Define the Model Fallback List (from most reliable to experimental)
+        self.models = [
+            "gemini-2.5-flash",  # ✅ Primary (Highly stable, doesn't need structured output flag)
+            "gemini-2.0-flash",  # ✅ Fallback 1 (High free tier quota)
+            "gemini-1.5-flash",  # ✅ Fallback 2 (Never goes down)
+            "gemini-flash-latest",  # ✅ Fallback 3
+            "gemini-2.5-flash-lite",  # ✅ Fallback 4
+            "gemini-3.1-flash-lite-preview",  # ✅ Fallback 5 (Preview model)
+            "gemini-3-flash-preview"  # ✅ Fallback 6 (Preview model)
+        ]
 
         # Updated schema with detailed analysis objects for critical categories
         self.json_schema_instruction = """
@@ -147,25 +149,48 @@ class GeminiCompanyResearcher:
         ```
         """
 
-    # ============================================================================
-    # NEW METHOD: Helper function to extract JSON from response text
-    # ============================================================================
+    def _load_api_keys(self) -> List[str]:
+        """Loads GEMINI_API_KEY, GEMINI_API_KEY_2, etc. from environment."""
+        api_keys = []
+        base_key = os.getenv("GEMINI_API_KEY")
+        if base_key:
+            api_keys.append(base_key)
+
+        for i in range(2, 15):
+            key = os.getenv(f"GEMINI_API_KEY_{i}")
+            if key and key not in api_keys:
+                api_keys.append(key)
+        return api_keys
+
+    def _get_config(self, model_name: str) -> types.GenerateContentConfig:
+        """
+        Dynamically generates configuration based on model capabilities.
+        Removes temperature and uses structured output only where permitted.
+        """
+        tools = [types.Tool(google_search=types.GoogleSearch())]
+
+        # Models that reliably support structured output alongside google search
+        structured_supported = ["gemini-3", "gemini-flash-latest"]
+
+        if any(supported in model_name for supported in structured_supported):
+            return types.GenerateContentConfig(
+                tools=tools,
+                response_mime_type="application/json"
+            )
+        else:
+            return types.GenerateContentConfig(tools=tools)
+
     def _extract_json(self, text: str) -> str:
-        """
-        Extract and clean JSON from response text.
-        Handles code fences, markdown formatting, and finds JSON boundaries.
-        """
+        """Extract and clean JSON from response text."""
         print("🔍 Extracting JSON from response...")
 
-        # Remove code fences (```json or ```)
         if "```json" in text:
             text = text.split("```json")[1].split("```")[0].strip()
-            print("✓ Removed ```json fences")
+            print("  ✓ Removed ```json fences")
         elif "```" in text:
             text = text.split("```")[1].split("```")[0].strip()
-            print("✓ Removed ``` fences")
+            print("  ✓ Removed ``` fences")
 
-        # Find first { and last } to isolate JSON
         start_idx = text.find('{')
         end_idx = text.rfind('}')
 
@@ -173,70 +198,37 @@ class GeminiCompanyResearcher:
             raise ValueError("❌ No JSON object found in response (missing { or })")
 
         json_str = text[start_idx:end_idx + 1]
-        print(f"✓ JSON extracted: {len(json_str)} characters")
+        print(f"  ✓ JSON extracted: {len(json_str)} characters")
 
-        # Fix common JSON issues
-        json_str = self._fix_json_string(json_str)
+        return self._fix_json_string(json_str)
 
-        return json_str
-
-    # ============================================================================
-    # NEW METHOD: Fix common JSON formatting issues
-    # ============================================================================
     def _fix_json_string(self, json_str: str) -> str:
-        """
-        Fix common JSON formatting issues that cause parsing errors:
-        - Trailing commas before } or ]
-        - Unescaped newlines in strings
-        - Other malformed sequences
-        """
-        print("🛠️  Fixing JSON formatting issues...")
+        """Fix common JSON formatting issues."""
+        print("🛠️ Fixing JSON formatting issues...")
 
-        # Fix trailing commas before } or ]
         original = json_str
         json_str = re.sub(r',(\s*[}\]])', r'\1', json_str)
         if json_str != original:
             print("  ✓ Fixed trailing commas")
 
-        # Fix unescaped newlines in strings (but preserve already escaped ones)
         original = json_str
         json_str = re.sub(r'([^\\])\n', r'\1\\n', json_str)
         if json_str != original:
             print("  ✓ Fixed unescaped newlines")
 
-        # Fix double-encoded backslashes that might cause issues
         original = json_str
-        # This is a careful approach - only fix obvious double escapes
         json_str = re.sub(r'\\\\n', r'\\n', json_str)
         if json_str != original:
             print("  ✓ Fixed double-encoded newlines")
 
         return json_str
 
-    # ============================================================================
-    # UPDATED METHOD: perform_research with retry logic and better error handling
-    # ============================================================================
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
         """
-        Runs research with grounding and returns ONLY JSON output.
-
-        IMPROVEMENTS:
-        - Added retry mechanism (up to 3 attempts)
-        - Better JSON extraction and validation
-        - Response size limits
-        - Temperature control for consistency
-        - Detailed error logging
-        - Uses non-streaming mode for cleaner responses
+        Runs research with grounding, models fallback, key rotation, and returns JSON.
         """
-
-        tools = [
-            types.Tool(google_search=types.GoogleSearch()),
-            # types.Tool(url_context=types.UrlContext()), # Removed to avoid exceeding URL lookup limit
-        ]
-
         domain_context = f" (Official Domain: {domain})" if domain else ""
 
-        # CRITICAL: Add explicit instruction to output ONLY JSON
         prompt = (
             f"Perform exhaustive research on the company: {company_query}{domain_context}. "
             f"\n\nCRITICAL INSTRUCTIONS:\n"
@@ -254,157 +246,86 @@ class GeminiCompanyResearcher:
             f"\n{self.json_schema_instruction}"
         )
 
-        # NEW: Added temperature and token limits for consistency
-        config = types.GenerateContentConfig(
-            tools=tools,
-            temperature=0.1,  # Lower temperature for more consistent JSON output
-            max_output_tokens=8000,  # Limit output size to prevent truncation
-        )
-
-        # NEW: Retry mechanism - up to 3 attempts
         max_retries = 3
-        retry_count = 0
-        full_text = ""
 
-        while retry_count < max_retries:
-            try:
-                retry_info = f" (Attempt {retry_count + 1}/{max_retries})" if retry_count > 0 else ""
-                print(f"Researching '{company_query}' with verification...{retry_info}\n")
+        # --- TIER 1: Loop through Models ---
+        for model in self.models:
+            skip_model = False
 
-                # CHANGED: Using non-streaming mode instead of streaming for cleaner responses
-                # Streaming can cause truncation and incomplete JSON responses
-                response = self.client.models.generate_content(
-                    model=self.model,
-                    contents=prompt,
-                    config=config,
-                )
-                full_text = response.text if response.text else ""
-                print(full_text)
+            # --- TIER 2: Loop through API Keys ---
+            for key_idx, api_key in enumerate(self.api_keys):
+                if skip_model: break
 
-                # NEW: Log response size
-                print(f"📊 Response size: {len(full_text)} characters")
+                self.client = genai.Client(api_key=api_key)
+                retry_count = 0
 
-                text = full_text.strip()
+                # --- TIER 3: JSON Parse Retries ---
+                while retry_count < max_retries:
+                    try:
+                        print(f"\n🚀 Model: {model} | 🔑 Key #{key_idx + 1} | 🔄 Attempt {retry_count + 1}/{max_retries}")
+                        print(f"Researching '{company_query}' with verification...")
 
-                if not text:
-                    raise ValueError("Empty response from API")
+                        config = self._get_config(model)
 
-                # IMPROVED: Better JSON extraction with validation
-                json_str = self._extract_json(text)
+                        response = self.client.models.generate_content(
+                            model=model,
+                            contents=prompt,
+                            config=config,
+                        )
 
-                # Try to parse JSON
-                data = json.loads(json_str)
-                print("✅ JSON parsed successfully!\n")
-                return data
+                        full_text = response.text if response.text else ""
+                        print(f"📊 Response size: {len(full_text)} characters")
 
-            except json.JSONDecodeError as e:
-                retry_count += 1
-                print(f"❌ JSON parsing error: {str(e)}")
-                print(f"   Error at line {e.lineno}, column {e.colno}")
-                print(f"   Raw response preview (first 300 chars): {full_text[:300]}\n")
+                        if not full_text.strip():
+                            raise ValueError("Empty response from API")
 
-                if retry_count >= max_retries:
-                    print(f"❌ Failed after {max_retries} retries\n")
-                    return {
-                        "error": f"Failed to parse JSON after {max_retries} retries: {str(e)}",
-                        "raw_response": full_text[:1000] if full_text else 'No response'
-                    }
+                        json_str = self._extract_json(full_text.strip())
+                        data = json.loads(json_str)
 
-                print(f"🔄 Retrying... ({retry_count}/{max_retries})\n")
+                        print("\n✅ JSON parsed successfully!")
+                        return data
 
-            except ValueError as e:
-                # This handles cases where JSON structure is completely missing
-                retry_count += 1
-                print(f"⚠️  {str(e)}")
-                print(f"   Raw response preview: {full_text[:300]}\n")
+                    except json.JSONDecodeError as e:
+                        retry_count += 1
+                        print(f"❌ JSON parsing error: {str(e)}")
+                        if retry_count >= max_retries:
+                            print(f"❌ Max JSON retries reached. Moving to next config.")
+                            break
+                        time.sleep(1)
 
-                if retry_count >= max_retries:
-                    print(f"❌ Failed after {max_retries} retries\n")
-                    return {
-                        "error": f"Invalid response structure: {str(e)}",
-                        "raw_response": full_text[:1000] if full_text else 'No response'
-                    }
+                    except ValueError as e:
+                        retry_count += 1
+                        print(f"⚠️ Formatting error: {str(e)}")
+                        if retry_count >= max_retries:
+                            print(f"❌ Max JSON retries reached. Moving to next config.")
+                            break
+                        time.sleep(1)
 
-                print(f"🔄 Retrying... ({retry_count}/{max_retries})\n")
+                    except Exception as e:
+                        error_message = str(e).lower()
+                        print(f"❌ API Error: {str(e)[:150]}")
 
-            except Exception as e:
-                # Catch any other unexpected errors
-                print(f"❌ Unexpected error: {str(e)}\n")
-                return {
-                    "error": f"Research failed: {str(e)}",
-                    "raw_response": full_text[:1000] if full_text else 'No response'
-                }
+                        # 429 Quota Exhausted -> Break inner retry loop, let it move to NEXT KEY
+                        if "429" in error_message or "resource_exhausted" in error_message or "quota" in error_message:
+                            print(f"⚠️ Quota exhausted for Key #{key_idx + 1}. Switching to next key...")
+                            time.sleep(2)
+                            break
 
-        # This should not be reached, but just in case
+                            # 503 Unavailable / 400 Bad Request -> Break Key loop, skip to NEXT MODEL
+                        elif "503" in error_message or "unavailable" in error_message or "400" in error_message:
+                            print(f"⚠️ Model {model} unavailable/rejected. Skipping to fallback model...")
+                            skip_model = True
+                            break
+
+                        # Other unknown errors -> skip to next model
+                        else:
+                            print(f"⚠️ Unexpected error. Skipping to fallback model...")
+                            skip_model = True
+                            break
+
         return {
-            "error": "Max retries exceeded without successful response",
-            "raw_response": full_text[:1000] if full_text else 'No response'
+            "error": "Research failed: All models, retries, and API keys exhausted.",
         }
-
-    # ============================================================================
-    # ORIGINAL METHOD: perform_research (COMMENTED OUT - Previous Version)
-    # ============================================================================
-    # def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
-    #     """Runs research with grounding and returns ONLY JSON output."""
-    #
-    #     tools = [
-    #         types.Tool(google_search=types.GoogleSearch()),
-    #         # types.Tool(url_context=types.UrlContext()), # Removed to avoid exceeding URL lookup limit
-    #     ]
-    #
-    #     domain_context = f" (Official Domain: {domain})" if domain else ""
-    #
-    #     # CRITICAL: Add explicit instruction to output ONLY JSON
-    #     prompt = (
-    #         f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-    #         f"\n\nCRITICAL INSTRUCTIONS:\n"
-    #         f"1. ONLY output a valid JSON object. NO text before or after.\n"
-    #         f"2. Do NOT include any markdown, explanations, or reasoning.\n"
-    #         f"3. Do NOT use code fences (```json or ```).\n"
-    #         f"4. Return ONLY the raw JSON starting with {{ and ending with }}\n"
-    #         f"5. Use Google Search to find verified sources.\n"
-    #         f"6. Validate each URL before citing.\n"
-    #         f"7. Discard outdated links (>2 years old unless historical).\n"
-    #         f"8. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
-    #         f"9. Include exact URLs and access dates as proof.\n"
-    #         f"\n{self.json_schema_instruction}"
-    #     )
-    #
-    #     config = types.GenerateContentConfig(
-    #         tools=tools,
-    #         # REMOVE thinking_config to avoid intermediate reasoning output
-    #     )
-    #
-    #     try:
-    #         print(f"Researching '{company_query}' with verification...\n")
-    #         full_text = ""
-    #
-    #         # Use streaming if you want, but thinking mode causes the issue
-    #         for chunk in self.client.models.generate_content_stream(
-    #                 model=self.model,
-    #                 contents=prompt,
-    #                 config=config,
-    #         ):
-    #             if chunk.text:
-    #                 full_text += chunk.text
-    #
-    #         text = full_text.strip()
-    #
-    #         # Simple JSON extraction
-    #         if "```json" in text:
-    #             json_str = text.split("```json")[1].split("```")[0].strip()
-    #         elif "```" in text:
-    #             json_str = text.split("```")[1].split("```")[0].strip()
-    #         else:
-    #             json_str = text
-    #
-    #         return json.loads(json_str)
-    #
-    #     except Exception as e:
-    #         return {
-    #             "error": f"Research failed: {str(e)}",
-    #             "raw_response": full_text if 'full_text' in locals() else 'No response'
-    #         }
 
     def save_results(self, data: Dict[str, Any], original_query: str, storage_folder: str = "data/results"):
         """Saves the JSON data to {storage_folder}/{company_name}.json"""
@@ -448,6 +369,9 @@ if __name__ == "__main__":
     if outcome["status"] == "success":
         print("\n✅ Research complete and saved.")
         print("\n--- RESEARCH SUMMARY ---")
-        print(json.dumps(outcome, indent=2))
+        # Printing just a small summary to keep terminal clean
+        print(f"Company: {outcome['data'].get('company_name')}")
+        print(f"Industry: {outcome['data'].get('industry_and_segment')}")
+        print(f"Founded: {outcome['data'].get('year_founded')}")
     else:
         print(f"\n❌ Failed: {outcome['message']}")
