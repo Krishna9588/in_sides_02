@@ -1,0 +1,392 @@
+{
+    "company_name": "Zerodha",
+    "domain": "www.zerodha.com",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en_IN",
+    "appstore_link": "https://apps.apple.com/in/app/zerodha-kite-trade-invest/id1209359331",
+    "youtube_official_channel": "https://www.youtube.com/@zerodhaonline",
+    "year_founded": "August 2010",
+    "names_of_founders": [
+        "Nithin Kamath",
+        "Nikhil Kamath"
+    ],
+    "c-suite_officer": [
+        "Nithin Kamath (Founder, CEO)",
+        "Nikhil Kamath (Co-founder & CFO)",
+        "Dr. Kailash Nadh (CTO)",
+        "Venu Madhav (COO)"
+    ],
+    "exact_hq_location": "No. 153/154, 4th Cross, 4th Phase, J.P Nagar, Bangalore, Karnataka, India, 560078",
+    "locations_operating_in": [
+        "India (Bengaluru headquarters and presence in nine Indian cities)"
+    ],
+    "industry_and_segment": "Financial services, Indian brokerage and financial services company, online trading platform, discount stockbroking platform, fintech (offering institutional and retail trading of stocks, derivatives, currencies, commodities, mutual funds, and bonds)",
+    "available_platforms": "Both",
+    "funding_raised": "Bootstrapped / No external funding reported",
+    "no_of_users": "8.12 million active users as of December 2024, 7.26 million active clients in August 2025, over 1.6 crore (16 million) total clients as of 2025-2026",
+    "annual_revenue": "₹9,372 crore (US$1 billion) for FY24 (ended March 2024)",
+    "key_positioning": "Low-cost, technology-driven online brokerage platform, offering commission-free equity delivery and a flat fee for other trades, aiming to break barriers for traders and investors in India through transparency and user-centric design.",
+    "revenue_model": "Zerodha operates on a discount brokerage model. Revenue streams include a flat fee of ₹20 or 0.03% (whichever is lower) per executed order for intraday, F&O, currency, and commodity trades. It offers zero brokerage for equity delivery investments and direct mutual fund investments. Additional revenue comes from account maintenance fees, Depository Participant (DP) charges on selling shares, interest earned on funds held in customer trading accounts, trading software charges, and previously, exchange rebates (though new regulations may impact this).",
+    "competitors": [
+        {
+            "name": "Groww",
+            "domain": "www.groww.in"
+        },
+        {
+            "name": "Upstox",
+            "domain": "upstox.com"
+        },
+        {
+            "name": "Angel One",
+            "domain": "www.angelone.in"
+        },
+        {
+            "name": "5paisa",
+            "domain": "www.5paisa.com"
+        },
+        {
+            "name": "ICICIdirect",
+            "domain": "www.icicidirect.com"
+        },
+        {
+            "name": "Kotak Securities",
+            "domain": "www.kotaksecurities.com"
+        },
+        {
+            "name": "HDFC Securities",
+            "domain": "www.hdfcsec.com"
+        },
+        {
+            "name": "SBI Securities",
+            "domain": "www.sbisecurities.in"
+        },
+        {
+            "name": "Dhan",
+            "domain": "dhan.co"
+        },
+        {
+            "name": "INDmoney",
+            "domain": "www.indmoney.com"
+        },
+        {
+            "name": "Paytm Money",
+            "domain": "www.paytmmoney.com"
+        },
+        {
+            "name": "Share.Market (PhonePe)",
+            "domain": "www.share.market"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Frequent technical glitches and platform outages on its Kite trading app and web platform.",
+            "user_type": "Traders, Investors",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8yF5PIzlw5H3KLMc6STmxeG5SsgkilzrHi_zcDE8xiQ9bcSLPtN-wKLblY7sSja0e3qtl2dKrwSpTTcaejV0bOHLXGKW53f-WFpMeaE2SoV4q1AfHYA-M3a5mD1iXg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs7l1CjmRqV8_a_s_ehJ7lv2UEwHFej4xVPYfsburpPDCDBDVcBWpnX6O0nvsjYbt8N4PwyAdAkZ43PM-Ugmo3d8DDMlvdLsjoGR8iQnuEDSLz4xJcgxK8mL0mDryL5d3IdINnTjvHG6WAdwzXtc8mE0Rm92DDpoAC-eaxEucj8d9cvutyn-_8pwC2Mh8lkO1u_j0Au_8W1Qz_UGzDu9B4UyEbMLm4OvfpEJ_v9QDo-szKJBkOKY7ja-leTDBAGFuQYplAax2FSLjFSeYZnzY0hmo2flqyixsbw5OvUS57S8kaFDs-, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KjxuamwDbq1v9GAUTHEMfKyX5jHGGgR_HFdDjeC3DxVv7WL-4XGeHlYDsto3GJhwTnosPmPvII0yXL8MBjYNzxl9Uwz-pz3Bfi6HjqAU2F21j3T-nIiAl6BvoLf-gpE97DNwAoJ-bxXqqxIWovy4tihhM5lFOeAQCJqchVLd-Pfm-_YHMik11M_F21j3T-nIiAl6BvoLf-gpE97DNwAoJ-bxXqqY32SdgYfQoj0gKrUJ_NX_eqbNQkk2gEhY3qVMUrhPy7xbVhl2Ti_",
+            "date": "Recent (January 2024, June 2024, July 2024, December 2023, November 2023)",
+            "effect": [
+                "Users face errors executing orders.",
+                "Users are unable to see their holdings and trades.",
+                "Users experience financial losses due to missed opportunities or forced trades.",
+                "Leads to negative user sentiment and dissatisfaction.",
+                "Impacts company's reputation and trust."
+            ]
+        },
+        {
+            "description": "Anticipated significant revenue dip due to new SEBI regulations.",
+            "user_type": "Company (Management, Shareholders)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGemqgYBtNA9IDSrGANVoTv3ZzjdopXuimeORQ8xozLSYNZ856pgQLMyaqZk_W-ieU4EWzxj_PVuM9l-HfLyGtGC5fmQ9LqUikBLV0XF26DCIfg6SIppj-w4Mw-NfbTBgxn1J6lFOIwe87ZrKSjiTtPzzFxymS7PnDh5gGKaq73dhQlQb2E_JjG4d0oVl7Muw6S3rR5VV28O7dgGIUk78dHI5887_7kKuy6xdOZgkpxDKADIlGL8VDeJb9fmmIWmmlKM1YdAU_2nR2dJYHFTn64r768pvutN4fRwWIymAvs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhjZTLRgXizcQY3dUnkHVoGzQMMvFxqh5ToC4NkoWVAKYAkHD4JdzPZVek6OL8EwQfgFyv1Ow7gbSqO8CKhIGNcUkHpaQlOoxshgQp83Ogp1DGjgTZjpftWABQtH13E5vj0R1r3XBCfkKnYShfInFWEoRbh164DQLQgaid3IAFjrOJcnrtj-wcVQ2BH73qCYTAQPl4AUqOuI7Z3qQGoUOkRIN9UPry2ZsI2_iA-F9Suiq5j8uxQwiFBjWCw_3WVqCXpxTqvuewsZOZMajFtcE=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG76toMQvNc6cBZnX3z-j0Fo91IBnPn5dDVKajmdJCTQg_l-sp9wvf_42CdzW-idEN4Dz9-5gVZzHf18Q_hJaT_dBjeYbNGYYQaT_a0ELUqsH-K1OGjVHjTyXDQBQwn1-6-BYW7DbTq9j05EF4NpdmLd01v1-oKAneKCdDC_sYmN93D_CdrX8tIe9fK2gv9lySUVJY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL-AVD6a-nNzRBT9Q9gJfZ9o2alFZjXyyhllGDhIfrYSJaHYSzTeRNEm9U1lekPT7tVSoGZUZjKyU3DUsQRCG9S-IuEQE3v8xK0xLOHc5LNgkEmuw5B1_gD6uzqRm0-fZLjgDddpdz7OjFNi8FWGL66s_NZBGdnJGn5HROg02CXK99ixsKGkIohrYdMV2zrGL-cHQYojCxaaBN",
+            "date": "September 2024 onwards",
+            "effect": [
+                "Expected 10% revenue dip due to SEBI's true-to-label circular (Oct 2024).",
+                "Anticipated 30-50% drop in revenue from regulation on index derivatives.",
+                "Changes in Annual Maintenance Charges (AMC) thresholds impacting revenue.",
+                "Increased STT on futures impacting profitability."
+            ]
+        },
+        {
+            "description": "Slowing growth and a decline in active client base.",
+            "user_type": "Company (Management, Investors), Users",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOu3qec3ClX4kvQUyaRD7aMnn-IBnQ7t_7LD5Bqk1lrVUHr2e9rbxZkyUxXs7sNQHXJ2ZnpExczfw7RdBg9FHzxGE-noHtx0_e3pwZ7syGxiw5k3sdJAJ4ptaE6e3jswMPATpgKFS9rOnn4KClPGHXsPD8eynkSwSvNdGPEr9HZJ6dSRUc7pw15d3QTQuAceazxdVhEXpwNImnzg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcvO033MI79De3_Mklo_s8jyNYOfGYeYSx0d5au-ClLh5p8pbeN5CNm05B62Bli-dDMNFKUDdk8mmQbKI41EEphhSJyVYUjAhXdONjm8krQzd4FVeN2T79fXMZd5tROX7FWmZj31BrUBKZ4zaNsChioCauu1eLTUoJc2Go-L6yysl4wIbKspPR0XOL8jU26vdFrtuHqIrl-5OHTUAb9_zuCIjxVbc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb5JTtBdODbhVnLnIhUpNoMC2lwO3E4mRVxE4esf7PPiTtkyJVHiKl2i0Psii4g_IOssHWOg3pwxuNOOGeely7H-ak71svqVug0-2SFvF3DjCZz2FnOP0IOlUQFJNmKeskKiMpeILF9z7EPQ_RD0v-Kigz3XHzquhs0LlDK-Vat1MnxV1TbdIaYOuy_E33UhcuKY-swUBtYvswkV3H8lRWzSKmzaJygpekT1FisnHIhGOuSYPiRc3jVtXTPrOH1tzaW1rGQHWc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYuyjiT3M9YoXpQDlWJGBEsszkrZiheaGYQl57hVQNTFxhote0ykBFqcR_BA4766-_w0z8LUWkWMoE5dVU9G79rihNq4I8E6nEN08Pbx-uwpB7G3WaBHVQ6l3kfEdNz4A0kQVAQPgdQQGnI4DpOawfb4paG7tGR6UpKYs4qD1LZX0U7Y7ICLVOPOjd8hE_l1xS9xn9Jk6S8vk1cZIgj6mGkLqlMt2G2VIrMmJhpGgDveYH0vqracUYHH_D2GrUx2TG1DzS3a6fyI=",
+            "date": "December 2024 - August 2025",
+            "effect": [
+                "Lost 550,000 users between January and June 2025.",
+                "Active client base shrank from 7.95 million in February 2025 to 7.26 million in August 2025.",
+                "Competitors like Groww are gaining market share.",
+                "Slowdown in trading activity and client growth."
+            ]
+        },
+        {
+            "description": "Reliance on index derivatives for a significant portion of revenue, making it vulnerable to regulatory changes.",
+            "user_type": "Company (Management, Shareholders)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGemqgYBtNA9IDSrGANVoTv3ZzjdopXuimeORQ8xozLSYNZ856pgQLMyaqZk_W-ieU4EWzxj_PVuM9l-HfLyGtGC5fmQ9LqUikBLV0XF26DCIfg6SIppj-w4Mw-NfbTBgxn1J6lFOIwe87ZrKSjiTtPzzFxymS7PnDh5gGKaq73dhQlQb2E_JjG4d0oVl7Muw6S3rR5VV28O7dgGIUk78dHI5887_7kKuy6xdOZgkpxDKADIlGL8VDeJb9fmmIWmmlKM1YdAU_2nR2dJYHFTn64r768pvutN4fRwWIymAvs, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhjZTLRgXizcQY3dUnkHVoGzQMMvFxqh5ToC4NkoWVAKYAkHD4JdzPZVek6OL8EwQfgFyv1Ow7gbSqO8CKhIGNcUkHpaQlOoxshgQp83Ogp1DGjgTZjpftWABQtH13E5vj0R1r3XBCfkKnYShfInFWEoRbh164DQLQgaid3IAFjrOJcnrtj-wcVQ2BH73qCYTAQPl4AUqOuI7Z3qQGoUOkRIN9UPry2ZsI2_iA-F9Suiq5j8uxQwiFBjWCw_3WVqCXpxTqvuewsZOZMajFtcE=",
+            "date": "September 2024",
+            "effect": [
+                "Regulatory changes in index derivatives could lead to a 30-50% drop in revenue.",
+                "Necessitates diversification into other financial services."
+            ]
+        },
+        {
+            "description": "Maintaining a lean team despite massive transaction volumes and high user base.",
+            "user_type": "Company (Operations)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGemqgYBtNA9IDSrGANVoTv3ZzjdopXuimeORQ8xozLSYNZ856pgQLMyaqZk_W-ieU4EWzxj_PVuM9l-HfLyGtGC5fmQ9LqUikBLV0XF26DCIfg6SIppj-w4Mw-NfbTBgxn1J6lFOIwe87ZrKSjiTtPzzFxymS7PnDh5gGKaq73dhQlQb2E_JjG4d0oVl7Muw6S3rR5VV28O7dgGIUk78dHI5887_7kKuy6xdOZgkpxDKADIlGL8VDeJb9fmmIWmmlKM1YdAU_2nR2dJYHFTn64r768pvutN4fRwWIymAvs",
+            "date": "September 2024",
+            "effect": [
+                "While efficient, it poses a challenge to scale customer support and technical problem resolution during high volatility or outages.",
+                "Could potentially lead to burnout among the existing team."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Zero brokerage on equity delivery trades and direct mutual fund investments.",
+            "user_type": "Retail Investors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgkQ9e6PXIExqwSQcZcrfgofQEibuV40g4gHfdWHRjTgoL45NGql7epFWZHQXgjFss9Bxl8VXoNwXVwUi8I_p3ukVJsiH_HPSMtovI10rH3gAVUMtKQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSY5mpIsw8gJQNapXB5Y5Av1Q-qaesxv6znYelNrkKapowRHcG_jDOG9RM2MZdTu_HlmS2FrAca-ESod2Hhmda6tjWkoL7JZFh4eTe5pzm8Df92_AYorRfqJpF8oAX_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB7K4HSdbNzFOMcqrT22X53swEEbMQGAl06C7cvFSysT5x7FrXPBDvp1GLs3X1HrAYEylv9Nja1IzUbx9B9E3tVQeLd5VNdvbHrKDG2_C0vXdSH2cnjgRMevoxR5dSIflOAiWGWEY7ZtD3tpxpsAtSKbkZJnn5kGjRDx0MqKnSMLA0JC-IUA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsAhraXH3FkckTjtzkRe6nYj0TuseG9OiFT3n83Qq462ig4k7-qF2JyKwUSquEmvwVREngcqnOr--2d7NhDI38lsIU3uV8OzubYY8hhhXvUYvgJ_obW_v18SWjtwzPs0LGei27LaSSfP9Yv8Q3rw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzBYrNidFDxSY8Mz9g7xBw0Hm2Fb5afbtuR9sLXlcgOkZs6r84KfyCnMRe8kOaW3VDRdoQx40gSkF4D5as1DKurV1Kh0UD8rN7UO_eAxOeayZET--O-wGLpphbGzBr_-4SJWom6UzbMM15, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgpu8UMDNABexuvlEulAiEFzUccWC0JKWUBHsTM36liSySjVXWJsfgJfjxWjZWM2Xl9ijl1zwAcajsCfpsndgCQVINw-FSIDn4Phx6gDXpyEhzCG0WQmoknyesq-k8GrZf4cqwqgY3p9U5, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUK-bnFpT5VY0u-QesZ1Ug6Y7snUe4R_-fLDGmEobWbL--xEP4WfH1accNwkd20Ji4wbnKBxpiVILf1hvyll8dIHNNsuo16V6XifJhSuqO72xPQYhOb4L7hVCylsUuOGl1mprGoy4lVDhB-Uu7_KusP_e_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnSGCS6pDHMbeh41FVdESYrPYw0StztMz-mFKbhvxKySE7cHuYx0dDeyvI716NZGc54pq76S1LROSyZvChTaC_70tRkvVdfqsGSkNCYQeUowaGOlomK59gOmWKYjhcKSYen1voxriza0GbummMBK5uJvkSDRiY8Zz7u_Nsf7M=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAP4RzoHs7QS9EauQ_uMO5FrTvzWOshoiMhZCv0s8MjrYIEXQvvozsURn_5WaPqrj-Lyd0gsFTa5q8DgNnWm0-z46e1lC5kocj1ATTkHxCdd8yIoVtgZW_3J4PvHgN5RzoxiHK",
+            "date": "Continuous (since inception)",
+            "effect": [
+                "Significantly lowers transaction costs for long-term investors.",
+                "Attracts cost-conscious traders and investors.",
+                "Simplifies the cost structure, making it easy to understand."
+            ]
+        },
+        {
+            "feature": "Flat ₹20 or 0.03% (whichever is lower) per executed order for intraday, F&O, currency, and commodity trades.",
+            "user_type": "Traders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElgkQ9e6PXIExqwSQcZcrfgofQEibuV40g4gHfdWHRjTgoL45NGql7epFWZHQXgjFss9Bxl8VXoNwXVwUi8I_p3ukVJsiH_HPSMtovI10rH3gAVUMtKQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF07y18asZJhruz8vuJ44O82szWrrw0tBc95beY-s1EwvA0QVxlHd7kOUpatmcA3PAJeW6Fz6B7kePHhWsjVr9h7HIyN-JWYSp7Fmp9-Jvti9jaqshmk-5EUhXHjZ62-NROPq9iUyAU1IUai7kpn3_URyorkfsaY8rLyS--XhgL4wHOrtM_lOFnsFPI6GfP8vuDGBhJsOfCshNoMiWwEeUvI4WSTOWCAl5oARYvr-d3D7dzVrMVwh2cuam69PIIkugCW00=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSY5mpIsw8gJQNapXB5Y5Av1Q-qaesxv6znYelNrkKapowRHcG_jDOG9RM2MZdTu_HlmS2FrAca-ESod2Hhmda6tjWkoL7JZFh4eTe5pzm8Df92_AYorRfqJpF8oAX_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB7K4HSdbNzFOMcqrT22X53swEEbMQGAl06C7cvFSysT5x7FrXPBDvp1GLs3X1HrAYEylv9Nja1IzUbx9B9E3tVQeLd5VNdvbHrKDG2_C0vXdSH2cnjgRMevoxR5dSIflOAiWGWEY7ZtD3tpxpsAtSKbkZJnn5kGjRDx0MqKnSMLA0JC-IUA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsAhraXH3FkckTjtzkRe6nYj0TuseG9OiFT3n83Qq462ig4k7-qF2JyKwUSquEmvwVREngcqnOr--2d7NhDI38lsIU3uV8OzubYY8hhhXvUYvgJ_obW_v18SWjtwzPs0LGei27LaSSfP9Yv8Q3rw==",
+            "date": "Continuous (since inception)",
+            "effect": [
+                "Provides predictable and low transaction costs for active traders.",
+                "Appeals to high-volume traders by not charging a percentage of trade value."
+            ]
+        },
+        {
+            "feature": "Bootstrapped and profitable, leading to no external investor pressure.",
+            "user_type": "Company (Management, Employees), Investors (Trust)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8yF5PIzlw5H3KLMc6STmxeG5SsgkilzrHi_zcDE8xiQ9bcSLPtN-wKLblY7sSja0e3qtl2dKrwSpTTcaejV0bOHLXGKW53f-WFpMeaE2SoV4q1AfHYA-M3a5mD1iXg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbdll1br2YowsBm73ex9Qa-2Tu1MBUX6rneqR-exyftEf-TykoK_KgLJ4uLkVRdvk8uQChsAXx8wcTN-42OY345J6dFtWHpS-gQtXJKQL2AIQIHAUWEz_9dVPMyQ0ufZYbuFb3sJyPCyU2j9sjyZyvukqbARV6s0exkVg_h0mkl_sNPmOh5piJZIUiLg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsAhraXH3FkckTjtzkRe6nYj0TuseG9OiFT3n83Qq462ig4k7-qF2JyKwUSquEmvwVREngcqnOr--2d7NhDI38lsIU3uV8OzubYY8hhhXvUYvgJ_obW_v18SWjtwzPs0LGei27LaSSfP9Yv8Q3rw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAP4RzoHs7QS9EauQ_uMO5FrTvzWOshoiMhZCv0s8MjrYIEXQvvozsURn_5WaPqrj-Lyd0gsFTa5q8DgNnWm0-z46e1lC5kocj1ATTkHxCdd8yIoVtgZW_3J4PvHgN5RzoxiHK",
+            "date": "Continuous (since early days)",
+            "effect": [
+                "Allows the company to prioritize customer interest over aggressive growth targets.",
+                "Ensures stability and financial independence.",
+                "Builds trust with clients due to strong net worth (40% of customer funds managed)."
+            ]
+        },
+        {
+            "feature": "In-house developed technology and user-friendly platforms (Kite, Coin, Console, Varsity).",
+            "user_type": "All Users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8yF5PIzlw5H3KLMc6STmxeG5SsgkilzrHi_zcDE8xiQ9bcSLPtN-wKLblY7sSja0e3qtl2dKrwSpTTcaejV0bOHLXGKW53f-WFpMeaE2SoV4q1AfHYA-M3a5mD1iXg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPq4_0cn-AM7alr2AF7hjtiII2M_DGKljkOVFvrAF9BNi0uWNwREYSuH7o9tdzhOLJmkq6tSm7OAyOesVLBWXpiuGNQFSHUzUS31pM9uLnjv_xej0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnSGCS6pDHMbeh41FVdESYrPYw0StztMz-mFKbhvxKySE7cHuYx0dDeyvI716NZGc54pq76S1LROSyZvChTaC_70tRkvVdfqsGSkNCYQeUowaGOlomK59gOmWKYjhcKSYen1voxriza0GbummMBK5uJvkSDRiY8Zz7u_Nsf7M=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfs5V81xyV9zj7MBwKD2x2Ti5pMzNQoNOkdMmf8FT-Gd-sJulY6FFmnrzz4FNt9iiZHScCD5RpRprJfNTTl1CxoAgf40ZQJr9eG2IvkCzKAnRzr3XeRxENlsTvxGEigxBEzKLhP5W7APLDipO",
+            "date": "Continuous (since inception, ongoing updates)",
+            "effect": [
+                "Provides a seamless and intuitive trading and investing experience.",
+                "Reduces friction and intimidation for new users.",
+                "Enables advanced features and tools for experienced traders.",
+                "Contributes to high user engagement and retention."
+            ]
+        },
+        {
+            "feature": "Extensive and free financial education resources through 'Varsity'.",
+            "user_type": "New Investors, Aspiring Traders, General Public",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8yF5PIzlw5H3KLMc6STmxeG5SsgkilzrHi_zcDE8xiQ9bcSLPtN-wKLblY7sSja0e3qtl2dKrwSpTTcaejV0bOHLXGKW53f-WFpMeaE2SoV4q1AfHYA-M3a5mD1iXg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSY5mpIsw8gJQNapXB5Y5Av1Q-qaesxv6znYelNrkKapowRHcG_jDOG9RM2MZdTu_HlmS2FrAca-ESod2Hhmda6tjWkoL7JZFh4eTe5pzm8Df92_AYorRfqJpF8oAX_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnSGCS6pDHMbeh41FVdESYrPYw0StztMz-mFKbhvxKySE7cHuYx0dDeyvI716NZGc54pq76S1LROSyZvChTaC_70tRkvVdfqsGSkNCYQeUowaGOlomK59gOmWKYjhcKSYen1voxriza0GbummMBK5uJvkSDRiY8Zz7u_Nsf7M=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAP4RzoHs7QS9EauQ_uMO5FrTvzWOshoiMhZCv0s8MjrYIEXQvvozsURn_5WaPqrj-Lyd0gsFTa5q8DgNnWm0-z46e1lC5kocj1ATTkHxCdd8yIoVtgZW_3J4PvHgN5RzoxiHK",
+            "date": "Continuous (since 2014, ongoing expansion in 2024)",
+            "effect": [
+                "Educates users and drives financial literacy.",
+                "Builds brand authority and trust.",
+                "Acts as a sustainable customer acquisition channel (content marketing).",
+                "Reduces fear and skepticism associated with financial markets."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Technical glitches and platform outages preventing order placement or displaying incorrect data.",
+            "user_type": "Traders, Investors",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8yF5PIzlw5H3KLMc6STmxeG5SsgkilzrHi_zcDE8xiQ9bcSLPtN-wKLblY7sSja0e3qtl2dKrwSpTTcaejV0bOHLXGKW53f-WFpMeaE2SoV4q1AfHYA-M3a5mD1iXg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs7l1CjmRqV8_a_s_ehJ7lv2UEwHFej4xVPYfsburpPDCDBDVcBWpnX6O0nvsjYbt8N4PwyAdAkZ43PM-Ugmo3d8DDMlvdLsjoGR8iQnuEDSLz4xJcgxK8mL0mDryL5d3IdINnTjvHG6WAdwzXtc8mE0Rm92DDpoAC-eaxEucj8d9cvutyn-_8pwC2Mh8lkO1u_j0Au_8W1Qz_UGzDu9B4UyEbMLm4OvfpEJ_v9QDo-szKJBkOKY7ja-leTDBAGFuQYplAax2FSLjFSeYZnzY0hmo2flqyixsbw5OvUS57S8kaFDs-, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KjxuamwDbq1v9GAUTHEMfKyX5jHGGgR_HFdDjeC3DxVv7WL-4XGeHlYDsto3GJhwTnosPmPvII0yXL8MBjYNzxl9Uwz-pz3Bfi6HjqAU2F21j3T-nIiAl6BvoLf-gpE97DNwAoJ-bxXqqY32SdgYfQoj0gKrUJ_NX_eqbNQkk2gEhY3qVMUrhPy7xbVhl2Ti_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwvwuFPiORxZiz5hdoZI0qx_ruiz506ZccJr8N_VVCUjK9N2x_0DGG4YdDP0VgJw1kc8htVADaxSjaOx98260kCJAlLCw2vEf610UsOPu0Zqo9yMisfOUN82a-Mw920U4GpX8Q9X5Naak7jjza6XTEthOO2H-d9OFTeuJZOp5Ht5ngIcrWW3vdF1l2_j19IR2BTzkaYSV8dY_Rlo23o-jScblbe-ucPlpOR8k0Ri2cTaaQvigwVb-hDauvhYChK1Vj4qatCi99kg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzGyjt4kwlE1gPiwEghio33R6-afU3_1IXKaZ71yzUeQkbL4cTFfGfeuU2lQi_u1knd320rFwXADy_dJTJo10HTkes1sMPaAEs1sGxkx8tRlL9CHDM7h6MEwvP8_87yZobg-HVsCpr984-l7V4yDE7fN5_qZN9d3_nK8GzfK9IWXKTH4Lg1OhUbYUkvnHzuiXjmVTvUK5FdTTVeXyDGtXxiFdKbWkrHifI-9pM0uGEzkVVkZMNQy_JGC8NmDJvEF4t, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc5do-Tt2dTJrzfsbgf04S4JXnSNqCaD4ovIHFopGqr-EMT3lJ8I3xJguQe63rKpWh_9B7xTPbcbByIwtJfqP5MFlXmxxxZcW6Z1lj1O5nOwv44f0ef1V9PW_FEbormqGSZOWQqf4dCPGbC5sLtwqcKSAO_7qRIASwoGkPvdsyFP918GPFRgH2xFavd2i9pQCfjPS73iAFjNs-oTHSpXHP6Dzsc6jc0xd490zhBflam75d2J381YsHbwIsrNxLBhOa74Hw3qo1Ug==",
+            "date": "Recent (June 2024, July 2024, January 2024, December 2023)",
+            "effect": [
+                "Inability to place or cancel orders, leading to missed opportunities or unexpected trades.",
+                "Incorrect display of holdings, trades, or market data.",
+                "Users incur financial losses due to market movements during downtime."
+            ]
+        },
+        {
+            "issue": "Connectivity issues with exchanges (e.g., BSE) affecting order execution.",
+            "user_type": "Traders",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs7l1CjmRqV8_a_s_ehJ7lv2UEwHFej4xVPYfsburpPDCDBDVcBWpnX6O0nvsjYbt8N4PwyAdAkZ43PM-Ugmo3d8DDMlvdLsjoGR8iQnuEDSLz4xJcgxK8mL0mDryL5d3IdINnTjvHG6WAdwzXtc8mE0Rm92DDpoAC-eaxEucj8d9cvutyn-_8pwC2Mh8lkO1u_j0Au_8W1Qz_UGzDu9B4UyEbMLm4OvfpEJ_v9QDo-szKJBkOKY7ja-leTDBAGFuQYplAax2FSLjFSeYZnzY0hmo2flqyixsbw5OvUS57S8kaFDs-",
+            "date": "July 2024",
+            "effect": [
+                "Orders getting stuck in 'Open Pending' state.",
+                "Users unable to trade on affected exchanges."
+            ]
+        },
+        {
+            "issue": "Login issues and difficulties accessing the Kite platform.",
+            "user_type": "All Users",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KjxuamwDbq1v9GAUTHEMfKyX5jHGGgR_HFdDjeC3DxVv7WL-4XGeHlYDsto3GJhwTnosPmPvII0yXL8MBjYNzxl9Uwz-pz3Bfi6HjqAU2F21j3T-nIiAl6BvoLf-gpE97DNwAoJ-bxXqqY32SdgYfQoj0gKrUJ_NX_eqbNQkk2gEhY3qVMUrhPy7xbVhl2Ti_, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzGyjt4kwlE1gPiwEghio33R6-afU3_1IXKaZ71yzUeQkbL4cTFfGfeuU2lQi_u1knd320rFwXADy_dJTJo10HTkes1sMPaAEs1sGxkx8tRlL9CHDM7h6MEwvP8_87yZobg-HVsCpr984-l7V4yDE7fN5_qZN9d3_nK8GzfK9IWXKTH4LgI5FImbUz6xVE_emyOoS6Rx-xa0RCbz5820V9qK-if97, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc5do-Tt2dTJrzfsbgf04S4JXnSNqCaD4ovIHFopGqr-EMT3lJ8I3xJguQe63rKpWh_9B7xTPbcbByIwtJfqP5MFlXmxxxZcW6Z1lj1O5nOwv44f0ef1V9PW_FEbormqGSZOWQqf4dCPGbC5sLtwqcKSAO_7qRIASwoGkPvdsyFP918GPFRgH2xFavd2i9pQCfjPS73iAFjNs-oTHSpXHP6Dzsc6jc0xd490zhBflam75d2J381YsHbwIsrNxLBhOa74Hw3qo1Ug==",
+            "date": "December 2023, June 2024",
+            "effect": [
+                "Users cannot access their trading accounts or portfolios.",
+                "Leads to frustration and inability to manage investments.",
+                "Caused by issues like increased password reset requests due to geo-location accuracy changes."
+            ]
+        },
+        {
+            "issue": "Slow growth or decline in active user numbers compared to competitors.",
+            "user_type": "Company (Management, Investors)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOu3qec3ClX4kvQUyaRD7aMnn-IBnQ7t_7LD5Bqk1lrVUHr2e9rbxZkyUxXs7sNQHXJ2ZnpExczfw7RdBg9FHzxGE-noHtx0_e3pwZ7syGxiw5k3sdJAJ4ptaE6e3jswMPATpgKFS9rOnn4KClPGHXsPD8eynkSwSvNdGPEr9HZJ6dSRUc7pw15d3QTQuAceazxdVhEXpwNImnzg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcvO033MI79De3_Mklo_s8jyNYOfGYeYSx0d5au-ClLh5p8pbeN5CNm05B62Bli-dDMNFKUDdk8mmQbKI41EEphhSJyVYUjAhXdONjm8krQzd4FVeN2T79fXMZd5tROX7FWmZj31BrUBKZ4zaNsChioCauu1eLTUoJc2Go-L6yysl4wIbKspPR0XOL8jU26vdFrtuHqIrl-5OHTUAb9_zuCIjxVbc=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb5JTtBdODbhVnLnIhUpNoMC2lwO3E4mRVxE4esf7PPiTtkyJVHiKl2i0Psii4g_IOssHWOg3pwxuNOOGeely7H-ak71svqVug0-2SFvF3DjCZz2FnOP0IOlUQFJNmKeskKiMpeILF9z7EPQ_RD0v-Kigz3XHzquhs0LlDK-Vat1MnxV1TbdIaYOuy_E33UhcuKY-swUBtYvswkV3H8lRWzSKmzaJygpekT1FisnHIhGOuSYPiRc3jVtXTPrOH1tzaW1rGQHWc, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEYuyjiT3M9YoXpQDlWJGBEsszkrZiheaGYQl57hVQNTFxhote0ykBFqcR_BA4766-_w0z8LUWkWMoE5dVU9G79rihNq4I8E6nEN08Pbx-uwpB7G3WaBHVQ6l3kfEdNz4A0kQVAQPgdQQGnI4DpOawfb4paG7tGR6UpKYs4qD1LZX0U7Y7ICLVOPOjd8hE_l1xS9xn9Jk6S8vk1cZIgj6mGkLqlMt2G2VIrMmJhpGgDveYH0vqracUYHH_D2GrUx2TG1DzS3a6fyI=",
+            "date": "December 2024 - August 2025",
+            "effect": [
+                "Loss of market share to fast-growing competitors like Groww.",
+                "Indicates potential saturation in its core user base or stronger acquisition by rivals.",
+                "Could impact long-term revenue growth if not addressed."
+            ]
+        },
+        {
+            "issue": "Inability to open some news links within the Pulse by Zerodha app, displaying a white screen.",
+            "user_type": "Users (Pulse app)",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHylYd3zma7KJfRc_ykTkYUKdNGvgIV7o3EKuTCScCuxFfskMuPk9kYlSmMf86_iNYvBhG00Uobv4RCzjCZ8MrUFR4XsQNXSv7U4s6jy_C3puMdaQJm8-HZxVjhpAj217_2_J2OyqKSG1bZL3SJ_9WQQJL7oeFo",
+            "date": "Outdated (Reported as not fixed for many months as of Feb 2022, but represents a historical complaint)",
+            "effect": [
+                "Hindered users' access to financial news and market insights.",
+                "Reduced the utility and user experience of the Pulse app."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Launched Zerodha Fund House (AMC) in partnership with Smallcase.",
+            "user_type": "Company, Investors",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8yF5PIzlw5H3KLMc6STmxeG5SsgkilzrHi_zcDE8xiQ9bcSLPtN-wKLblY7sSja0e3qtl2dKrwSpTTcaejV0bOHLXGKW53f-WFpMeaE2SoV4q1AfHYA-M3a5mD1iXg==",
+            "date": "October 2023",
+            "effect": [
+                "Diversifies product offerings beyond brokerage.",
+                "Allows direct investment in mutual funds with zero commissions.",
+                "Aims to tap into the growing mutual fund market.",
+                "Focuses on index funds and direct plans."
+            ]
+        },
+        {
+            "move": "Diversifying into margin trade funding, investments, and loan-against-securities services.",
+            "user_type": "Company, Investors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG76toMQvNc6cBZnX3z-j0Fo91IBnPn5dDVKajmdJCTQg_l-sp9wvf_42CdzW-idEN4Dz9-5gVZzHf18Q_hJaT_dBjeYbNGYYQaT_a0ELUqsH-K1OGjVHjTyXDQBQwn1-6-BYW7DbTq9j05EF4NpdmLd01v1-oKAneKCdDC_sYmN93D_CdrX8tIe9fK2gv9lySUVJY=",
+            "date": "September 2024",
+            "effect": [
+                "Mitigates potential revenue dip from new SEBI regulations on brokerage.",
+                "Expands financial service offerings to clients.",
+                "Creates new revenue streams for the company."
+            ]
+        },
+        {
+            "move": "Introduced free account opening for all resident individuals.",
+            "user_type": "Prospective Users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH55FyY237rnbAXAYemOkRGTGimTO0IvtbXWnHQw54EMYUafLpmDwP8GmnZmDw0EMJO3984Wbt5vyhMuHtGAtzuA9qNT_1bwkihRSqILpnV9UMUTXgRvo4YktaM3uztfIVMwQarXFkj75behm2NLQ4FyPI2F8EF6bLSLeXvA3OqzmJSj5xldJpXxtH1YQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2YWPbl60fSpFNKBge2zlzKt9yko9sj3XcRBoma_H3jmfWY7g2nhjThVqZJIPUGyAzOpKYFSqytMWd6PQL4xVpdyxC86vIOyu5OMejtDevSzY2DfrPWEtzsQqCxpdXHT9-WlIZGZaB_3832nS-cNga71URvuTEaLZ3zp9-AEMNrXVpROdxfnjt5joDsxtVZuQ2tzLe91jU71KGpW45ks_E1eoWqfVHPbzJbfof3ThrVR2UK4tYl_NtjmM7ZaaMIl-9eob3wdAj1RlDNpxESkPEkg==",
+            "date": "June 2024",
+            "effect": [
+                "Removes a barrier for new investors to enter the market.",
+                "Aims to attract more users, especially from Tier 2 and Tier 3 cities.",
+                "Contributes to user acquisition and market penetration."
+            ]
+        },
+        {
+            "move": "Expanded educational initiatives, including launching new YouTube channels (Zero1, Markets by Zerodha) and offering content in regional languages and Indian Sign Language.",
+            "user_type": "All Users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU7Nyb9jmQANTeyXebsSUEPi4x6LywylvBuUpWiKP1zeSBQ5u5Vl72JmZrVjtLGxtYzovt_ntMVUHBKn9RPL6akC39zeCSd5OcFrFrz9Z1YDWJwFBw_0aKmlyMc3gTT6fWcUWTqaY=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfs5V81xyV9zj7MBwKD2x2Ti5pMzNQoNOkdMmf8FT-Gd-sJulY6FFmnrzz4FNt9iiZHScCD5RpRprJfNTTl1CxoAgf40ZQJr9eG2IvkCzKAnRzr3XeRxENlsTvxGEigxBEzKLhP5W7APLDipO",
+            "date": "November 2024",
+            "effect": [
+                "Makes financial education more inclusive and accessible to diverse audiences.",
+                "Simplifies complex financial concepts for beginners.",
+                "Strengthens brand authority and thought leadership.",
+                "Drives discoverability and user engagement through content marketing."
+            ]
+        },
+        {
+            "move": "Continuous focus on technology upgrades and user experience enhancements on Kite and Coin platforms.",
+            "user_type": "All Users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnYxF9KmzGtOhNDE7Zmhl9b-zQ_N1Mq9pVTFL9jcAWPMzVxJ9Xku9Cla5PbFy1X3FZcnrkTEDnRdgrl2v6erXJF57D8MyshKo1vpfF_ifT9m1iqa49_zRZy3D_8u0j2XyLJUj9mJ36vxiV_c9aqjZ6SwzEIA7yQnc2, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPq4_0cn-AM7alr2AF7hjtiII2M_DGKljkOVFvrAF9BNi0uWNwREYSuH7o9tdzhOLJmkq6tSm7OAyOesVLBWXpiuGNQFSHUzUS31pM9uLnjv_xej0=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH55FyY237rnbAXAYemOkRGTGimTO0IvtbXWnHQw54EMYUafLpmDwP8GmnZmDw0EMJO3984Wbt5vyhMuHtGAtzuA9qNT_1bwkihRSqILpnV9UMUTXgRvo4YktaM3uztfIVMwQarXFkj75behm2NLQ4FyPI2F8EF6bLSLeXvA3OqzmJSj5xldJpXxtH1YQ==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2YWPbl60fSpFNKBge2zlzKt9yko9sj3XcRBoma_H3jmfWY7g2nhjThVqZJIPUGyAzOpKYFSqytMWd6PQL4xVpdyxC86vIOyu5OMejtDevSzY2DfrPWEtzsQqCxpdXHT9-WlIZGZaB_3832nS-cNga71URvuTEaLZ3zp9-AEMNrXVpROdxfnjt5joDsxtVZuQ2tzLe91jU71KGpW45ks_E1eoWqfVHPbzJbfof3ThrVR2UK4tYl_NtjmM7ZaaMIl-9eob3wdAj1RlDNpxESkPEkg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfKwqQjdektAfg2do4CaPXb-SEI30nT3Z5KM8eUajigL74_FugFJ6Q5esju2j-3lSKW4sSke7ci2BQqzKDH6_JqOygyhwwrHUwB41OyfQpQGnoTjkTPY6Y9vL8Zy4BMksfJeifUyN9nUIV0nmgb2p7UgEz1NeeSFSac0QFpyQ=",
+            "date": "Continuous (throughout 2024 and 2025)",
+            "effect": [
+                "Improved ease of use and efficiency for placing orders.",
+                "Enhanced charting tools and market data access.",
+                "Better portfolio tracking and analytics.",
+                "Keeps the platform competitive and modern.",
+                "Reduces information overload for users."
+            ]
+        },
+        {
+            "move": "Partnering with innovative startups in health, wealth, and sustainability through Rainmatter.",
+            "user_type": "Company, Startup Ecosystem",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU7Nyb9jmQANTeyXebsSUEPi4x6LywylvBuUpWiKP1zeSBQ5u5Vl72JmZrVjtLGxtYzovt_ntMVUHBKn9RPL6akC39zeCSd5OcFrFrz9Z1YDWJwFBw_0aKmlyMc3gTT6fWcUWTqaY=",
+            "date": "Continuous (ongoing in 2024)",
+            "effect": [
+                "Fosters innovation in related sectors.",
+                "Expands Zerodha's influence beyond core brokerage.",
+                "Potentially creates strategic alliances and future growth opportunities."
+            ]
+        }
+    ],
+    "milestones": [
+        "Founded in August 2010 by brothers Nithin and Nikhil Kamath.",
+        "Became the largest retail stockbroker in India by active client base in 2019.",
+        "Achieved 'unicorn' status with a self-assigned valuation of approximately $1 billion in June 2020 based on an ESOP buyback.",
+        "Launched Zerodha Fund House, an asset management company, in partnership with Smallcase in October 2023.",
+        "Reported annual revenue exceeding $1 billion (₹9,372 crore) for FY24 (ended March 2024).",
+        "Crossed 1 lakh active traders and launched Kite beta in 2015.",
+        "Reached over 1.6 crore (16 million) clients by 2025, managing approximately ₹6 lakh crores of equity investments and contributing to 15% of daily retail exchange volumes in India."
+    ],
+    "new_features_launched": [
+        "Online minor account opening (2024).",
+        "Alert Triggers Order (ATO) feature on Kite for automated order placement (2024).",
+        "Margin Trade Funding (MTF) introduced.",
+        "Single ledger facility for trading in both equity and commodity segments with the same funds.",
+        "Simplified order window on Kite app for buying and selling in fewer clicks (2024).",
+        "In-app UPI payment experience on Coin app for mutual fund investments (2024).",
+        "Free account opening for all resident individuals (effective June 29, 2024).",
+        "Privacy mode introduced on Kite.",
+        "Easy discovery of ETFs.",
+        "Simplified Kite login using a registered mobile number (Oct 2024).",
+        "Corporate actions (dividends, splits, etc.) now trackable directly on Chart IQ and TradingView charts on Kite (Oct 2024).",
+        "Shareholder voting made simpler and accessible directly from Kite (Oct 2024).",
+        "Delivery volumes included in the fundamentals widget on Kite (Oct 2024).",
+        "Updated technicals widget on Kite, powered by Streak, providing technical summaries and market heatmaps (Oct 2024).",
+        "Simplified options menu on the Kite positions page (Oct 2024).",
+        "Instant selling of cash equivalent securities.",
+        "Day selection option for weekly SIP orders on Coin (Oct 2024).",
+        "Reintroduction of Conditional Orders on Coin, allowing buy/sell orders based on NAV thresholds (Oct 2024).",
+        "UPI autopay enabled for automating SIP payments on Coin (Oct 2024).",
+        "Personal finance playlist on Varsity YouTube channel made available in Indian Sign Language (Nov 2024).",
+        "Introducing Fixed Deposits on Coin (June 2024).",
+        "Introducing Kite Terminal Mode (June 2024).",
+        "Introducing microsavings on Coin (June 2024).",
+        "Introducing MCX info widget on Kite (June 2024).",
+        "New charting features on the Kite app (June 2024).",
+        "Quick Baskets on Kite Web (June 2024).",
+        "Minor and NRE account holders can now invest in mutual funds on Coin (June 2024)."
+    ],
+    "other_crucial_details": [
+        "Zerodha's net worth is approximately 40% of the customer funds it manages, positioning it as one of the safest brokers.",
+        "The company is known for fostering the Indian startup ecosystem through its Rainmatter initiative, which supports developers and communities creating open-source projects in the financial space.",
+        "Zerodha maintains a lean team, efficient expenses, and infrastructure, contributing to its high profitability.",
+        "Growth has been primarily driven by word-of-mouth referrals rather than heavy advertising, reflecting its focus on product and customer experience.",
+        "Nikhil Kamath co-founded True Beacon in 2019, an alternative investment fund (AIF) with a defensive investment strategy.",
+        "Zerodha Fund House had an Asset Under Management (AUM) of ₹10 billion (US$110 million) in March 2024.",
+        "As of 2025, Zerodha's self-assessed valuation is estimated at around $3.6 billion.",
+        "Zerodha offers services in 12 Indian languages to democratize finance and onboard first-time investors in their native tongue."
+    ]
+}

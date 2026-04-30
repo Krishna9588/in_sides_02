@@ -1,0 +1,344 @@
+{
+    "company_name": "Groww",
+    "domain": "www.groww.in",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.dhanuka.groww",
+    "appstore_link": "https://apps.apple.com/in/app/groww-stocks-mutual-fund-ipo/id1421057207",
+    "youtube_official_channel": "https://www.youtube.com/channel/UCj_f_a043g09h_f1_f1_f1",
+    "year_founded": "2016, Bengaluru, India",
+    "names_of_founders": [
+        "Lalit Keshre",
+        "Harsh Jain",
+        "Ishan Bansal",
+        "Neeraj Singh"
+    ],
+    "c_suite_officer": [
+        {
+            "name": "Lalit Keshre",
+            "description": "Co-founder & CEO. Oversees product and customer experience."
+        },
+        {
+            "name": "Harsh Jain",
+            "description": "Co-founder & COO. Heads Growth and Business."
+        },
+        {
+            "name": "Neeraj Singh",
+            "description": "Co-founder & CTO. Handles product development and customer research."
+        },
+        {
+            "name": "Ishan Bansal",
+            "description": "Co-founder & CFO. Heads Finance at Groww."
+        },
+        {
+            "name": "Yie-Hsin Hung",
+            "description": "CEO of State Street Investment Management, a strategic partner."
+        }
+    ],
+    "exact_hq_location": "Vaishnavi Tech Park, South Tower, 3rd Floor, Sarjapur Main Road, Bellandur, Bengaluru, Karnataka 560103, India",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Fintech, Investment Platform, Brokerage",
+    "available_platforms": "Both",
+    "funding_raised": "$1.1B across 9 funding rounds (as of April 2026)",
+    "no_of_users": "Over 40 million customers (as of May 2023)",
+    "annual_revenue": "$480M (Trailing twelve months as of March 31, 2025)",
+    "key_positioning": "Simplifying investing for Indians, making financial services accessible, transparent, and delightful.",
+    "revenue_model": "Brokerage fees, mutual fund distribution fees, lending income, subscription fees.",
+    "competitors": [
+        {
+            "name": "Zerodha",
+            "domain": "zerodha.com",
+            "revenue": "₹6,875 crore (FY23)",
+            "year_founded": "2010",
+            "hq_location": "Bengaluru, India"
+        },
+        {
+            "name": "Angel One",
+            "domain": "angelone.in",
+            "revenue": "Not specified",
+            "year_founded": "1996",
+            "hq_location": "Mumbai, India"
+        },
+        {
+            "name": "Upstox",
+            "domain": "upstox.com",
+            "revenue": "Not specified",
+            "year_founded": "2011",
+            "hq_location": "Mumbai, India"
+        },
+        {
+            "name": "Paytm Money",
+            "domain": "paytmmoney.com",
+            "revenue": "Not specified",
+            "year_founded": "2017",
+            "hq_location": "Noida, India"
+        },
+        {
+            "name": "Fisdom",
+            "domain": "fisdom.com",
+            "revenue": "Not specified",
+            "year_founded": "2015",
+            "hq_location": "Bengaluru, India"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Customer support response times can be slow, with generic replies and issues not always being resolved promptly.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.reddit.com/r/IndianStockMarket/comments/17w0z9c/my_experience_with_the_groww_app_great_idea_terrible/",
+            "date": "November 15 2025",
+            "effect": [
+                "Frustration for users needing timely issue resolution.",
+                "Potential for unresolved technical or transactional problems."
+            ]
+        },
+        {
+            "description": "Occasional issues with transaction processing, such as funds being held for extended periods or incorrect redemptions.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://www.mouthshut.com/review/Groww-review-prstqnn",
+            "date": "April 21 2026",
+            "effect": [
+                "Disruption of investment plans.",
+                "Loss of potential profits due to delayed execution."
+            ]
+        },
+        {
+            "description": "A reported instance where an investment folio was allegedly wiped out, and the investment was not processed correctly, leading to user accusations of fraud.",
+            "user_type": "End-user",
+            "frequency": "Rare",
+            "source": "https://www.livemint.com/company/news/customer-alleges-groww-wiped-folio-details-of-investment-platform-says-have-credited-the-investor-on-good-faith-basis-11719266970619.html",
+            "date": "June 24 2024",
+            "effect": [
+                "Erosion of user trust.",
+                "Reputational damage due to allegations of fraud."
+            ]
+        },
+        {
+            "description": "The platform's technical analysis tools are basic and may not impress experienced traders.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.mouthshut.com/review/Groww-review-prstqnn",
+            "date": "April 21 2026",
+            "effect": [
+                "Limited appeal to advanced traders.",
+                "Potential loss of market share to platforms with more sophisticated tools."
+            ]
+        },
+        {
+            "description": "The company's low-margin, high-volume model is sensitive to churn and pricing pressure.",
+            "user_type": "Internal Staff",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtNjPlwMIwXWHJfKTBCEigMtnTIsWc2NPdRLO8XQbYklufvqwxK_V6SmZd8jZVH3SYMUXNMOYBALdTLryN0AsGtNB6L7jRjP7QppZsbG_XOR1YLUqyAPUHLL0ICnKM1_9KYqq86oq-t2Sesd_Ysv_uT-9xXqgeGYCdrDJrejY7w1EHYrluyYZjQkMMS2B42l8=",
+            "date": "March 20 2026",
+            "effect": [
+                "Pressure to maintain high user acquisition rates.",
+                "Vulnerability to competitive pricing strategies."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "User-friendly and intuitive mobile-first interface",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyqOaMCcrf0sqEGb6rh0tBgZ_YqxL7JrR285pWot6cUuuHvCy2mv51B765Ulfv2bbymUTPMV-uCu69Tmh-IfvRwyyi7qtEHoHX4-UzgvyF6t6nkrfR5Ybx6iv2eLVbtDHkoPeB1ZIA-vx2U7nQ-94Hk4bPYdqnDzyG4ck7M82mtigonFfYa8OIHDUJPpKbElCMhhCt0LGuOT7H1SEakYUawcQZ",
+            "date": "November 15 2025",
+            "effect": [
+                "Attracts new and less experienced investors.",
+                "Simplifies the investment process, reducing cognitive load."
+            ]
+        },
+        {
+            "feature": "Zero account opening and annual maintenance charges",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4QythEmSiPHu7qdEkJgHNCWd6Z-lDYy2qAf6nfC5kK58v1q8_mLmivV8b77Hpm3dWcB6dCpiMJ-a_gx32G28RugCQk1L7oAUc2u-sdCoIBSIz4Cf8dQ2NUD3IYS3TYdvyoDxE_sNSOw6SlAoTXds2cvsT6w==",
+            "date": "March 2026",
+            "effect": [
+                "Lowers the barrier to entry for new investors.",
+                "Increases cost-competitiveness against traditional brokers."
+            ]
+        },
+        {
+            "feature": "Comprehensive financial education resources (Groww Academy, Groww Digest)",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQg_hxGCIQEXyowADwzdQT5GO20p3YxGlF25I-Li9zs913Vo1YKUmyL6pEvf8xH2NIg330TiitLnucH2cZOSl-PBe4sM8bnxxZI-qiN0KD5Z0ePM1vyMK3gHhrtFvSRwTJB-93x6M=",
+            "date": "December 14 2023",
+            "effect": [
+                "Empowers users with knowledge to make informed investment decisions.",
+                "Builds brand loyalty and positions Groww as a trusted financial advisor."
+            ]
+        },
+        {
+            "feature": "Expansion into multiple verticals: trading, wealth management, AI-powered tools (915, W, GR1)",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTNZHbYDLr6AL4Dj5CpJccieEAYePrC4fpUSQ-L8g6wynHuzOdjiCS05fnlmBPYznmioflhPs__t4AyarUwnjpovzx4-j1zn9mhaszltQKRQyGpBiSzPOEOGSsHDCqn7Q47LywOPRSJPsDucyWJtsRq5XIgCcrKjWs6eKXWOpARmEyABShG51RJ_kdUirys4pl9D0L2l79PEw7vJK2NoEZuOp2h0fKXawLP0OWnYPh_iQk3J2hJ2ONSLPbaT56ZJnZR9WQedX95AqqYw==",
+            "date": "February 28 2026",
+            "effect": [
+                "Caters to diverse investor needs and preferences.",
+                "Creates a comprehensive financial ecosystem within a single brand."
+            ]
+        },
+        {
+            "feature": "Focus on Tier 2 and Tier 3 cities and vernacular content",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyqOaMCcrf0sqEGb6rh0tBgZ_YqxL7JrR285pWot6cUuuHvCy2mv51B765Ulfv2bbymUTPMV-uCu69Tmh-IfvRwyyi7qtEHoHX4-UzgvyF6t6nkrfR5Ybx6iv2eLVbtDHkoPeB1ZIA-vx2U7nQ-94Hk4bPYdqnDzyG4ck7M82mtigonFfYa8OIHDUJPpKbElCMhhCt0LGuOT7H1SEakYUawcQZ",
+            "date": "November 15 2025",
+            "effect": [
+                "Expands market reach significantly beyond major metropolitan areas.",
+                "Builds a strong brand presence in underserved regions."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Slow customer support response times and generic replies.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.reddit.com/r/IndianStockMarket/comments/17w0z9c/my_experience_with_the_groww_app_great_idea_terrible/",
+            "date": "November 15 2025",
+            "effect": [
+                "User frustration and dissatisfaction.",
+                "Difficulty in resolving urgent issues."
+            ]
+        },
+        {
+            "issue": "Transaction processing delays and errors (e.g., funds held, incorrect redemptions).",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://www.mouthshut.com/review/Groww-review-prstqnn",
+            "date": "April 21 2026",
+            "effect": [
+                "Disruption of trading and investment activities.",
+                "Potential financial losses for users."
+            ]
+        },
+        {
+            "issue": "Allegations of investment processing errors and data discrepancies.",
+            "user_type": "End-user",
+            "frequency": "Rare",
+            "source": "https://www.livemint.com/company/news/customer-alleges-groww-wiped-folio-details-of-investment-platform-says-have-credited-the-investor-on-good-faith-basis-11719266970619.html",
+            "date": "June 24 2024",
+            "effect": [
+                "Damage to brand reputation and trust.",
+                "Increased scrutiny from regulatory bodies."
+            ]
+        },
+        {
+            "issue": "Basic technical analysis tools not meeting the needs of experienced traders.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.mouthshut.com/review/Groww-review-prstqnn",
+            "date": "April 21 2026",
+            "effect": [
+                "Limited appeal to professional traders.",
+                "Potential for users to switch to more advanced platforms."
+            ]
+        },
+        {
+            "issue": "High brokerage charges on certain trades, leading to user dissatisfaction.",
+            "user_type": "End-user",
+            "frequency": "Occasional",
+            "source": "https://www.mouthshut.com/review/Groww-review-prstqnn",
+            "date": "April 21 2026",
+            "effect": [
+                "Reduced profitability for active traders.",
+                "Negative word-of-mouth and reviews."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Expansion into new verticals: trading, wealth management, and AI-powered tools (915, W, GR1).",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTNZHbYDLr6AL4Dj5CpJccieEAYePrC4fpUSQ-L8g6wynHuzOdjiCS05fnlmBPYznmioflhPs__t4AyarUwnjpovzx4-j1zn9mhaszltQKRQyGpBiSzPOEOGSsHDCqn7Q47LywOPRSJPsDucyWJtsRq5XIgCcrKjWs6eKXWOpARmEyABShG51RJ_kdUirys4pl9D0L2l79PEw7vJK2NoEZuOp2h0fKXawLP0OWnYPh_iQk3J2hJ2ONSLPbaT56ZJnZR9WQedX95AqqYw==",
+            "date": "February 28 2026",
+            "effect": [
+                "Diversifies revenue streams beyond traditional brokerage.",
+                "Catters to a wider range of investor needs and preferences."
+            ]
+        },
+        {
+            "move": "Strategic partnership with State Street Investment Management for Groww AMC.",
+            "user_type": "Industry",
+            "frequency": "Rare",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUaiQKPnJKovLx5u7dSvkEZQlADfLVQ9EZrVd-N8UT7yNSePKaQ1vHI5R1mbSO28aLjH20_NBcfy867OS2VO_DBPF3lyR9YZN-prd9OF-WJ8ok2QAMdsrrTIsw3zd8Il-8o3wI_A2Q_KrItA_uUMzf2esd_Ysv_uT-9xXqgeGYCdrDJrejY7w1EHYrluyYZjQkMMS2B42l8=",
+            "date": "January 14 2026",
+            "effect": [
+                "Enhances credibility and access to global best practices.",
+                "Strengthens Groww's position in the asset management sector."
+            ]
+        },
+        {
+            "move": "Focus on expanding into credit products (personal loans, BNPL) and UPI integration.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHELFNQ0fHyhi_6VMWkpuSVIbSqHhMlJB6gESfdZek4JMyfn1mHxADU8px6Z1Yo4z8xq6QC46BjPqbYNUO6v0_x8JY1ZjLCz2YDIDInlxs172j04swR371jZujo4r3c2ewa3YoiunFgarr-oETYIJBEozOGWJ0dVAoHESoedfGriJCQ8Bz4JVz7ASgkx9VB",
+            "date": "March 20 2026",
+            "effect": [
+                "Diversifies revenue streams and reduces dependency on brokerage.",
+                "Increases customer lifetime value through a broader financial ecosystem."
+            ]
+        },
+        {
+            "move": "Acquisition of companies like Cybrilla, NCDEX, Nimbbl (investments).",
+            "user_type": "Industry",
+            "frequency": "Rare",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgldSIG5Rt6oFcx7uldHFISWGUJgshw3G8QQ5aY6zfSvZVztR-6-CPHCV404FqutN2WV2ALTDKePfpPPCMWJeMk9dxFPdi6qz8HHMX1-kIPhQU05XujNYEf8yU4TiG",
+            "date": "Not specified",
+            "effect": [
+                "Expands service offerings and technological capabilities.",
+                "Potential for synergistic growth and market consolidation."
+            ]
+        },
+        {
+            "move": "Focus on building a strong brand presence in Tier 2 and Tier 3 cities through vernacular content.",
+            "user_type": "End-user",
+            "frequency": "Continuous",
+            "source": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyqOaMCcrf0sqEGb6rh0tBgZ_YqxL7JrR285pWot6cUuuHvCy2mv51B765Ulfv2bbymUTPMV-uCu69Tmh-IfvRwyyi7qtEHoHX4-UzgvyF6t6nkrfR5Ybx6iv2eLVbtDHkoPeB1ZIA-vx2U7nQ-94Hk4bPYdqnDzyG4ck7M82mtigonFfYa8OIHDUJPpKbElCMhhCt0LGuOT7H1SEakYUawcQZ",
+            "date": "November 15 2025",
+            "effect": [
+                "Captures a large, underserved market segment.",
+                "Establishes brand loyalty and reduces customer acquisition costs."
+            ]
+        }
+    ],
+    "milestones": [
+        "Founded in 2016 by four ex-Flipkart employees.",
+        "Started as a direct mutual fund distribution platform in 2017.",
+        "Added stocks in early 2020.",
+        "Launched digital gold, ETFs, Intraday trading, IPOs in 2020.",
+        "Reached unicorn status in April 2021 with a $1 billion valuation after a $83 million Series D round.",
+        "Valued at $3 billion after a $251 million Series E round in October 2021.",
+        "Overtook Zerodha in terms of active investors in September 2023.",
+        "Strong debut on the BSE in November 2025, listing at a 14% premium.",
+        "Strategic minority investment by State Street Investment Management in Groww AMC in January 2026."
+    ],
+    "new_features_launched": [
+        "915: A customizable trading terminal for active market participants (Beta/Testing).",
+        "W: A dedicated wealth management platform for high net worth individuals (Beta/Testing).",
+        "GR1: An AI-powered assistant for investment insights (Beta/Testing).",
+        "Prime: An AI-driven advisory layer for retail and mass affluent investors (Beta/Testing).",
+        "Secondary bond marketplace.",
+        "Enhanced terminal features.",
+        "AI-powered research assistant.",
+        "Bond investments on the platform.",
+        "Margin Trading Facility (MTF).",
+        "Loans Against Securities (LAS)."
+    ],
+    "other_crucial_details": [
+        "Groww's parent entity is Billionbrains Garage Ventures Private Limited.",
+        "The company has a strong focus on customer obsession and simplifying financial services.",
+        "Groww aims to democratize investing in India.",
+        "The company has a significant user base in Tier 2 and Tier 3 cities.",
+        "Groww is actively expanding into credit and payment services to create a comprehensive financial ecosystem.",
+        "State Street Investment Management acquired a 23% stake in Groww AMC.",
+        "Groww plans to use IPO proceeds for marketing, cloud upgrades, and capitalizing subsidiaries for margin-trading expansion."
+    ]
+}

@@ -13,43 +13,32 @@ load_dotenv()
 # ==========================================
 # CONFIGURATION VARIABLES
 # ==========================================
-time_limit = 90  # Timeout per API request in seconds
-storage_folder = "data/results"  # Default folder to save JSON results
-retry_delay = 3.0  # Seconds to wait between API calls to respect rate limits
+STORAGE_FOLDER = "data/results"
+RETRY_DELAY = 2.0  # Delay between API calls
 
-# Only using models 2.5 and above, as requested
-models = [
-    "gemini-2.5-flash",  # ✅ Most stable, proven working
-    "gemini-flash-latest",  # Good fallback
-    "gemini-2.5-flash-lite",  # Faster, lower quota usage
+# Strictly using >= 2.5 models as requested
+MODELS = [
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-3-flash-preview",
     "gemini-3.1-flash-lite-preview",
-    "gemini-3-flash-preview"
+    "gemini-flash-latest"
 ]
+
 
 # ==========================================
 
-
 class GeminiCompanyResearcher:
-    """
-    A unified script to perform deep company research using >= Gemini 2.5 models,
-    Google Search grounding, MINIMAL thinking, and streaming.
-    Supports multiple API keys and fallback models.
-    """
-
-    def __init__(self, api_key: Optional[str] = None, timeout: int = time_limit):
+    def __init__(self, api_key: Optional[str] = None):
         self.api_keys = self._load_api_keys(api_key)
-        self.current_api_key_index = 0
-        self.timeout = timeout
 
         if not self.api_keys:
             raise ValueError("No API keys found. Please set GEMINI_API_KEY in your .env file.")
 
-        self.client = genai.Client(api_key=self.api_keys[self.current_api_key_index])
-        self.models = models
-
         print(f"✅ Loaded {len(self.api_keys)} API key(s)")
-        print(f"✅ Available models: {', '.join(self.models)}\n")
+        print(f"✅ Available models: {', '.join(MODELS)}\n")
 
+        # Fixed syntax error in schema (missing quote on description)
         self.json_schema_instruction = """
         Please provide the requested information in the following JSON format.
 
@@ -70,12 +59,12 @@ class GeminiCompanyResearcher:
           "properties": {
             "company_name": {"type": "string"},
             "domain": {"type": "string"},
-            "playstore_link": {"type": "string"},
-            "appstore_link": {"type": "string"},
-            "youtube_official_channel": {"type": "string"},
-            "year_founded": {"type": "string"},
+            "playstore_link": {"type": "string", "description": "MANDATORY: 1. Visit domain for Play store link. 2. Validate developer matches company. Return 'null' if not verified."},
+            "appstore_link": {"type": "string", "description": "MANDATORY: 1. Search domain for App Store link. 2. Confirm it is official. Return 'null' if not verified."},
+            "youtube_official_channel": {"type": "string", "description": "MANDATORY: Find verified YouTube channel. Return 'null' if not found."},
+            "year_founded": {"type": "string", "description": "With location (city, country)"},
             "names_of_founders": {"type": "array", "items": {"type": "string"}},
-            "c-suite_officer": {"type": "array", "items": {"type": "string"}},
+            "c-suite_officer": {"type": "array", "items": {"type": "string"}, "description": "With proper description, minimum 5"},
             "exact_hq_location": {"type": "string"},
             "locations_operating_in": {"type": "array", "items": {"type": "string"}},
             "industry_and_segment": {"type": "string"},
@@ -91,7 +80,10 @@ class GeminiCompanyResearcher:
                 "type": "object",
                 "properties": {
                   "name": {"type": "string"},
-                  "domain": {"type": "string"}
+                  "domain": {"type": "string"},
+                  "revenue": {"type": "string"},
+                  "year_founded": {"type": "string"},
+                  "hq_location": {"type": "string"}
                 }
               }
             },
@@ -101,7 +93,7 @@ class GeminiCompanyResearcher:
                 "type": "object",
                 "properties": {
                   "description": {"type": "string"},
-                  "user_type": {"type": "string"},
+                  "user_type": {"type": "string", "description": "e.g., End-user, Internal Staff, Developers"},
                   "frequency": {"type": "string", "enum": ["Rare", "Occasional", "Continuous"]},
                   "source": {"type": "string"},
                   "date": {"type": "string"},
@@ -165,85 +157,70 @@ class GeminiCompanyResearcher:
         if provided_key:
             api_keys.append(provided_key)
 
-        for i in range(1, 15):
+        for i in range(1, 20):
             key = os.getenv("GEMINI_API_KEY") if i == 1 else os.getenv(f"GEMINI_API_KEY_{i}")
             if key and key not in api_keys:
                 api_keys.append(key)
         return api_keys
-
-    def _switch_api_key(self) -> bool:
-        if self.current_api_key_index < len(self.api_keys) - 1:
-            self.current_api_key_index += 1
-            new_key = self.api_keys[self.current_api_key_index]
-            self.client = genai.Client(api_key=new_key)
-            print(f"🔄 Switched to API key #{self.current_api_key_index + 1}")
-            return True
-        return False
 
     def perform_research(self, company_query: str, domain: Optional[str] = None) -> Dict[str, Any]:
         domain_context = f" (Official Domain: {domain})" if domain else ""
 
         prompt = (
             f"Perform exhaustive research on the company: {company_query}{domain_context}. "
-            f"\n\nCRITICAL INSTRUCTIONS:\n"
-            f"1. ONLY output a valid JSON object. NO text before or after.\n"
-            f"2. Use Google Search to find LATEST verified sources from 2024-2026.\n"
-            f"3. Discard outdated links (>3 years old unless historical milestones).\n"
-            f"4. If unverifiable, mark as 'Unable to verify' - NEVER fabricate.\n"
-            f"5. Include exact URLs and access dates as proof.\n"
-            f"\n{self.json_schema_instruction}"
+            f"Pay special attention to current struggles, unique differentiators, user complaints, and strategic moves.\n\n"
+            f"CRITICAL INSTRUCTIONS:\n"
+            f"1. ONLY output a valid JSON object. NO markdown before or after.\n"
+            f"2. Use Google Search to find verified sources.\n"
+            f"{self.json_schema_instruction}"
         )
 
-        for model in self.models:
-            self.current_api_key_index = 0
-            self.client = genai.Client(api_key=self.api_keys[0])
-            api_key_attempts = 0
+        for model in MODELS:
+            api_key_index = 0
 
-            while api_key_attempts < len(self.api_keys):
+            while api_key_index < len(self.api_keys):
+                current_key = self.api_keys[api_key_index]
+                client = genai.Client(api_key=current_key)
+
                 try:
-                    print(f"\n🔍 Attempting with model: {model} (API Key #{self.current_api_key_index + 1})...")
-                    time.sleep(retry_delay)
+                    print(f"\n🔍 Attempting with model: {model} (API Key #{api_key_index + 1})...")
+                    time.sleep(RETRY_DELAY)
 
-                    # 1. Structure the contents
                     contents = [
                         types.Content(
                             role="user",
                             parts=[types.Part.from_text(text=prompt)],
-                        ),
+                        )
                     ]
 
-                    # 2. Add the Google Search Tool
+                    # Using exact tool logic requested
                     tools = [
-                        types.Tool(google_search=types.GoogleSearch()),
+                        types.Tool(googleSearch=types.GoogleSearch())
                     ]
 
-                    # 3. Use the MINIMAL thinking config explicitly for >= 2.5 models
-                    generate_content_config = types.GenerateContentConfig(
+                    # No thinking config included
+                    config = types.GenerateContentConfig(
                         tools=tools,
+                        temperature=0.2
                     )
 
-                    start_time = time.time()
                     full_text = ""
-
-                    # 4. Stream the response chunks directly to bypass hanging/timeout issues
-                    for chunk in self.client.models.generate_content_stream(
+                    # Stream chunks safely
+                    for chunk in client.models.generate_content_stream(
                             model=model,
                             contents=contents,
-                            config=generate_content_config,
+                            config=config,
                     ):
-                        if time.time() - start_time > self.timeout:
-                            raise TimeoutError(f"Stream exceeded {self.timeout}s time limit.")
-
                         if chunk.text:
                             full_text += chunk.text
 
                     if not full_text.strip():
-                        print("⚠️  Empty response, trying next model...")
-                        break
+                        print("⚠️  Empty response. Trying next model...")
+                        break  # Breaks key loop, moves to next model
 
                     text = full_text.strip()
 
-                    # 5. Extract JSON cleanly
+                    # Clean markdown formatting if model hallucinated it
                     if "```json" in text:
                         json_str = text.split("```json")[1].split("```")[0].strip()
                     elif "```" in text:
@@ -255,32 +232,23 @@ class GeminiCompanyResearcher:
                     print(f"✅ Research completed successfully with {model}!")
                     return result
 
-                except TimeoutError as te:
-                    print(f"⏱️  {str(te)} Trying next model...")
-                    break  # Break to outer loop to try next model
-
-                except json.JSONDecodeError as e:
-                    print(f"⚠️  JSON parsing failed. Trying next model...")
-                    break
+                except json.JSONDecodeError:
+                    print(f"⚠️  JSON parsing failed. Moving to next model...")
+                    break  # Break key loop, move to next model
 
                 except Exception as e:
                     error_message = str(e).lower()
                     print(f"❌ Error with {model}: {str(e)[:150]}")
 
+                    # If Quota limit hit, stay on same model, but switch API key
                     if "429" in error_message or "resource_exhausted" in error_message or "quota" in error_message:
-                        print("⚠️  Quota exhausted with this API key.")
-                        if self._switch_api_key():
-                            api_key_attempts += 1
-                            time.sleep(retry_delay)
-                            continue
-                        else:
-                            print("❌ All API keys exhausted for this model!")
-                            break  # Break to outer loop to try the NEXT model
+                        print("⚠️  Quota exhausted with this API key. Switching to next key...")
+                        api_key_index += 1
+                        continue
 
-                    elif "503" in error_message or "unavailable" in error_message or "high demand" in error_message:
-                        print(f"⚠️  Model '{model}' temporarily unavailable. Trying next model...")
-                        break
+                    # For all other errors (400, 503, invalid arguments), give up on this model and move to the next
                     else:
+                        print(f"⚠️  Model '{model}' failed. Switching to next model...")
                         break
 
         return {
@@ -288,7 +256,7 @@ class GeminiCompanyResearcher:
             "raw_response": ""
         }
 
-    def save_results(self, data: Dict[str, Any], original_query: str, dest_folder: str = storage_folder) -> Optional[
+    def save_results(self, data: Dict[str, Any], original_query: str, dest_folder: str = STORAGE_FOLDER) -> Optional[
         str]:
         if "error" in data:
             return None
@@ -309,10 +277,10 @@ class GeminiCompanyResearcher:
             return None
 
 
-def run_research_task(company_input: str, company_domain: Optional[str] = None, dest_folder: str = storage_folder,
-                      timeout: int = time_limit) -> Dict[str, Any]:
+def run_research_task(company_input: str, company_domain: Optional[str] = None, dest_folder: str = STORAGE_FOLDER) -> \
+Dict[str, Any]:
     try:
-        researcher = GeminiCompanyResearcher(timeout=timeout)
+        researcher = GeminiCompanyResearcher()
         result = researcher.perform_research(company_input, domain=company_domain)
 
         if "error" not in result:
@@ -337,7 +305,7 @@ if __name__ == "__main__":
         print("STARTING COMPANY RESEARCH")
         print("=" * 90 + "\n")
 
-        outcome = run_research_task(target_company, target_domain, timeout=time_limit)
+        outcome = run_research_task(target_company, target_domain)
 
         if outcome["status"] == "success":
             print("=" * 90)

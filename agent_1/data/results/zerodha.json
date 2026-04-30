@@ -1,0 +1,326 @@
+{
+    "company_name": "Zerodha",
+    "domain": "www.zerodha.com",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.zerodha.kite3",
+    "appstore_link": "https://apps.apple.com/in/app/zerodha-kite-trade-invest/id1453966598",
+    "youtube_official_channel": "https://www.youtube.com/@zerodhaonline",
+    "year_founded": "August 2010",
+    "names_of_founders": [
+        "Nithin Kamath",
+        "Nikhil Kamath"
+    ],
+    "c-suite_officer": [
+        "Nithin Kamath (Founder & CEO)",
+        "Nikhil Kamath (Co-founder & CFO/Chief Strategist)",
+        "Dr. Kailash Nadh (CTO)",
+        "Venu Madhav (COO)",
+        "Seema Patil (Whole-time Director - Operations & HR)"
+    ],
+    "exact_hq_location": "#153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Financial services, Stockbroking, Fintech (online trading platform, institutional and retail trading of stocks, derivatives, currencies, commodities, mutual funds, and bonds)",
+    "available_platforms": "Both",
+    "funding_raised": "Bootstrapped, zero external funding",
+    "no_of_users": "Over 1.6 crore (16 million) active users across India as of 2025",
+    "annual_revenue": "FY24 revenue: ₹8,320 crore; FY25 revenue: ~₹8,300–8,500 crore (~$1.0B)",
+    "key_positioning": "Low-cost, technology-driven online brokerage platform, makes trading and investing simple and affordable, disruptive discount brokerage model, transparent, innovative, affordable, empowering retail investors, zero barriers",
+    "revenue_model": "Discount brokerage model with a flat fee of ₹20 or 0.03% (whichever is lower) per executed order for intraday and F&O trades, zero brokerage for equity delivery. Revenue also generated from account maintenance fees, interest earned on funds held in customer accounts, and other services like mutual funds, commodities, bonds, and IPOs. Charges additional fees for specific services like call & trade, physical contract notes, instant payment gateway transfers, and DP charges for delivery-based selling.",
+    "competitors": [
+        {
+            "name": "Groww",
+            "domain": "groww.in"
+        },
+        {
+            "name": "Upstox",
+            "domain": "upstox.com"
+        },
+        {
+            "name": "5paisa",
+            "domain": "5paisa.com"
+        },
+        {
+            "name": "Angel One",
+            "domain": "angelone.in"
+        },
+        {
+            "name": "Paytm Money",
+            "domain": "paytmmoney.com"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Recurring technical glitches and platform outages, especially during high market volatility.",
+            "user_type": "Active traders, intraday traders, F&O traders",
+            "frequency": "Continuous",
+            "source": "https://economictimes.indiatimes.com/tech/startups/zerodha-down-traders-flag-multiple-issues-company-responds/articleshow/107384661.cms, https://www.indiatoday.in/business/story/zerodha-users-face-app-glitch-company-says-issue-resolved-2495147-2024-01-29, https://www.youtube.com/watch?v=FqS0-Uj7j1A",
+            "date": "February 03, 2026",
+            "effect": [
+                "Users logged out mid-trade, difficulty logging in, positions not reflecting correctly.",
+                "Chart settings resetting automatically, and prices not updating in real-time.",
+                "Inability to capitalize on market rallies, especially in derivatives and intraday trades.",
+                "Potential significant financial losses for traders."
+            ]
+        },
+        {
+            "description": "Regulatory changes impacting various business aspects, including derivatives and referral models.",
+            "user_type": "Company operations, partner businesses, clients",
+            "frequency": "Occasional",
+            "source": "https://newindianexpress.com/business/2024/Sep/26/zerodhas-net-profit-in-fy24-grows-by-62-to-rs-4700-crore",
+            "date": "September 26, 2024",
+            "effect": [
+                "Impact on True to Label circular and SEBI paper on index derivatives.",
+                "Increased Securities Transaction Tax (STT) and annual maintenance charges due to increased BSDA limits.",
+                "Negative impact on partner/referral business models due to regulatory shifts."
+            ]
+        },
+        {
+            "description": "Intense competition from other discount brokers leading to market share challenges.",
+            "user_type": "Company, market analysts",
+            "frequency": "Continuous",
+            "source": "https://www.indiatoday.in/business/story/zerodha-users-face-app-glitch-company-says-issue-resolved-2495147-2024-01-29, https://economictimes.indiatimes.com/tech/startups/zerodha-down-traders-flag-multiple-issues-company-responds/articleshow/107384661.cms",
+            "date": "January 29, 2024",
+            "effect": [
+                "Competitors like Groww have surpassed Zerodha in active users.",
+                "Increased pressure on Zerodha's market leadership position.",
+                "Need for continuous innovation and strategic adjustments to retain and grow client base."
+            ]
+        },
+        {
+            "description": "Brokerage fee hike for a specific segment of intraday derivatives traders using collateral margin with a significant cash shortfall.",
+            "user_type": "Intraday derivatives traders",
+            "frequency": "Rare",
+            "source": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-issues-clarification-on-doubling-brokerage-fees-for-certain-f-o-trades-to-rs-40/articleshow/108871628.cms",
+            "date": "March 29, 2026",
+            "effect": [
+                "Increased trading costs for the affected subset of F&O traders (from ₹20 to ₹40 per order).",
+                "Encourages traders to maintain at least 50% of the required margin in cash to avoid higher fees.",
+                "Aims to align with SEBI regulations and reduce the broker's capital exposure.",
+                "Potential for some traders to seek alternative platforms if costs become prohibitive."
+            ]
+        },
+        {
+            "description": "Inability to find comprehensive and consistent swap rates for leveraged overnight positions.",
+            "user_type": "Traders using leveraged positions",
+            "frequency": "Occasional",
+            "source": "https://www.dailyforex.com/brokers/zerodha-review",
+            "date": "July 10, 2023",
+            "effect": [
+                "Traders may face unexpected costs on leveraged overnight positions.",
+                "Lack of transparency on a potentially significant trading cost.",
+                "Difficulty for traders to accurately calculate total trading expenses."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Discount brokerage model with zero brokerage on equity delivery and a flat fee of ₹20 for intraday and F&O trades.",
+            "user_type": "All investors and traders, especially cost-conscious ones",
+            "frequency": "Continuous",
+            "source": "https://www.chittorgarh.com/brokerage-house/zerodha/, https://vizologi.com/business-models/zerodha-business-model-canvas/ [cite: 12 (from initial search)], https://www.miracuves.com/zerodha-revenue-model/ [cite: 16 (from initial search)]",
+            "date": "October 04, 2024",
+            "effect": [
+                "Significantly lower transaction costs for users, making trading more affordable.",
+                "Attracts a large customer base and disrupts the traditional brokerage industry.",
+                "Simplified and transparent pricing structure."
+            ]
+        },
+        {
+            "feature": "Comprehensive in-house technology ecosystem (Kite, Coin, Console, Varsity, etc.) providing a seamless user experience.",
+            "user_type": "All users (traders, investors, learners)",
+            "frequency": "Continuous",
+            "source": "https://zerodha.com/products/, https://www.chittorgarh.com/brokerage-house/zerodha/",
+            "date": "April 30, 2026",
+            "effect": [
+                "Enables ultra-fast trading with streaming market data and advanced charts.",
+                "Offers commission-free direct mutual fund investments.",
+                "Provides in-depth reports and visualizations for investment insights."
+            ]
+        },
+        {
+            "feature": "Extensive financial literacy and education initiatives through Zerodha Varsity and other specialized channels.",
+            "user_type": "New and experienced investors, students, diverse audiences",
+            "frequency": "Continuous",
+            "source": "https://zerodha.com/z-connect/business-updates/whats-new-at-zerodha-2024 [cite: 1 (from initial search)], https://www.youtube.com/watch?v=kY67L5Xk1dI, https://zerodha.com/z-connect/business-updates/new-educational-and-content-initiatives-at-zerodha [cite: 26 (from initial search)]",
+            "date": "November 06, 2024",
+            "effect": [
+                "Empowers users with knowledge, promoting financial inclusion.",
+                "Helps users make informed investment decisions and manage money better.",
+                "Builds trust and loyalty among customers by providing valuable free resources."
+            ]
+        },
+        {
+            "feature": "Bootstrapped, zero-debt, and consistently profitable business model.",
+            "user_type": "All clients, investors, regulatory bodies",
+            "frequency": "Continuous",
+            "source": "https://foundervoice.in/zerodha-startup-story-how-kamath-brothers-built-%E2%82%B91-lakh-cr/ [cite: 7 (from initial search)], https://cashweta.com/blog/zerodha-success-story-bootstrapped-billion-dollar-company/ [cite: 33 (from initial search)], https://www.chittorgarh.com/brokerage-house/zerodha/",
+            "date": "August 23, 2025",
+            "effect": [
+                "Ensures financial stability and minimizes reliance on external funding pressures.",
+                "Builds high trust among customers regarding the safety and security of their funds.",
+                "Allows for a long-term strategic focus on product development and customer value rather than short-term investor demands."
+            ]
+        },
+        {
+            "feature": "Integration of partner platforms and tools like Smallcase, Streak, Sensibull, and Quicko.",
+            "user_type": "Specific user segments (thematic investors, algo traders, options traders, tax filers)",
+            "frequency": "Continuous",
+            "source": "https://www.chittorgarh.com/brokerage-house/zerodha/, https://zerodha.com/products/, https://apps.apple.com/in/app/zerodha-kite-trade-invest/id1453966598, https://play.google.com/store/apps/details?id=com.zerodha.kite3, https://play.google.com/store/apps/details?id=com.zerodha.coin",
+            "date": "April 30, 2026",
+            "effect": [
+                "Extends trading and investment capabilities with specialized tools for strategy, research, and analysis.",
+                "Provides a comprehensive ecosystem for various investment styles and needs.",
+                "Adds significant value beyond basic brokerage services."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Frequent technical glitches, app freezing, login issues, and delayed price updates on Kite.",
+            "user_type": "Active traders, intraday traders, F&O traders",
+            "frequency": "Continuous",
+            "source": "https://economictimes.indiatimes.com/tech/startups/zerodha-down-traders-flag-multiple-issues-company-responds/articleshow/107384661.cms, https://www.indiatoday.in/business/story/zerodha-users-face-app-glitch-company-says-issue-resolved-2495147-2024-01-29, https://www.youtube.com/watch?v=FqS0-Uj7j1A",
+            "date": "February 03, 2026",
+            "effect": [
+                "Inability to place or exit trades at crucial moments.",
+                "Incorrect portfolio data and missed trading opportunities.",
+                "Significant financial losses for traders due to platform instability.",
+                "Increased user frustration and calls for platform migration."
+            ]
+        },
+        {
+            "issue": "Poor customer support and slow resolution of complex issues.",
+            "user_type": "General users, especially those with complex account opening or technical issues",
+            "frequency": "Occasional",
+            "source": "https://www.trustpilot.com/reviews/zerodha.com, https://www.mouthshut.com/product-reviews/Zerodha-reviews-925927503",
+            "date": "April 14, 2026",
+            "effect": [
+                "Prolonged user frustration due to unresolved queries and slow response times.",
+                "Difficulty in managing complex account-related issues.",
+                "Negative impact on overall user experience and trust in the service."
+            ]
+        },
+        {
+            "issue": "Stop-loss orders skipping and perceived heavy brokerage on futures and options for some users.",
+            "user_type": "F&O traders",
+            "frequency": "Rare",
+            "source": "https://www.trustpilot.com/reviews/zerodha.com",
+            "date": "March 13, 2024",
+            "effect": [
+                "Unexpected financial losses due to stop-loss triggers being missed.",
+                "Higher-than-expected costs for F&O trades, contradicting the low brokerage promise.",
+                "Dissatisfaction with trade execution and cost transparency."
+            ]
+        },
+        {
+            "issue": "Challenges and extensive delays in opening and managing NRI accounts, including switching account status.",
+            "user_type": "Non-Resident Indian (NRI) clients",
+            "frequency": "Occasional",
+            "source": "https://www.trustpilot.com/reviews/zerodha.com",
+            "date": "April 14, 2026",
+            "effect": [
+                "Significant delays (months) in account activation and processing.",
+                "Frustration due to requirements for extensive physical paperwork.",
+                "Difficulty in seamlessly transitioning between NRI and resident account statuses."
+            ]
+        },
+        {
+            "issue": "Website problems including data reset issues and non-functional email links for document uploads.",
+            "user_type": "Users interacting with the web platform for account management/KYC",
+            "frequency": "Rare",
+            "source": "https://www.trustpilot.com/reviews/zerodha.com",
+            "date": "July 22, 2025",
+            "effect": [
+                "Inability to complete necessary account-related processes (e.g., KYC, document submission).",
+                "Repeated requests for documents due to system failures.",
+                "User frustration and inconvenience due to platform malfunction."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Made account opening free for all resident individuals (previously charged a fee).",
+            "user_type": "Potential new users, young investors",
+            "frequency": "Continuous",
+            "source": "https://zerodha.com/z-connect/business-updates/whats-new-at-zerodha-2024, https://zerodha.com/z-connect/business-updates/whats-new-at-zerodha-september-2024",
+            "date": "January 01, 2025",
+            "effect": [
+                "Removes a significant barrier for new investors entering the market.",
+                "Encourages broader participation in financial markets, especially among young demographics.",
+                "Enhances Zerodha's positioning as an accessible and affordable brokerage."
+            ]
+        },
+        {
+            "move": "Launched online minor account opening and waived Annual Maintenance Charges (AMC) for minor accounts.",
+            "user_type": "Parents, guardians looking to invest for children",
+            "frequency": "Continuous",
+            "source": "https://zerodha.com/z-connect/business-updates/whats-new-at-zerodha-2024, https://www.deccanchronicle.com/business/zerodha-says-hello-in-the-first-quarter-of-financial-year-2024-897368",
+            "date": "January 01, 2025",
+            "effect": [
+                "Simplifies the process for parents to save and invest for their children's future.",
+                "Promotes early investing habits among families.",
+                "Expands Zerodha's client base to include younger generations."
+            ]
+        },
+        {
+            "move": "Introduced Margin Trading Facility (MTF) allowing users to trade with leverage.",
+            "user_type": "Traders seeking leverage to amplify returns",
+            "frequency": "Continuous",
+            "source": "https://zerodha.com/z-connect/business-updates/whats-new-at-zerodha-2024",
+            "date": "January 01, 2025",
+            "effect": [
+                "Expands trading opportunities for users by enabling leveraged positions.",
+                "Allows users to buy stocks for delivery even without requiring full funds.",
+                "Addresses a long-standing feature request from the user base."
+            ]
+        },
+        {
+            "move": "Launched Zerodha Fund House to offer simple, transparent index funds and ETFs.",
+            "user_type": "Long-term investors, mutual fund investors seeking passive investment options",
+            "frequency": "Continuous",
+            "source": "https://zerodhafundhouse.com/, https://en.wikipedia.org/wiki/Zerodha [cite: 2 (from initial search)]",
+            "date": "2023",
+            "effect": [
+                "Diversifies Zerodha's financial offerings beyond brokerage services.",
+                "Provides users with accessible and low-cost options for passive investing.",
+                "Strengthens its position as a holistic investment platform."
+            ]
+        },
+        {
+            "move": "Significantly expanded educational and content initiatives, including new YouTube channels (Zero1, Markets by Zerodha), sign language playlists, and community meetups.",
+            "user_type": "All users, especially beginners and diverse linguistic communities",
+            "frequency": "Continuous",
+            "source": "https://www.youtube.com/watch?v=kY67L5Xk1dI, https://zerodha.com/z-connect/business-updates/new-educational-and-content-initiatives-at-zerodha [cite: 26 (from initial search)]",
+            "date": "November 06, 2024",
+            "effect": [
+                "Makes financial education more accessible, engaging, and inclusive for a broader audience.",
+                "Helps users understand market dynamics and better manage their finances.",
+                "Strengthens community engagement and brand loyalty through educational outreach."
+            ]
+        }
+    ],
+    "milestones": [
+        "Founded in August 2010. [cite: 2, 3, 5, 7, 10 (from initial search), 11 (from initial search), 14 (from initial search), 33 (from initial search)]",
+        "Became India's largest retail stockbroker by active client base in 2019. [cite: 2, 7 (from initial search)]",
+        "Achieved 'unicorn' status with a self-assigned valuation of approximately $1 billion in June 2020. [cite: 2, 5 (from initial search)]",
+        "Crossed 1 lakh active traders and launched the Kite beta platform in 2015. [cite: 7 (from initial search)]",
+        "Zerodha Varsity won the IFTA 2024 Award for the Best Initiative for Financial Literacy. [cite: 1 (from initial search)]"
+    ],
+    "new_features_launched": [
+        "Alert Triggers Order (ATO) on Kite, allowing linking orders to alerts for automatic placement (2024). [cite: 1 (from initial search), 21 (from initial search)]",
+        "Simplified order window on Kite, enabling buying/selling in 2 clicks by entering amount or quantity (March 2024). [cite: 1 (from initial search), 4 (from initial search), 21 (from initial search)]",
+        "National Pension Scheme (NPS) live on Coin for retirement planning (March 2024). [cite: 4 (from initial search), 22 (from initial search)]",
+        "Instant withdrawals of up to ₹25,000 per day (April 2024). [cite: 22 (from initial search)]",
+        "Privacy mode on Kite to hide sensitive financial information on dashboards and other pages (October 2024). [cite: 21 (from initial search)]",
+        "New Fundamentals widget on Kite powered by Tijori Finance, offering fundamental snapshots for stocks, ETFs, and indices (June 2024). [cite: 1 (from initial search), 23 (from initial search)]",
+        "In-app UPI experience for mutual fund investments on the Coin app, simplifying payments (June 2024). [cite: 1 (from initial search), 23 (from initial search)]"
+    ],
+    "other_crucial_details": [
+        "The Kamath family retains 100% ownership of Zerodha. [cite: 2 (from initial search)]",
+        "Operates Rainmatter, a venture capital fund and incubator investing in fintech and financial inclusion startups. [cite: 2 (from initial search), 19 (from initial search)]",
+        "Contributes over 15% of all Indian retail trading volumes. [cite: 3 (from initial search), 29 (from initial search)]",
+        "Nithin Kamath serves as a member of the SEBI Secondary Market Advisory Committee (SMAC) and the Market Data Advisory Committee (MDAC). [cite: 3 (from initial search)]",
+        "Nikhil Kamath co-founded True Beacon (an asset management company) and Gruhas (an investment firm) alongside his work at Zerodha. [cite: 13 (from initial search)]"
+    ]
+}

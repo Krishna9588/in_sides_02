@@ -1,0 +1,98 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-04-30T12:02:33.212442",
+    "extraction_time_seconds": 2.18,
+    "fields_extracted": 33,
+    "country": "in",
+    "reviews_distribution": {
+      "1": 20,
+      "2": 20,
+      "3": 20,
+      "4": 20,
+      "5": 20
+    },
+    "total_reviews_extracted": 0,
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 1342565069,
+      "trackName": "Unacademy Learner App",
+      "bundleId": "com.unacademy.learn",
+      "trackViewUrl": "https://apps.apple.com/in/app/unacademy-learner-app/id1342565069?uo=4",
+      "artistId": 1156375098,
+      "artistName": "Unacademy",
+      "artistViewUrl": "https://apps.apple.com/in/developer/unacademy/id1156375098?uo=4",
+      "sellerName": "Sorting Hat Technologies Private Limited",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "genres": [
+        "Education"
+      ],
+      "genreIds": [
+        "6017"
+      ],
+      "averageUserRating": 4.48709,
+      "userRatingCount": 54210,
+      "averageUserRatingForCurrentVersion": 4.48709,
+      "userRatingCountForCurrentVersion": 54210,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "INR",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.3.4",
+      "releaseNotes": "• Bug fixes and performance improvements",
+      "releaseDate": "2018-02-16T05:40:36Z",
+      "currentVersionReleaseDate": "2025-07-10T06:38:21Z",
+      "description": "Embark on the journey to crack your dream exam! \n\nUnacademy, India’s largest learning platform aims to change the way India learns, one Live Class at a time. Unacademy has helped Learners crack their dream exam by getting India’s Top Educators on a single platform.\n\nMillions have cracked it with Unacademy and you can be next! Prepare for JEE, NEET UG, CAT, SSC Exams, State PSCs, other competitive exams and CBSE Class 6 - 12 with India’s Top Educators. The Unacademy App is a complete solution for all your learning needs. Learn for 100+ subjects from the comfort of your home. Take Live Classes, Test Series, Doubt Solving Sessions, Batch Courses and more. From learning to cracking it, Unacademy will be by your side at every step of the way.\n\nGet started with your journey on Unacademy by taking Free Live Classes and stand a chance to win scholarships with Free Mock Tests.\n\nDownload the App and get started today.\n\nUnacademy in Numbers: \n\n59M+ learners impacted\n130k+ Live classes launched  p",
+      "shortDescription": "",
+      "minimumOsVersion": "13.1",
+      "fileSizeBytes": 154763264,
+      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/9d/6c3f9d05-8689-7aa3-afdd-de81da14df6d/5beef84c-206f-446c-a562-cdb3d831c394_Live_Classes_-_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/e6/81/63e6814f-cc90-fbaf-cb5b-05defafa8c04/8a20d010-1238-45ea-931a-9e24f3ee8e4a_Live_Classes_-_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/e3/48/6ee3487b-9876-bf98-e8ad-91cbe98c90f3/f264341d-5813-4ed3-a28a-0898fe5ebca3_Profile__U0026_Stats.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fb/4d/f0fb4d7f-4126-cb75-672c-27b6e72f5779/621e69c6-2eac-4cb3-b0a9-fa325d1258e2_Dark_Mode.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/82/0e/0c820e85-996f-817a-b419-fb08a58fefaf/planner__U00282_U0029.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "kind": "software",
+      "trackCensoredName": "Unacademy Learner App",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [],
+    "review_analysis": {
+      "error": "No reviews"
+    },
+    "reviews_metadata": {
+      "1": {
+        "requested": 20,
+        "fetched": 0
+      },
+      "2": {
+        "requested": 20,
+        "fetched": 0
+      },
+      "3": {
+        "requested": 20,
+        "fetched": 0
+      },
+      "4": {
+        "requested": 20,
+        "fetched": 0
+      },
+      "5": {
+        "requested": 20,
+        "fetched": 0
+      }
+    }
+  },
+  "analysis": null
+}

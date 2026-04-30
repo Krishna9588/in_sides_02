@@ -1,0 +1,264 @@
+{
+    "company_name": "Dista AI",
+    "domain": "https://dista.ai",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.dista.fieldforce",
+    "appstore_link": null,
+    "youtube_official_channel": "https://www.youtube.com/@DistaAI",
+    "year_founded": "2017 (incubated), 2020 (registered as independent entity) (Pune, India)",
+    "names_of_founders": [
+        "Shishir Gokhale",
+        "Deepak Garg",
+        "Nishant Kumar"
+    ],
+    "c-suite_officer": [
+        "Shishir Gokhale - Co-Founder and CEO",
+        "Deepak Garg - Co-Founder and CTO",
+        "Nishant Kumar - Co-Founder and COO/CPO",
+        "Hrishikesh Patil - Marketing (as mentioned on G2 profile)",
+        "Léon Levinas-Ménard - Author of review (Nov 2025)"
+    ],
+    "exact_hq_location": "601, Global Port, Baner, Pashan - Sus Rd, Pune, Maharashtra 411045, India",
+    "locations_operating_in": [
+        "India",
+        "USA",
+        "Australia",
+        "South America"
+    ],
+    "industry_and_segment": "AI-enabled location intelligence platform for field force and delivery management",
+    "available_platforms": "Web, Mobile",
+    "funding_raised": "$2.71M (as of April 2026) across 3 rounds.",
+    "no_of_users": "Over 43,000 users globally.",
+    "annual_revenue": "17.4Cr INR (approx. $2.06M USD) as of March 31, 2025",
+    "key_positioning": "AI-powered location intelligence platform for visualizing, strategizing, and operationalizing field operations.",
+    "revenue_model": "B2B SaaS",
+    "competitors": [
+        {
+            "name": "AssetTrackr",
+            "domain": null
+        },
+        {
+            "name": "Workyard",
+            "domain": null
+        },
+        {
+            "name": "Salesforce Maps",
+            "domain": null
+        },
+        {
+            "name": "Vymo",
+            "domain": null
+        },
+        {
+            "name": "TrackoField",
+            "domain": null
+        },
+        {
+            "name": "FieldAssist",
+            "domain": null
+        },
+        {
+            "name": "Onfleet",
+            "domain": null
+        },
+        {
+            "name": "Route4Me",
+            "domain": null
+        },
+        {
+            "name": "FarEye",
+            "domain": null
+        },
+        {
+            "name": "Skedulo",
+            "domain": null
+        },
+        {
+            "name": "ServiceTitan",
+            "domain": null
+        }
+    ],
+    "current_problems_struggling_with": [],
+    "differentiators": [
+        {
+            "feature": "Patented clustering algorithms for territory creation and rebalancing.",
+            "user_type": "Enterprise Leaders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1QeBuZ9aNDoX_IgHzQWNi2biy8DyjINeVqNB0ZYS7zD2L8Lha49LEn7aWBnsKUkWx8nzXdaHp_Pl_Q8JgpE6xwQr5BC5-7AcvRRpWR0JW1LEjcBZpSiZuoJ5qqj6_TKzHM7W2",
+            "date": "November 15, 2025",
+            "effect": [
+                "Creates balanced territories.",
+                "Optimizes territory management.",
+                "Enhances sales coverage."
+            ]
+        },
+        {
+            "feature": "Low-code/no-code platform for rapid customization.",
+            "user_type": "Enterprise Leaders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1QeBuZ9aNDoX_IgHzQWNi2biy8DyjINeVqNB0ZYS7zD2L8Lha49LEn7aWBnsKUkWx8nzXdaHp_Pl_Q8JgpE6xwQr5BC5-7AcvRRpWR0JW1LEjcBZpSiZuoJ5qqj6_TKzHM7W2",
+            "date": "November 15, 2025",
+            "effect": [
+                "Offers tailored SaaS experiences.",
+                "Enables quick-start mobile operations.",
+                "Reduces implementation time."
+            ]
+        },
+        {
+            "feature": "AI/ML-based features for auto lead allocation, sales beat planning, and territory planning.",
+            "user_type": "Sales Leaders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1QeBuZ9aNDoX_IgHzQWNi2biy8DyjINeVqNB0ZYS7zD2L8Lha49LEn7aWBnsKUkWx8nzXdaHp_Pl_Q8JgpE6xwQr5BC5-7AcvRRpWR0JW1LEjcBZpSiZuoJ5qqj6_TKzHM7W2",
+            "date": "November 15, 2025",
+            "effect": [
+                "Improves sales productivity.",
+                "Enhances lead conversion rates.",
+                "Streamlines sales operations."
+            ]
+        },
+        {
+            "feature": "Geospatial analytics for site selection, network design, and demand hotspot identification.",
+            "user_type": "Business Leaders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt3S36PBlji_1zaNkRBHlBv0DN6QEYSE04C-x4CQoz1itlm8qkfNfAUlJ6Gy7LVq77t73-NkNnN3XLuqPm28-wQwgGhNFH1unhXtI3UPmu6oUKFswdIEwxNX8FEd5s1gXcR67pDG9bxFMnOFdyQKe6",
+            "date": "May 28, 2025",
+            "effect": [
+                "Optimizes business expansion strategies.",
+                "Identifies optimal locations for new outlets.",
+                "Uncovers new market opportunities."
+            ]
+        },
+        {
+            "feature": "SOC 2 Type II compliance and ISO certification.",
+            "user_type": "Enterprise Customers",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfXuim8_SCbK8pHixomHaIR3ENGHmLZ50ztzT4H69wgIm6R_p5xaZEVcqfI55qKg4HsSUpWXuc6LfztCqPa_9VKHLh7uJPOmZNuw8Yo1zPbf4NsklNvp816ZzkDs0vPwMHkgZXlRU=",
+            "date": "January 25, 2024",
+            "effect": [
+                "Ensures data security and privacy.",
+                "Meets enterprise-grade requirements.",
+                "Builds customer trust."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Mobile app occasionally crashes when technicians update tasks on-site.",
+            "user_type": "Field Technicians",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbm1SDf8t-wSJNn_smKg_ySPoEDJVZQQkCtGXUyeik_oYSbp6njTB_3tBYvSkojZkwSMkx2WJip_ZjwLUU1_RuMC_RL_gIQFCrh3Ij-VCKDhS0nGb-Vx3Ynvw84uDFMesYivIrOijP7NU=",
+            "date": "November 22, 2025",
+            "effect": [
+                "Disrupts task updates.",
+                "Causes potential data loss.",
+                "Leads to frustration for technicians."
+            ]
+        },
+        {
+            "issue": "Integration features found lacking with other systems in the ecosystem.",
+            "user_type": "IT Managers",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-6_kz165F_UVpLIlG0YabJ4AGulbr_KGwzOE2IO5QueYLMz6_WDJra3qvAzQRnym8ZAbYf__K54TTlhCq4FWGR0B6-MXPlW8rnXmsfP6OGWlpRshvEqJL9JAuEltgC1YrEHotw1z-R1vrF8fG9SlR",
+            "date": "April 11, 2026",
+            "effect": [
+                "Hinders seamless workflow automation.",
+                "Requires manual workarounds.",
+                "Limits the platform's utility in a complex tech stack."
+            ]
+        },
+        {
+            "issue": "While powerful, the features can be complex to master.",
+            "user_type": "Field Service Managers",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-6_kz165F_UVpLIlG0YabJ4AGulbr_KGwzOE2IO5QueYLMz6_WDJra3qvAzQRnym8ZAbYf__K54TTlhCq4FWGR0B6-MXPlW8rnXmsfP6OGWlpRshvEqJL9JAuEltgC1YrEHotw1z-R1vrF8fG9SlR",
+            "date": "June 16, 2025",
+            "effect": [
+                "Requires significant training and onboarding time.",
+                "May lead to underutilization of features.",
+                "Can slow down adoption by the team."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Partnership with NextBillion.ai (enterprise map data and routing provider).",
+            "user_type": "All Users",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1QeBuZ9aNDoX_IgHzQWNi2biy8DyjINeVqNB0ZYS7zD2L8Lha49LEn7aWBnsKUkWx8nzXdaHp_Pl_Q8JgpE6xwQr5BC5-7AcvRRpWR0JW1LEjcBZpSiZuoJ5qqj6_TKzHM7W2",
+            "date": "November 15, 2025",
+            "effect": [
+                "Enhances mapping and routing capabilities.",
+                "Improves platform integration with specialized geo-services.",
+                "Potentially expands service offerings."
+            ]
+        },
+        {
+            "move": "Listing on Google Cloud Marketplace.",
+            "user_type": "Enterprise Customers",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfXuim8_SCbK8pHixomHaIR3ENGHmLZ50ztzT4H69wgIm6R_p5xaZEVcqfI55qKg4HsSUpWXuc6LfztCqPa_9VKHLh7uJPOmZNuw8Yo1zPbf4NsklNvp816ZzkDs0vPwMHkgZXlRU=",
+            "date": "January 25, 2024",
+            "effect": [
+                "Increases visibility and accessibility on a major cloud platform.",
+                "Facilitates easier adoption for Google Cloud users.",
+                "Validates platform's readiness for enterprise deployment."
+            ]
+        },
+        {
+            "move": "Focus on R&D and advanced user experience to amplify value.",
+            "user_type": "Customers",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTC3REPXQxogGdg4VjVvnd2jjNaalUogrCAYNRjUaYCNDAhXQImJg25Dma14Uqm-QEACeLiXBgtSHIWWDwmB3qoYSO9kBAaOU-uOJo5iMaq7U_ShQrYtlaar6TFwGbso4U45XdHH1FxqYBysBe4o-VTUNe0IxUitJv2q8Zg1iz8xF-5ZNP6ol83YiX_5aMj0_tpiCC",
+            "date": "December 20, 2021",
+            "effect": [
+                "Drives product innovation.",
+                "Leads to improved features and functionality.",
+                "Enhances customer satisfaction and retention."
+            ]
+        },
+        {
+            "move": "International expansion into new geographies.",
+            "user_type": "Company Stakeholders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTC3REPXQxogGdg4VjVvnd2jjNaalUogrCAYNRjUaYCNDAhXQImJg25Dma14Uqm-QEACeLiXBgtSHIWWDwmB3qoYSO9kBAaOU-uOJo5iMaq7U_ShQrYtlaar6TFwGbso4U45XdHH1FxqYBysBe4o-VTUNe0IxUitJv2q8Zg1iz8xF-5ZNP6ol83YiX_5aMj0_tpiCC",
+            "date": "December 20, 2021",
+            "effect": [
+                "Increases market reach.",
+                "Diversifies revenue streams.",
+                "Establishes global presence."
+            ]
+        },
+        {
+            "move": "Focus on enterprise-grade technology and certifications (ISO, SOC 2 Type II).",
+            "user_type": "Enterprise Customers",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfXuim8_SCbK8pHixomHaIR3ENGHmLZ50ztzT4H69wgIm6R_p5xaZEVcqfI55qKg4HsSUpWXuc6LfztCqPa_9VKHLh7uJPOmZNuw8Yo1zPbf4NsklNvp816ZzkDs0vPwMHkgZXlRU=",
+            "date": "January 25, 2024",
+            "effect": [
+                "Meets stringent security and compliance requirements.",
+                "Builds confidence for large enterprise adoption.",
+                "Reduces implementation risks."
+            ]
+        }
+    ],
+    "milestones": [
+        "Incubated in 2017.",
+        "Registered as an independent entity on October 17, 2020.",
+        "Secured two rounds of funding in 2021.",
+        "Achieved ISO certification by February 2022.",
+        "Reached the 100 employee mark in June 2022.",
+        "Registered offices in the U.S. and onboarded partners in Australia and South America between June 2022 and January 2023.",
+        "Raised Pre-Series A funding in January 2023.",
+        "Granted second patent by the close of 2023.",
+        "First product listed on the Google Cloud Marketplace in Q4 2023.",
+        "Launched Dista's S.P.A.C.E. framework for lead allocation (February 25, 2026)."
+    ],
+    "new_features_launched": [
+        "Dista's S.P.A.C.E. framework for lead allocation (February 2026)."
+    ],
+    "other_crucial_details": [
+        "The company name is derived from the Sanskrit word 'Disht' for positioning or goal.",
+        "The company's patent-pending and patent-granted algorithms are a key part of its technology.",
+        "Dista emphasizes its AI/ML capabilities, although detailed technical documentation can be sparse.",
+        "The company has a significant presence in BFSI, logistics, consumer goods, and e-commerce sectors."
+    ]
+}
