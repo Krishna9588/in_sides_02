@@ -1,0 +1,1645 @@
+{
+    "project_name": "unacademy",
+    "domain": "https://unacademy.com/",
+    "ingestion_date": "2026-04-30T17:23:26.021426",
+    "data_sources": {
+        "company_profile": {
+            "status": "error",
+            "error": "run_research_task() got an unexpected keyword argument 'storage_folder'"
+        },
+        "play_store": {
+            "extraction_metadata": {
+                "source": "Google Play Store",
+                "extracted_at": "2026-04-30T17:22:56.667209",
+                "extraction_time_seconds": 3.47,
+                "fields_extracted": 30,
+                "country": "in",
+                "language": "en",
+                "reviews_distribution": {
+                    "1": 10,
+                    "2": 10,
+                    "3": 10,
+                    "4": 10,
+                    "5": 10
+                },
+                "total_reviews_extracted": 50,
+                "status": "success"
+            },
+            "extracted_data": {
+                "metadata": {
+                    "appId": "com.unacademyapp",
+                    "title": "Unacademy: Learn & Crack Exams",
+                    "url": "https://play.google.com/store/apps/details?id=com.unacademyapp&hl=en&gl=in",
+                    "developer": "Unacademy",
+                    "developerId": "Unacademy",
+                    "developer_email": null,
+                    "developer_website": null,
+                    "developer_address": null,
+                    "developer_privacy_policy": "https://unacademy.com/privacy",
+                    "category": null,
+                    "genre": "Education",
+                    "genreId": "EDUCATION",
+                    "content_rating": "Rated for 3+",
+                    "content_rating_description": null,
+                    "score": 4.10068,
+                    "ratings": 1247209,
+                    "reviews": 339982,
+                    "installs": "100,000,000+",
+                    "installs_min": 100000000,
+                    "installs_max": 1000000000,
+                    "free": true,
+                    "price": 0.0,
+                    "currency": "INR",
+                    "iap": false,
+                    "iap_price_range": null,
+                    "version": "6.169.0",
+                    "version_update_date": 1776511662,
+                    "min_android_version": null,
+                    "target_android_version": null,
+                    "description": "Unacademy – India's Largest Online Learning Platform\r\n\r\nPrepare for UPSC CSE, IIT JEE, NEET UG, CAT, GATE, CA, NET, Banking, Judiciary and more – all in one app. With India's top educators from IITs, IIMs & top Medical Colleges, Unacademy is the trusted choice of 10M+ learners across the country.\r\n\r\n🎉 WHAT'S NEW\r\nWe've completely redesigned the Unacademy app — cleaner, faster, and built around how you actually learn.\r\n\r\n✨ PRIME – PREMIUM RECORDED LEARNING\r\nUnlock India's best recorded lectures, anytime, anywhere.\r\n- Premium pre-recorded lectures from India's top educators\r\n- Extensive topic-wise question banks with Previous Year Questions\r\n- Tests curated and created by subject matter experts\r\n\r\n🆕 REVAMPED APP EXPERIENCE\r\n- Brand new design – intuitive navigation & faster load times\r\n- Smarter content discovery – find the right course or educator in seconds\r\n- Improved performance across all Android devices\r\n\r\nEVERYTHING YOU NEED TO SUCCEED\r\n\r\n🏆 India's Top Educators\r\n- Rank-producing educators across all exam categories\r\n- Extensive teaching experience with proven results\r\n- Batches running year-round\r\n\r\n📡 Live Classes\r\n- Live classes with India's best teachers\r\n- 1:1 Mentorship & doubt clearing via Ask a Doubt\r\n- Polls, leaderboards, streaks & live engagement features\r\n\r\n📝 Tests & Practice\r\n- Mock tests, sectional tests, PYQs & full-length tests\r\n- Detailed performance reports and analysis\r\n\r\n🤖 AI-Powered Learning\r\n- Contextual AI assistance to clear your doubts instantly\r\n- Practice topics, take tests, and get class summaries\r\n\r\n🎯 SPECIAL FOCUS: UPSC ASPIRANTS\r\n- 800+ hours of structured classes\r\n- Live + recorded access\r\n- 40+ weekly sectional and full-length tests (Prelims & Mains)\r\n- 360° Current Affairs coverage\r\n- Essay and GS answer writing support\r\n\r\n💰 AFFORDABLE & ACCESSIBLE\r\n- Most affordable online coaching in India\r\n- Exciting scholarships across categories\r\n\r\nPROVEN RESULTS, TRUSTED BY MILLIONS\r\nFrom UPSC toppers to IIT-JEE rank holders, NEET doctors, CAT 99+ scorers, and government job achievers – Unacademy has powered thousands of success stories.\r\n\r\n📱 LEARN ANYTIME, ANYWHERE\r\nAccess classes, notes & tests on your mobile, tablet, or desktop – all synced for your convenience.\r\n\r\n✨ Start your journey today. Download Unacademy and turn your exam dreams into reality.\r\n\r\nFOLLOW US\r\n🌐 Website: https://unacademy.com \r\n▶️ YouTube: https://youtube.com/unacademy \r\n📸 Instagram: https://instagram.com/unacademy \r\n👍 Facebook: https://facebook.com/unacademy",
+                    "description_html": "Unacademy – India&#39;s Largest Online Learning Platform<br><br>Prepare for UPSC CSE, IIT JEE, NEET UG, CAT, GATE, CA, NET, Banking, Judiciary and more – all in one app. With India&#39;s top educators from IITs, IIMs &amp; top Medical Colleges, Unacademy is the trusted choice of 10M+ learners across the country.<br><br>🎉 WHAT&#39;S NEW<br>We&#39;ve completely redesigned the Unacademy app — cleaner, faster, and built around how you actually learn.<br><br>✨ PRIME – PREMIUM RECORDED LEARNING<br>Unlock India&#39;s best recorded lectures, anytime, anywhere.<br>- Premium pre-recorded lectures from India&#39;s top educators<br>- Extensive topic-wise question banks with Previous Year Questions<br>- Tests curated and created by subject matter experts<br><br>🆕 REVAMPED APP EXPERIENCE<br>- Brand new design – intuitive navigation &amp; faster load times<br>- Smarter content discovery – find the right course or educator in seconds<br>- Improved performance across all Android devices<br><br>EVERYTHING YOU NEED TO SUCCEED<br><br>🏆 India&#39;s Top Educators<br>- Rank-producing educators across all exam categories<br>- Extensive teaching experience with proven results<br>- Batches running year-round<br><br>📡 Live Classes<br>- Live classes with India&#39;s best teachers<br>- 1:1 Mentorship &amp; doubt clearing via Ask a Doubt<br>- Polls, leaderboards, streaks &amp; live engagement features<br><br>📝 Tests &amp; Practice<br>- Mock tests, sectional tests, PYQs &amp; full-length tests<br>- Detailed performance reports and analysis<br><br>🤖 AI-Powered Learning<br>- Contextual AI assistance to clear your doubts instantly<br>- Practice topics, take tests, and get class summaries<br><br>🎯 SPECIAL FOCUS: UPSC ASPIRANTS<br>- 800+ hours of structured classes<br>- Live + recorded access<br>- 40+ weekly sectional and full-length tests (Prelims &amp; Mains)<br>- 360° Current Affairs coverage<br>- Essay and GS answer writing support<br><br>💰 AFFORDABLE &amp; ACCESSIBLE<br>- Most affordable online coaching in India<br>- Exciting scholarships across categories<br><br>PROVEN RESULTS, TRUSTED BY MILLIONS<br>From UPSC toppers to IIT-JEE rank holders, NEET doctors, CAT 99+ scorers, and government job achievers – Unacademy has powered thousands of success stories.<br><br>📱 LEARN ANYTIME, ANYWHERE<br>Access classes, notes &amp; tests on your mobile, tablet, or desktop – all synced for your convenience.<br><br>✨ Start your journey today. Download Unacademy and turn your exam dreams into reality.<br><br>FOLLOW US<br>🌐 Website: https://unacademy.com <br>▶️ YouTube: https://youtube.com/unacademy <br>📸 Instagram: https://instagram.com/unacademy <br>👍 Facebook: https://facebook.com/unacademy",
+                    "summary": "Unacademy – India's Largest Online Learning Platform\r\n\r\nPrepare for UPSC CSE, IIT JEE, NEET UG, CAT, GATE, CA, NET, Banking, Judiciary and more – all in one app. With India's top educators from IITs, ",
+                    "icon": "https://play-lh.googleusercontent.com/DT0jm91vA_rOkxwatXhI4yVpjU4KI0augje6ZJGYxEyNjKvIhcQt8npiLHf5-ydclsqe",
+                    "screenshots": [
+                        "https://play-lh.googleusercontent.com/7xGL6ec4d0_WtFf08W6_1QbJSEoiPZqRaaXgFZqOybnIVaSBqSyV6rziIgq1Tbxn1F9qmglUKlKvXhLYIQtk",
+                        "https://play-lh.googleusercontent.com/wAr4b7JjwaV_dWz-SjsRPG8KazDxT-TwyugEyiK6rS-VoTVHqY_mgT-g7LRpgYxEz56aexbRlXKWMHj1sNKjrA",
+                        "https://play-lh.googleusercontent.com/88Dv_RUqmbHIbhVFCMzS8xoyJV8lYpcYWPfXdWK2j7QEzc9L8vE2GSWb-YBX0o59WH7B8FCfskSnaHFt_zfOEA",
+                        "https://play-lh.googleusercontent.com/3iusDP2IeJxTsZPQtUjzUoJ18lDw0K7RKsX6VbrNAPb7B3822K5La-pKY0k0C0VCHX8xQjbkQgebt4uHVAdQm0c",
+                        "https://play-lh.googleusercontent.com/JYm1sZuH7-OHPgCgCnJ9OuqHPj2roukeVhUERVq7d3BO4ou57zGWGVLXt4RhCKgxxEnwrpJCNrU5pxB7nbTdbZU",
+                        "https://play-lh.googleusercontent.com/hWrv2TCwsu-e3OGf-GLb7UGYg4mw_0tF2l6cO7pM52BKGF2NchxeEYwVtyujUDeUhssmPJABMKZT-VjoVeESWg",
+                        "https://play-lh.googleusercontent.com/tERnzue3-rD-spdhTpscNdTPtrchIOvbkIH9B0_oPdjj6DhDOa7ZezVcdsAC9Bhrgw",
+                        "https://play-lh.googleusercontent.com/J2qsC0vv4SsHO6OzNaZ5ev-wDVx0DOcjzTjgzTv_CrIf-W5Fl6tqXAC25I1E_pWyN3wEbcWP8mWLsdU9ZfwBTg",
+                        "https://play-lh.googleusercontent.com/HJV5tFpD2WQ0nV7SzyunxRVC4XQZ6JpWEW6WB4Ch6yl-FgFgWkbudkYWzoFdmTiZeBk90DyKIsM20WEpWM_37zE",
+                        "https://play-lh.googleusercontent.com/EhaNaWEJa_exdXTU6JAcbifRWIgcIFpLkK485gZqK2v2Tm47i0Jfs5UXKZS6mShXUnBKyYVqQ3Ey5n57jnwR",
+                        "https://play-lh.googleusercontent.com/XrQ4-wIATuB9f6P8-9qRE8txbNfyM-G2tw3FK7uHYh24m1hn4tsHtBouf1tuUwTN8GGQ769h4P8gXxAMlhvlm6I",
+                        "https://play-lh.googleusercontent.com/B2KOucfIfraVjl6DuynCY3ywkoevnHG1dm27u4BFIsb4d6w7qm3g3zMx8VF0vBFkq25pVrrTn3TYYjyK7HaSFQ",
+                        "https://play-lh.googleusercontent.com/45jLaWNcazR_HvrSdVAKmHi3Wr34OVGoiNhnE6GIKXd1ag2RApwt8grdaRw-LBleozdXw_6t_MFqeDmT1cTqWQ",
+                        "https://play-lh.googleusercontent.com/JOmTZ4Lsr9noTBw2W6EAwqiWpeoE76zodEfTe5Ibkn3HR7i3rIi2OvGp_eJPska8_5dl3YTFme99jlGoWnMXY00",
+                        "https://play-lh.googleusercontent.com/KRoHSeVzFcGJJlfjk1RDFw150DI1kfbsulc5LX2E4Yw2VM_YmwVVmQsM2_yZE6_iPnMpLkcl55yfpvLvG1Ze2Ss",
+                        "https://play-lh.googleusercontent.com/H4fh5WHonEz2GSN6YKpb0zcnIuD2LxLe5PGplMxBdKwbH_LcroDM8MsTq3vYdLWhHkxiGJJ2QLg6o8258wp73w",
+                        "https://play-lh.googleusercontent.com/HJV5tFpD2WQ0nV7SzyunxRVC4XQZ6JpWEW6WB4Ch6yl-FgFgWkbudkYWzoFdmTiZeBk90DyKIsM20WEpWM_37zE",
+                        "https://play-lh.googleusercontent.com/EhaNaWEJa_exdXTU6JAcbifRWIgcIFpLkK485gZqK2v2Tm47i0Jfs5UXKZS6mShXUnBKyYVqQ3Ey5n57jnwR",
+                        "https://play-lh.googleusercontent.com/XrQ4-wIATuB9f6P8-9qRE8txbNfyM-G2tw3FK7uHYh24m1hn4tsHtBouf1tuUwTN8GGQ769h4P8gXxAMlhvlm6I",
+                        "https://play-lh.googleusercontent.com/B2KOucfIfraVjl6DuynCY3ywkoevnHG1dm27u4BFIsb4d6w7qm3g3zMx8VF0vBFkq25pVrrTn3TYYjyK7HaSFQ",
+                        "https://play-lh.googleusercontent.com/45jLaWNcazR_HvrSdVAKmHi3Wr34OVGoiNhnE6GIKXd1ag2RApwt8grdaRw-LBleozdXw_6t_MFqeDmT1cTqWQ",
+                        "https://play-lh.googleusercontent.com/JOmTZ4Lsr9noTBw2W6EAwqiWpeoE76zodEfTe5Ibkn3HR7i3rIi2OvGp_eJPska8_5dl3YTFme99jlGoWnMXY00",
+                        "https://play-lh.googleusercontent.com/KRoHSeVzFcGJJlfjk1RDFw150DI1kfbsulc5LX2E4Yw2VM_YmwVVmQsM2_yZE6_iPnMpLkcl55yfpvLvG1Ze2Ss",
+                        "https://play-lh.googleusercontent.com/H4fh5WHonEz2GSN6YKpb0zcnIuD2LxLe5PGplMxBdKwbH_LcroDM8MsTq3vYdLWhHkxiGJJ2QLg6o8258wp73w"
+                    ],
+                    "video": null,
+                    "feature_graphic": null,
+                    "permissions": [],
+                    "permissions_count": 0,
+                    "high_risk_permissions": {
+                        "risk_level": "Low",
+                        "high_risk_count": 0,
+                        "medium_risk_count": 0,
+                        "high_risk_permissions": [],
+                        "medium_risk_permissions": []
+                    },
+                    "released": "Feb 15, 2017",
+                    "size": null,
+                    "is_early_access": false,
+                    "is_editor_choice": false,
+                    "offers_in_app_purchases": true,
+                    "extraction_country": "in",
+                    "extraction_language": "en",
+                    "extracted_at": "2026-04-30T17:22:58.749665"
+                },
+                "reviews": [
+                    {
+                        "id": "19202b3c-78a5-482c-9641-74569a08aacb",
+                        "author": "Riya",
+                        "rating": 1,
+                        "title": "",
+                        "content": "I watched NEET preparation series on YouTube and downloaded Unacademy for free practice and test series. I created an ID on the app for practice purposes, but I keep receiving too many calls from their team. They call 3–4 times a day, which is very disturbing and irritating. Instead of motivating students, these calls sometimes feel demotivating. They keep asking why I am not taking a batch and say that it is not possible to prepare without a batch. This kind of pressure is not good for student",
+                        "date": "2026-04-03T19:42:17",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "f43705ed-153f-4403-a91c-0939fd97dfe6",
+                        "author": "Tarun Patel",
+                        "rating": 1,
+                        "title": "",
+                        "content": "🔸If there was an option, I would have given 0 stars. 🔸Because Before purchasing the subscription, I used to get multiple calls from Unacademy almost every day. But after taking the subscription, whenever I had a genuine query and tried reaching out, nobody attended my calls. The support system is completely unresponsive, and it feels like they only care until you pay. Very disappointing experience. This is not fraud , you can purchase it!",
+                        "date": "2025-09-10T11:06:48",
+                        "version": "6.152.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "627849ff-d5fa-4cb8-a473-758872bd6e50",
+                        "author": "Fiji Delbi Raju",
+                        "rating": 1,
+                        "title": "",
+                        "content": "Worst app ever. Please don't purchase the app. They will call us and give offers to buy the course and took the money. My course was of plus plan for four years. Now they are saying there is no plan such like that. Money gone. They will tell the mistakes are ours. I didn't got any refund. I didn't got the subscription. The worst platform ever. Fraud.",
+                        "date": "2023-08-27T22:21:30",
+                        "version": "6.96.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "debbfb4d-9c26-4a9c-8380-77fff723697e",
+                        "author": "Devesh Thakur",
+                        "rating": 1,
+                        "title": "",
+                        "content": "I am extremely disappointed with Unacademy's approach towards user engagement. I downloaded and explored the app just once out of curiosity. Ever since then, I’ve been getting continuous calls from different numbers, all trying to convince me to purchase a subscription. Despite clearly telling them that I’m not interested, the calls keep coming almost daily — and not just one or two, but from multiple numbers.",
+                        "date": "2025-07-29T11:22:30",
+                        "version": "6.147.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "4344a659-fa3e-4ffc-89e4-be0422b77353",
+                        "author": "Anshita Soni",
+                        "rating": 1,
+                        "title": "",
+                        "content": "On Unacademy, they keep calling you every day until you take a subscription. But as soon as you subscribe, if you face any problem with the class—like the class not running or being archived—they don’t attend the calls. You remain frustrated. I took a subscription for my optional, but the classes didn’t run. My money for the optional subscription was completely wasted. Unacademy seems to be just a way for them to make money.​\"They always have this one line, 'chat with us,' which is useless.\"",
+                        "date": "2025-10-02T10:17:29",
+                        "version": "6.155.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "7dd5a48a-ec46-482c-a507-63d3f666cde1",
+                        "author": "A Google user",
+                        "rating": 1,
+                        "title": "",
+                        "content": "Unable to take screenshots, have already taken plus subscription. This was unforeseen. Very annoying! It also discourages learning from Unacademy. Previously, we were able to watch video on the go and mark important notes via Screenshots. Now we have to sit with pen and note book to watch videos. This is not why I subscribed plus. I am paying for the course. I should be able to take screenshots. You should have mentioned before I took the subscription. I want my money back if this continues.",
+                        "date": "2019-05-21T18:15:30",
+                        "version": "5.4.9",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "2545a100-46ec-492a-93ff-972936621cbf",
+                        "author": "ahmad yoosuf",
+                        "rating": 1,
+                        "title": "",
+                        "content": "WASTE APP, I don't have any particular problem with the idea of the App but there are just so many courses for the very same subject that it is highly difficult to find a good one in an efficient manner. I expected the App to be considerate of my time but it does not seem so. The App should ideally have only a handful of courses (for each particular subject) to cater to the needs of students. Providing \"unlimited\" option does NOT make it good. NB: Please don't ask to email you.",
+                        "date": "2023-09-30T02:10:04",
+                        "version": "6.102.1",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "aaeb4ad1-97fc-4a97-a034-ad870a6e1d0d",
+                        "author": "Hridhya Das",
+                        "rating": 1,
+                        "title": "",
+                        "content": "The app was a good platform to learn. But the calls from unacademy is very annoying and spam. There is no option in the app to stop receiving these calls. I get more than two calls every week. Even after making multiple tickets this has continued. Kindly look into it. I don't want to receive any more calls from unacademy. If I need help I will contact the support group, stop calling me.",
+                        "date": "2024-04-28T10:59:27",
+                        "version": "6.126.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "03dc22cd-604a-4a62-b527-57dbbe7b633a",
+                        "author": "Krishnam Mangroliya",
+                        "rating": 1,
+                        "title": "",
+                        "content": "I am writing this review to share my honest experience and to help other students make a better decision before purchasing a subscription. I strongly feel that students should think carefully before buying an Unacademy subscription, especially if they are expecting the kind of teaching that is shown in advertisements. One of the main reasons for my disappointment is the difference between what is advertised and what is actually delivered. Unacademy promotes its “pen tab mode” classes,",
+                        "date": "2026-04-15T21:19:25",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "be8dcdcb-b7f6-498b-85b8-a96869caa9b7",
+                        "author": "Arpit shukla",
+                        "rating": 1,
+                        "title": "",
+                        "content": "had an Unacademy Iconic subscription, and they said that if I couldn’t clear the exam, the next attempt would be free. But now they are not receiving my calls. I have already sent many emails; they generate a ticket number, but nothing happens after that. Please don’t go for Unacademy because they promise support, but they never provide it. I also don’t think I got any benefit from the Iconic subscription.",
+                        "date": "2026-04-14T10:34:36",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "6e08ecc9-e3eb-4e2d-a266-37d854b7c5e8",
+                        "author": "Silpa Shaji",
+                        "rating": 2,
+                        "title": "",
+                        "content": "Of course, the content, lectures, tests and educators are really good in Unacademy platform. But, the interface of the app is not user friendly. We can't find a test in test series section, as they are not organised. And there is no option provided for us to filter/ search.The only 1 overall search option available, is of no use. Also, I couldn't find any other means to provide feedback and so posting it here. Kindly look into this seriously, especially the date wise organisation of test series.",
+                        "date": "2022-04-13T18:56:31",
+                        "version": "6.29.2",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "99ad81c0-7884-4dae-9fd3-7c72f2fdeb23",
+                        "author": "archit singh",
+                        "rating": 2,
+                        "title": "",
+                        "content": "Please Give Option to change your Goal after the purchase of subscription as it will be beneficial. Sometimes we don't know about the content you're providing and after purchasing subscription we regret it later. So Please Provide the above option if possible...It will be a Great Feature to use",
+                        "date": "2026-04-06T22:23:55",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "44640e8b-d1da-4119-a283-251f08358c15",
+                        "author": "Pranjal Agrawal",
+                        "rating": 2,
+                        "title": "",
+                        "content": "they really need to work on their app , your test gets automatically submitted mid test and most of the times the app's just buffering , even while analysing the test , the app gets automatically shut and you've to keep opening the app again and again",
+                        "date": "2026-04-17T19:41:25",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "4c5a15ce-a30e-44de-ad1b-c5e0c834d54b",
+                        "author": "Rachit Niranjan",
+                        "rating": 2,
+                        "title": "",
+                        "content": "they didn't have a app for Tablets. although phone's app works on tab too but only in portrait due to which big bars appear on both side and app becomes too small to navigate. they should create a app ui for tab too. every other platform have their's too like physicswallah and allen etc.",
+                        "date": "2026-03-22T16:35:17",
+                        "version": "6.166.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "16ebbdc8-f8c6-4d25-9e44-1892c39fc048",
+                        "author": "Shashi Kumar",
+                        "rating": 2,
+                        "title": "",
+                        "content": "doubt related to test ,and other functions, solving mechanism is very poor,once you enroll in any course they don't take care of your grievances, they only try to solve your doubt by chat bot mechanism,not by one to one interaction on phone call or other humanly means. they only call you until you haven't purchased their cour after that they don't entertain you.",
+                        "date": "2026-04-19T17:44:22",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "14fe6fde-c879-4e53-b6c6-c37865eaece9",
+                        "author": "Priyatam",
+                        "rating": 2,
+                        "title": "",
+                        "content": "no security,no details about last logged in time,in how many devices ,account was signed in,resume feature of video is showing wrong video.no options to talk to customer care executive.",
+                        "date": "2026-03-13T14:35:37",
+                        "version": "6.164.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "f7909f4a-2f73-4d59-be2d-775ac6f40ed2",
+                        "author": "SUBIR Dhar",
+                        "rating": 2,
+                        "title": "",
+                        "content": "The tests and teachers are great but everytime I review my tests, the app crashes at exactly 35 questions",
+                        "date": "2026-04-16T12:55:50",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "a302dcb6-5f24-469c-8114-cbc7c1a365a8",
+                        "author": "archana bharat",
+                        "rating": 2,
+                        "title": "",
+                        "content": "too much bugs I took a plus subscription but some classes are not attendable and if I put a doubt it doesn't Load solution they call you before subscription once you take subscription if you call them for any problem solve then never take your are call completely disappointed by unacademy app because of too many bugs unacademy I request unacademy to fix these bugs as soon as possible",
+                        "date": "2026-03-04T21:26:50",
+                        "version": "6.162.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "2e9acc19-8172-4fc0-8a7b-2a5961b35563",
+                        "author": "Shubh Yadav",
+                        "rating": 2,
+                        "title": "",
+                        "content": "The newer version is not as good as the older one, it is difficult to find a special class lecture for a specific educator",
+                        "date": "2026-03-15T14:43:27",
+                        "version": "6.164.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "5829b3f9-004f-45db-a069-4ea4d5d47676",
+                        "author": "Ashutosh Mohanty",
+                        "rating": 2,
+                        "title": "",
+                        "content": "This app is very slow in all aspects, like opening courses and enrollments . It consumes a lot of battery and cpu, still not efficient enough for regular use My screen time here is 4 hours a day but sometimes I am on the way and I need to use mobile to access it. Should provide a desktop app for pc users in store, where they can have a download option to download videos. Accessing materials in the updates section can be broadened to a section or place where I can find al enrolled courses PDFs",
+                        "date": "2026-01-24T10:00:10",
+                        "version": "6.161.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "2e7c5f23-d19c-435f-b678-5a9a61565022",
+                        "author": "Sushmita Singh.",
+                        "rating": 3,
+                        "title": "",
+                        "content": "Everything is fine. Except the download feature. I use this app through my phone and my laptop. There is no download available on the laptop, using it through the website you won't find downloaded videos. That is actually very annoying. You are forced to watch either online or smaller screens and give a lot of pressure to your eye. I don't like its website at all.",
+                        "date": "2026-04-15T06:19:27",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "dd851ef3-398b-448a-9edb-5760b208f9f8",
+                        "author": "Utkarsh Sharma",
+                        "rating": 3,
+                        "title": "",
+                        "content": "I have been learning with the educators for long, upsc cse, since the start of my preparation but app quality has been Lagging behind educators quality. 1. the tests need to be better, the interface is good but the evaluation and answer key of tests are in a single page and it makes it very hard to evaluate tests, compared to similar platform like testbook 2. the interface is not optimised for tablets, I think the team must optimize it for tablets for users using it on tabs.",
+                        "date": "2026-04-10T23:57:25",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "f0bc6dfb-ee2d-4ced-8e44-44a24bde6548",
+                        "author": "Surbi Rajput",
+                        "rating": 3,
+                        "title": "",
+                        "content": "It was nice experience for GS but i would like to inform those students who are preparing ANIMAL HUSBANDRY as an optional please do not buy subscription. I had done this mistake even after the meeting with their mentor i told him everything about my optional subject plans he asked to take subscription of 2 yrs and my whole 25k is wasted..",
+                        "date": "2026-04-08T22:07:39",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "2aefe84c-635e-4f74-b1e0-8fa812a347be",
+                        "author": "Trilok Parjapati",
+                        "rating": 3,
+                        "title": "",
+                        "content": "In AIMT test series some questions are wrong established and can't give proper explanation",
+                        "date": "2026-04-20T14:26:15",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "6f21659c-2925-446c-bb35-9d0df5dd11d9",
+                        "author": "Kiran Gupta",
+                        "rating": 3,
+                        "title": "",
+                        "content": "it's buffering in tablet.. make the app suitable for tablet too.",
+                        "date": "2026-04-19T20:42:33",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "e05347ba-0b4c-4f94-99c9-2079870bf812",
+                        "author": "Tanmay Dusane",
+                        "rating": 3,
+                        "title": "",
+                        "content": "Experience teacher teaching is good but helpline Calls are just discusting.",
+                        "date": "2026-04-07T09:18:29",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "fe460703-0db6-4968-9dc3-78eb0ef90f7c",
+                        "author": "ANAMIKA KUMARI",
+                        "rating": 3,
+                        "title": "",
+                        "content": "My phone S25Ultra keep on getting way too heated after an hour of use, please help!",
+                        "date": "2026-04-03T23:31:03",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "cbe019e6-b95c-4b2c-9aba-770d9706e643",
+                        "author": "Diljot",
+                        "rating": 3,
+                        "title": "",
+                        "content": "the new interface is inconvenient and frustrating to find classes.",
+                        "date": "2026-03-25T22:07:50",
+                        "version": "6.166.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "3c4bdaa2-3f8d-4a89-bcc3-0819e4fefc8e",
+                        "author": "Dipsan Khadka",
+                        "rating": 3,
+                        "title": "",
+                        "content": "This is a great app for study. Hope this app will also give education for Nepalese Citizen. CEE and NEET are nearly of same level so i hope devloper will see this reivew and apply this.",
+                        "date": "2026-03-11T19:24:15",
+                        "version": "6.164.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "5e6a4a0f-ea3c-4095-b9c5-2469b5a9fba1",
+                        "author": "Himanshu Tiwari",
+                        "rating": 3,
+                        "title": "",
+                        "content": "from past few days i face a problem when i open the app,firstly the homepage opens but when i click on me section app automatically get close and says unacademy isn't responding i studied from the downloaded lecture but now download class option is not showing. and also my enrollments settings saved all in me section are not working",
+                        "date": "2026-01-25T11:34:08",
+                        "version": "6.162.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "f02d9ebc-77ee-49c2-b11c-d0c4907c5f09",
+                        "author": "Mange Ram",
+                        "rating": 4,
+                        "title": "",
+                        "content": "A very good educational app. But an issue of changing name only once makes it problematic it should allow to change the name multiple times. I hope I will see improvement",
+                        "date": "2026-04-14T15:57:35",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "7f92d8fc-90a9-4ddf-b380-1fdccfbd8b84",
+                        "author": "Kusum Raghuvanshi",
+                        "rating": 4,
+                        "title": "",
+                        "content": "I like this app educator , their teachings style ,their hard work thanku so much Hello all teachers for providing such a worth free classes I am trying from many days to see my favourite educator free classes but I never seen here but today I am happy now I can easily see all previous free classes thanku so much thanks a lot",
+                        "date": "2026-04-02T19:05:43",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "364da279-1a0f-4aac-998e-f5c91d38a867",
+                        "author": "Kartik Pathak",
+                        "rating": 4,
+                        "title": "",
+                        "content": "same for me, please stop keep calling every day. but classes like random still better level then other platforms I prefer it. better for shortcuts.",
+                        "date": "2026-03-30T12:07:59",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "99b6c184-645f-49eb-950a-4d5f974ff499",
+                        "author": "Soham Mahajan",
+                        "rating": 4,
+                        "title": "",
+                        "content": "its nice to clear the whole concept and while lecture is on then the some motivation also improves the consistency and discipline of the student",
+                        "date": "2026-04-02T22:44:55",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "5f33d501-5141-4235-bf06-6c0593a23b9f",
+                        "author": "Chanda Dadhore",
+                        "rating": 4,
+                        "title": "",
+                        "content": "I didn't got some video ,not much teachers available but I loved 🤩😍 the app🙌🏻🙌🏻",
+                        "date": "2026-04-20T14:29:28",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "413fbc61-49dc-4a59-85d1-2f11eacebb3a",
+                        "author": "Basundhara Yadav",
+                        "rating": 4,
+                        "title": "",
+                        "content": "I really love this app the teacher. but one thing I f didn't like is that the batches are soo expensive. so that not everyone can afford it. so if this can be improved then the unacademy is a great learning p latporm",
+                        "date": "2026-03-23T21:13:27",
+                        "version": "6.162.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "0e6bf9ef-c224-4656-a8d7-5727c5fb9759",
+                        "author": "Aditya Vanjani",
+                        "rating": 4,
+                        "title": "",
+                        "content": "giving 4 star because of team ca pratigya and miniusing 1 because app works great on laptop but worst on phone",
+                        "date": "2026-03-13T19:46:34",
+                        "version": "6.164.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "28db610f-3a2c-4cf4-97f2-d35a04f2e482",
+                        "author": "Ritul Channe",
+                        "rating": 4,
+                        "title": "",
+                        "content": "overall experience is good but the app is not available for desktop...",
+                        "date": "2026-03-07T22:00:15",
+                        "version": "6.164.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "256eb4d2-0978-4c40-9e93-e96aeeb928c4",
+                        "author": "Dileep Kumar",
+                        "rating": 4,
+                        "title": "",
+                        "content": "it's good teaching on board will give more clarity",
+                        "date": "2026-03-22T22:20:29",
+                        "version": "6.166.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "3188d91c-9c17-4188-9a75-b2e833df3843",
+                        "author": "Archana Agarwal",
+                        "rating": 4,
+                        "title": "",
+                        "content": "they are just calling unnecessarily even after expiration of the course. sometimes it's too much. if we need their service we will connect them on our own . why spam call the time. it's too irritating. no doubt it's a very helpful application for learners but if we have that course why calling again and again even told them over call that we don't need your course now as we have completed it already.",
+                        "date": "2026-03-07T19:59:07",
+                        "version": "6.75.3",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "743046ef-527e-402e-bccf-afef18b42a1f",
+                        "author": "Poonam Rawat",
+                        "rating": 5,
+                        "title": "",
+                        "content": "Hello Unacademy, I am your plus subscriber. I had submitted my issue ticket in the unacademy help and support section but I got no response. Actually, I attended my classes through phone, but from the past one month I am not able to see the chatbox; more specific, the 'type here' option is not appearing on my screen. Even the doubt box is not visible on my side. Please resolve this issue soon. #Edit: The issue has been successfully resolved. Unacademy's help&support is top-notch.",
+                        "date": "2026-04-21T21:30:18",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "2172bff8-7ba3-47af-81ed-4c8e37bb9531",
+                        "author": "Prashant Kumar",
+                        "rating": 5,
+                        "title": "",
+                        "content": "after update this will become more valuable and you feel the different vibe after using this , because the content and combat are unmatched so let's crack it. and you should join it if you wants to crack the exam , whatever you want to crack because you never feel like that your dicision is wrong, if you stuck in any doubt the learners support and groups and very kind teacher are there no matter you purchased iconic or plus. so join it",
+                        "date": "2026-04-22T07:24:24",
+                        "version": "6.170.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "fb0939ea-2e28-4eba-bc08-5e1818dd0d28",
+                        "author": "Neha Painkra",
+                        "rating": 5,
+                        "title": "",
+                        "content": "My experience using the Unacademy app for studying has been quite positive and helpful. The platform offers a wide range of courses and educators, which makes it easier to find content that suits my learning style and academic needs. The quality of teaching is impressive, and most educators explain concepts in a clear and engaging way. One of the best features of the app is the availability of live classes and recorded sessions. This allows me to attend classes in real time or revise the topics",
+                        "date": "2026-03-23T16:07:01",
+                        "version": "6.166.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "8685bf1c-4153-4d66-bfa7-1ad358ad369d",
+                        "author": "Srinidhi GR",
+                        "rating": 5,
+                        "title": "",
+                        "content": "Really good app, Great teachers. I wish that there was one button dedicated to download all videos of a course instead of individually click on them and I wish that we also had option to download videos to sd card on tablet. Unacademy team pls see if you can do this thank you!",
+                        "date": "2026-04-14T10:22:55",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "071308bb-ea4f-4b93-a95d-9ff0a1b19e9c",
+                        "author": "Pratyush banik",
+                        "rating": 5,
+                        "title": "",
+                        "content": "I was very confusing what I will cracked this exam but unacademy educator soo good and the topic of each chapter is explained very well and teachers behaviour is humble and the batch price on this app is very low one good feature of this app from my personal point of view preparation the batch by combining two classes so ur preparation will strong and just like having to take class 11, 12 separately in another app but unacademy but this app studied both class together so that's is good point",
+                        "date": "2026-04-09T16:28:22",
+                        "version": "6.168.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "89ea3514-39f6-4f50-8816-441a98c81136",
+                        "author": "DIPEEKA MUNDHE",
+                        "rating": 5,
+                        "title": "",
+                        "content": "Unacademy is very helpful for the study it's prefer the top educators of India including also books with their notes and one to one dought clearing session..",
+                        "date": "2026-04-20T20:25:36",
+                        "version": "6.170.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "701d1d5f-1b59-4efb-9058-3b6550762b0f",
+                        "author": "Aparna Soni",
+                        "rating": 5,
+                        "title": "",
+                        "content": "Unacademy provides one of the best learning experiences. The educators are top-notch and the quality of content is excellent. It has helped me a lot in my studies.",
+                        "date": "2026-04-18T11:53:04",
+                        "version": "6.169.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "cc8383b8-3635-4923-8134-46b4cf88b387",
+                        "author": "sana parveen",
+                        "rating": 5,
+                        "title": "",
+                        "content": "I think unacademy is the right platform to learn upcs and you will find all things related to upsc at one place. nice teaching method, nice educators and nice platform. everything on this platform.",
+                        "date": "2026-04-08T15:51:55",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "d66a8765-c026-4012-aeae-03df10a2ed34",
+                        "author": "Rajat Singh Singh",
+                        "rating": 5,
+                        "title": "",
+                        "content": "I'm a honest and blessed learner of unacademy I'm a 2024 to 25 plus learner also your every lecture is pretty well the upsc catagory educators are GOAT but the recent changes in application are not student centric your special classes or free classes are no more free because after completing plus we want a support from unacademy which is now invisible. please consider my concern and it's not only for me it's form thousands of learners",
+                        "date": "2026-04-02T22:17:14",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    },
+                    {
+                        "id": "130f07d3-2a18-48cb-ba53-af8b4ae14995",
+                        "author": "Suman Lata",
+                        "rating": 5,
+                        "title": "",
+                        "content": "a very useful app for students great and intelligent teachers and many features provided by app for learning if u was a student u must have to try this app so useful and India's no. one my fav app",
+                        "date": "2026-04-15T14:33:44",
+                        "version": "6.167.0",
+                        "helpful_count": 0,
+                        "reply_text": null,
+                        "reply_date": null
+                    }
+                ],
+                "review_analysis": {
+                    "total_reviews": 50,
+                    "average_rating": 3.0,
+                    "rating_distribution": {
+                        "1": 10,
+                        "2": 10,
+                        "3": 10,
+                        "4": 10,
+                        "5": 10
+                    },
+                    "average_helpfulness": 0,
+                    "reviews_with_replies": 0,
+                    "latest_review_date": "2026-04-03T19:42:17",
+                    "oldest_review_date": "2026-04-15T14:33:44"
+                },
+                "reviews_metadata": {
+                    "1": {
+                        "requested": 10,
+                        "fetched": 10
+                    },
+                    "2": {
+                        "requested": 10,
+                        "fetched": 10
+                    },
+                    "3": {
+                        "requested": 10,
+                        "fetched": 10
+                    },
+                    "4": {
+                        "requested": 10,
+                        "fetched": 10
+                    },
+                    "5": {
+                        "requested": 10,
+                        "fetched": 10
+                    }
+                }
+            },
+            "analysis": null
+        },
+        "app_store": {
+            "extraction_metadata": {
+                "source": "Apple App Store (iTunes API)",
+                "extracted_at": "2026-04-30T17:22:56.667416",
+                "extraction_time_seconds": 3.75,
+                "fields_extracted": 33,
+                "country": "in",
+                "reviews_distribution": {
+                    "1": 10,
+                    "2": 10,
+                    "3": 10,
+                    "4": 10,
+                    "5": 10
+                },
+                "total_reviews_extracted": 36,
+                "status": "success"
+            },
+            "extracted_data": {
+                "metadata": {
+                    "trackId": 1342565069,
+                    "trackName": "Unacademy Learner App",
+                    "bundleId": "com.unacademy.learn",
+                    "trackViewUrl": "https://apps.apple.com/in/app/unacademy-learner-app/id1342565069?uo=4",
+                    "artistId": 1156375098,
+                    "artistName": "Unacademy",
+                    "artistViewUrl": "https://apps.apple.com/in/developer/unacademy/id1156375098?uo=4",
+                    "sellerName": "Sorting Hat Technologies Private Limited",
+                    "primaryGenreName": "Education",
+                    "primaryGenreId": 6017,
+                    "genres": [
+                        "Education"
+                    ],
+                    "genreIds": [
+                        "6017"
+                    ],
+                    "averageUserRating": 4.48702,
+                    "userRatingCount": 54211,
+                    "averageUserRatingForCurrentVersion": 4.48702,
+                    "userRatingCountForCurrentVersion": 54211,
+                    "price": 0.0,
+                    "formattedPrice": "Free",
+                    "currency": "INR",
+                    "isVppDeviceBasedLicensingEnabled": true,
+                    "version": "2.3.4",
+                    "releaseNotes": "• Bug fixes and performance improvements",
+                    "releaseDate": "2018-02-16T05:40:36Z",
+                    "currentVersionReleaseDate": "2025-07-10T06:38:21Z",
+                    "description": "Embark on the journey to crack your dream exam! \n\nUnacademy, India’s largest learning platform aims to change the way India learns, one Live Class at a time. Unacademy has helped Learners crack their dream exam by getting India’s Top Educators on a single platform.\n\nMillions have cracked it with Unacademy and you can be next! Prepare for JEE, NEET UG, CAT, SSC Exams, State PSCs, other competitive exams and CBSE Class 6 - 12 with India’s Top Educators. The Unacademy App is a complete solution for all your learning needs. Learn for 100+ subjects from the comfort of your home. Take Live Classes, Test Series, Doubt Solving Sessions, Batch Courses and more. From learning to cracking it, Unacademy will be by your side at every step of the way.\n\nGet started with your journey on Unacademy by taking Free Live Classes and stand a chance to win scholarships with Free Mock Tests.\n\nDownload the App and get started today.\n\nUnacademy in Numbers: \n\n59M+ learners impacted\n130k+ Live classes launched  p",
+                    "shortDescription": "",
+                    "minimumOsVersion": "13.1",
+                    "fileSizeBytes": 154763264,
+                    "contentAdvisoryRating": "4+",
+                    "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+                    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+                    "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/9f/6e/f39f6e01-4f92-bf22-978e-7ce6e4f96cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+                    "screenshotUrls": [
+                        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/3f/9d/6c3f9d05-8689-7aa3-afdd-de81da14df6d/5beef84c-206f-446c-a562-cdb3d831c394_Live_Classes_-_1.jpg/392x696bb.jpg",
+                        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/e6/81/63e6814f-cc90-fbaf-cb5b-05defafa8c04/8a20d010-1238-45ea-931a-9e24f3ee8e4a_Live_Classes_-_2.jpg/392x696bb.jpg",
+                        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/e3/48/6ee3487b-9876-bf98-e8ad-91cbe98c90f3/f264341d-5813-4ed3-a28a-0898fe5ebca3_Profile__U0026_Stats.jpg/392x696bb.jpg",
+                        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fb/4d/f0fb4d7f-4126-cb75-672c-27b6e72f5779/621e69c6-2eac-4cb3-b0a9-fa325d1258e2_Dark_Mode.jpg/392x696bb.jpg",
+                        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/82/0e/0c820e85-996f-817a-b419-fb08a58fefaf/planner__U00282_U0029.jpg/392x696bb.jpg"
+                    ],
+                    "ipadScreenshotUrls": [],
+                    "kind": "software",
+                    "trackCensoredName": "Unacademy Learner App",
+                    "privacyViewUrl": null,
+                    "supportUrl": null,
+                    "websiteUrl": null
+                },
+                "reviews": [
+                    {
+                        "id": "14001831379",
+                        "author": "Rahul toshawara",
+                        "rating": 1,
+                        "title": "Don’t download",
+                        "content": "Please don’t download this app because this app have so many notifications msg add and it disturb you",
+                        "date": "2026-04-27T02:38:54-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13978472652",
+                        "author": "Delwinters",
+                        "rating": 1,
+                        "title": "Worst app.",
+                        "content": "Once you login they will harass you through constant calls. 5-6 calls everyday through different numbers.",
+                        "date": "2026-04-20T07:38:50-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13976774238",
+                        "author": "Cornflakis",
+                        "rating": 1,
+                        "title": "Worst app for learning",
+                        "content": "I found some good lectures on a topic I was interested in however on the app only those lecturers are available who are mainstream and paid not free ones, waste of time",
+                        "date": "2026-04-19T19:02:46-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13975494473",
+                        "author": "RJ_aka_alba",
+                        "rating": 1,
+                        "title": "Back option not able to access",
+                        "content": "The back button is so in the corner that I’m not able to go back.",
+                        "date": "2026-04-19T10:31:01-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13962638947",
+                        "author": "Rishabh The Great",
+                        "rating": 1,
+                        "title": "Worst app for any Edtech Platform",
+                        "content": "I have asked and even emailed them about the issues that are happening across both their app and web but there has been no acknowledgement and if there is they make you make video of proofs and even if you send them those they say they cant see those. Just way of deterring any responsibility. \n\nOkay for this app, kindly update it for iOS26. While watching the video the screen locks automatically. Even basic video apps prevent screen from locking. Also the back button merges with the time on left side making it hard to press. Does not happen until the Control Centre has been opened. Guys you have charged a fees for online classes. Goddam fix your apps atleast. This is minimum of any Edtech Provider.",
+                        "date": "2026-04-15T20:49:31-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13902646131",
+                        "author": "Aanvi Maheshwari",
+                        "rating": 1,
+                        "title": "Fraud platform",
+                        "content": "​I am beyond frustrated. I paid ₹49,999 for the IIT JEE batch three days ago, and since then, I have been completely ghosted. Despite the heavy price tag, the batch shows zero enrollments, and no classes have started. It feels like I've just handed over my hard-earned money to a crook platform.\n​I have sent multiple emails to their support team, but there has been no action, no reply, and no accountability. For an \"educational\" platform, their lack of professionalism is shocking. They are quick to take your money but non-existent when it comes to providing the service or support they promised.\n​Unacademy is a complete fraud",
+                        "date": "2026-03-30T01:13:25-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13893825752",
+                        "author": "Snnyj000",
+                        "rating": 1,
+                        "title": "Back button not working",
+                        "content": "This is really so much negligence",
+                        "date": "2026-03-27T13:38:30-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13892642440",
+                        "author": "Rachit Saroha",
+                        "rating": 1,
+                        "title": "Live class Notifications does not come like in Android.",
+                        "content": "Live class Notifications does not come like in Android.",
+                        "date": "2026-03-27T06:56:11-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13851530976",
+                        "author": "DashDAG",
+                        "rating": 1,
+                        "title": "No longer works on IOS",
+                        "content": "The latest update has effectively broken the app for iOS users. The app opens and appears normal, but whenever I try to join a live class it repeatedly shows “no stable network connection,” even though my Wi-Fi is perfectly fine. Because of this bug, I’m completely unable to attend my classes. The working update seems to be available only on Android, and I don’t have an Android device, so I’m essentially locked out of the platform I depend on for my studies. This is extremely frustrating and needs to be fixed urgently.",
+                        "date": "2026-03-15T10:37:25-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13841023350",
+                        "author": "Abhi09jp",
+                        "rating": 1,
+                        "title": "Worst app and mangement",
+                        "content": "The interface of the app is very trick. And mangement have zero civic sense they used to call to buy their course daily in afternoon time. They call from different different no. If you block one of them",
+                        "date": "2026-03-12T11:05:30-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13959543653",
+                        "author": "KushallD",
+                        "rating": 2,
+                        "title": "System",
+                        "content": "bad interface \nbuttons overlapping ios system \nwhich makes them u clickable.",
+                        "date": "2026-04-14T23:54:47-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13841123894",
+                        "author": "Nishkarsh1-12",
+                        "rating": 2,
+                        "title": "Back button not working",
+                        "content": "What is wrong with back button I can’t go back from any interface the back button is merged with the notification bar i have to close the app again and again \nFix this unacademy team",
+                        "date": "2026-03-12T11:43:08-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13790984139",
+                        "author": "Rev01>",
+                        "rating": 2,
+                        "title": "App takes too much time to load",
+                        "content": "Many times it doesn’t even open due to which I miss my classes it keeps loading but never opens",
+                        "date": "2026-02-26T04:05:46-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13734176358",
+                        "author": "Mayur@7",
+                        "rating": 2,
+                        "title": "Green screen issue",
+                        "content": "While watching the lecture on right side lower corner a green screen issue is there and the content write by sir/ mam isn’t visible,pls fix this issue as it’s present for a while now.",
+                        "date": "2026-02-10T06:20:02-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13189047825",
+                        "author": "Kenny writes",
+                        "rating": 2,
+                        "title": "Need for a Update after the IPad OS 26 update to fix bugs like freeze and hangs",
+                        "content": "Recently observed like almost always the app seems to be crashing or freezing while watching videos , this issue came after the iPad os 6 update . Please fix .",
+                        "date": "2025-09-26T14:56:03-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "12910912236",
+                        "author": "Soham360",
+                        "rating": 2,
+                        "title": "Relentless Customer Service Calls",
+                        "content": "I have been using academy since start of 2025. Although the teaching is good, their customer service will call you relentlessly, often ranging from 3-4 calls every day and even at night around 10-11. They will always call from different numbers hence cant even block them out. I am utterly disappointed.",
+                        "date": "2025-07-19T07:54:28-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "12889081419",
+                        "author": "Unsatisfactory response",
+                        "rating": 2,
+                        "title": "Not usefull",
+                        "content": "It will almost be a month since i am an iconic (paid user) of unacademy for ca but they are not at all looking into my complaints and issues regarding mentor i have raised 3 tickets yet the problem is unresolved",
+                        "date": "2025-07-13T20:13:36-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "12831974169",
+                        "author": "MLGahja",
+                        "rating": 2,
+                        "title": ".",
+                        "content": "The promotional team keeps calling once in every hour.\nThey don’t even have the sense of time.\nWhy would you call someone to sell your classes after 10pm?\nNo work ethics.\n\nBut when you need to get some technical problem fixed, you can only mail them which they will reply 24-48 hours later.\n\nEnough money to sell your courses but not to fix issues????",
+                        "date": "2025-06-29T09:51:44-07:00",
+                        "version": "2.3.3"
+                    },
+                    {
+                        "id": "12679637278",
+                        "author": "Medicoretard",
+                        "rating": 2,
+                        "title": "Very poorly designed app for iPadOS. Please solve!",
+                        "content": "-No dark mode.\n-No playback slider on live videos.\n-Video pauses when volume slider is used.\n-Overall padding and scaling of the UI is very poorly done.",
+                        "date": "2025-05-20T21:50:52-07:00",
+                        "version": "2.3.2"
+                    },
+                    {
+                        "id": "13969468234",
+                        "author": "Addy Sood",
+                        "rating": 3,
+                        "title": "Bug in the app",
+                        "content": "While using this App on mobile, to go  back  from one page to another the respective back button, on top left corner, gets merge with the mobile’s top control panel and hence we need to close the app just to go back.",
+                        "date": "2026-04-17T19:25:31-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13248396788",
+                        "author": "Polash Lahan",
+                        "rating": 3,
+                        "title": "Doubt section",
+                        "content": "Hey its polash popping up..it has been two weeks since i submitted my doubt and still it shows pending..what is wrong with this…is the doubt section actually legit or just a gimmick ….iconic subscription ive purchased ..are my doubt limits over ..ive sent only like 20 doubts and still figuring out when will i get a response ..this is miserable",
+                        "date": "2025-10-10T06:46:18-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13094681955",
+                        "author": "MdAteeqRaza",
+                        "rating": 3,
+                        "title": "Bugs and glitch",
+                        "content": "Not working properly. \nMy test results is not showing. \nAlso the test option is not working",
+                        "date": "2025-09-03T09:58:10-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13035002057",
+                        "author": "Patel SHANKAR",
+                        "rating": 3,
+                        "title": "Error in planer",
+                        "content": "App is not working effective old planer is better than new updated planer",
+                        "date": "2025-08-19T04:47:51-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "12913264735",
+                        "author": "Abhinav Mangal",
+                        "rating": 3,
+                        "title": "The only reason to give 3 stars",
+                        "content": "The teachers on Unacademy are so much good but the app crashes many time and not working properly and no proper customer support I give 3 stars for the teacher",
+                        "date": "2025-07-19T22:35:46-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "12854665805",
+                        "author": "Unfair_Capitalist",
+                        "rating": 3,
+                        "title": "Fix navigational button padding",
+                        "content": "Not able to navigate properly within the app \nThe back button is in the top information bar",
+                        "date": "2025-07-05T02:15:35-07:00",
+                        "version": "2.3.3"
+                    },
+                    {
+                        "id": "12755233697",
+                        "author": "Problem gg",
+                        "rating": 3,
+                        "title": "Add some widget for this app like planner’s and strike and time spend",
+                        "content": "Add some widget for this app like planner’s and strike and time spent",
+                        "date": "2025-06-09T11:41:13-07:00",
+                        "version": "2.3.2"
+                    },
+                    {
+                        "id": "13987066763",
+                        "author": "@123Kartik123",
+                        "rating": 4,
+                        "title": "Good",
+                        "content": "Everything is good and systematic but the annoying everyday phone calls are worst",
+                        "date": "2026-04-22T18:54:17-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13952188088",
+                        "author": "Sajalb",
+                        "rating": 4,
+                        "title": "Good contents, fix app issues",
+                        "content": "* Back button on top left doesn’t work on iPhone 17 pm, latest ios.\n* Tests tab doesn’t open on iPad 9 latest iPadOS \n\nOtherwise app content is good.",
+                        "date": "2026-04-12T19:28:48-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13448977769",
+                        "author": "Premanand sagar",
+                        "rating": 4,
+                        "title": "Kindly solve the issue",
+                        "content": "Problem in creating account",
+                        "date": "2025-11-27T18:13:51-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13055081094",
+                        "author": "H@9917",
+                        "rating": 4,
+                        "title": "Una ai",
+                        "content": "Una Ai Options not come in IOS and app is already updates latest version",
+                        "date": "2025-08-24T07:46:28-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13695801657",
+                        "author": "Prathamehta",
+                        "rating": 5,
+                        "title": "Best teachers",
+                        "content": "Best teachers acid sir seep mam anushka mam aknsha mam anupam sir",
+                        "date": "2026-01-30T23:11:29-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13426587695",
+                        "author": "shallu m.chawla",
+                        "rating": 5,
+                        "title": "My experience with PCMC centre",
+                        "content": "I am an NEET Aspirant from Unacdemy learning since a year.\nThe academy is a great place to learn. The teachers are helpful, the lessons are clear, Everything is well-organized. It’s a reliable and friendly place to build new skills.\nWe are offered with useful resources, extra activities, and regular updates to keep parents and students informed. The environment is positive and encouraging, helping students build confidence while improving their skills. It’s a dependable place where learning truly feels enjoyable\nThe facilities are excellent—classrooms are clean, spacious, and well-equipped with modern tools that make learning easier. The library and study areas are quiet and comfortable, giving students a good space to focus.",
+                        "date": "2025-11-21T21:50:35-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13147302121",
+                        "author": "Ritika Rohilla",
+                        "rating": 5,
+                        "title": "Worst service",
+                        "content": "Bad service for customer support",
+                        "date": "2025-09-16T23:23:03-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "13073683876",
+                        "author": "Law aspirant",
+                        "rating": 5,
+                        "title": "“Exceptional Mentor for Judiciary Aspirants”.",
+                        "content": "“Vishal Singh Thakur “sir is an outstanding educator for judiciary preparation.His teaching style is very clear ,structured,& very engaging.He explains even complex legal concepts in a simple and practical way,making them easy to understand and remember.His classes are highly interactive,and he always takes time to clear doubts patiently.The examples and notes he provides are extremely helpful for revision and exam oriented preparation.I truly recommend his guidance to every Judiciary Aspirants.",
+                        "date": "2025-08-29T02:03:49-07:00",
+                        "version": "2.3.4"
+                    },
+                    {
+                        "id": "12788777259",
+                        "author": "Utkuone",
+                        "rating": 5,
+                        "title": "Best Education App",
+                        "content": "India best educator are available in this platform they make big contributions in planning structure and perfect timing schedule for Mine upsc preparation",
+                        "date": "2025-06-18T06:31:33-07:00",
+                        "version": "2.3.3"
+                    },
+                    {
+                        "id": "12390769603",
+                        "author": "Kanak devesh",
+                        "rating": 5,
+                        "title": "Downloading problem",
+                        "content": "This is very good app …..but I am facing one problem in it after redownloading the app … I am unable to download the classes",
+                        "date": "2025-03-06T18:39:42-07:00",
+                        "version": "2.3.0"
+                    }
+                ],
+                "review_analysis": {
+                    "total_reviews": 36,
+                    "average_rating": 2.64,
+                    "rating_distribution": {
+                        "1": 10,
+                        "2": 9,
+                        "3": 7,
+                        "4": 4,
+                        "5": 6
+                    },
+                    "latest_review_date": "2026-04-27T02:38:54-07:00",
+                    "oldest_review_date": "2025-03-06T18:39:42-07:00"
+                },
+                "reviews_metadata": {
+                    "1": {
+                        "requested": 10,
+                        "fetched": 10
+                    },
+                    "2": {
+                        "requested": 10,
+                        "fetched": 9
+                    },
+                    "3": {
+                        "requested": 10,
+                        "fetched": 7
+                    },
+                    "4": {
+                        "requested": 10,
+                        "fetched": 4
+                    },
+                    "5": {
+                        "requested": 10,
+                        "fetched": 6
+                    }
+                }
+            },
+            "analysis": null
+        },
+        "internal_transcripts": {
+            "source_file": "unacademy.txt",
+            "signals_path": "database_mock\\unacademy\\raw\\unacademy_signals.json",
+            "total_signals": 21,
+            "classifier_used": "hybrid",
+            "metadata": {
+                "source_file": "unacademy.txt",
+                "source_type": "Internal",
+                "entity": "Unacademy",
+                "meeting_type": "Investor Call",
+                "file_date": "2026-04-29",
+                "processed_at": "2026-04-30T11:53:01.517376+00:00",
+                "classifier_used": "hybrid",
+                "total_signals": 21
+            },
+            "signals": [
+                {
+                    "signal_id": "U_001",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Date: April 29, 2026 Attendees: Manager, Unacademy: (Product Educator Experience) FounderInnovator: (Pitching the new Whiteboard solution)",
+                    "time_range": null,
+                    "turn_index": 0
+                },
+                {
+                    "signal_id": "U_002",
+                    "signal_type": "Feature",
+                    "confidence": 0.68,
+                    "content": "Manager: Hi there! Thanks for taking the time to meet with me today. I know weve been looking for ways to upgrade our educator tools, and your email about a next-generation whiteboard caught my eye. How are you doing?",
+                    "time_range": null,
+                    "turn_index": 1
+                },
+                {
+                    "signal_id": "U_003",
+                    "signal_type": "Feature",
+                    "confidence": 0.68,
+                    "content": "Innovator: Im doing great, thank you! I really appreciate you squeezing me into your schedule. Ive been following Unacademys growth, and I know how heavily your educators rely on the digital whiteboard for live classes.",
+                    "time_range": null,
+                    "turn_index": 2
+                },
+                {
+                    "signal_id": "U_004",
+                    "signal_type": "Feature",
+                    "confidence": 0.74,
+                    "content": "Manager: They absolutely do. Its the core of the teaching experience. But Ill be honestwe already have a proprietary system that works relatively well. What are we missing, and what exactly are you pitching today?",
+                    "time_range": null,
+                    "turn_index": 3
+                },
+                {
+                    "signal_id": "U_005",
+                    "signal_type": "Feature",
+                    "confidence": 0.69,
+                    "content": "Innovator: You have a solid system, but \"relatively well\" still leaves room for friction. Right now, educators face slight latency issues during heavy diagramming, and students on 4G networks in tier-2 and tier-3 cities sometimes experience lag between the audio and the pen strokes.",
+                    "time_range": null,
+                    "turn_index": 4
+                },
+                {
+                    "signal_id": "U_006",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "My solution is a vector-based, AI-assisted whiteboard software. We call it AuraBoard. It doesnt transmit video data of the screen. Instead, it transmits mathematical coordinates of the pen strokes.",
+                    "time_range": null,
+                    "turn_index": 5
+                },
+                {
+                    "signal_id": "U_007",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Manager: Okay, thats interesting. Vector-based rendering means it takes up a lot less bandwidth. How much of a reduction are we talking about?",
+                    "time_range": null,
+                    "turn_index": 6
+                },
+                {
+                    "signal_id": "U_008",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Innovator: It uses about 90 less data than screen-sharing a traditional whiteboard. A student in a remote area with a patchy 3G or 4G connection will see the educator's writing instantly, perfectly synced with the audio. It also means infinite zoom without pixelation for complex subjects like organic chemistry or calculus.",
+                    "time_range": null,
+                    "turn_index": 7
+                },
+                {
+                    "signal_id": "U_009",
+                    "signal_type": "Feature",
+                    "confidence": 0.68,
+                    "content": "Manager: Bandwidth optimization is huge for us, especially given our user base across India. But what about the educator's experience? Is there a learning curve? Teachers don't like adopting new, complicated tools right before a live class with thousands of students.",
+                    "time_range": null,
+                    "turn_index": 8
+                },
+                {
+                    "signal_id": "U_010",
+                    "signal_type": "Feature",
+                    "confidence": 0.76,
+                    "content": "Innovator: Weve designed the UI to mirror standard physical whiteboards. But weve added what we call \"Invisible AI.\" If a physics teacher quickly sketches a rough, wobbly circle or a right-angle triangle, the system instantly snaps it into a perfect geometric shape. If they write a complex equation, the board can optionally format it cleanly or even generate a 3D graph of it with a single tap.",
+                    "time_range": null,
+                    "turn_index": 9
+                },
+                {
+                    "signal_id": "U_011",
+                    "signal_type": "Feature",
+                    "confidence": 0.68,
+                    "content": "Manager: Snapping shapes and auto-generating graphs... that would save our top educators a lot of time. What about interactivity? Live classes aren't just one-way broadcasts anymore.",
+                    "time_range": null,
+                    "turn_index": 10
+                },
+                {
+                    "signal_id": "U_012",
+                    "signal_type": "Feature",
+                    "confidence": 0.74,
+                    "content": "Innovator: Exactly. AuraBoard has a \"Split-Zone\" feature. The educator can highlight a section of the board and temporarily give edit access to a specific studentor a group of studentsto solve a math problem live in front of the class. Its completely moderated, so the teacher can revoke access instantly.",
+                    "time_range": null,
+                    "turn_index": 11
+                },
+                {
+                    "signal_id": "U_013",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Manager: I like the sound of that. Peer-to-peer solving in a live digital classroom drives up engagement metrics significantly. But lets talk integration. Our entire backend is custom-built. How easily does your tech slide into our existing infrastructure?",
+                    "time_range": null,
+                    "turn_index": 12
+                },
+                {
+                    "signal_id": "U_014",
+                    "signal_type": "Feature",
+                    "confidence": 0.95,
+                    "content": "Innovator: We built it API-first. You don't need to use a separate app. AuraBoard integrates directly into your existing web and mobile platforms via our SDK. It usually takes a standard engineering team less than two weeks to implement a fully working prototype into a testing environment.",
+                    "time_range": null,
+                    "turn_index": 13
+                },
+                {
+                    "signal_id": "U_015",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Manager: That sounds promising, but I've been in product long enough to know integrations are rarely seamless. What about pricing? Since it's API-based, are we looking at a per-minute, per-user cost?",
+                    "time_range": null,
+                    "turn_index": 14
+                },
+                {
+                    "signal_id": "U_016",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Innovator: We use a tiered pricing model based on concurrent active sessions, rather than per individual student. This makes it highly scalable for Unacademy. You won't be penalized for having a mega-class with 20,000 students, because the data transmission cost on our end is incredibly low due to the vector architecture.",
+                    "time_range": null,
+                    "turn_index": 15
+                },
+                {
+                    "signal_id": "U_017",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Manager: That makes sense. Honestly, the bandwidth savings alone could offset the integration costs. Heres what Im thinkingI want to see this in action. Can you set up a sandbox environment for my technical lead and a couple of our top educators to play around with?",
+                    "time_range": null,
+                    "turn_index": 16
+                },
+                {
+                    "signal_id": "U_018",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Innovator: Absolutely. I can send over the API keys and the sandbox documentation by the end of the day. Id love to get your educators' raw feedback.",
+                    "time_range": null,
+                    "turn_index": 17
+                },
+                {
+                    "signal_id": "U_019",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Manager: Perfect. Lets do a two-week internal trial. If the latency is as low as you claim and the teachers find the interface intuitive, we can discuss a broader pilot program.",
+                    "time_range": null,
+                    "turn_index": 18
+                },
+                {
+                    "signal_id": "U_020",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Innovator: Sounds like a plan. Thank you for your time, I'll get those credentials sent over to you right away!",
+                    "time_range": null,
+                    "turn_index": 19
+                },
+                {
+                    "signal_id": "U_021",
+                    "signal_type": "Insight",
+                    "confidence": 0.6,
+                    "content": "Manager: Looking forward to it. Have a great evening!",
+                    "time_range": null,
+                    "turn_index": 20
+                }
+            ],
+            "error": null
+        },
+        "reddit": {
+            "reddit_0": {
+                "type": "subreddit",
+                "subreddit_info": {},
+                "posts": [
+                    {
+                        "id": "1sztsws",
+                        "title": "Crush on guy from coaching",
+                        "author": "Far-Standard-2868",
+                        "subreddit": "JEE",
+                        "url": "/r/Crushes/comments/1szbbsl/crush_on_guy_from_coaching/",
+                        "selftext": "So, I am enrolled in a jee coaching, and there is this super nerdy guy, not too dashing, average looking. When I joined, he was the class topper, I did not know that, and initially I did not even notice him. To be specific, I am that kind of a girl, who in general does not like the idea of being in a relationship. (Yk it will happen one day, I don't have to push it) But lately, only a few people show up to classes these days, the ones who cleared the cutoff for advanced. So naturally, we both notice each other now, and I already had a soft spot for nerdy guys. I like how, we have this little competition, where he scores the highest in one test, and I do in the next one. Whenever the teacher writes something wrong, we both instinctively look at each other to confirm, and then share a smile. Whenever the teacher says something funny, we again look at each other and laugh. Today, we had our mock test, so I looked at him to see if he was able to solve, and he had that messy hair look, from running his hands on his hair, that just kind of gave me butterflies. He probably does not even notice me, he usually stays with his 2 or 3 friends, while I do with mine. \n\nShould I do something about it? Like try to talk or something? Or just wait for the crush to just disappear.\n\nHow do I even know, if he notices my presence?\n\nPs. When I get random crushes, i usually start noticing all the bad traits of that person, and the crush vanishes. It did not work in this case.",
+                        "score": 1,
+                        "upvote_ratio": 1.0,
+                        "num_comments": 1,
+                        "created_utc": 1777549785.0,
+                        "edited": false,
+                        "permalink": "/r/JEE/comments/1sztsws/crush_on_guy_from_coaching/",
+                        "is_self": false,
+                        "is_video": false,
+                        "over_18": false,
+                        "spoiler": false,
+                        "gilded": 0,
+                        "all_awardings": [],
+                        "comments": [
+                            {
+                                "id": "oj45x0o",
+                                "author": "AutoModerator",
+                                "body": "\n# If you are on Discord, please join our official Discord Server - https://discord.gg/SRXtexexfM\n\n\nThank you for your submission to r/JEE. Please follow [all rules](https://www.reddit.com/r/JEE/wiki/index/rules/) while interacting in the community.\n\nPlease [modmail](https://www.reddit.com/message/compose?to=/r/JEE) if you need to contact the mods :)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/JEE) if you have any questions or concerns.*",
+                                "score": 1,
+                                "created_utc": 1777549785.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztsws",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1sztpfi",
+                        "title": "Management Quota at VIT???",
+                        "author": "cjiya_82",
+                        "subreddit": "JEE",
+                        "url": "/r/AskVITEEE/comments/1sztook/management_quota_at_vit/",
+                        "selftext": "",
+                        "score": 1,
+                        "upvote_ratio": 1.0,
+                        "num_comments": 1,
+                        "created_utc": 1777549511.0,
+                        "edited": false,
+                        "permalink": "/r/JEE/comments/1sztpfi/management_quota_at_vit/",
+                        "is_self": false,
+                        "is_video": false,
+                        "over_18": false,
+                        "spoiler": false,
+                        "gilded": 0,
+                        "all_awardings": [],
+                        "comments": [
+                            {
+                                "id": "oj4577z",
+                                "author": "AutoModerator",
+                                "body": "\n# If you are on Discord, please join our official Discord Server - https://discord.gg/SRXtexexfM\n\n\nThank you for your submission to r/JEE. Please follow [all rules](https://www.reddit.com/r/JEE/wiki/index/rules/) while interacting in the community.\n\nPlease [modmail](https://www.reddit.com/message/compose?to=/r/JEE) if you need to contact the mods :)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/JEE) if you have any questions or concerns.*",
+                                "score": 1,
+                                "created_utc": 1777549512.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztpfi",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1sztljg",
+                        "title": "Best book basic to advanced physics galaxy vs cengege or any other",
+                        "author": "princeg0d",
+                        "subreddit": "JEE",
+                        "url": "https://www.reddit.com/r/JEE/comments/1sztljg/best_book_basic_to_advanced_physics_galaxy_vs/",
+                        "selftext": "",
+                        "score": 1,
+                        "upvote_ratio": 1.0,
+                        "num_comments": 1,
+                        "created_utc": 1777549204.0,
+                        "edited": false,
+                        "permalink": "/r/JEE/comments/1sztljg/best_book_basic_to_advanced_physics_galaxy_vs/",
+                        "is_self": true,
+                        "is_video": false,
+                        "over_18": false,
+                        "spoiler": false,
+                        "gilded": 0,
+                        "all_awardings": [],
+                        "comments": [
+                            {
+                                "id": "oj44eo2",
+                                "author": "AutoModerator",
+                                "body": "\n# If you are on Discord, please join our official Discord Server - https://discord.gg/SRXtexexfM\n\n\nThank you for your submission to r/JEE. Please follow [all rules](https://www.reddit.com/r/JEE/wiki/index/rules/) while interacting in the community.\n\nPlease [modmail](https://www.reddit.com/message/compose?to=/r/JEE) if you need to contact the mods :)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/JEE) if you have any questions or concerns.*",
+                                "score": 1,
+                                "created_utc": 1777549204.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztljg",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1sztkav",
+                        "title": "Cengege vs arihant vs ml khanna vs any other ( comment) which is better for varity of questions and mainly for solved examples because some type of questions i didn't understand by help of solved examples and theory help in understanding",
+                        "author": "princeg0d",
+                        "subreddit": "JEE",
+                        "url": "https://www.reddit.com/r/JEE/comments/1sztkav/cengege_vs_arihant_vs_ml_khanna_vs_any_other/",
+                        "selftext": "Plz help",
+                        "score": 1,
+                        "upvote_ratio": 1.0,
+                        "num_comments": 1,
+                        "created_utc": 1777549108.0,
+                        "edited": false,
+                        "permalink": "/r/JEE/comments/1sztkav/cengege_vs_arihant_vs_ml_khanna_vs_any_other/",
+                        "is_self": true,
+                        "is_video": false,
+                        "over_18": false,
+                        "spoiler": false,
+                        "gilded": 0,
+                        "all_awardings": [],
+                        "comments": [
+                            {
+                                "id": "oj445ss",
+                                "author": "AutoModerator",
+                                "body": "\n# If you are on Discord, please join our official Discord Server - https://discord.gg/SRXtexexfM\n\n\nThank you for your submission to r/JEE. Please follow [all rules](https://www.reddit.com/r/JEE/wiki/index/rules/) while interacting in the community.\n\nPlease [modmail](https://www.reddit.com/message/compose?to=/r/JEE) if you need to contact the mods :)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/JEE) if you have any questions or concerns.*",
+                                "score": 1,
+                                "created_utc": 1777549108.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztkav",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1sztd15",
+                        "title": "Every exam this year has undergone some unexpected change",
+                        "author": "lampl1ght3r",
+                        "subreddit": "JEE",
+                        "url": "https://www.reddit.com/r/JEE/comments/1sztd15/every_exam_this_year_has_undergone_some/",
+                        "selftext": "JEE jan was way more difficult than usual.\n\nMet has introduced JEE reservation.\n\nBITSAT has preponed both papers by a month.\n\nVITEEE has changed their marking scheme.\n\nEven CBSE boards introduced that online correction thing. (Doesn't affect the exam tho).\n\nCompetition keeps increasing, seats stay the same. The grind always seems to fluctuate.",
+                        "score": 5,
+                        "upvote_ratio": 1.0,
+                        "num_comments": 3,
+                        "created_utc": 1777548540.0,
+                        "edited": false,
+                        "permalink": "/r/JEE/comments/1sztd15/every_exam_this_year_has_undergone_some/",
+                        "is_self": true,
+                        "is_video": false,
+                        "over_18": false,
+                        "spoiler": false,
+                        "gilded": 0,
+                        "all_awardings": [],
+                        "comments": [
+                            {
+                                "id": "oj42qro",
+                                "author": "AutoModerator",
+                                "body": "\n# If you are on Discord, please join our official Discord Server - https://discord.gg/SRXtexexfM\n\n\nThank you for your submission to r/JEE. Please follow [all rules](https://www.reddit.com/r/JEE/wiki/index/rules/) while interacting in the community.\n\nPlease [modmail](https://www.reddit.com/message/compose?to=/r/JEE) if you need to contact the mods :)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/JEE) if you have any questions or concerns.*",
+                                "score": 1,
+                                "created_utc": 1777548543.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztd15",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            },
+                            {
+                                "id": "oj43oh6",
+                                "author": "Beneficial_Will_1291",
+                                "body": "do i only feel ki sbse jyada experiment hamre sath hue h",
+                                "score": 3,
+                                "created_utc": 1777548916.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztd15",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            },
+                            {
+                                "id": "oj45zsd",
+                                "author": "Extension-Frame1442",
+                                "body": "These education system mfers will update everything but the damn books and teachers ",
+                                "score": 1,
+                                "created_utc": 1777549814.0,
+                                "edited": false,
+                                "depth": 0,
+                                "parent_id": "t3_1sztd15",
+                                "gilded": 0,
+                                "awards": [],
+                                "replies": []
+                            }
+                        ]
+                    }
+                ],
+                "stats": {
+                    "posts_extracted": 5,
+                    "total_comments": 7,
+                    "category": "new",
+                    "time_filter": "week"
+                },
+                "scraped_at": "2026-04-30T17:23:14.606110"
+            }
+        },
+        "youtube": {
+            "youtube_0": [
+                {
+                    "scraped_at": "2026-04-30T11:53:03.625190Z",
+                    "video_id": "ZfhnFr-1MPo",
+                    "url": "https://www.youtube.com/watch?v=ZfhnFr-1MPo",
+                    "title": "Unacademy Centre - The Power Behind You",
+                    "description": "There was the power of a billion people cheering Sachin🔥 \nLet Unacademy Centre be the power behind you 💙\n\nUnacademy Centres are now in 40+ cities across India, learn more here:\nUnacademy Centres in 40+ cities for JEE and NEET https://unacademy.onelink.me/M2BR/r2q8ciiu\n\nNo one will cheer for you louder than we do.\nNo one will rally behind you better than we do. \n\nAt the Unacademy Centre get the power of,\n\n⭐️A community of passionate peers who cheer you on. \n⭐️India's Best Educators who inspire you to learn better. \n⭐️The right learning environment that fuels your desire to excel. \n⭐️Mentors who believe in you more than you believe in yourself. \n\nTo every dreamer, believer, and achiever out there, we are behind you. \n\n#UnacademyCentre #unacademy #PowerBehindYou",
+                    "transcript": "[Applause] [Applause] [Music] Le me there was the power of a billion people cheering for me what's the power behind you",
+                    "transcript_words": 21
+                },
+                {
+                    "scraped_at": "2026-04-30T11:53:09.353545Z",
+                    "video_id": "gFPhYguV0ZU",
+                    "url": "https://www.youtube.com/watch?v=gFPhYguV0ZU",
+                    "title": "Epic Hide & Seek Ft. @ashishchanchlanivines @SamayRainaOfficial  | Official Challenge",
+                    "description": "A Hide & Seek battle you have never experienced before.\nWatch the two most popular grown-up kids on the internet, Ashish Chanchlani and Samay Raina battle it out with their teams in the ‘Epic Hide & Seek’ challenge.\n\n40 children.\n2 seekers.\n1 massive college campus.\nLet the game begin.\n\nComment your favourite epic moment from the video.\n\n#UnacademyEpicHideAndSeek #Unacademy #HideAndSeek #AshishChanchlani #SamayRaina",
+                    "transcript": "40 स्टूडेंट्स वैन ह्यूज कैंपस तू क्रेज़ी होस्ट एंड अन लॉट ऑफ प्राइज तू वीं आता है ना हेलो गैस एंड वेलकम तू एपिक हाइड एंड सिक चैलेंज सिंपल बता दो बेसिकली छुपाने छुपी खेलने वाले हैं हम लोग मैं इसकी टीम को ढूंढ लूंगा समय तुम लोगों को ढूंढ लेंगे 3 घंटे तुम्हारे पास ठीक है और हमें छुपाना है और हमें जीतना है ठीक है आप में से जो भी जीतेगा उसको मिलेगा 3 लाख रुपए का स्कॉलरशिप और एक ब्रांड न्यू ये है गोल्डन टिकट अगर आप लोगों ने फाइंड किया तो आप जीत सकते हो एक मैकबुक ओके जिसे [प्रशंसा] [संगीत] [प्रशंसा] [संगीत] अगर कोई अंदर छुपा हुआ है तो क्यों छुपा हुआ है छुपी हुई होना चाहिए अंदर [हंसी] फर्स्ट पर्सन [संगीत] आउटसाइड [संगीत] अच्छा सॉरी सॉरी कंग्रॅजुलेशन [संगीत] [संगीत] नंबर 12 [संगीत] [संगीत] [प्रशंसा] [हंसी] [संगीत] [प्रशंसा] [संगीत] भाई साहब [संगीत] ओह माय मेरी टीम मिल रही है मेरे को बार-बार आई मस्ट से डेट ब्लू टीम इस हैडिंग वेरी वेल उन्होंने छह पकड़े हैं हमने सिर्फ दो पकड़े हैं लेकिन डी गुड पार्ट इस नौ दे आर मोर पीपल तू कैच [संगीत] यू नो व्हाट मैं थक गया हूं जोन में लेट्स मूव डी नेक्स्ट जॉन [संगीत] यू हेल्प मी सर आप जानते हैं आई एम गोइंग तू टेक अन पीस ओवर प्लीज कम आउट [संगीत] [प्रशंसा] [संगीत] हर माय फ्रेंड इस गो हर नंबर 19 ब्लू टीम इस स्कॉट ग्रीन टी शर्ट [संगीत] तू पकड़ा जाएगा यहां पे तू ऐसे प्रिटेंड कर की तू पकड़ा गया है और मेरे साथ कैजुअल चलता है आशीष भाई कितने मिले आपको अभी तक थक गए लगता है हम दोनों इक्वल है अरे चाइल्ड पानी भाई बंद बज गए बहुत मजा ए रहा है बहुत मजा ए रहा है जो अभी हमने किया है ये किताबों में लिखा जाएगा बिल्कुल सब्सक्राइब करेगा हाइड वेल आई होप आई डोंट सी यू सन अबे मुक्का दे वर्ण जोर से चिल्लाऊंगा तेरा [संगीत] मैं रोक दो इधर ही थैंक यू 95 ब्लू 10-18 ब्लू 16 ब्लू 16 कम बैक एक साथ चार-चार बांगडे भाई चांस था यू कैन गो बैक अगर इस साल का जवाब देता है तो तू वापस जा सकता है पक्की बात है ठीक है अनअकैडमी के नए सेंटर्स कहां-कहां खुलने वाले हैं इंदौर अहमदाबाद से चंडीगढ़ करेक्ट आंसर तो वहां पे जा सकता है एलिमिनेट हो गया बट यू कैन वीं दिस इस डी फ्री गिफ्ट [संगीत] थक जाएंगे तो अभी क्या करते हो हॉस्पिटल के बच्चों से मदद लेते हैं उनमें से तू एक बांदा सिलेक्ट कर एक बांदा सिलेक्ट करता हूं और उनको बोलता हूं और बदले में कुछ लालच देंगे ये लड़की अरे यार तू मेरी टीम है भाई [संगीत] कहां है [संगीत] [संगीत] अरे नंबर 20 [संगीत] सी नंबर 15 [संगीत] एडवांटेज [संगीत] सुबह से काफी स्ट्रगल करते हुए देख रहा हूं मैं आप दोनों को मेरे को तो 10 साल हो गए यार तभी स्ट्रगल थोड़ा कम करते हैं तो हम करेंगे एक्सट्रीम पिलो फाइट जो जिस पे ज्यादा हिट मरेगा वह जीतेगा और जितने पे क्या प्रिविलेज मिलेगा जो भी आपको गेम खिलाना है बच्चों को एल्यूमीनियम करने के लिए अपनी चॉइस का गेम आप चला सकते हैं मैं तो लोगों को [संगीत] [प्रशंसा] सो डी विनर इस ड्रॉप डी बैग्स [संगीत] तो ठीक है दोस्तों सी विल प्ले दिस गेम जब तक हमारे पास सिर्फ 5 लोग बचते हैं एलिमिनेटेड लिक्विड वाटर [संगीत] एस आई स्टार्ट यू कंटिन्यू आफ्टर मी ठीक है लेफ्ट राइट आकाश गुप्ता [संगीत] [संगीत] सन लीजिए congretchulations तू डी टॉप फाइव [संगीत] यह है हमारे टॉप फाइव फाइटर्स देव उसे आउट ऑफ अभी हमारे लास्ट 5 फाइनलिस्ट खेलेंगे ओके ओके बॉल्स में जाएंगे एक दूसरे से रेस करेंगे लेकिन ट्विस्ट ये है की हमारे इस एलिमिनेटेड टीम में से नो लोग हिज और बॉल में होंगे जो इनको स्टॉप करेंगे [प्रशंसा] बाय दिस चैलेंज फर्स्ट इन डी कर एस वेल एस डी थ्री लेग्स स्कॉलरशिप [प्रशंसा] [संगीत] [संगीत] भाई भाई कंग्रॅजुलेशंस भाई कंग्रॅजुलेशन भाई इसकी दिल की धड़कन सुनी है मेरे को ओके गैस सो सी ऑल नो हु डी विनर इस फॉर व्हाट दें इसे पहले सी अलसो हैव सैम स्पेशल अवॉर्ड्स फॉर यू गैस [संगीत] तो अभी हमारे में विनर हमारे फाइनल की जो विनर है उनको बुलाते हैं नामित कैन यू प्लीज कम ये तो चाबी अपने साथ लेके हमको दे रही थी ना चाबी वो आई गैस मेरे पास असली चाबी है कंग्रॅजुलेशन इसके अलावा अमित अलसो विंस अन थ्री लाख वर्थ ऑफ स्कॉलरशिप कंग्रॅजुलेशन स्कॉलरशिप मिली है पढ़ पे भी ध्यान देना बस गाड़ी मत घुमाना है अभी एंड तू एवरीबाड़ी हु लॉस डोर डी रियल विनर इस अनअकैड मिंस यूट्यूब चैनल गैज [संगीत]",
+                    "transcript_words": 775
+                },
+                {
+                    "scraped_at": "2026-04-30T11:53:14.657767Z",
+                    "video_id": "4gf0G0c3kWE",
+                    "url": "https://www.youtube.com/watch?v=4gf0G0c3kWE",
+                    "title": "Epic Hide & Seek Ft. @ashishchanchlanivines  @SamayRainaOfficial | Official Trailer",
+                    "description": "Watch the most insane Hide & Seek battle as @ashishchanchlanivines and @SamayRainaOfficial take on each other.\n\nThere is a whole lot of frenzy, exciting twists, ‘tu mujhe nahi hara sakta’ energy and 40 children hiding in one of the biggest college campuses in India. Do we need to say anything more?\n\nKeep taking that wild guess of who you think would be the champion.\nTeam Ashish or Team Samay?\n\nVideo launching soon.\n\n#UnacademyEpicHideAndSeek #Unacademy #HideAndSeek #AshishChanchlani #SamayRaina",
+                    "transcript": "वेलकम तू अनअकैडमी पे हाइड एंड सीक चैलेंज [प्रशंसा] है जो भी जीतेगा उसको मिलेगा 3 लाख रुपए का स्कॉलरशिप और एक ब्रांड न्यू बलेनो फाइट [प्रशंसा] से कैसे आते हैं भाई तुम सबको आशीर्वाद है मेरा भाई तीन कलर की शर्ट में किसी को देखा है वॉशरूम [संगीत]",
+                    "transcript_words": 49
+                },
+                {
+                    "scraped_at": "2026-04-30T11:53:19.853355Z",
+                    "video_id": "5RHA4C-xTV4",
+                    "url": "https://www.youtube.com/watch?v=5RHA4C-xTV4",
+                    "title": "Unacademy Compete",
+                    "description": "Learn. Prepare. Compete.\n\nIt is time to test your skills by competing with a fellow aspirant and make learning a lot more exciting.\nDid you compete, today?\n\n#UnacademyCompete #unacademy \n\nLearn more about Compete here: https://unacademy.com/compete/",
+                    "transcript": "[Music] uh [Music] okay [Music] [Music] [Music] wow [Music] oh this is brilliant that's 50. [Music]",
+                    "transcript_words": 16
+                },
+                {
+                    "scraped_at": "2026-04-30T11:53:25.016957Z",
+                    "video_id": "t9v4WwzZbCc",
+                    "url": "https://www.youtube.com/watch?v=t9v4WwzZbCc",
+                    "title": "Unacademy Connect: Defence as an aspiring Career| Lt Gen SL Narasimhan, PVSM, AVSM*, VSM, PhD (Retd)",
+                    "description": "Unacademy Connect is a series of ‘Career Guidance’ sessions where students come together from across all platforms, backgrounds and geographies to understand emerging career opportunities and to hear from experienced industry practitioners, mentors and seasoned professionals from a variety of sectors. The aim of this series is to help young learners to find their career calling and take well-informed career decisions.\nThis is an extremely insightful session on how Defence can be an aspiring career where Lt Gen SL Narasimhan, PVSM, AVSM*, VSM, PhD (Retd), shares his experiences and stories which will motivate and inspire many to join one of India’s most prestigious professions.",
+                    "transcript": "[Music] a very good morning to everyone a warm welcome to our esteemed speaker and the audience who have joined us today i welcome everyone to unacademy connect today where we are going to discuss about how defense is an aspiring career and i'm delighted and honored to welcome a very very special guest lieutenant general sl narasimhansar thank you so much sir for joining today there are hundreds of students who have joined from across the country from tripura to himachal to telangana to karnataka and from various classrooms and are very excited to hear from our very special guest unfortunately there are some who couldn't join due to some bad bad weather and they have requested for a recording session as well lieutenant general essen narasimhansa pvsm avsm bsm is an infantry officer commissioned in 1977 he has done graduation in mathematics post graduation in defense studies and phd in india china relations and he has been awarded four times for his outstanding contribution to the indian army by the president of india general narasimhan has been an instructor in the indian military training team in bhutan he has been an avid china watcher for the last 20 years narasimhansar served as the defense attache in the embassy of india in china for three years his expertise spans international relations and internal issues economy and defense related subjects of china lieutenant general narasimhansar has taken part in many track 2 dialogues both in india and abroad and he has authored many articles in various journals and magazines and he is presently member of the national security advisory board india and director general center for contemporary china studies he is also a distinguished fellow with the center for air power studies india thank you so much once again sir for your time today we are privileged to have you we also have shiv shukla director of public policy and government affairs at an academy in his past assignments he was in ministry of commerce government of india meet the ioc and various other private organizations as well and he comes with both experience both government and as well as various fields in industry thank you so much sriv over to you uh thank you so much namaste so i have known uh sir so i will follow the protocol today i will not call you uncle so i have known him for many many years now and he has been an inspiring figure i look up to him for you know so many uh suggestions advices and also mr simon she has been a great inspiration for me in many ways but today i'll follow the protocol of defense services and i'll call him sir so uh just like how ankita was sharing uh students from 9th 10th till graduation they are very very excited to listen to you uh how we have sort of kept the entire session in three segments so one will be we would just request you to share your own journey of different services your own preparation days uh normally we call it oil cues offices like qualities and we have to look to defend services so a bit about that and then i'll have few questions which i have received from students from educators and i have a couple of questions of my own as well so perhaps for next seven to eight minutes time uh it's the floor is open and you can please just share your experience thank you over to you okay thank you very much to an academy and shiv shukla for getting me over to this i always look for opportunities in to interact with young minds which is actually the future of our country and that is something which i never refuse to talk to them whenever the opportunities come up uh when when mr shiva asked me a couple of days ago about this particular interaction i thought i'll definitely let me start by saying what motivated me to join the armed forces when i was studying in 11th standard because those days 10 plus 2 plus 3 was not the system 11 plus 1 plus three was the system so i was studying in the school final that is in 1972 that is the time the 71 war 7172 that is the one that is the time the 71 war happened and that motivated me to think about joining the armed forces my favorite subject was mathematics so i thought i i will pursue graduation till mathematics and thereafter then see if i can join the armed forces when i thereafter i joined the ncc in in the college in the second year pre-university it was not allowed on the first year when i joined the degree course at the bse mathematics that time i joined the ncc that gave me further motivation to join the armed forces at a later stage and when i came to the final year i took part in the republic day paradise and ncc carried from the terminal and pondicherry contingent and when i was marching down the rajput in 1976 as a young cadet who was um who was getting motivated slowly and steadily to join the armed forces after that when i went back it is the motivation that i got from my college that actually helped me how it helped me i'll tell you uh you know when i came for the republic day parade that was the last year of my degree that is the third year of my degree and my principal was very uncomfortable sending me for the republic day parade basically he thought he will i'll not get the first class as they used to call it at that time in the in the degree course he actually made me and my father sit in front of him and took a commitment from me that i'll come back study hard and get a first class again so that he did when i came back unfortunately what happened to me was the vector analysis sec chapter section of the course did not start when i left when it came back and early finished so the the the lecturers in the college took it on themselves to give me extra classes to ensure that i covered that subject also when i went in for the final exams and i did get a first class as i promised to the principal then when i went for the services selection board interview as a ncc cadet i i applied through upsc i also applied through ncc uh through the ncc at that time the ncc certificate used to be an entry at that time so he asked me he called me and asked me that you know whether i needed some help so i told him sir my arms are weak i need to strengthen them because in the services selection board interview you have a monkey rope which you need to cross so for that i need help lo and behold by evening the physical director of the college was standing in front of a huge tree that was in the college and putting a vertical rope for me to climb and practice so this is the kind of support i got from my mentors at that time and that motivated me further not to fail them so when i finally cleared the services selection board and i took the ncc route to join the academy that was the turning point in my life and that thereafter i never looked back actually speaking so there were many courses that you need to do when you and then in the academy it was a one and a half year course because i was a direct entry candidate and so i had to do one and a half degrees whereas others who came from the national defense academy had to do only one year because they had already done three years of training in the national defense academy so that was another motivation to compete with them and do well and thereafter of course there was no there was another thing which came up in the training as to which armor service that you need to select so i had no doubts in my mind that i will join the infantry which is the frontline frontline kind of a force that always gets into when anything that happens to our country so infantry was the choice amongst the infantry then the problem came up as to which regiment should i opt for so then of course you get motivated by the number of instructors in the training academy you see the demeanor you see the way they behave and so you get impressed by those regiments so then initially i opted for a few regiments three of them i opted for gorkas kumao and probably gadwal regiment and then in the final year when they came up with another change of choice if you want to change your choice you can change it and as a matter of fact my drill used to be good so my drill instructors were very impressed by it and so i put gods as my first regiment to be selected second i put the madras regiment and third of course i went into the gorkhas again but ultimately as luck would have it i got commissioned into the madras regiment and thereafter of course i have no regrets of joining the regiment and i have done i think reasonably well for myself in the in the services the the the in the service i don't want to take much time i want to give more time for question answers i'll just finish with this the service took me to many parts of the country we have a two year on and off peace and field it took me to many parts of the country and i almost other than orissa i think i have served in almost all the states in the country and it also took me to some foreign countries like for example in the in the bio when it was read out it was said that i was instructed in the indian military training team in bhutan and i also served for three years as a defense attache for our country in in china simultaneously looking after mongolia north korea that took me to make a number of trips to north korea and mongolia which north korea has a place where people generally don't go but i had the opportunity of going there too a number of times so with all this i retired as a lieutenant general which is the number two rank in the in the armed forces precisely because once you become a lifting lifting general it's a date of birth that decides your further promotion so that i wish i was born a little later i could have probably reached the top but that doesn't matter even reaching this rank is actually very prestigious and that is something which is uh which i hold very dearly to myself thank you so much very very inspiring to the student i'll also [Music] the next post is army chief and let me tell you uh in various conversations with uh with you know mr simon and all i was informed that he was the most qualified officer to become the chief of army staff you know so but first i will take one question which has come from one student of uh delhi university we are also very closely working with uh the delhi police and up police uh and their kids uh they are helping them clearing lot of competitive and interesting exam so this person his name is rohit he has asked a question through his father saying that ssb interviews but i couldn't clear the final day so he cleared the first day which is the pre and the final day but muji psychologically [Music] foreign [Music] foreign thank you so much i think very very elaborative answer here is if one question uh which has come from the senior official from tripura she has also joined the session and she has a question for you sir she is saying that it has been observed that 2017 onwards the number of applications have not dipped however the students who are clearing the exam that has somewhere gone down and second she's asking about a related question is about the girl education now being allowed to take full-time commission so what will be a message to the girls students who are aspiring to join the defense forces because still there's a lot of fear that this is an area which is for male dominant and all so these two questions are there um um situation [Music] psychologically 1992 [Music] foreign have been given to them like for example when men are there the toilets are the same washing is the same giving accommodation the same it doesn't make any difference there's no problem with that thank you so much there's one very interesting question since we have limited time this has come from one senior official uh from up police uh he is placed in uh lucknow headquarter and he has asked that uh most of the times it says that if you join police or defense forces you won't get time for the family how has been your experience about the whole uh thing that's a very interesting question uh yes you have that again depends on how you look at look at your career it is not that you will not get a time for family you will the only thing is what happens is in the armed forces unlike the police which remains in the state etc in the armed police in the armed forces what you need to do is you have to go to frequently to field areas i mean we alternate between field area and the peace area when you are in a field area i think the the children and the family have to be brought up by your wife whosoever it is if you are a gentleman if you are a wife if you are a lady officer then yes that will create some amount of issues but i foreign foreign foreign foreign i got chance to very closely work with mrs nassim and i can tell you that the daughters are doing great work so one is about taking up a job a professional life one is impacting somebody's life i know the kind of work is doing i mean fabulous work impacting really the women who uh needs support we'll take last question sir because we have a limited time of yours so this questions about the short service commission the student is asking that broadly we read that after short service commission there are a lot of career opportunities what is your view on this and should we go for full-time commission or should we opt for otas in short-time commission service commission most of them have done very well because they have sense of discipline and birth they have capabilities of leadership which they have developed in the armed forces so it helps them in the corporate sector wherever they go so jitney is foreign itself armed forces are itself a great carrier i would say that you know i have no regrets of joining the army if i was given a chance i will do it all over again i have no doubts about that in my mind it's one of the best kind of professions one can ever ever have and this is one institution that has actually doesn't have any cost any creed any kind of other feelings it only looks at your profession your capabilities so if you want great thank you so much sir um since we have very very limited time today but i think the thoughts and the wisdom uh the profound thoughts we have shared it will definitely inspire all the students who are going to watch and have join uh i'm going to send you certain feedback observations questions if at all to your email box you can expect few questions in the coming few days and definitely we'll reach out to you and request for maybe another time to you know further address more and more students sure thank you so much sir thank you for your time thank you very much and all the benefits to all the all the uh aspiring students thank you thank you thank you thank you thank you thank you",
+                    "transcript_words": 2804
+                }
+            ]
+        }
+    },
+    "processing_status": {
+        "agent2_insights_extracted": false,
+        "agent3_synthesis_done": false,
+        "agent4_product_brief_done": false
+    },
+    "agent2_output": {},
+    "agent3_output": {},
+    "agent4_output": {}
+}

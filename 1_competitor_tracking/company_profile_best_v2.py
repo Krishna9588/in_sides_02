@@ -25,10 +25,9 @@ class GeminiCompanyResearcher:
 
         # Initialize the Google GenAI Client
         self.client = genai.Client(api_key=self.api_key)
-        self.model = "gemini-2.5-flash"
         # self.model = "gemini-2.5-flash"
         # self.model = "gemini-3-flash-preview"
-        # self.model = "gemini-3.1-flash-lite-preview"
+        self.model = "gemini-3.1-flash-lite-preview"
 
         # self.model = "gemini-3-flash-preview"
 

@@ -56,7 +56,6 @@ def call_gemini(prompt: str, system_prompt: str = "", model: str = "gemini-2.5-f
 
     config = types.GenerateContentConfig(
         system_instruction=system_prompt,
-        temperature=0.2,
     )
 
     response = client.models.generate_content(
@@ -66,6 +65,14 @@ def call_gemini(prompt: str, system_prompt: str = "", model: str = "gemini-2.5-f
     )
     return response.text
 
+def call_gemini_2(prompt: str, system_prompt: str = "", model: str = "gemini-3-flash-preview") -> str:
+    import google.generativeai as genai
+    prompt = system_prompt + "\n\n" + prompt
+    genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+    model = genai.GenerativeModel(model)
+    response = model.generate_content(prompt)
+
+    return response.text
 
 # ==========================================
 # 2. MAIN UNIFIED FUNCTION
@@ -98,6 +105,10 @@ def call_llm(
         elif provider.lower() == "gemini":
             target_model = model or "gemini-2.5-flash-lite"
             return call_gemini(prompt, system_prompt, target_model)
+
+        elif provider.lower() == "gemini_2":
+            target_model = model or "gemini-3-flash-preview"
+            return call_gemini_2(prompt, system_prompt, target_model)
 
         else:
             raise ValueError(f"Unsupported provider: {provider}")
