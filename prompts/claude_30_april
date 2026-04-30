@@ -131,3 +131,24 @@ The console flow now looks like:
    🔧 Attempting AI repair with gemini-2.5-flash-lite … ✅ repair succeeded
 ✅ Success with primary model: gemini-2.5-flash
 ```
+
+2026-04-30 17:38:09,763 | INFO | AFC is enabled with max remote calls: 10.
+
+❌ Parse error: No JSON object found in response (no '}' found)
+
+   💾 Raw response saved → data/raw\unacademy_gemini_2_5_flash_lite_attempt1.txt
+
+   🔧 Attempting AI repair with gemini-2.5-flash-lite …
+
+
+
+if this is the issue 
+
+---
+
+
+
+and were are getting half result, then can we try to ask half half question to gemini_2_5_flash_lite
+
+and gemini-2.5-flash is busy for this request, but gemini-2.5-flash-lite did responded but gave half cut result, i think when we use gemini-2.5-flash-lite we should break the request and in 2 to 3 request and then ask it in our async manner.
+
