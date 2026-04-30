@@ -13,7 +13,18 @@ def run_tests():
         print(f"Response: {response}\n")
     except Exception as e:
         print(f"Gemini Test Failed: {e}\n")
-
+    # -----------------------------------------------------------------------------------------
+    # Test 2: Basic Text Response (Gemini)
+    print("--- Test 1: Gemini (Text) ---")
+    try:
+        response = call_llm(
+            prompt="Explain the difference between a stock and a bond in one short sentence.",
+            provider="gemini"
+        )
+        print(f"Response: {response}\n")
+    except Exception as e:
+        print(f"Gemini Test Failed: {e}\n")
+    # -----------------------------------------------------------------------------------------
     # Test 2: Structured JSON Response (Claude)
     print("--- Test 2: Claude (JSON Mode) ---")
     try:
