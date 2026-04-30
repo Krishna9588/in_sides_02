@@ -1,3 +1,6 @@
+public link: https://claude.ai/share/fadb7cfc-e5c0-4d37-89bf-f9a942902ec4
+
+
 here we have 2 script the best_v2 is bit old and does hit limits and all but _best is new but continuly give 429 404 403 and many more errors, i want an simple script which has logic of both, I want structured output, with model options models = [ "gemini-2.5-flash", # ✅ Most stable, proven working "gemini-flash-latest", # Good fallback "gemini-2.5-flash-lite", # Faster, lower quota usage "gemini-3.1-flash-lite-preview", "gemini-3-flash-preview" ] should take multiple gemini_api_keys from, should have googlesearch option, and structured output and as we know not much models allow us to do this but models which allow both of this google search and structured output are # but this model hits the quote limits
 
 * gemini-3.1-flash-lite-preview
