@@ -1,0 +1,1067 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-05-01T02:35:10.492987",
+    "extraction_time_seconds": 3.08,
+    "fields_extracted": 33,
+    "country": "in",
+    "reviews_distribution": {
+      "1": 40,
+      "2": 40,
+      "3": 40,
+      "4": 40,
+      "5": 40
+    },
+    "total_reviews_extracted": 106,
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 1624726081,
+      "trackName": "Liquide- Stocks & Mutual Funds",
+      "bundleId": "life.liquide.app",
+      "trackViewUrl": "https://apps.apple.com/in/app/liquide-stocks-mutual-funds/id1624726081?uo=4",
+      "artistId": 1624726083,
+      "artistName": "Liquide Solutions Private Limited",
+      "artistViewUrl": "https://apps.apple.com/in/developer/liquide-solutions-private-limited/id1624726083?uo=4",
+      "sellerName": "Liquide Solutions Private Limited",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "genres": [
+        "Finance"
+      ],
+      "genreIds": [
+        "6015"
+      ],
+      "averageUserRating": 4.84598,
+      "userRatingCount": 17874,
+      "averageUserRatingForCurrentVersion": 4.84598,
+      "userRatingCountForCurrentVersion": 17874,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "INR",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.4.9",
+      "releaseNotes": "This update brings UI improvements, resolves multiple bugs including notification navigation issues, and includes library upgrades for better performance and overall app stability.",
+      "releaseDate": "2022-06-28T07:00:00Z",
+      "currentVersionReleaseDate": "2026-03-20T06:31:30Z",
+      "description": "Welcome to Liquide, your trusted partner in stock market and mutual fund investing!\nAs India’s premier SEBI-registered Research Analyst, we bring you a cutting-edge financial advisory experience like no other. With curated stock market tools, Liquide is your personal stock investment guide and advisor, right at your fingertips.\n\nKey Features:\n1. Stock Trade Recommendations\nWhether you're looking for short-term opportunities or long-term strategies, our stock advisor provides recommendations to align with your investment objectives. Whether you're experienced or just starting, we ensure the best support for your journey.\n2. F&O Recommendations \nElevate your trading experience with Futures and Options (F&O), integrated seamlessly within the app. Gain access to advanced F&O strategies and stay ahead with timely insights to help you navigate the market.\n3. Portfolio Health Analysis \nOur portfolio health analysis helps you assess your portfolio's overall strength, highlights areas of concer",
+      "shortDescription": "",
+      "minimumOsVersion": "15.1",
+      "fileSizeBytes": 102691840,
+      "contentAdvisoryRating": "4+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/fc/6d/88fc6df5-99ff-fc15-6ed4-c642f9445ecb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/fc/6d/88fc6df5-99ff-fc15-6ed4-c642f9445ecb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/fc/6d/88fc6df5-99ff-fc15-6ed4-c642f9445ecb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/5c/50/885c50e7-b305-7225-00e8-34fe20fdf600/7c1320b2-83b2-4527-bebf-92cc71ef88c7_4.7___U0026_5.5___U002801_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/e1/c1/48e1c129-d091-3d79-c8a1-e34f23e5211a/3e5e49f3-93e3-4e00-9fd8-e2a46cdc156c_4.7___U0026_5.5___U002802_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/9d/da/279dda9f-feeb-e33c-2916-8482c9201942/8749e3a7-beef-45b8-910a-2e5ce27a8c53_4.7___U0026_5.5___U002804_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/2e/51/9a2e5182-7e64-fb44-84b6-64753a756831/8ed4c431-528d-481b-a463-53e3d21df8d8_4.7___U0026_5.5___U002808_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/73/4b/61734bda-4321-93aa-77ba-5eb1033f7529/5ef72d8a-0a48-491f-af49-555daca426cd_4.7___U0026_5.5___U002807_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/ab/cc/9eabcc8a-1682-83d4-27f4-25eea010c982/e4d35065-72c4-47ee-9c26-7b60dee16b36_4.7___U0026_5.5___U002809_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/5d/bd/465dbdef-4781-a52f-1b55-f785e09954ec/14f39e15-8b63-4305-bb4e-2e0d62e1a9c2_4.7___U0026_5.5___U002806_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/70/4b/2d704bfb-bdf4-9c43-8f2f-7ac971b31f79/d8124721-f81e-4052-b25c-54ac4a167895_4.7___U0026_5.5___U002805_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/96/26/07962681-9873-a9fd-f974-c359b92fe1d7/7d62869c-1132-4f55-b1f4-007bb046cda4_4.7___U0026_5.5___U002810_U0029.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "kind": "software",
+      "trackCensoredName": "Liquide- Stocks & Mutual Funds",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [
+      {
+        "id": "14009837748",
+        "author": "Sha Viv",
+        "rating": 1,
+        "title": "Not recommended",
+        "content": "this application is not providing expected output and the scripts which is committed to give advisory of the different trades daily basis. they are only sending the message regarding the promotion for you registration.\n\nit’s not easy to use as well, as it is showing the repetitive options to invest",
+        "date": "2026-04-29T09:45:42-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13963328613",
+        "author": "salamandersam123",
+        "rating": 1,
+        "title": "Worst app No support",
+        "content": "This app only keeps promoting and sells. But does not live up to expectations. All the recommendations it gives leads to losses. There is no proper support available when there is an issue with the app.",
+        "date": "2026-04-16T02:53:47-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13939429546",
+        "author": "Liquid aap",
+        "rating": 1,
+        "title": "The liquid aap",
+        "content": "It seems to be a scam. They recommend stocks and remove/delete it immediately when it falls stating ‘ went out buying range’ I lost 90k by buying a stock they recommended (Advance Agro)I asked them whether to hold this stock as it is falling drastically. Hover they advised me to hold it and at last when my loss crossed 50k, they cancelled their recommendation silently. One of the poor aap in this category. All the reviews they shows are self generated to mislead people. Not even a 5 % accuracy on their recommendations. Please don’t fall in their trap,",
+        "date": "2026-04-09T07:13:57-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13913769864",
+        "author": "Amit thakre",
+        "rating": 1,
+        "title": "Worst paid service app",
+        "content": "given trade in the group is not correct and this app shows different success rate. \nmost of the trade in telegram channel are not accurate instead of this join any free telegram channel. \nYou are sebi registered then your trade should have that quality. The experience is not good",
+        "date": "2026-04-02T03:32:52-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13913045927",
+        "author": "Udhav007",
+        "rating": 1,
+        "title": "Loss",
+        "content": "Worst experience got lots of loss",
+        "date": "2026-04-01T21:41:32-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13905890528",
+        "author": "Harsh1619",
+        "rating": 1,
+        "title": "Zero after sales support",
+        "content": "Team is very pro-active when making a sale but after sales support is zero.\nThey even mis-sell. They pushed me to take a 15 month plan but I got a 12 month plan instead and no response after I emailed or reached out to their employees.",
+        "date": "2026-03-30T22:57:31-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13875909903",
+        "author": "ZachsFam",
+        "rating": 1,
+        "title": "Don’t take their subscription. It’s not worth it",
+        "content": "Very poor recommendations, no customer support and to top it all their features that they boast about don’t work. I had added a review and looks like they deleted it.",
+        "date": "2026-03-22T10:58:10-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13872896749",
+        "author": "Jugss.",
+        "rating": 1,
+        "title": "Wrong investment",
+        "content": "Portfolio stocks down more than 50%+",
+        "date": "2026-03-21T14:26:44-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13843033491",
+        "author": "Forest594",
+        "rating": 1,
+        "title": "Think before you opt. for Paid Services",
+        "content": "Call turns to Put and Put turns in to Call. Pathetic Tips. Slowly Slowly it will drain your FUNDS completely 😂",
+        "date": "2026-03-13T02:25:07-07:00",
+        "version": "1.4.6"
+      },
+      {
+        "id": "13798303295",
+        "author": "IOD^",
+        "rating": 1,
+        "title": "You will lose your hole money",
+        "content": "It’s really very bad experience, not sure how they got licence or other things,  please don’t join you will lose your portfolio very badly, they show off only success trades, but in the reality you will lose your portfolio, first I took ONE membership and lost 30% portfolio in Feb month, and after shifted to option their I lost 90% of portfolio, Please don’t Join.",
+        "date": "2026-02-28T04:14:46-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13752624690",
+        "author": "Rajakolli",
+        "rating": 1,
+        "title": "Waste app",
+        "content": "I have subscribe a app a one year long ago, it is not worth for money waste of subscription, they predictions are also wrong what I observed.",
+        "date": "2026-02-15T09:36:40-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13718647093",
+        "author": "real traders..",
+        "rating": 1,
+        "title": "bakwash",
+        "content": "ये एक दाम बकवश स्टॉक एडवाइजरी ऐप हे ये ऐप। आपको सिर्फ प्रॉफिट शो कर्ता, अपना स्टॉप लॉस नहीं दिखता 10 में से 8 स्टॉप लॉस होता है or सिर्फ 2 प्रॉफिट होता है।",
+        "date": "2026-02-06T01:32:01-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13710637097",
+        "author": "Aaditya 5",
+        "rating": 1,
+        "title": "Liquid Black",
+        "content": "Very disappointing experience. Pathetic service and absolutely no portfolio growth. They only focus on basic performance marketing and try to push other useless services that don’t deliver any real results. There is no proper strategy or value for money. Would not recommend if you’re serious about growing your portfolio.",
+        "date": "2026-02-03T20:10:44-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13688674060",
+        "author": "Shri A Rajaraman",
+        "rating": 1,
+        "title": "no trial",
+        "content": "claims free but once you click for recommendations it asks for coins which is obtained by paying money and app doesn't evem inform how much coin is required for getting a recommendation",
+        "date": "2026-01-29T03:12:38-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13627635723",
+        "author": "Dayananda Ullal",
+        "rating": 1,
+        "title": "Fraud company. Beware.",
+        "content": "Bsrd collected 3000/- from me and never send any advice. They blocked my number. Evety time when I call getting cusomer is busy.",
+        "date": "2026-01-12T22:09:23-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13610606322",
+        "author": "Raj-0010",
+        "rating": 1,
+        "title": "Just don’t install",
+        "content": "Not at all worthy. Just a subscription technique. Suckssssssssss",
+        "date": "2026-01-08T12:55:09-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13608902535",
+        "author": "Ananthb19",
+        "rating": 1,
+        "title": "Worst and incorrect Basic data",
+        "content": "I have got the premium and then it shows nifty expiry on 8th Jan \nWorst ever support \nThey only say will provide refund  but when you ask they don’t \nPlease stay away do not even download",
+        "date": "2026-01-08T03:48:26-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13584441177",
+        "author": "khushi1431",
+        "rating": 1,
+        "title": "Waste suggestions",
+        "content": "One of the best waste app and suggestions I have ever seen if you follow this compulsory at the end of the day they will make u loser",
+        "date": "2026-01-02T01:17:15-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13581795563",
+        "author": "trader-14",
+        "rating": 1,
+        "title": "worst ever stock market related app",
+        "content": "completely fake dont fall in the trap",
+        "date": "2026-01-01T09:35:54-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13549178958",
+        "author": "Amarnath Prajapati",
+        "rating": 1,
+        "title": "Don’t buy anything from them",
+        "content": "I brought their subscription this is my second year but first year was good now they don’t have proper support team if you will stucked somewhere they will not response you they are trying to misguide users I suggest do not use their service, also their app having lot of bug",
+        "date": "2025-12-24T02:06:16-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13548763857",
+        "author": "Prabhat121",
+        "rating": 1,
+        "title": "Fraud app",
+        "content": "I recently upgraded to the Pro version, but I strongly advise against it. I’ve noticed two major red flags: first, the app appears to delete losing recommendations to hide its poor track record. Second, it displays inflated profit figures compared to actual market results. These deceptive practices suggest the app is fraudulent. Save your money.",
+        "date": "2025-12-23T22:49:32-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13548445663",
+        "author": "Macindiashor",
+        "rating": 1,
+        "title": "No positive Results",
+        "content": "These guys keep sending you notifications for High profits and when you pay money for trade then all trades goes to negative. You do not earn a single penny. \n\nAnd they do not say its loss in trade but it shows cost to cost and those trades are all in losses.",
+        "date": "2025-12-23T20:15:52-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13503811664",
+        "author": "Shivam5739",
+        "rating": 1,
+        "title": "Waste of money",
+        "content": "Dont buy its premium, it gives wrong/general call.",
+        "date": "2025-12-11T23:13:50-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13501135424",
+        "author": "Santy 24",
+        "rating": 1,
+        "title": "Worse App",
+        "content": "I have taken Paid Service.I have done 5 trade according to the App Suggestion and in all 5 trade o have Faced loss.",
+        "date": "2025-12-11T05:45:45-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13496111988",
+        "author": "knightrider256",
+        "rating": 1,
+        "title": "Buggy app",
+        "content": "keeps crashing day n night",
+        "date": "2025-12-09T20:38:49-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13453338820",
+        "author": "Anand.m@80",
+        "rating": 1,
+        "title": "Worst",
+        "content": "Wordt application",
+        "date": "2025-11-28T20:54:54-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13435011360",
+        "author": "~Investor",
+        "rating": 1,
+        "title": "Poor Stock Recommendations",
+        "content": "Nothing is good with them, poor stocks recommendation, bad User Interface and worst application. That always crashes while launching the application, also stock list are not easily understandable. Mean while they post lot od adds to purchase their products.",
+        "date": "2025-11-24T02:55:21-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13411146606",
+        "author": "Shivam.agnihotri",
+        "rating": 1,
+        "title": "App is crashing almost every time",
+        "content": "App is crashing almost every time, and also subscriptions cost does not make much sense…",
+        "date": "2025-11-17T18:06:45-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13316713695",
+        "author": "jim manjooran",
+        "rating": 1,
+        "title": "scam",
+        "content": "This app is very poorly made. \nI have subscribed for the premium version to be able to access all the so called benefits.\nBut Limo keeps stopping and I am  blocked from\nusing it.\nToday is the third time that this has happened.\nDespite paying good money, i am unable to avail\nof the services.\nToday, when logged in to\nuse Limo, I am blocked and directed for KYC despite completing it before..And the OTP for the KYC is never received.   \nThis appears to be a scam.\nI tried to reach Support and I get the auto reply that “we are away”..this is the scam service after taking my money.\nComplaint to SEBI and Consumer Court follows.",
+        "date": "2025-10-26T06:50:35-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13273878987",
+        "author": "SFA-06",
+        "rating": 1,
+        "title": "Worst app",
+        "content": "Worst app for stock predictions. 100% wrong predictions and useless AI.",
+        "date": "2025-10-16T06:38:44-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13227367339",
+        "author": "DilSe by DS",
+        "rating": 1,
+        "title": "Two minds",
+        "content": "I was about to subscribe the plan, but when seen the reviews, changed my mind. Reviews not upto the mark",
+        "date": "2025-10-05T08:06:56-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13217729569",
+        "author": "Thundare",
+        "rating": 1,
+        "title": "Paid. EXPENSIVE",
+        "content": "Very expensive",
+        "date": "2025-10-03T04:40:43-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13211841007",
+        "author": "Rupinder001",
+        "rating": 1,
+        "title": "Stocks",
+        "content": "Worst",
+        "date": "2025-10-01T19:54:24-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13174538123",
+        "author": "Giraj Mundhra",
+        "rating": 1,
+        "title": "Dont purchase",
+        "content": "Wasted 4.5k and after buying they are asking to buy other plan and equity calls are also of no value ..either fetching 2% returns or stoploss….Giving delivery calls  for 10 days but after 10 days will ask you to book loss or exit at rate …",
+        "date": "2025-09-23T07:14:44-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13159690014",
+        "author": "RudrPT",
+        "rating": 1,
+        "title": "Almost felt like fake app",
+        "content": "Nothing is working not even search bar also if you want to delete your profile they say it will take 30 days to delete and then only show option to logout. Its cheating",
+        "date": "2025-09-19T21:09:48-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13147159422",
+        "author": "Rohan AU",
+        "rating": 1,
+        "title": "Bad Wrongly advertised",
+        "content": "I have bought paid Verizon. It’s not how they to the advertised.\nOther apps are better and cheaper.",
+        "date": "2025-09-16T22:20:04-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13112284100",
+        "author": "Sukhmeen singh",
+        "rating": 1,
+        "title": "Worst app",
+        "content": "Don’t use this app, wrong perceptions, and asking for recharge to use the app",
+        "date": "2025-09-07T22:45:12-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13109595637",
+        "author": "Naveen….",
+        "rating": 1,
+        "title": "Worst app",
+        "content": "Every time ask for money not even 1day free",
+        "date": "2025-09-07T06:15:13-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13069027941",
+        "author": "Eshwarchandra",
+        "rating": 1,
+        "title": "Don’t waste your money",
+        "content": "This is just waste of money , none of the trades are successful. I lost most them 10k after following all there trades as they said",
+        "date": "2025-08-27T20:59:00-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13057298602",
+        "author": "Akshatk11",
+        "rating": 1,
+        "title": "Wrong Stock Recommendations",
+        "content": "Worst app Gives wrong recommendations every time",
+        "date": "2025-08-24T21:28:21-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13796016747",
+        "author": "Ushama gorusheth",
+        "rating": 2,
+        "title": "Cheater and non acept it",
+        "content": "First i purchase only 01 Rs plan but I don’t how to cut after 02 days 3999 Rs this is really cheating this please refund my money if i want to buy so i will do but you cut without inform me. You’re human you have humanity please refund my payment",
+        "date": "2026-02-27T12:12:29-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13062168435",
+        "author": "I-Mac-Amit",
+        "rating": 2,
+        "title": "Less Know how",
+        "content": "Well to be honest initially when I was consulted I was impressed but after few session of recommending strategy I realized that the team is not experienced to advice clients if the strategy is suitable for NRI ETC.  they will ask you to open and account in some other bank because the app does not connect with certain brokers or banks etc and it is absolutely annoying no solution was given apart from doing it manually, \nI do understand the nuisances with SEBI and regulations etc however I definitely feel lack of experience in the team, one more glorified app which is good but no use to\nNRI clients and the teams needs to work to have solutions",
+        "date": "2025-08-26T03:11:32-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13006786689",
+        "author": "Kunalv2",
+        "rating": 2,
+        "title": "Lacking few features",
+        "content": "I have taken the annual subscription and when I get the notification on the mobile to invest in certain stock as the profit is rising by ‘X’ percentage, however when I click on the notifocation it takes me to the home page rather than taking to that particular stock suggestion. Also the black UI is very dull, please give an option to change it to white.",
+        "date": "2025-08-12T05:58:01-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12734689082",
+        "author": "Kumar1q",
+        "rating": 2,
+        "title": "Better go for mutual funds",
+        "content": "Liquide baskets are of no use mutual funds are far better coming to swing trades just ok ok",
+        "date": "2025-06-04T05:12:50-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "11820741719",
+        "author": "Kirtikumar a",
+        "rating": 2,
+        "title": "User experience is too poor",
+        "content": "Hello\nI have downloaded this app and found app is not perfect as per UI/UX point of view\nAdd broker function is broken \nNo dismiss of popups\nNo user defunded messages\nNeed to improve in a lot of manner",
+        "date": "2024-10-10T23:49:37-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11774926352",
+        "author": "Pedhaliya ciraj",
+        "rating": 2,
+        "title": "Change enterface",
+        "content": "Look like game enterface",
+        "date": "2024-09-28T10:46:51-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "13367313484",
+        "author": "Ujjwwaall",
+        "rating": 3,
+        "title": "No website available.",
+        "content": "The app is only available for mobile phones but it should also be available for tablets and should be accessible via web. Strange to know why there no fully functional website for this app.",
+        "date": "2025-11-07T03:13:39-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13268498026",
+        "author": "Sambhaji Naik",
+        "rating": 3,
+        "title": "Not worth to take subscription",
+        "content": "I downloaded app after watching add on Instagram .\n1. It dosent give proper analysis of your portfolio. For me it’s just said no red flags ..I was expecting more for them to say sale/ buy more.\n2. It just keep behind you for getting subscription once you subscribe they won’t care what you are doing. \n3. Market analysis give multiple stocks to but you won’t able to achieve anything . And they will just show out of 100 prediction whichever archives target they will market it as achievement . It is obvious when you predict 100 definitely few will achieve target.\n4. For futures and options additional subscription and they will send you 10 msg to subscribe and zero msg for stock updates.\n5. Whole aim to add new customer long run this company is not going anywhere.\n6. Analysis is not always correct . I did predicted one stock prise and it achieved target while Nimo was saying not to buy stick surged 20% in 15 days .\nCompany has to do more to retain customers ..",
+        "date": "2025-10-15T00:23:57-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13264128901",
+        "author": "BhogeshSV",
+        "rating": 3,
+        "title": "App crashing frequently on iphone 13 which is on ios 26.x version",
+        "content": "App crashes on different sections of app screen, like IPO ,or when trying to get stock analysis through limo  , invest option ,profile etc etc. whenever i tried to navigate on those options, its crashing",
+        "date": "2025-10-13T22:55:39-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "12843807000",
+        "author": "Siddu_PC",
+        "rating": 3,
+        "title": "App has an issue please check",
+        "content": "This is an issue reporting of the App not feedback.\n\nGetting price out of range error in Ask limo for buy or sell existing stock",
+        "date": "2025-07-02T08:23:39-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12418260491",
+        "author": "darkknight007007",
+        "rating": 3,
+        "title": "Calls from Liquide",
+        "content": "Please do not call your users repeatedly. Rest is good",
+        "date": "2025-03-13T23:50:51-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12273228605",
+        "author": "Yash Chhabda",
+        "rating": 3,
+        "title": "Average app",
+        "content": "Ok ok app",
+        "date": "2025-02-05T02:55:40-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "12110812182",
+        "author": "Apoo1993",
+        "rating": 3,
+        "title": "Unable to add broker",
+        "content": "I have been trying to add broker, unable to add any, screen in not even popping",
+        "date": "2024-12-27T00:23:14-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11795398710",
+        "author": "Montymfs",
+        "rating": 3,
+        "title": "Most trades into loss",
+        "content": "Most of the trade suggestions given have performed bad. Tried and tested multiple times…",
+        "date": "2024-10-04T00:29:52-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "13693829787",
+        "author": "Tarun V G",
+        "rating": 4,
+        "title": "Nice App",
+        "content": "The problem with this app is if you buy Equity membership and your notification is on then they keep sending unlimited messages to join their Options plan which is quite frustrating",
+        "date": "2026-01-30T10:11:23-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13208811414",
+        "author": "naice work",
+        "rating": 4,
+        "title": "Great app",
+        "content": "Liquide App makes finance less intimidating, finally!",
+        "date": "2025-10-01T04:42:54-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13069904201",
+        "author": "Rupal12",
+        "rating": 4,
+        "title": "Excellent",
+        "content": "Excellent app for investors!\nLiquide provides smart stock insights and recommendations that really help in making better decisions",
+        "date": "2025-08-28T03:07:56-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12562293765",
+        "author": "Ritu Singhal",
+        "rating": 4,
+        "title": "Review",
+        "content": "The instant stock research saves me so much time",
+        "date": "2025-04-19T09:07:48-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12556939307",
+        "author": "Sam@1803",
+        "rating": 4,
+        "title": "BEST APP FOR STOCK RECOMMENDATION",
+        "content": "Got great insights related to stocks and trading",
+        "date": "2025-04-18T02:02:06-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12041256604",
+        "author": "CA KSB",
+        "rating": 4,
+        "title": "Revolutionary but some major features is a must",
+        "content": "Just purchased premium subscription. Need to experience the app. Major set back is that we can’t create our portfolio manually if we are not comfortable to link our brokers and portfolio. Let me see how this app goes. Structure of the app looks cool.",
+        "date": "2024-12-08T12:41:20-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11979230632",
+        "author": "earning money aap",
+        "rating": 4,
+        "title": "Review for a aap",
+        "content": "This app aims to simplify investing in liquid stocks and mutual funds, making it accessible for both beginners and seasoned investors. It promises real-time tracking, intuitive features, and seamless investment management.",
+        "date": "2024-11-22T08:27:05-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11955918726",
+        "author": "iamsam10",
+        "rating": 4,
+        "title": "Great app!!",
+        "content": "Best stock recommendations I’ve come across! Liquide offers clear and practical advice for long-term growth.",
+        "date": "2024-11-16T02:20:29-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11955832038",
+        "author": "Potential User.",
+        "rating": 4,
+        "title": "Good App!",
+        "content": "Liquide’s insights and trade recommendations are unmatched. A must-have app for anyone looking to grow their portfolio",
+        "date": "2024-11-16T01:45:46-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11948040538",
+        "author": "Oooosieee",
+        "rating": 4,
+        "title": "App review",
+        "content": "This app is a must for investors! The instant stock research feature saves me so much time, and the stock card insights are super detailed. I’ve tried several apps, but this one has the best stock recommendations and trade suggestions.",
+        "date": "2024-11-13T23:54:21-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11837506788",
+        "author": "Aditi Parihar",
+        "rating": 4,
+        "title": "Best app",
+        "content": "This app is great for building wealth with its instant stock updates and detailed stock research. highly recommended.",
+        "date": "2024-10-15T10:46:15-07:00",
+        "version": "1.3.2"
+      },
+      {
+        "id": "11639196475",
+        "author": "Tanusha Murugan",
+        "rating": 4,
+        "title": "Best",
+        "content": "Best stock recommendation!!",
+        "date": "2024-08-22T03:48:37-07:00",
+        "version": "1.2.2"
+      },
+      {
+        "id": "13977172402",
+        "author": "Ritwik Borthakur",
+        "rating": 5,
+        "title": "Reliable",
+        "content": "Reliable",
+        "date": "2026-04-19T22:17:15-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13885489215",
+        "author": "AnimeshDas2002",
+        "rating": 5,
+        "title": "Awesome",
+        "content": "Awesome",
+        "date": "2026-03-25T06:53:03-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13872707620",
+        "author": "xyz2929",
+        "rating": 5,
+        "title": "Stocks",
+        "content": "best stock recommendations and instant stock research😍",
+        "date": "2026-03-21T13:10:27-07:00",
+        "version": "1.4.9"
+      },
+      {
+        "id": "13836383859",
+        "author": "Ojassswwwii",
+        "rating": 5,
+        "title": "Review",
+        "content": "The best stock recommendation feature and stock card insights make investing easier. Perfect app for anyone serious about building wealth.",
+        "date": "2026-03-11T03:32:06-07:00",
+        "version": "1.4.6"
+      },
+      {
+        "id": "13834021647",
+        "author": "Gagan 17",
+        "rating": 5,
+        "title": "Good",
+        "content": "Its a very good experience i have made with this app",
+        "date": "2026-03-10T09:37:01-07:00",
+        "version": "1.4.6"
+      },
+      {
+        "id": "13814962655",
+        "author": "Djbhvgkakah",
+        "rating": 5,
+        "title": "Good app",
+        "content": "Good stock app",
+        "date": "2026-03-04T19:36:31-07:00",
+        "version": "1.4.6"
+      },
+      {
+        "id": "13798897944",
+        "author": "Devsharma80",
+        "rating": 5,
+        "title": "Review",
+        "content": "Best stock recommendation with trusted analysis.",
+        "date": "2026-02-28T07:24:48-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13798661651",
+        "author": "vansh.068",
+        "rating": 5,
+        "title": "The best",
+        "content": "Trade recommendations are helpful and accurate.",
+        "date": "2026-02-28T06:13:14-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13737340430",
+        "author": "kaathreeki",
+        "rating": 5,
+        "title": "Belief",
+        "content": "Continue the same belief",
+        "date": "2026-02-11T04:02:51-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13658114651",
+        "author": "Bittu Mahi",
+        "rating": 5,
+        "title": "One stop for every solution",
+        "content": "Good application but UI is not upto the Mark for every one so UI Changes and background colour changes are highly appreciated.",
+        "date": "2026-01-20T23:13:18-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13564697834",
+        "author": "Mallika25 H",
+        "rating": 5,
+        "title": "Very Nice",
+        "content": "Liquide is an easy-to-use app that provides insights and recommendations for stocks and mutual funds to help investors make informed decisions.",
+        "date": "2025-12-28T04:57:01-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13556566576",
+        "author": "thakursaujanya20",
+        "rating": 5,
+        "title": "Great Investing App",
+        "content": "Liquide is a user-friendly app for wealth building.",
+        "date": "2025-12-26T03:27:41-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13556343160",
+        "author": "Anvi Karande",
+        "rating": 5,
+        "title": "Excellent and helpful",
+        "content": "Great app! Liquide delivers accurate trade recommendations and clear stock cards to grow wealth and make confident investment desicions.",
+        "date": "2025-12-26T01:55:55-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13552249620",
+        "author": "Sanskriti2413",
+        "rating": 5,
+        "title": "Great app for investing",
+        "content": "Best stock recommendation",
+        "date": "2025-12-24T22:12:03-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13479829896",
+        "author": "sf zaidy",
+        "rating": 5,
+        "title": "Nice",
+        "content": "Nice",
+        "date": "2025-12-05T17:11:52-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13426067089",
+        "author": "AJITESH & Shakshi",
+        "rating": 5,
+        "title": "Accurate",
+        "content": "ERA of AI",
+        "date": "2025-11-21T18:09:47-07:00",
+        "version": "1.3.11"
+      },
+      {
+        "id": "13380814213",
+        "author": "KDLEO1",
+        "rating": 5,
+        "title": "Great App",
+        "content": "Excellent user friendly app. They provide great report of each share with right suggests",
+        "date": "2025-11-10T06:36:57-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13257686390",
+        "author": "Cadet bhavana",
+        "rating": 5,
+        "title": "Best stock recommendation app",
+        "content": "I recommend this app for instant stock research and stock card insights",
+        "date": "2025-10-12T09:31:56-07:00",
+        "version": "1.3.9"
+      },
+      {
+        "id": "13214239378",
+        "author": "Sushant Nair",
+        "rating": 5,
+        "title": "Great Apps",
+        "content": "Good but always open eye in digital platforms like this one apps.\nLiquide has many of the hallmarks of a promising and powerful investing tool. It blends analytics, AI support, portfolio diagnostics, alerts, and more into a cohesive package. For users who want guidance, insights, and curated ideas (without having to always build everything themselves), it offers a compelling value proposition.",
+        "date": "2025-10-02T08:44:13-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13213109146",
+        "author": "Archit2610",
+        "rating": 5,
+        "title": "Great app",
+        "content": "Exactly what I needed to manage my portfolio better.",
+        "date": "2025-10-02T03:46:11-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13209684936",
+        "author": "PranitChuriwal",
+        "rating": 5,
+        "title": "Amazing stock recommendations.",
+        "content": "I’ve recently started using this app and it works amazingly for me. Best card insight and trade recommendations.",
+        "date": "2025-10-01T08:21:14-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13205107520",
+        "author": "KukretiAJ",
+        "rating": 5,
+        "title": "Best app",
+        "content": "Great app for stocks and investing. It has such a user friendly interface that is really beneficial for beginners.",
+        "date": "2025-09-30T08:13:47-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13195294144",
+        "author": "SeemaDugar",
+        "rating": 5,
+        "title": "The app’s usability is great",
+        "content": "I’ve followed their best recommendations and seen consistent gains in my portfolio. love it!!",
+        "date": "2025-09-28T02:38:20-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13195087400",
+        "author": "imtish",
+        "rating": 5,
+        "title": "Worth it!",
+        "content": "Building wealth requires the right guidance, and this platform delivers exactly that. The stock card insights break down everything in a way that even beginners can understand. I especially appreciate their best stock recommendation and trade recommendations, which are based on solid instant stock research.",
+        "date": "2025-09-28T01:24:40-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13194999514",
+        "author": "Shreyaaaa8",
+        "rating": 5,
+        "title": "Best app in market",
+        "content": "I feel like it is the best app in market as it provides great stock recommendations",
+        "date": "2025-09-28T00:52:14-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13194992027",
+        "author": "FunSeva",
+        "rating": 5,
+        "title": "Stock market insights",
+        "content": "This app had trade recommendations and I can do stock research",
+        "date": "2025-09-28T00:49:27-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13194985058",
+        "author": "Nirmal0007",
+        "rating": 5,
+        "title": "Great app",
+        "content": "It is genuinely the best stock recommendation app",
+        "date": "2025-09-28T00:46:50-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13182654224",
+        "author": "Nishant__Arora",
+        "rating": 5,
+        "title": "Best stock recommendation  app",
+        "content": "I have been using it and the experience was great. Helpful for stock researches, highly recommended for beginners too",
+        "date": "2025-09-25T05:02:29-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13098541210",
+        "author": "Kaavya 5",
+        "rating": 5,
+        "title": "Good",
+        "content": "Liquide App makes investing smarter with instant stock research and easy-to-digest stock card insights. A must-have for anyone seeking the best stock recommendation in seconds.",
+        "date": "2025-09-04T10:07:22-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13098179576",
+        "author": "Vanshika_1",
+        "rating": 5,
+        "title": "Great app",
+        "content": "The stock card insights are detailed, and I like how quickly I get instant stock research updates",
+        "date": "2025-09-04T08:16:45-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13073899102",
+        "author": "Tushar_mauryaa",
+        "rating": 5,
+        "title": "Page",
+        "content": "User friendly interface",
+        "date": "2025-08-29T03:25:54-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13073648699",
+        "author": "Harsh Gumber",
+        "rating": 5,
+        "title": "Best For working professionals",
+        "content": "Liquide gives you instant stock research report and stock card insight. I totally recommend it to college students and working professionals",
+        "date": "2025-08-29T01:49:50-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13070811342",
+        "author": "avni_1",
+        "rating": 5,
+        "title": "Instant stock research",
+        "content": "I’ve been using Liquide for a few weeks and I’m genuinely impressed. The stock card insights make it so easy to understand a company’s performance at a glance. Their instant stock research feature saves me a lot of time, and the trade recommendations feel very practical. Definitely one of the best stock apps for building long-term wealth.",
+        "date": "2025-08-28T07:47:10-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13066905015",
+        "author": "Samik Kesarwani",
+        "rating": 5,
+        "title": "Stock card insights",
+        "content": "Liquide is a sleek user friendly investment app that simplifies stock market decisions with smart insights and real time guidance.",
+        "date": "2025-08-27T07:52:55-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13066657731",
+        "author": "Gaurav_Verma",
+        "rating": 5,
+        "title": "Amazing app",
+        "content": "Superb interface really love it. A very professional app, i’m searching for a platform which i can trust with my money and finally I found one.",
+        "date": "2025-08-27T06:42:11-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "13065828022",
+        "author": "KabirAroraaa",
+        "rating": 5,
+        "title": "Instant Stock Reserach",
+        "content": "provides quick, reliable, and easy-to-understand insights for smart investing",
+        "date": "2025-08-27T01:59:05-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12878701992",
+        "author": "Vinit solanki",
+        "rating": 5,
+        "title": "Good app",
+        "content": "Good trade recommendations",
+        "date": "2025-07-11T04:06:42-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12878673471",
+        "author": "Tanvi poyekar",
+        "rating": 5,
+        "title": "best app",
+        "content": "best app for stock market recommendation",
+        "date": "2025-07-11T03:56:19-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12874581611",
+        "author": "Fuofogo",
+        "rating": 5,
+        "title": "Good app",
+        "content": "Best trade recommendations",
+        "date": "2025-07-10T02:55:40-07:00",
+        "version": "1.3.5"
+      },
+      {
+        "id": "12874245910",
+        "author": "Dhhhruviiiiii",
+        "rating": 5,
+        "title": "Review",
+        "content": "Like this app",
+        "date": "2025-07-10T00:39:23-07:00",
+        "version": "1.3.5"
+      }
+    ],
+    "review_analysis": {
+      "total_reviews": 106,
+      "average_rating": 3.06,
+      "rating_distribution": {
+        "1": 40,
+        "2": 6,
+        "3": 8,
+        "4": 12,
+        "5": 40
+      },
+      "latest_review_date": "2026-04-29T09:45:42-07:00",
+      "oldest_review_date": "2025-07-10T00:39:23-07:00"
+    },
+    "reviews_metadata": {
+      "1": {
+        "requested": 40,
+        "fetched": 40
+      },
+      "2": {
+        "requested": 40,
+        "fetched": 6
+      },
+      "3": {
+        "requested": 40,
+        "fetched": 8
+      },
+      "4": {
+        "requested": 40,
+        "fetched": 12
+      },
+      "5": {
+        "requested": 40,
+        "fetched": 40
+      }
+    }
+  },
+  "analysis": null
+}

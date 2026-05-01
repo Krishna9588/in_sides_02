@@ -1,0 +1,403 @@
+{
+    "company_name": "Capgemini",
+    "domain": "https://www.capgemini.com",
+    "playstore_link": null,
+    "appstore_link": null,
+    "youtube_official_channel": "https://www.youtube.com/user/capgeminimedia",
+    "linkedin_company_page": "https://www.linkedin.com/company/capgemini",
+    "year_founded": "1 October 1967, Grenoble, France",
+    "names_of_founders": [
+        "Serge Kampf"
+    ],
+    "c-suite_officer": [
+        "Aiman Ezzat - Chief Executive Officer",
+        "Paul Hermelin - Chairman of the Board",
+        "Nandini Basuthakur - CEO, Capgemini Americas",
+        "Jeroen Versteeg - Managing Director, Capgemini Financial Services Continental Europe",
+        "Olivier Sevillia - Chief Operating Officer"
+    ],
+    "employee_count": "369,453 (as of December 2025)",
+    "exact_hq_location": "11 rue de Tilsitt, 75017 Paris, France",
+    "locations_operating_in": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Latin America",
+        "Middle East",
+        "Africa",
+        "More than 50 countries"
+    ],
+    "industry_and_segment": "Information technology (IT) services, consulting, digital transformation, and engineering. Segments include Strategy & Transformation, Applications & Technology, and Operations & Engineering. Serves industries like Financial Services, Manufacturing, Consumer Goods & Retail, Energy & Utilities, Public Sector, Telecoms, Media & Technology, Healthcare, Automotive, Aerospace and Defense, High-Tech, Transportation, Distribution, Professional Services, State Government, and Non-profit sectors.",
+    "available_platforms": "Web",
+    "funding_raised": "Public (Euronext Paris)",
+    "funding_stage": "Public (Euronext Paris)",
+    "no_of_users": "Unable to verify (primarily serves large Global 2000 enterprises and public sector organizations)",
+    "annual_revenue": "€22.096 billion (2024)",
+    "key_positioning": "A global leader in consulting, technology services, and digital transformation, trusted by clients to unlock the value of technology to address the entire breadth of their business needs. Delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, fueled by market-leading capabilities in AI, generative AI, cloud, and data, combined with deep industry expertise and a strong partner ecosystem.",
+    "revenue_model": "Primarily generates income through consulting services, technology integration, and managed services. This includes strategic advisory, technology implementation, and outsourcing solutions, often in multi-year managed services, cloud, and data/AI engagements. Monetizes through a strategy-to-operations delivery model including Capgemini Invent for strategy and design, Applications & Technology for modernization, Operations for managed services, and Engineering for ER&D.",
+    "pricing_tiers": [],
+    "target_customer_segments": [
+        "Large Global 2000 enterprises",
+        "Public sector organizations",
+        "C-suite and IT leaders",
+        "Fortune 1000 firms",
+        "Mid-market scale-ups (selective)"
+    ],
+    "tech_stack_highlights": [
+        "AI",
+        "Generative AI",
+        "Cloud",
+        "Data",
+        "Connectivity",
+        "Software",
+        "Digital Engineering",
+        "Platforms",
+        "Partnerships with Microsoft, Google, AWS, Salesforce, IBM, Mistral AI"
+    ],
+    "milestones": [
+        "1967: Founded as Sogeti by Serge Kampf in Grenoble, France.",
+        "1974: Acquired Gemini Computer Systems.",
+        "1975: Renamed CAP Gemini Sogeti.",
+        "1981: Launched US operations.",
+        "2000: Acquired Ernst & Young Consulting, forming Cap Gemini Ernst & Young.",
+        "2003: Reverted to Capgemini name.",
+        "2008: Initial Public Offering (IPO) on Euronext Paris.",
+        "2015: Acquired IGATE.",
+        "2018: Capgemini Invent launched as the design and consulting subdivision.",
+        "2021: Acquired RXP Services, Acclimation, Empired, and Intergen in Australia/New Zealand.",
+        "2022: Established the Capgemini Quantum Lab (Capgemini Q-Lab) in collaboration with IBM.",
+        "2023: Reported global revenues of €22.5 billion.",
+        "2024: Reported global revenues of €22.1 billion.",
+        "2025: Committed €2 billion investment plan in generative AI."
+    ],
+    "competitors": [
+        {
+            "name": "Accenture",
+            "domain": "https://www.accenture.com"
+        },
+        {
+            "name": "IBM Consulting",
+            "domain": "https://www.ibm.com/consulting/"
+        },
+        {
+            "name": "Tata Consultancy Services (TCS)",
+            "domain": "https://www.tcs.com"
+        },
+        {
+            "name": "Infosys",
+            "domain": "https://www.infosys.com"
+        },
+        {
+            "name": "Cognizant",
+            "domain": "https://www.cognizant.com"
+        }
+    ],
+    "other_crucial_details": [
+        "Capgemini is pivoting to facilitate AI adoption, anticipating this will fuel sales in 2026 with projected revenue growth of 6.5% to 8.5%.",
+        "The company is investing in AI and MLOps platforms and expanding nearshore hubs in Eastern Europe and Latin America.",
+        "Capgemini's revenue grew 1.7% to €22.5 billion in 2025, with net income declining 4.2% to €1.6 billion.",
+        "The company announced restructuring costs of €700 million to adapt its workforce to the technology shift driven by AI.",
+        "Capgemini's projected 2025 global revenue is approximately €22-23 billion.",
+        "In Q1 2026, Capgemini reported an 11% revenue increase at constant currency, driven by enterprise AI adoption and recent acquisitions like WNS and Cloud4C.",
+        "Capgemini's workforce increased to 421,000 employees as of March 2026, a 23% year-over-year increase, largely due to the WNS integration.",
+        "Capgemini's 2026 guidance includes revenue growth of 6.5% to 8.5% at constant exchange rates and an operating margin of 13.6% to 13.8%.",
+        "Capgemini's top tech trends for 2026 include the Year of Truth for AI, AI transforming software development, Cloud 3.0, Intelligent Operations, and Technological Sovereignty.",
+        "Capgemini acquired Syniti, a leader in SAP data transformation, and Cloud4C, a provider of managed services for hybrid and sovereign cloud environments."
+    ],
+    "new_features_launched": [
+        "AI-powered enterprise transformation solutions.",
+        "Secure sovereign cloud solutions.",
+        "Integrated managed cloud services focusing on sovereignty, compliance, and business continuity.",
+        "Gemini Enterprise for AI adoption and intelligent operations.",
+        "Agentic AI expertise and solutions.",
+        "AI generated and maintained software components.",
+        "Cloud 3.0 architectures (hybrid, multi-cloud, sovereign)."
+    ],
+    "recent_partnerships_and_integrations": [
+        {
+            "date": "2026-02-23",
+            "description": "Strategic partnership with OpenAI to accelerate enterprise AI transformation using Frontier platform and co-develop industry solutions.",
+            "effect": [
+                "Leveraging cutting-edge AI models for enterprise solutions."
+            ],
+            "partner": "OpenAI",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF5nUjHMDTyHX7RYmmw5ps6Kpr3iA7_nHHwP0Zef3gPo1GHDP_Q1jaUsk65279MNrpAPswwnzCu1OY-R8iHf7JsyiNFTDuvS-AQuVHr3c5hMVhm2NaBXJaAOQHODrES5wq_QwXzAsAA3Sq19lzWy9BxEjBbBqp57fAe35L_WJCsEceX2ASSnh6YpaQGSFFlTQSDV0SmC47MYzuqDqMWv63YjI3-wHFtkjRRLdS0W2XLMbHxDsmsDNCxkX629dp1I-sY_Co-ZNeZnVS5kiZL6qSPayWFzfVf6COQOHpveh5wLJWHqhmb14=",
+            "type": "Strategic Partnership"
+        },
+        {
+            "date": "2026-02-06",
+            "description": "Expanded strategic partnership with Google Cloud to deliver end-to-end secure sovereign cloud solutions, enabling AI adoption with Vertex AI and Gemini Enterprise.",
+            "effect": [
+                "Accelerated AI adoption and secure cloud solutions."
+            ],
+            "partner": "Google Cloud",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-JESeLKYUJgb7Bjg2GMpNJzZRpjqXGd2CKatxm5WqWFviLX7J-wkA5u6wAjvNDUuwMWFqGUYDMSEeMGqdqw9h-jHvj8jNdXi_C50A9ogjkUr6GMbtSzcraTNcUx4Qgu55np5Ig0_pkbwLH1prJvCh1kJnQJUhX6YiPKi7Nxus1yQdXp2KUWKYyMXxEgPNKGspeJZ-SryYAi4RIKqGeZ2WHECsrX3wM9zuyJGQwzoUMSWbX3GaD2LiYXaZXd-aQhbhDUws_U-7GCznx53FfA7myYFYVrxtBWAP3AXoivR0qr2YpX8LRgEjlvKqTguzm2XzT5reK6ldsKsRRzRkFA==",
+            "type": "Strategic Partnership"
+        },
+        {
+            "date": "2026-02-11",
+            "description": "Deepened strategic partnership with Microsoft to offer integrated, managed cloud services embedding sovereignty, compliance, and business continuity.",
+            "effect": [
+                "Comprehensive sovereign cloud solutions and enhanced digital transformation."
+            ],
+            "partner": "Microsoft",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXeXnsln1A9B4YV2H9a8ptum9Zvj_oJ8UmForNizcqyw4sxQUYLNU5EgrLC7DiCpEFsnMcbl2xtNFZfPl6XEN5AdRBwE7N28JtvDNG4KyjywZ0T6FHi4ibrEdUCGkp1MayBl2xtNFZfPl6XEN5AdRBwE7N28JtvDNG4KyjywZ0T6FHi4ibrEdUCGkp1Ma",
+            "type": "Strategic Partnership"
+        },
+        {
+            "date": "2026-04-23",
+            "description": "Expansion of strategic partnership with Google Cloud to establish a dedicated Google Cloud AI Enterprise Hub for agentic AI transformation.",
+            "effect": [
+                "Accelerated enterprise-scale adoption of Google Cloud Gemini Enterprise."
+            ],
+            "partner": "Google Cloud",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH67mhi9PLj5hf08h1vXqxUFKEtoL7t2lEEWG2X8MQxKd2fp6co_zMwfofPpB9vNYjNUv1J6UjOJXmQNZ42p_Nw_5w9PbAfsmAlhtq71Zndt4A9l3b7Rm9cdrYonPEptTV2EUcFbwSJ23yeTYj7fUGhq6M1zJ0fSj7ninXwuYzqhReloCVp22xEm6nLuZHE9QzNXKVY_YSUn6uEp2VyKOYdNIuR5qE26WDhM-u_76dypbp7WPLvDM-G30TGKRIsnyPKCRns9qhNJyaBk7OC",
+            "type": "Strategic Partnership"
+        }
+    ],
+    "strategic_moves": [
+        {
+            "date": "2026-02-23",
+            "description": "Formed a strategic partnership with OpenAI to accelerate enterprise AI transformation with the Frontier platform.",
+            "effect": [
+                "Enhanced AI capabilities and new service offerings."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF5nUjHMDTyHX7RYmmw5ps6Kpr3iA7_nHHwP0Zef3gPo1GHDP_Q1jaUsk65279MNrpAPswwnzCu1OY-R8iHf7JsyiNFTDuvS-AQuVHr3c5hMVhm2NaBXJaAOQHODrES5wq_QwXzAsAA3Sq19lzWy9BxEjBbBqp57fAe35L_WJCsEceX2ASSnh6YpaQGSFFlTQSDV0SmC47MYzuqDqMWv63YjI3-wHFtkjRRLdS0W2XLMbHxDsmsDNCxkX629dp1I-sY_Co-ZNeZnVS5kiZL6qSPayWFzfVf6COQOHpveh5wLJWHqhmb14=",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-02-06",
+            "description": "Expanded strategic partnership with Google Cloud to deliver secure sovereign cloud solutions and accelerate AI adoption.",
+            "effect": [
+                "Accelerated AI adoption and expanded cloud offerings."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-JESeLKYUJgb7Bjg2GMpNJzZRpjqXGd2CKatxm5WqWFviLX7J-wkA5u6wAjvNDUuwMWFqGUYDMSEeMGqdqw9h-jHvj8jNdXi_C50A9ogjkUr6GMbtSzcraTNcUx4Qgu55np5Ig0_pkbwLH1prJvCh1kJnQJUhX6YiPKi7Nxus1yQdXp2KUWKYyMXxEgPNKGspeJZ-SryYAi4RIKqGeZ2WHECsrX3wM9zuyJGQwzoUMSWbX3GaD2LiYXaZXd-aQhbhDUws_U-7GCznx53FfA7myYFYVrxtBWAP3AXoivR0qr2YpX8LRgEjlvKqTguzm2XzT5reK6ldsKsRRzRkFA==",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-02-11",
+            "description": "Building on the Microsoft partnership to offer integrated, managed cloud services focused on sovereignty, compliance, and business continuity.",
+            "effect": [
+                "Enhanced cloud services with a focus on security and compliance."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXeXnsln1A9B4YV2H9a8ptum9Zvj_oJ8UmForNizcqyw4sxQUYLNU5EgrLC7DiCpEFsnMcbl2xtNFZfPl6XEN5AdRBwE7N28JtvDNG4KyjywZ0T6FHi4ibrEdUCGkp1MayBl2xtNFZfPl6XEN5AdRBwE7N28JtvDNG4KyjywZ0T6FHi4ibrEdUCGkp1Ma",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-02-01",
+            "description": "Divesting the US subsidiary Capgemini Government Solutions due to oversight issues and legal constraints related to its ICE contract.",
+            "effect": [
+                "Streamlined operations and reduced reputational risk."
+            ],
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfmpESBmnIE5Q5L31F_C_u7HEL949zA4rXoR_lX2TOZCDk-4sOMJxS_uulW_w81FTr0PAsEYtKbSgNeyk0OwQ89YBNs_cKtxd-RiGbiucDIJacJaMWlkxem-nKGjq6EQvWoQ6d3SaLUfqZMarrGd3LAQIBoXaa0LVX01LU13dK0GMv7pYAzEmGYAwBnKrXYZL2fISYcOgsgxhUrWI6-NhZAvvolgJ3phz0_M4=",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-01-01",
+            "description": "Restructuring workforce to adapt to the technology shift driven by artificial intelligence.",
+            "effect": [
+                "Improved agility and cost efficiency in response to AI advancements."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgJr1I5UM8cAoXJF5Kee0JKlb6P3iNuH3GTq-1rkrLLuy9jAGhZH2PUOHOodvaWzohsd4AqjYcInJ6Htn-U5dsdERJ6n7vB-irIEneE0X03JYg3qJgpPKY25v_Dw_QldcdiBVfcgIs-2wwsEh86Kocz7_zZvdKLs7VCpuxLqZ-6tGRu1Wxh5_CZEYLx6DTFxYHM2SKhZc6rzHBCyG5XNJpYPuTdFLQqfQt",
+            "user_type": "Company"
+        }
+    ],
+    "user_complaints": [
+        {
+            "date": "2021-12-03",
+            "description": "Lack of investment in training for new products/services and insufficient tools for proactive support.",
+            "effect": [
+                "Hinders employee skill development and proactive service."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEP0gaAPmWo1w1IIkEwH2XaIG1Yqrku-elO-dD-vyGdbiuOY_STf6DA2LTrD5aI7V2dpl6peSuvD4YcQV8w8O7ty1y--ECaSUPomkZYxhLRI6mdsLrcvobM7FlB21a_P6CmV3QJQTmxKcXZPxuwpniqHZw4evCpYEYAUt6CyuCsmNCEYbO1nAPJvdy-S6JZhz5Bycd2bAT2q-6RT3ULltqg==",
+            "user_type": "Employee"
+        },
+        {
+            "date": "2026-02-01",
+            "description": "Concerns over ethical implications of a contract with US ICE, leading to criticism from French lawmakers and public.",
+            "effect": [
+                "Reputational damage and divestment of a subsidiary."
+            ],
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfmpESBmnIE5Q5L31F_C_u7HEL949zA4rXoR_lX2TOZCDk-4sOMJxS_uulW_w81FTr0PAsEYtKbSgNeyk0OwQ89YBNs_cKtxd-RiGbiucDIJacJaMWlkxem-nKGjq6EQvWoQ6d3SaLUfqZMarrGd3LAQIBoXaa0LVX01LU13dK0GMv7pYAzEmGYAwBnKrXYZL2fISYcOgsgxhUrWI6-NhZAvvolgJ3phz0_M4=",
+            "user_type": "Public"
+        },
+        {
+            "date": "2026-01-01",
+            "description": "Job onboarding and joining were heavily delayed for 2023 batch candidates, impacting their career progression.",
+            "effect": [
+                "Extended gaps on resumes and difficulty in job searches."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHovi5B56yNs0N3rgqumjip_ekITkrXFimxeA_eccUi-StwcaBTa7tQqkqMhit8j3n55FFhx6dGW69haUeZMjRsy8tUJV6ffsEkW0K_JhApgSsQTkrlKPQN-O-N-dAeDBPEXma3soJ5WM-Ag6ohotGKF9Kts0FVup6G--6U_DqL2u6XRFvb7ED9yytRAafR7ukxgy9XdkOIkY_7LFp4QUTZXXH59Xg=",
+            "user_type": "Employee"
+        },
+        {
+            "date": "2024-04-11",
+            "description": "Discrimination against candidates with proven intelligence for developer roles during the application process.",
+            "effect": [
+                "Unfair hiring practices and missed talent opportunities."
+            ],
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXTUbIHKkdF9x3vXvO9QaVNE3FCLdRsenl2lvIHh3wIfux7eiEL7CtV1at6AHkQSe8GqXgpyCnwu0qblNtadZv68x75hSHwX3qKzacM8YV4LS9Uk0NzTTIdAiQoAXZctL24vCq5S-uHbk=",
+            "user_type": "Candidate"
+        },
+        {
+            "date": "2024-10-01",
+            "description": "There are too many disruptions to business during migrations and a perceived lack of commercial involvement post-contract signing.",
+            "effect": [
+                "Disruptive implementations and inflexibility in contract terms."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEP0gaAPmWo1w1IIkEwH2XaIG1Yqrku-elO-dD-vyGdbiuOY_STf6DA2LTrD5aI7V2dpl6peSuvD4YcQV8w8O7ty1y--ECaSUPomkZYxhLRI6mdsLrcvobM7FlB21a_P6CmV3QJQTmxKcXZPxuwpniqHZw4evCpYEYAUt6CyuCsmNCEYbO1nAPJvdy-S6JZhz5Bycd2bAT2q-6RT3ULltqg==",
+            "user_type": "Client"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "date": "2026-02-01",
+            "description": "Scrutiny over a contract with US Immigration and Customs Enforcement (ICE) led to pressure from French officials and lawmakers, resulting in the divestment of a US subsidiary.",
+            "effect": [
+                "Reputational damage and divestment of a subsidiary."
+            ],
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfmpESBmnIE5Q5L31F_C_u7HEL949zA4rXoR_lX2TOZCDk-4sOMJxS_uulW_w81FTr0PAsEYtKbSgNeyk0OwQ89YBNs_cKtxd-RiGbiucDIJacJaMWlkxem-nKGjq6EQvWoQ6d3SaLUfqZMarrGd3LAQIBoXaa0LVX01LU13dK0GMv7pYAzEmGYAwBnKrXYZL2fISYcOgsgxhUrWI6-NhZAvvolgJ3phz0_M4=",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-01-01",
+            "description": "Industry-wide slowdown and uncertainty from AI disruption are tempering growth and demanding workforce restructuring to adapt.",
+            "effect": [
+                "Slower pace of demand recovery and need for workforce adaptation."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgJr1I5UM8cAoXJF5Kee0JKlb6P3iNuH3GTq-1rkrLLuy9jAGhZH2PUOHOodvaWzohsd4AqjYcInJ6Htn-U5dsdERJ6n7vB-irIEneE0X03JYg3qJgpPKY25v_Dw_QldcdiBVfcgIs-2wwsEh86Kocz7_zZvdKLs7VCpuxLqZ-6tGRu1Wxh5_CZEYLx6DTFxYHM2SKhZc6rzHBCyG5XNJpYPuTdFLQqfQt",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-02-13",
+            "description": "Economic slowdown, tariffs, trade uncertainty, and high interest rates are making clients more cautious about technology investments.",
+            "effect": [
+                "Subdued demand in some markets and delayed client spending."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFizSa5DbmEgksM8755AuW2PDdE46PVUxiv3fGQQaDT4Ab4-7QytxpKOWRZSuh1asY_mU6fUn29QJ1anbb6XzD5M2lnPBSnnsIWHruEaX7zdrkOyRUE55fJYD26wDKRFizwvdCApHiYFeEaB8SOAkts4Gar2t6lD6F3oZ-CzCeKclSt9KlLadZH5yLVRLnMLJtzpVaqcrXOK4t3zGes5qKCjbuo3Mtdshs9sSCJlQ==",
+            "user_type": "Company"
+        },
+        {
+            "date": "2024-10-01",
+            "description": "Delays in project pace and high team turnover during migrations led to extended timelines, despite SLAs being in place.",
+            "effect": [
+                "Extended project timelines and potential client dissatisfaction."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEP0gaAPmWo1w1IIkEwH2XaIG1Yqrku-elO-dD-vyGdbiuOY_STf6DA2LTrD5aI7V2dpl6peSuvD4YcQV8w8O7ty1y--ECaSUPomkZYxhLRI6mdsLrcvobM7FlB21a_P6CmV3QJQTmxKcXZPxuwpniqHZw4evCpYEYAUt6CyuCsmNCEYbO1nAPJvdy-S6JZhz5Bycd2bAT2q-6RT3ULltqg==",
+            "user_type": "Client"
+        },
+        {
+            "date": "2023-01-01",
+            "description": "Lack of investment in training for new products/services (e.g., Azure) and insufficient tools for proactive support hinder service quality.",
+            "effect": [
+                "Stagnant employee skills and reactive rather than proactive support."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEP0gaAPmWo1w1IIkEwH2XaIG1Yqrku-elO-dD-vyGdbiuOY_STf6DA2LTrD5aI7V2dpl6peSuvD4YcQV8w8O7ty1y--ECaSUPomkZYxhLRI6mdsLrcvobM7FlB21a_P6CmV3QJQTmxKcXZPxuwpniqHZw4evCpYEYAUt6CyuCsmNCEYbO1nAPJvdy-S6JZhz5Bycd2bAT2q-6RT3ULltqg==",
+            "user_type": "Employee"
+        },
+        {
+            "date": "2026-01-27",
+            "description": "Financial firms face risks from transaction reports that pass validation but contain hidden errors, leading to potential regulatory breaches and fines.",
+            "effect": [
+                "Regulatory non-compliance, fines, and reputational damage."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoWqTO1psFwBtGNG2jicpZQBo2n4YqKUDnojtpbKfnZ_bA-1UdxeDuG4YRkQewiyDs0cimmotyk75UeVxv_k6JeXvDhDmTCX4QIxUMlI5yWFYgeqBqNPtIha6ylCOAyTM6CF3CBsW-TfbOjcfov75lw0TgIUZMfqo1XOq6TFZ5h5w7zXRRdyZiayja-W0ZsDfd2IpE6Gv5Ilb7hZF5C1",
+            "user_type": "Client"
+        }
+    ],
+    "differentiators": [
+        {
+            "date": "2026-02-23",
+            "description": "Strategic partnership with OpenAI to accelerate enterprise AI transformation using Frontier platform and co-developed industry solutions.",
+            "effect": [
+                "Enhanced AI capabilities and bespoke industry solutions."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF5nUjHMDTyHX7RYmmw5ps6Kpr3iA7_nHHwP0Zef3gPo1GHDP_Q1jaUsk65279MNrpAPswwnzCu1OY-R8iHf7JsyiNFTDuvS-AQuVHr3c5hMVhm2NaBXJaAOQHODrES5wq_QwXzAsAA3Sq19lzWy9BxEjBbBqp57fAe35L_WJCsEceX2ASSnh6YpaQGSFFlTQSDV0SmC47MYzuqDqMWv63YjI3-wHFtkjRRLdS0W2XLMbHxDsmsDNCxkX629dp1I-sY_Co-ZNeZnVS5kiZL6qSPayWFzfVf6COQOHpveh5wLJWHqhmb14=",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-02-06",
+            "description": "Expanded partnership with Google Cloud to deliver end-to-end secure sovereign cloud solutions, enabling AI adoption with Vertex AI and Gemini Enterprise.",
+            "effect": [
+                "Accelerated AI adoption and secure cloud solutions."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-JESeLKYUJgb7Bjg2GMpNJzZRpjqXGd2CKatxm5WqWFviLX7J-wkA5u6wAjvNDUuwMWFqGUYDMSEeMGqdqw9h-jHvj8jNdXi_C50A9ogjkUr6GMbtSzcraTNcUx4Qgu55np5Ig0_pkbwLH1prJvCh1kJnQJUhX6YiPKi7Nxus1yQdXp2KUWKYyMXxEgPNKGspeJZ-SryYAi4RIKqGeZ2WHECsrX3wM9zuyJGQwzoUMSWbX3GaD2LiYXaZXd-aQhbhDUws_U-7GCznx53FfA7myYFYVrxtBWAP3AXoivR0qr2YpX8LRgEjlvKqTguzm2XzT5reK6ldsKsRRzRkFA==",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-02-11",
+            "description": "Deepened strategic partnership with Microsoft to offer integrated, managed cloud services embedding sovereignty, compliance, and business continuity.",
+            "effect": [
+                "Comprehensive sovereign cloud solutions and enhanced digital transformation."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXeXnsln1A9B4YV2H9a8ptum9Zvj_oJ8UmForNizcqyw4sxQUYLNU5EgrLC7DiCpEFsnMcbl2xtNFZfPl6XEN5AdRBwE7N28JtvDNG4KyjywZ0T6FHi4ibrEdUCGkp1MayBl2xtNFZfPl6XEN5AdRBwE7N28JtvDNG4KyjywZ0T6FHi4ibrEdUCGkp1Ma",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-03-19",
+            "description": "Leveraging end-to-end engineering scale from Altran acquisition for sector wins and higher-value offers in automotive, aerospace, energy, and industrials.",
+            "effect": [
+                "Expanded engineering capabilities and sector-specific solutions."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWoyR0u8Tq9_4r4wEM9sAhyBB--t_ytsCFyt9Bkb7m1qFd759XuaWb0jV8RDlIOxjVY804RrnImfssLs8U0d0oz5k7nSITh85CE6fYAY4Ydkp6Kq9W7ymi7BuKNqa5ofp4UWPkMHRqo1cx9gxh3G0iLg=",
+            "user_type": "Company"
+        },
+        {
+            "date": "2025-12-10",
+            "description": "Focus on AI maturity, with 2026 being the 'year of truth' for AI, shifting from experimentation to enterprise-wide deployments and measurable impact.",
+            "effect": [
+                "Drives adoption of AI for tangible business outcomes."
+            ],
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdmSrBTXcALwcI0shyljwnPLizoIlobqgQhDT4Jlx6nhyTFdBSg8jVitewyoXHSIzBXHlZvwHGcPZGlwQRl2Y9Slix8C9L7yylXnyRazltuMbkdCEMWGrGZCxVfX13M72lEAkrES6QU5Fb8NhVQ7vyIuF2bqvDbkBMiE2Ryq7JYsIZn7bM3k9Zid8rnQ==",
+            "user_type": "Company"
+        }
+    ],
+    "market_sentiment": {
+        "analyst_view": "Analysts project solid returns for Capgemini stock, anticipating growth driven by digital and cloud transformation demand, alongside disciplined capital allocation and attractive profitability. Projections suggest revenue growth of 3.8% annually and potential stock price increases.",
+        "date": "2026-01-25",
+        "overall": "Positive",
+        "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6zt5_5TdTsIbllYQ3GVHX6QF6ZfFTi3hymNEnfbdEoZl8N7onmkGqeOHa5pNsH85ZFUdVGfgzFjjXsfVHK_z4krS54-Xylm27yyqn3_bM1k6-1yFtqX8EopN0MT7WVfjO7C_a3GouCgwWG_fCEai5vBbnp7iakXyFGjF8NtgptrRoQ0PA",
+        "user_community_view": "Employee reviews suggest mixed sentiment, with some highlighting positive aspects like good work culture and client projects, while others criticize management, low salary hikes, and lack of benefits or team activities. Candidate reviews mention discrimination concerns."
+    },
+    "regulatory_and_legal_issues": [
+        {
+            "date": "2026-02-01",
+            "description": "Divestment of US subsidiary Capgemini Government Solutions due to \"usual legal constraints\" in US federal contracting that prevented appropriate group oversight.",
+            "effect": "Reputational risk management, compliance adherence.",
+            "jurisdiction": "USA",
+            "status": "Resolved",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfmpESBmnIE5Q5L31F_C_u7HEL949zA4rXoR_lX2TOZCDk-4sOMJxS_uulW_w81FTr0PAsEYtKbSgNeyk0OwQ89YBNs_cKtxd-RiGbiucDIJacJaMWlkxem-nKGjq6EQvWoQ6d3SaLUfqZMarrGd3LAQIBoXaa0LVX01LU13dK0GMv7pYAzEmGYAwBnKrXYZL2fISYcOgsgxhUrWI6-NhZAvvolgJ3phz0_M4=",
+            "user_type": "Company"
+        },
+        {
+            "date": "2026-01-27",
+            "description": "UK & EU EMIR Refit implementations highlighted persistent issues in financial transaction reporting, including missing valuations and failures to meet new standards.",
+            "effect": "Risk of regulatory breaches, fines, and reputational harm.",
+            "jurisdiction": "UK, EU",
+            "status": "Active",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoWqTO1psFwBtGNG2jicpZQBo2n4YqKUDnojtpbKfnZ_bA-1UdxeDuG4YRkQewiyDs0cimmotyk75UeVxv_k6JeXvDhDmTCX4QIxUMlI5yWFYgeqBqNPtIha6ylCOAyTM6CF3CBsW-TfbOjcfov75lw0TgIUZMfqo1XOq6TFZ5h5w7zXRRdyZiayja-W0ZsDfd2IpE6Gv5Ilb7hZF5C1",
+            "user_type": "Client"
+        }
+    ]
+}

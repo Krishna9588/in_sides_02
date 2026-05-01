@@ -1,0 +1,87 @@
+{
+    "company_name": "Liquide",
+    "domain": "https://liquide.life/",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.liquide.app",
+    "appstore_link": "https://apps.apple.com/in/app/liquide-stocks-mutual-funds/id1567600125",
+    "youtube_official_channel": null,
+    "linkedin_company_page": null,
+    "year_founded": "2021, Bengaluru, India",
+    "names_of_founders": [
+        "Anuj Bajpai",
+        "Paritosh Gunjan",
+        "Aniket Shirke",
+        "Kunal Ambasta"
+    ],
+    "c_suite_officer": [
+        "Anuj Bajpai - Co-Founder & CEO"
+    ],
+    "employee_count": "69",
+    "exact_hq_location": "Bengaluru, Karnataka, India",
+    "locations_operating_in": [
+        "India",
+        "Singapore",
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "United Arab Emirates",
+        "Australia"
+    ],
+    "industry_and_segment": "Wealthtech, Financial Services, Stock Exchanges, Wealth Management",
+    "available_platforms": "Mobile",
+    "funding_raised": "$2.26M",
+    "funding_stage": "Seed",
+    "no_of_users": "Unable to verify",
+    "annual_revenue": "₹26.9Cr",
+    "key_positioning": "AI-enabled wealth advisory app for the mass-affluent segment in India, offering stock trading ideas, portfolio management, and mutual fund analysis.",
+    "revenue_model": "Subscription-based",
+    "pricing_tiers": [
+        "Liquide One: Rs 3,499 per quarter",
+        "Liquide One: Rs 8,999 per year"
+    ],
+    "target_customer_segments": [
+        "Mass-affluent investors in India",
+        "Young investors (<34 years)",
+        "Retail equity investors",
+        "NRI investors"
+    ],
+    "tech_stack_highlights": [
+        "AI",
+        "Machine Learning"
+    ],
+    "milestones": [
+        "Founded in 2021.",
+        "Raised $2.2 million in pre-seed funding in August 2022.",
+        "Launched LiMo, an AI-powered bot.",
+        "Expanded services to NRI investors in six countries.",
+        "Reported Rs 25.8 crore in operating revenues in FY25.",
+        "Booked a profit of Rs 43 lakh in FY25."
+    ],
+    "competitors": [
+        {
+            "name": "Wealthy",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "IndMoney",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "The Motley Fool",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "Seeking Alpha",
+            "domain": "Unable to verify"
+        }
+    ],
+    "current_problems_struggling_with": [],
+    "differentiators": [],
+    "user_complaints": [],
+    "strategic_moves": [],
+    "regulatory_and_legal_issues": [],
+    "recent_partnerships_and_integrations": [],
+    "market_sentiment": {},
+    "new_features_launched": [],
+    "other_crucial_details": [],
+    "_phase_b_note": "Phase B (deep analysis) failed — all models exhausted."
+}

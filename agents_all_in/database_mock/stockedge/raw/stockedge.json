@@ -1,0 +1,334 @@
+{
+    "company_name": "StockEdge",
+    "domain": "https://univest.in/",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN",
+    "appstore_link": "https://apps.apple.com/in/app/stockedge-stock-market-app/id1147040716",
+    "youtube_official_channel": "https://www.youtube.com/@StockEdge",
+    "linkedin_company_page": "https://in.linkedin.com/company/stockedge",
+    "year_founded": "2016, Kolkata, India",
+    "names_of_founders": [
+        "Vivek Bajaj",
+        "Bipin Kumar Bajaj",
+        "Binay Bajaj",
+        "Vikash Bajaj",
+        "Vinay Pagaria",
+        "Vineet Patawari",
+        "Bajranglal Bajaj",
+        "Sangeeta Bajaj"
+    ],
+    "c-suite_officer": [
+        "Vivek Bajaj - Co-Founder",
+        "Vinay Pagaria - Co-Founder, Head of Data and Research",
+        "Vineet Patawari - Co-Founder & CEO, Business Development"
+    ],
+    "employee_count": "114 as on Aug 31, 2025",
+    "exact_hq_location": "J-1/14, Block - EP and GP, 9th Floor, Sector V Saltlake City, Kolkata, West Bengal 700091, India",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Online platform for financial market data, stock market analytics, research tool for equity and mutual funds, designed for Swing Traders, Momentum Investors, and Long-Term Investors",
+    "available_platforms": "Both",
+    "funding_raised": "$1.61M",
+    "funding_stage": "Seed",
+    "no_of_users": "Unable to verify",
+    "annual_revenue": "₹33.3Cr as on Mar 31, 2025",
+    "key_positioning": "SEBI-regulated stock market analytics platform empowering users with self-research tools for fundamental, technical, and derivatives analysis in a simple framework",
+    "revenue_model": "Subscription-based premium plans",
+    "pricing_tiers": [
+        "Premium: ₹399/month or ₹2,999/year",
+        "Pro: ₹1,499/month or ₹11,989/year",
+        "Club: ₹2,499/month or ₹23,989/year"
+    ],
+    "target_customer_segments": [
+        "Swing Traders",
+        "Momentum Investors",
+        "Long-Term Investors",
+        "Self-directed Traders",
+        "Retail Investors"
+    ],
+    "tech_stack_highlights": [
+        "AI-driven chart patterns",
+        "Big data analytics",
+        "Robotic framework for data analysis"
+    ],
+    "milestones": [
+        "Founded in 2016",
+        "First funding round in Oct 2018",
+        "Latest Seed funding round on Jul 06, 2021",
+        "Launched StockEdge Club",
+        "Launched StockEdge Investment Smallcases (Sep 2025)"
+    ],
+    "new_features_launched": [
+        "Launched All-New Fundamental Score (Recent - within past year)",
+        "Launched StockEdge Plus (Recent - within past year)",
+        "Released StockEdge Version 14.0 (5 months ago)",
+        "Released StockEdge Version 13.3 (7 months ago)",
+        "Released StockEdge Version 13.2 (8 months ago)",
+        "Released StockEdge Version 13.0 (1 year ago)",
+        "Introduced Capital Deployment Indicator (Apr 2026)",
+        "Introduced New Learn Section (Apr 2026)"
+    ],
+    "recent_partnerships_and_integrations": [
+        {
+            "partner": "Kotak Securities",
+            "type": "Investment",
+            "description": "Kotak Securities is an institutional investor in StockEdge.",
+            "source": "https://tracxn.com/d/companies/stockedge",
+            "date": "2021-07-06"
+        },
+        {
+            "partner": "Kotak Securities",
+            "type": "Strategic Partnership",
+            "description": "StockEdge Investment Smallcases are powered by Kotak, offering a platform to open Kotak accounts.",
+            "source": "https://www.youtube.com/watch?v=kL-3t3S4sYc",
+            "date": "2025-09-01"
+        },
+        {
+            "partner": "Smallcase",
+            "type": "Integration",
+            "description": "StockEdge launched 'StockEdge Investment Smallcases', indicating an integration with the Smallcase platform for curated portfolios.",
+            "source": "https://www.youtube.com/watch?v=kL-3t3S4sYc",
+            "date": "2025-09-01"
+        }
+    ],
+    "competitors": [
+        {
+            "name": "The Motley Fool",
+            "domain": "fool.com"
+        },
+        {
+            "name": "Seeking Alpha",
+            "domain": "seekingalpha.com"
+        },
+        {
+            "name": "Tickertape",
+            "domain": "tickertape.in"
+        },
+        {
+            "name": "Trendlyne",
+            "domain": "trendlyne.com"
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Launched All-New Fundamental Score and StockEdge Plus to enhance research and user experience.",
+            "user_type": "All users",
+            "frequency": "Recent",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH54mzwkJYsab5-02G40UGES8zs25gyz3yfAnp7CJzcKb_n1v-OS_NdtV8gTx8Tt-77PWuBfMFBAjx_EFtX6-aBbvkpVFP4V7mUQwMDNKCV4eQ7wp_kGclPY1l82fsz_jivSFwQcE6jaMr2mNaz5Yhh5wusnPRVkEHTUKakfuIjPZutJ070hbX9PxCJXlFKcA-C",
+            "date": "Recent",
+            "effect": [
+                "Improves the depth of fundamental analysis available to users and offers a new premium tier."
+            ]
+        },
+        {
+            "move": "Regular release of new versions (e.g., v14.0, v13.3, v11.5, v9.0, v6.1) with advanced features and analytics.",
+            "user_type": "All users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH54mzwkJYsab5-02G40UGES8zs25gyz3yfAnp7CJzcKb_n1v-OS_NdtV8gTx8Tt-77PWuBfMFBAjx_EFtX6-aBbvkpVFP4V7mUQwMDNKCV4eQ7wp_kGclPY1l82fsz_jivSFwQcE6jaMr2mNaz5Yhh5wusnPRVkEHTUKakfuIjPZutJ070hbX9PxCJXlFKcA-C, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCVNMivqY2YkzGhtOwKXAixCMe0VW-BXg-X2R45Tbmf1PZUecyHq9U3jtByyBOChApaB1n8Voj06uvv9H-FITAJO3zCjlf1e8VZHgngUicUUDm0pIvC54fhO6_TvUkrVomQM5gXHaXBZvElcI/, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKMaAfxw47pdybqnmN6AV6iNluolZIb8J0v26hIyuBTfal_54nQ8Kp6ZZmyL44ok2Oh_6sZG3ZxF6mnJTmGPzGPgOEcqRzY5DQsTP50B1QH20Y8JDpunvJ6aaCuDIpLoXQMM5dKlStJ8xpi5lI/, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2sfLi21zewGbB_42WPXwORtDutJAcz-KoN9_ikLduzt99ohyFFjvzKaRbwHnTb5cdXirG8mhuwIOmgfKZUiJ8NRrqfknoXBjO7U-q5qJkMXaENmx8VWubWqA2LetSY_nU659SSz1tHTGmMZw==",
+            "date": "Recent",
+            "effect": [
+                "Keeps the platform competitive and valuable by regularly adding new tools for analysis, such as chart patterns, improved scans, and market breadth data."
+            ]
+        },
+        {
+            "move": "Partnering with Elearnmarkets for financial learning resources and becoming an analytics partner for 'India's Future Investors'.",
+            "user_type": "Beginner Investors, Retail Investors",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkRy0d0upgdPDBEhg5lXptk3zPFi_qzdBqoiIkYzS_5cZw3lQEkJ9Ly7CFBNAVcNhOWCdkJSIg-gmnDo_aAPG9I1647-pBd75Sme3K1AVPlSmw1e7YsA==",
+            "date": "Recent",
+            "effect": [
+                "Expands reach, promotes financial literacy, and positions StockEdge as a key player in investment education."
+            ]
+        },
+        {
+            "move": "Integration with major stock exchanges (NSE, BSE) for direct data and brokerage platforms (Zerodha, Angel One).",
+            "user_type": "All users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Ensures reliable data and facilitates a seamless transition from research to trade execution for users."
+            ]
+        }
+    ],
+    "market_sentiment": {
+        "overall": "Positive",
+        "analyst_view": "Analysts and reviewers generally view StockEdge as a comprehensive and highly useful tool for Indian stock market research, especially for beginners and swing traders. They highlight its ability to simplify complex data into actionable insights.",
+        "user_community_view": "User communities like Reddit and review sites show largely positive sentiment, praising its features and time-saving capabilities. However, there are occasional complaints about customer service and specific technical issues.",
+        "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiENnUBs1NJaEAv_VACCF-Ml6ElQFVDJ1Ro1x07B3bPdrzF9SgHd0bAp0aOtdmeWhaiDvLTGDW8FjkQMIOPD-gBuxUWNv8WrTQe8dkd_PFbuaoTUjk13m5CTmeshsqHzEzf7VMpLR2FtsfHqwUbL-yDIDs7QIyRaUNbDKqvNpThiA-Nsm1tJIb8St99Cp4YiGsNaa-BEonJ78m8NLObDVHjzIOmOcoFZ19rE93SwIXy6lye4VLd7gzrgHenvWqmeklhmIx7utT_cg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXFdzU7t0ANDV81SoVbQI6nKA3pJGsM8G_OyXXbJJfnjp8Hto2T31LvrBevZWZwvMCdMLAnuxxkftkRC1Kn8-Xt32Sq0ti7tWaVF_dVtoAlE_d_c9G3ev5-Ivk3ELF-1TbqpAJHeApNzbr, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdmpuYvqqG6LQQ8nWKX0UK9s74w_B6h7ffYd1buX8OHp6p0vE4rI4LBwEoK0dqxFR-u9vWb4yqDF5TetUpz3BU4XPEO8k1P2ntv2dxWG5nakaAsv2g_dTFBAIOWfyi51owsqgIzqjSBwM-TBruFLE_yKoQX5KBqvow09oXIJnd3A1zHWMR-dhx1egAhUebiPCKu3lwVJKL2br7lerARD8EGxaLhov6Q==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrSCzkoZ3gz3NDhcy5-CG2Q_NZZ9GKopWS5UCpbOs58GLcPA4qdcE2iO-iW01-p5SmglWZBmMJX8kvcHMa0BAfDmnUGxEQcYhO6pJ8HYa0ZfuyFG-jCuBrx5kZ1cmmOdRkGzgFl29FAkTmOkGlUi5GL10rBNT_JFEdOrszQrN9LU==",
+        "date": "April 16 2026"
+    },
+    "user_complaints": [
+        {
+            "issue": "Frequent and intrusive calls/messages from customer support, perceived as excessive and annoying.",
+            "user_type": "All users",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Causes user frustration and negatively impacts the customer service experience."
+            ]
+        },
+        {
+            "issue": "Anonymous calls from support team asking for additional payments for scanner accuracy.",
+            "user_type": "Subscribed Users",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Raises concerns about ethical practices and transparency, potentially leading to distrust."
+            ]
+        },
+        {
+            "issue": "Difficulty in obtaining refunds for subscriptions and unhelpful customer service in refund process.",
+            "user_type": "Subscribed Users",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuN6B-e0_4xY6T6Lq8TYiZlx8DLL_PpQ5Zu0wt5UgP6iUVljzrmvow3WSzZVXiNk9O7wauKBs7HkFK16wI-iJmhfP28RoX_A4I5sfdEQ16P3edFCG4WW4VwMpY_jxQetC5VvgQlsg9nDxELDzRXibVbizaoJ8L8h8ogeppvvySE2Uw9cgPcv8Hx5GdSa20ZF_FoyZtD8B4xCXfzmdljM23",
+            "date": "April 19 2024",
+            "effect": [
+                "Financial loss and negative sentiment towards the company's integrity and customer support."
+            ]
+        },
+        {
+            "issue": "Misleading information from call center regarding the daily update time of trading strategies on the app.",
+            "user_type": "Subscribed Users",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuN6B-e0_4xY6T6Lq8TYiZlx8DLL_PpQ5Zu0wt5UgP6iUVljzrmvow3WSzZVXiNk9O7wauKBs7HkFK16wI-iJmhfP28RoX_A4I5sfdEQ16P3edFCG4WW4VwMpY_jxQetC5VvgQlsg9nDxELDzRXibVbizaoJ8L8h8ogeppvvySE2Uw9cgPcv8Hx5GdSa20ZF_FoyZtD8B4xCXfzmdljM23",
+            "date": "April 19 2024",
+            "effect": [
+                "Causes users to miss trading opportunities or make decisions based on incorrect expectations."
+            ]
+        },
+        {
+            "issue": "Charting features are considered basic compared to dedicated charting platforms like TradingView.",
+            "user_type": "Traders, Technical Analysts",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc0C5yollnzxURhm0SADE4o8Z_bcJP6bYekBH-daoCbCF-JfWh_RI5Fqgeh7LfMamzCCnPRcUHXeZqzg0B244tPVh4bTJ-W754wxvK7F7bmsFCDv-twdjvZSnhPhGeJf5Yz-uco14YuaOlibpgHeYjNn4gvtBLUZkmSA9OPitisgnRH7gnCh81suicf6xsElgbLedlE86aqCQqFeSpkiNQauTCyI9z",
+            "date": "October 26 2025",
+            "effect": [
+                "Advanced traders may need to use external tools for in-depth technical analysis, impacting workflow."
+            ]
+        },
+        {
+            "issue": "Lack of live price updates, which is a crucial feature for active traders.",
+            "user_type": "Active Traders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrSCzkoZ3gz3NDhcy5-CG2Q_NZZ9GKopWS5UCpbOs58GLcPA4qdcE2iO-iW01-p5SmglWZBmMJX8kvcHMa0BAfDmnUGxEQcYhO6pJ8HYa0ZfuyFG-jCuBrx5kZ1cmmOdRkGzgFl29FAkTmOkGlUi5GL10rBNT_JFEdOrszQrN9LU==",
+            "date": "January 20 2026",
+            "effect": [
+                "Prevents real-time decision-making, which is critical for short-term trading strategies."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Comprehensive range of scans and filters (500+), including technical, fundamental, F&O, and combination scans.",
+            "user_type": "Swing Traders, Momentum Investors, Long-Term Investors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Enables users to efficiently narrow down stock lists and identify investment opportunities based on various criteria."
+            ]
+        },
+        {
+            "feature": "AI and Human Intelligence-powered Chart Patterns detection, identifying 14 types of patterns with a click.",
+            "user_type": "Traders, Technical Analysts",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCVNMivqY2YkzGhtOwKXAixCMe0VW-BXg-X2R45Tbmf1PZUecyHq9U3jtByyBOChApaB1n8Voj06uvv9H-FITAJO3zCjlf1e8VZHgngUicUUDm0pIvC54fhO6_TvUkrVomQM5gXHaXBZvElcI==",
+            "date": "April 22 2026",
+            "effect": [
+                "Saves significant time for users by automating complex chart pattern identification, aiding in trade discovery."
+            ]
+        },
+        {
+            "feature": "Focus on ready-made insights and curated scans/signals, simplifying complex market data for users, especially beginners.",
+            "user_type": "Beginner Investors, Retail Investors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiENnUBs1NJaEAv_VACCF-Ml6ElQFVDJ1Ro1x07B3bPdrzF9SgHd0bAp0aOtdmeWhaiDvLTGDW8FjkQMIOPD-gBuxUWNv8WrTQe8dkd_PFbuaoTUjk13m5CTmeshsqHzEzf7VMpLR2FtsfHqwUbL-yDIDs7QIyRaUNbDKqvNpThiA-Nsm1tJIb8St99Cp4YiGsNaa-BEonJ78m8NLObDVHjzIOmOcoFZ19rE93SwIXy6lye4VLd7gzrgHenvWqmeklhmIx7utT_cg==",
+            "date": "April 16 2026",
+            "effect": [
+                "Reduces the learning curve and time spent on raw data analysis, making investment research more accessible."
+            ]
+        },
+        {
+            "feature": "Integrated learning resources and a community 'Club' feature where users and experts share knowledge.",
+            "user_type": "All users, particularly beginners",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yPdPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Enhances financial literacy and provides support, fostering a knowledgeable user base."
+            ]
+        }
+    ],
+    "other_crucial_details": [
+        "StockEdge functions solely as an analysis platform, providing data and research tools without handling user funds or acting as a brokerage.",
+        "The platform sources its market data directly from India's primary exchanges, the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE).",
+        "StockEdge emphasizes self-research, providing insights but not investment advice, stressing that user interpretation and action determine profitability."
+    ],
+    "regulatory_and_legal_issues": [
+        {
+            "issue": "Industry-wide regulatory scrutiny on 'finfluencers' and stock gaming apps by SEBI, affecting business models.",
+            "jurisdiction": "India",
+            "status": "Active",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkRy0d0upgdPDBEhg5lXptk3zPFi_qzdBqoiIkYzS_5cZw3lQEkJ9Ly7CFBNAVcNhOWCdkJSIg-gmnDo_aAPG9I1647-pBd75Sme3K1AVPlSmw1e7YsA==",
+            "date": "Recent",
+            "effect": [
+                "Requires StockEdge to adapt its marketing and content strategies to comply with evolving regulations, impacting engagement."
+            ]
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Inconsistency in pattern scan results, requiring users to cross-verify with multiple assessments.",
+            "user_type": "Traders, Investors",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Increases time and effort for analysis, potentially leading to missed opportunities or incorrect decisions if not verified."
+            ]
+        },
+        {
+            "description": "Performance issues reported with the desktop version, making it troublesome for some users.",
+            "user_type": "All users",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "Hinders efficient research and analysis on desktop, pushing users towards the mobile app."
+            ]
+        },
+        {
+            "description": "Users depending too heavily on pre-built scans without understanding market context, leading to poor decision-making.",
+            "user_type": "Beginner Investors, Swing Traders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiENnUBs1NJaEAv_VACCF-Ml6ElQFVDJ1Ro1x07B3bPdrzF9SgHd0bAp0aOtdmeWhaiDvLTGDW8FjkQMIOPD-gBuxUWNv8WrTQe8dkd_PFbuaoTUjk13m5CTmeshsqHzEzf7VMpLR2FtsfHqwUbL-yDIDs7QIyRaUNbDKqvNpThiA-Nsm1tJIb8St99Cp4YiGsNaa-BEonJ78m8NLObDVHjzIOmOcoFZ19rE93SwIXy6lye4VLd7gzrgHenvWqmeklhmIx7utT_cg==",
+            "date": "April 16 2026",
+            "effect": [
+                "Users may make unprofitable trades or investments if they solely rely on signals without proper market knowledge."
+            ]
+        },
+        {
+            "description": "Limited customization options compared to more advanced trading platforms, which might deter experienced traders.",
+            "user_type": "Experienced Traders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiENnUBs1NJaEAv_VACCF-Ml6ElQFVDJ1Ro1x07B3bPdrzF9SgHd0bAp0aOtdmeWhaiDvLTGDW8FjkQMIOPD-gBuxUWNv8WrTQe8dkd_PFbuaoTUjk13m5CTmeshsqHzEzf7VMpLR2FtsfHqwUbL-yDIDs7QIyRaUNbDKqvNpThiA-Nsm1tJIb8St99Cp4YiGsNaa-BEonJ78m8NLObDVHjzIOmOcoFZ19rE93SwIXy6lye4VLd7gzrgHenvWqmeklhmIx7utT_cg==",
+            "date": "April 16 2026",
+            "effect": [
+                "May lead advanced users to seek alternative platforms for complex, personalized strategies."
+            ]
+        },
+        {
+            "description": "Steep learning curve for beginners due to the extensive amount of data and features, despite available resources.",
+            "user_type": "Beginner Investors",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHro3-fqBIUHWCSnyPpWjvzJNWRb0UJVfeyga189yDPic_i9OZe_bcQte3-RlDAdswvTIziOlYPqRMm3AFleqXfbkJ3ZBwbNewrkNCGSmf68YHK_58m92P6G772viKSp4GmvNxssw==",
+            "date": "January 14 2026",
+            "effect": [
+                "New users might feel overwhelmed and struggle to utilize the platform effectively, leading to frustration."
+            ]
+        }
+    ]
+}

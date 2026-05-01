@@ -1,0 +1,40 @@
+Enter file path: unacademy
+============================================================
+  AGENT 1: INTELLIGENCE GATHERING SETUP
+============================================================
+Enter Project/Company Name (Mandatory): unacademy
+Enter Domain for unacademy (Optional, press Enter to skip): https://unacademy.com/
+Enter Play Store App ID (e.g., com.nextbillion.groww) (Optional): https://play.google.com/store/apps/details?id=com.unacademyapp&hl=en_IN
+Enter App Store App ID (e.g., 1434524388) (Optional): https://apps.apple.com/in/app/unacademy-learner-app/id1342565069
+Enter Reddit Search Query or Subreddit (Optional): r/JEE
+Enter YouTube Search Query (Optional): https://www.youtube.com/@unacademy
+Enter path to Internal Transcripts folder/file (Optional): unacademy.txt
+
+[INFO] Launching Orchestrator with payload:
+{
+  "project_name": "unacademy",
+  "domain": "https://unacademy.com/",
+  "play_store": {
+    "link_or_id": "https://play.google.com/store/apps/details?id=com.unacademyapp&hl=en_IN",
+    "reviews_count": 50
+  },
+  "app_store": {
+    "link_or_id": "https://apps.apple.com/in/app/unacademy-learner-app/id1342565069",
+    "reviews_count": 50
+  },
+  "reddit": {
+    "query_or_subreddit": "r/JEE",
+    "mode": "search",
+    "limit": 5
+  },
+  "youtube": {
+    "mode": "search",
+    "query": "https://www.youtube.com/@unacademy",
+    "count": 3
+  },
+  "transcripts": {
+    "input_path": "unacademy.txt"
+  }
+}
+
+🚀 [AGENT 1] Starting Intelligence Gathering for: UNACADEMY

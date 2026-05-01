@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "source_file": "univest_transcript.txt",
+    "source_type": "Internal",
+    "entity": "Univest Transcript",
+    "meeting_type": "Internal Meeting",
+    "file_date": "2026-05-01",
+    "processed_at": "2026-05-01T05:04:29.288719+00:00",
+    "classifier_used": "hybrid",
+    "total_signals": 27
+  },
+  "signals": [
+    {
+      "signal_id": "UT_001",
+      "signal_type": "Trend",
+      "confidence": 0.95,
+      "content": "00:00 Arjun: Welcome everyone. Let us dive right into the new TradeZapp execution pipeline. Our main goal today is to review how we are reducing trade execution latency for our retail users. Priya, please update us on the infrastructure side.",
+      "time_range": null,
+      "turn_index": 0
+    },
+    {
+      "signal_id": "UT_002",
+      "signal_type": "Feature",
+      "confidence": 0.71,
+      "content": "01:15 Priya: Thanks Arjun. We completed the core API bridge yesterday. Our system now natively links the SEBI registered research signals directly to the broker execution layer. This completely removes the manual translation layer that used to slow down our users.",
+      "time_range": null,
+      "turn_index": 1
+    },
+    {
+      "signal_id": "UT_003",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "03:30 Rahul: That is a massive win for the quantitative team. Our AI models generate precise entry and exit signals based on volatility patterns and Options Greeks. Previously retail traders hesitated or made manual errors when trying to copy these signals into their trading accounts.",
+      "time_range": null,
+      "turn_index": 2
+    },
+    {
+      "signal_id": "UT_004",
+      "signal_type": "Feature",
+      "confidence": 0.95,
+      "content": "05:45 Neha: The user experience is much cleaner now because of this. When Rahul sends a signal from the research side, it appears on the user dashboard instantly. The user sees their available capital and risk metrics on one single screen. They just tap once to confirm the algorithmic trade.",
+      "time_range": null,
+      "turn_index": 3
+    },
+    {
+      "signal_id": "UT_005",
+      "signal_type": "Feature",
+      "confidence": 0.74,
+      "content": "07:20 Arjun: How is the system handling the high frequency data payloads? We need to ensure the Golden Crossover and daily breakout screeners do not lag during peak market hours.",
+      "time_range": null,
+      "turn_index": 4
+    },
+    {
+      "signal_id": "UT_006",
+      "signal_type": "Trend",
+      "confidence": 0.95,
+      "content": "09:10 Priya: We separated the data pipelines to solve that. The AI trend analyzer runs on a dedicated server cluster. It processes the fundamental data and sector trends independently. Once a stock hits the predefined target or stop loss, the system generates a structured JSON payload.",
+      "time_range": null,
+      "turn_index": 5
+    },
+    {
+      "signal_id": "UT_007",
+      "signal_type": "Trend",
+      "confidence": 0.71,
+      "content": "11:05 Rahul: Exactly. That payload contains the exact position size recommendation. We calculate this dynamically based on the specific risk profile of the user. For Futures and Options traders, the algorithm also calculates the required upfront margin in real time.",
+      "time_range": null,
+      "turn_index": 6
+    },
+    {
+      "signal_id": "UT_008",
+      "signal_type": "Feature",
+      "confidence": 0.95,
+      "content": "13:30 Arjun: That sounds solid. Neha, how are the premium users reacting to the new interface? I am especially curious about the Pro Gold and Pro Super subscribers who use the automated baskets.",
+      "time_range": null,
+      "turn_index": 7
+    },
+    {
+      "signal_id": "UT_009",
+      "signal_type": "Trend",
+      "confidence": 0.71,
+      "content": "15:15 Neha: The early feedback is highly positive. We removed a lot of screen clutter recently. The old design had too many trade cards and marketing text on the first screen. We simplified the typography and made the primary action buttons very obvious.",
+      "time_range": null,
+      "turn_index": 8
+    },
+    {
+      "signal_id": "UT_010",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "16:40 Priya: We also fixed the onboarding latency. Users can now complete their KYC process using Google autofill. We reduced the sign up time by half. Once their PAN and Aadhaar details are verified, their demat account activates automatically within hours.",
+      "time_range": null,
+      "turn_index": 9
+    },
+    {
+      "signal_id": "UT_011",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "17:50 Arjun: What about the zero brokerage equity delivery routing? Is the pricing logic working correctly at the execution layer to ensure accurate billing?",
+      "time_range": null,
+      "turn_index": 10
+    },
+    {
+      "signal_id": "UT_012",
+      "signal_type": "Feature",
+      "confidence": 0.95,
+      "content": "18:30 Priya: Yes it is. The billing engine verifies the trade segment before execution. If it is an equity delivery trade, the system applies the zero brokerage rule. For commodity trades on the MCX bridge, it applies the standard regulatory charges.",
+      "time_range": null,
+      "turn_index": 11
+    },
+    {
+      "signal_id": "UT_013",
+      "signal_type": "Trend",
+      "confidence": 0.95,
+      "content": "19:15 Rahul: We also implemented strict compliance checks across all these automated trades. Every trade idea includes a clear rationale and risk parameters. We encrypt all user transaction data to stay fully compliant with SEBI regulations.",
+      "time_range": null,
+      "turn_index": 12
+    },
+    {
+      "signal_id": "UT_014",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "22:15 Neha: Let us move to the subscription models. The Pro Super tier needs a smoother payment flow. We are seeing some drop offs on the UPI mandate authorization page.",
+      "time_range": null,
+      "turn_index": 13
+    },
+    {
+      "signal_id": "UT_015",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "25:30 Priya: We are working with the payment gateway team on that. We will implement their new mandate API next week. This should reduce the authentication steps from three down to one.",
+      "time_range": null,
+      "turn_index": 14
+    },
+    {
+      "signal_id": "UT_016",
+      "signal_type": "Trend",
+      "confidence": 0.72,
+      "content": "28:45 Rahul: That will help a lot. The algorithmic trading baskets are restricted to Pro Super users right now. If the payment fails they miss out on time sensitive market entries.",
+      "time_range": null,
+      "turn_index": 15
+    },
+    {
+      "signal_id": "UT_017",
+      "signal_type": "Complaint",
+      "confidence": 0.68,
+      "content": "31:10 Arjun: Exactly. We cannot have payment latency affecting trade execution. Let us also discuss the stock screener database. How are we handling the real time corporate actions?",
+      "time_range": null,
+      "turn_index": 16
+    },
+    {
+      "signal_id": "UT_018",
+      "signal_type": "Feature",
+      "confidence": 0.73,
+      "content": "34:20 Priya: We moved the corporate actions to a Kafka event stream. When a company announces a dividend or stock split our data provider pushes an event. Our system recalculates the historical charts instantly.",
+      "time_range": null,
+      "turn_index": 17
+    },
+    {
+      "signal_id": "UT_019",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "37:40 Rahul: This is crucial for our valuation models. The price to earnings ratio needs to reflect the new share count immediately. Otherwise our AI will generate false breakout signals.",
+      "time_range": null,
+      "turn_index": 18
+    },
+    {
+      "signal_id": "UT_020",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "40:15 Neha: From the user side we added a small notification bubble for these events. If a user holds a stock that declares a dividend they see an alert on their portfolio page.",
+      "time_range": null,
+      "turn_index": 19
+    },
+    {
+      "signal_id": "UT_021",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "43:30 Arjun: That is a great addition Neha. What is the status of the referral engine? I know we wanted to gamify the reward points.",
+      "time_range": null,
+      "turn_index": 20
+    },
+    {
+      "signal_id": "UT_022",
+      "signal_type": "Feature",
+      "confidence": 0.71,
+      "content": "46:50 Priya: The backend for the Univest Coin ledger is ready. We used a distributed database to ensure there are no double spending issues. When a referred user completes their first trade the system credits both accounts instantly.",
+      "time_range": null,
+      "turn_index": 21
+    },
+    {
+      "signal_id": "UT_023",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "49:15 Rahul: We are also tracking the quality of these referrals. The analytics team built a model to predict the lifetime value of users coming through this channel.",
+      "time_range": null,
+      "turn_index": 22
+    },
+    {
+      "signal_id": "UT_024",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "52:30 Neha: I updated the UI to show a leaderboard. Users can see their rank based on how many successful referrals they made. This should drive more organic growth.",
+      "time_range": null,
+      "turn_index": 23
+    },
+    {
+      "signal_id": "UT_025",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "55:40 Arjun: Perfect. Before we wrap up we need to look at our server costs. The cloud bills are creeping up with all this new real time processing.",
+      "time_range": null,
+      "turn_index": 24
+    },
+    {
+      "signal_id": "UT_026",
+      "signal_type": "Insight",
+      "confidence": 0.6,
+      "content": "58:10 Priya: We are migrating some of the heavy data crunching to spot instances. This will cut the processing costs by forty percent without affecting the live trading infrastructure.",
+      "time_range": null,
+      "turn_index": 25
+    },
+    {
+      "signal_id": "UT_027",
+      "signal_type": "Trend",
+      "confidence": 0.72,
+      "content": "60:00 Arjun: Excellent plan. Let us review the spot instance performance next week. Thanks everyone for the updates. Have a great day ahead.",
+      "time_range": null,
+      "turn_index": 26
+    }
+  ]
+}

@@ -1,0 +1,1795 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-05-01T02:39:22.475644",
+    "extraction_time_seconds": 4.12,
+    "fields_extracted": 32,
+    "country": "in",
+    "reviews_distribution": {
+      "1": 60,
+      "2": 60,
+      "3": 60,
+      "4": 60,
+      "5": 60
+    },
+    "total_reviews_extracted": 188,
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 1066284206,
+      "trackName": "StockEdge: Stock Market App",
+      "bundleId": "in.stockedge.app",
+      "trackViewUrl": "https://apps.apple.com/in/app/stockedge-stock-market-app/id1066284206?uo=4",
+      "artistId": 1312846512,
+      "artistName": "StockEdge Fintech Private Limited",
+      "artistViewUrl": "https://apps.apple.com/in/developer/stockedge-fintech-private-limited/id1312846512?uo=4",
+      "sellerName": "StockEdge Fintech Private Limited",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "genres": [
+        "Finance"
+      ],
+      "genreIds": [
+        "6015"
+      ],
+      "averageUserRating": 4.69611,
+      "userRatingCount": 10201,
+      "averageUserRatingForCurrentVersion": 4.69611,
+      "userRatingCountForCurrentVersion": 10201,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "INR",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "14.2.14",
+      "releaseNotes": "1) Stock's Fundamental Score.\n2) General Enhancements.\n3) Bug Fixes.",
+      "releaseDate": "2016-05-20T06:08:37Z",
+      "currentVersionReleaseDate": "2026-04-24T22:43:03Z",
+      "description": "StockEdge is a stock market app best suited for Swing Traders, Momentum Investors, and Long-Term Investors. Access NSE, BSE data, Stock analysis tools, stock screeners, sector and industry-level analytics. The app also provides a personalized investment dashboard for portfolio tracking and a comprehensive mutual fund section.\n\n\nMarket Dashboard\n\n• Indices: Track performance of Nifty 50, Bank Nifty, Sensex, Nifty IT, Nifty Pharma, Nifty Metal, and all other market indices from NSE and BSE.\n\n•Trending Stocks: Monitor daily top gainers, top losers, high-volume stocks, 52-week high-low, and all-time high-low stocks, with price updates every minute.\n\n• News: Stay informed with stock market news, updates on sectors, industries, and stocks.\n\n• FII-DII Activity: Analyze FII-DII data in cash, futures, options.\n\n• Deals: Track bulk deals, block deals, insider and SAST deals.\n\n• Market Events: Stay updated on corporate actions, results, bonus issues, dividends, stock splits, and more.\n\n• Sectors:",
+      "shortDescription": "",
+      "minimumOsVersion": "15.0",
+      "fileSizeBytes": 83348480,
+      "contentAdvisoryRating": "17+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/22/ff/8622ff4e-547e-5324-f8d3-a6836e254a35/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/22/ff/8622ff4e-547e-5324-f8d3-a6836e254a35/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/22/ff/8622ff4e-547e-5324-f8d3-a6836e254a35/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "kind": "software",
+      "trackCensoredName": "StockEdge: Stock Market App",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [
+      {
+        "id": "14000743975",
+        "author": "Bikram_Singh",
+        "rating": 1,
+        "title": "Unable to play video in iPhone Mobile Application",
+        "content": "It has been 4 months since I purchased the subscription for this app, and I am still unable to play videos on the iPhone mobile app. A support ticket has already been created, but there has been no progress in resolving the issue",
+        "date": "2026-04-26T17:28:50-07:00",
+        "version": "14.2.14"
+      },
+      {
+        "id": "13955265295",
+        "author": "NKN12345",
+        "rating": 1,
+        "title": "Hopeless",
+        "content": "Not good",
+        "date": "2026-04-13T16:58:34-07:00",
+        "version": "14.1.20"
+      },
+      {
+        "id": "13837356096",
+        "author": "Icici hater",
+        "rating": 1,
+        "title": "login issue",
+        "content": "This is first every app which gets log out for nonreason",
+        "date": "2026-03-11T09:24:36-07:00",
+        "version": "14.0.41"
+      },
+      {
+        "id": "13792351713",
+        "author": "Tahir11083",
+        "rating": 1,
+        "title": "Why KYC mandatory? Just to check stock fundamentals?",
+        "content": "I was just using this app for learning stock fundamentals and not investing and bought premium package to study. It’s asking for KYC and that too photo, signature and all. Why the hell I should share that with you just to look at stocks fundamentals? There is something fishy with this app.",
+        "date": "2026-02-26T12:00:08-07:00",
+        "version": "14.0.41"
+      },
+      {
+        "id": "13748401718",
+        "author": "r744603",
+        "rating": 1,
+        "title": "Not opening in you tube",
+        "content": "Not opening in you tube",
+        "date": "2026-02-14T06:28:11-07:00",
+        "version": "14.0.38"
+      },
+      {
+        "id": "13739930131",
+        "author": "TheJudge 🫵🏼",
+        "rating": 1,
+        "title": "Super buggy app",
+        "content": "Not able to login in my iPhone even though I purchased a subscription. I cannot see login option",
+        "date": "2026-02-11T20:38:55-07:00",
+        "version": "14.0.38"
+      },
+      {
+        "id": "13727249162",
+        "author": "Udgar jha",
+        "rating": 1,
+        "title": "Review",
+        "content": "App opened and immediately you want review",
+        "date": "2026-02-08T07:50:53-07:00",
+        "version": "14.0.38"
+      },
+      {
+        "id": "13655049975",
+        "author": "Sanjay Tamhankar",
+        "rating": 1,
+        "title": "Bad payment link to user status",
+        "content": "After having made the payment still showing as guest",
+        "date": "2026-01-20T03:56:38-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13147427549",
+        "author": "Milind2011",
+        "rating": 1,
+        "title": "Poor customer support",
+        "content": "Since 2 days StockEdge not working in my mobile. Showing error that Internet not available : all other apps are working fine. Lodged complaint with StockEdge but no response",
+        "date": "2025-09-17T00:15:59-07:00",
+        "version": "13.3.8"
+      },
+      {
+        "id": "13007555998",
+        "author": "Kien 2020",
+        "rating": 1,
+        "title": "User interface",
+        "content": "The user interface is obsolete. Please look at the Liquide app, it is so smooth and many features",
+        "date": "2025-08-12T10:18:18-07:00",
+        "version": "13.2.24"
+      },
+      {
+        "id": "12839526596",
+        "author": "PKSPuneet",
+        "rating": 1,
+        "title": "Privacy issues with Stockedge",
+        "content": "The privacy issues with @mystockedge and @vivbajaj are extremely concerning. As soon as you begin using the app, you're bombarded with relentless calls, SMS, WhatsApp messages, and emails. I was considering their plan, but their aggressive tactics—worse than even Bajaj Finance—made me reconsider. Such shady business practices should be avoided at all costs. People need to be aware of this harassment and stay away from such fraudulent behavior. The company blatantly violates privacy norms, misusing personal data without any safeguards. Dear Apple AppStore this is a serious violation that needs investigation.",
+        "date": "2025-07-01T07:34:29-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12672943207",
+        "author": "harikrishna kamma",
+        "rating": 1,
+        "title": "Account issues",
+        "content": "Unable to create a new account with a previously deleted mail id.",
+        "date": "2025-05-19T02:33:00-07:00",
+        "version": "13.0.7"
+      },
+      {
+        "id": "12212322990",
+        "author": "Luv sunny",
+        "rating": 1,
+        "title": "👌👌👌",
+        "content": "incrediable",
+        "date": "2025-01-21T08:41:13-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12154653701",
+        "author": "SaurShar",
+        "rating": 1,
+        "title": "No need to Play Club",
+        "content": "Club is too much faff available in Rs. 200 apps elsewhere. \nThey are happy marketing it saying you’ll be treated well but not even Vivek responds to queries. And none else have any idea! \nBadly trained teams! Careless to customer service. \nThe app carries too much data with no head or tail. It’s essentially the market itself. \nGiven my work schedule, I find extremely limited use of so much information. Seems like a big waste of money currently unless someone tells where to start n figure things out. \nTheir well meaning delight officers also try n share the same information that one can already see. \nI believe now, I was much better off watching Vivek’s videos that was a wonderful experience which prompted me to take the subscription.",
+        "date": "2025-01-06T22:47:16-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "11925672745",
+        "author": "shtrughan",
+        "rating": 1,
+        "title": "Pathetic",
+        "content": "I subscribed it still keep sending messages about to upgrade. If you guys want to sell that then you shouldn’t offer cheap offers at first place. Some features I can access but some i can’t.  May be you guys are the genius of stock market but lalchee as well",
+        "date": "2024-11-08T01:29:31-07:00",
+        "version": "12.0.53"
+      },
+      {
+        "id": "11785463303",
+        "author": "Panwar05",
+        "rating": 1,
+        "title": "Multiple subscription option",
+        "content": "They have so confusing subscription plan, you subscribe to one plan than other comes up and your functionality will be limited. They are just making fool.",
+        "date": "2024-10-01T07:46:55-07:00",
+        "version": "11.7.2"
+      },
+      {
+        "id": "11660763830",
+        "author": "Coolawesomedude2601",
+        "rating": 1,
+        "title": "Unstable Unreliable App",
+        "content": "Keep showing error unable to connect everytime even for paid subscription. Highly not recommended for anyone planning to purchase paid service.",
+        "date": "2024-08-27T19:50:11-07:00",
+        "version": "11.7.2"
+      },
+      {
+        "id": "11324948552",
+        "author": "nav1236",
+        "rating": 1,
+        "title": "Dont buy Pro..it has nothing to offer over Premium",
+        "content": "Everything in Pro is hidden behind a paywall.u are made aware everyday that you have to buy Club.Then why to have a tier call Pro.Wastage of money",
+        "date": "2024-05-30T13:03:55-07:00",
+        "version": "11.7.2"
+      },
+      {
+        "id": "11176659729",
+        "author": "Abhishek Kr Tyagi",
+        "rating": 1,
+        "title": "Feeling like I have been Cheated",
+        "content": "I have subscribed this app on 17 Apr 2024 for one year.  During subscription, a person from stock edge call centre was with me on call.  He had shown me a demo of one of their trading strategies.  I asked him about the time of updating their strategy on the app.  He told me that they use to update their selection of stocks under various strategy by evening on daily basis.  Then I asked that which evening, is it after markets closed.  He said no, the evening of previous day of trading day I.e. of T-1 day because it will have no meaning if we update it after trades happened.  But now, I am checking since last two days, it is being updated after market is closed and all the moves already passed.  Hence, I am feeling that I have been cheated by them just to make money through subscription.  It was not a big amount but it was my hard earned money.  So I am sure that it will not benefit them but I will not be surprised if I see this app going.  Thanks to give me a realisation that I am a foo",
+        "date": "2024-04-19T04:51:46-07:00",
+        "version": "11.5.10"
+      },
+      {
+        "id": "11135869868",
+        "author": "CAJAINRAVI",
+        "rating": 1,
+        "title": "Pathetic app very poor performance",
+        "content": "I am pro member. Data updation and loading is very very poor. The time which it takes in data loading is very high. This even kills the interest of data watching. Pathetic . Old style. Nonsense app.",
+        "date": "2024-04-08T09:22:08-07:00",
+        "version": "11.4.17"
+      },
+      {
+        "id": "10609719133",
+        "author": "Kalesh Nair 1983",
+        "rating": 1,
+        "title": "Lot of bugs for iOS",
+        "content": "Disappearing of charts, crashing of combo scan page if you start going from script>chart once result is generated. I have raised this multiple times over the Twitter, Tickets no response.",
+        "date": "2023-11-21T09:40:01-07:00",
+        "version": "11.2.12"
+      },
+      {
+        "id": "10229946140",
+        "author": "BodyBoyzz",
+        "rating": 1,
+        "title": "Nothing here for free users",
+        "content": "Nothing here for free users. App has glitches.",
+        "date": "2023-08-07T06:54:57-07:00",
+        "version": "10.0.18"
+      },
+      {
+        "id": "10215894008",
+        "author": "AnuReview",
+        "rating": 1,
+        "title": "Good features but horrible app",
+        "content": "The app has great interface and features. The only problem I had with the app was that it does not allow you to have 2 entries of the same stock purchased on 2 different dates at the see price of that day.\nThe major problem with the app is that it keeps logging you out constantly. Doesn’t let you log in. Keeps saying credentials are wrong. When you click on forgot password, they don’t send the password reset link on registered email id. I had already made accounts twice and had patiently filled up all my data but now again it has signed me out and refuses to let me sign in. \nWon’t be making another account and neither will I recommend this app to anyone.",
+        "date": "2023-08-03T10:49:52-07:00",
+        "version": "10.0.18"
+      },
+      {
+        "id": "9777617079",
+        "author": "E.DAS",
+        "rating": 1,
+        "title": "Terrible app…",
+        "content": "All they know and want is to get money from subscribers. First you pay for subscription for which you get some useless scanners which are available elsewhere for free!\nAnd once you become subscriber, they would keep calling you over phone to lure you to be a ‘pro’ member. Absolutely wastage of money. Scamsters…",
+        "date": "2023-04-01T21:52:37-07:00",
+        "version": "9.0.10"
+      },
+      {
+        "id": "9559134166",
+        "author": "1234viiii",
+        "rating": 1,
+        "title": "They whats app you same massage again and again",
+        "content": "I am paid member of stock edge still they whats app me same massage again and again inspite of saying not interested \nHeight is that they msg there goa conclave today 15 times and still counting same massage again and again",
+        "date": "2023-01-28T23:08:40-07:00",
+        "version": "8.3.3"
+      },
+      {
+        "id": "9541295456",
+        "author": "dgdeep",
+        "rating": 1,
+        "title": "Very poor service nd support",
+        "content": "I hv update my plan from basic to pro plan this is 2nd day plan is not updated. Customer support no. Is not working. And no any satisfactory response on email nd what’s app support.\n\nworst app",
+        "date": "2023-01-23T23:38:07-07:00",
+        "version": "8.3.3"
+      },
+      {
+        "id": "9025575729",
+        "author": "ak76mishra",
+        "rating": 1,
+        "title": "BUG IN THE NEW VERSION",
+        "content": "The new version doesn’t go automatically in landscape mode on iPad. Earlier version was great. Please roll back",
+        "date": "2022-08-28T00:26:17-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "8125780618",
+        "author": "Farid Mansoor",
+        "rating": 1,
+        "title": "Don’t use this App",
+        "content": "Don’t use this App this App give us wrong information about wrong stock..n advice us to invest in wrong stock…strictly don’t use this App….👏🏻👏🏻👏🏻 worst app ever 🙏🏻🙏🏻",
+        "date": "2021-12-13T05:20:27-07:00",
+        "version": "7.1.5"
+      },
+      {
+        "id": "8023254304",
+        "author": "Anunay27",
+        "rating": 1,
+        "title": "Kindly Update Charts",
+        "content": "Though app has tons of information which can be used in various ways. \nBut the main thing that is missing is the Charts, charts are pathetic. You guys need to work on chart along with diff time frames so that it would become more easier for us to read individual stocks through app,instead of switching to any other chart viewing website.",
+        "date": "2021-11-14T05:48:47-07:00",
+        "version": "7.1.5"
+      },
+      {
+        "id": "7682838031",
+        "author": "R_yabhat",
+        "rating": 1,
+        "title": "Suspicious Behaviour",
+        "content": "While the data provided by the app is good, it is better to use the website through browser than the app, because app steals content from clipboard every time it is opened.",
+        "date": "2021-08-11T20:26:38-07:00",
+        "version": "6.2.2"
+      },
+      {
+        "id": "7458626202",
+        "author": "Chintal Thacker",
+        "rating": 1,
+        "title": "After stock search, blank screen",
+        "content": "Hii,\n\nI am unable to see any stock research. Blank screen appears for all stocks. Help...!",
+        "date": "2021-06-12T21:30:14-07:00",
+        "version": "6.0.3"
+      },
+      {
+        "id": "7268108601",
+        "author": "Peter123sam",
+        "rating": 1,
+        "title": "Keeps on spamming your indox",
+        "content": "When you try to unsubscribe from StockEdge s emails you will get the message an error occurred while processing your request.",
+        "date": "2021-04-26T18:22:52-07:00",
+        "version": "6.0.3"
+      },
+      {
+        "id": "7097141241",
+        "author": "Airian007",
+        "rating": 1,
+        "title": "Clipboard Thieves",
+        "content": "It’s a good app en all but why does it copy clipboard data without permission every time the app is launched. THIEVES.",
+        "date": "2021-03-12T23:17:14-07:00",
+        "version": "5.4.1"
+      },
+      {
+        "id": "7091106085",
+        "author": "C989444",
+        "rating": 1,
+        "title": "Wrong plan subscribed",
+        "content": "One year plan got subscribed instead of one month plan. Please consider and refund the amount. Ticket number: 14249",
+        "date": "2021-03-11T07:16:05-07:00",
+        "version": "5.4.1"
+      },
+      {
+        "id": "7017683815",
+        "author": "Eskay28",
+        "rating": 1,
+        "title": "Unethical people",
+        "content": "Money minded people, no ethics. I’m subscriber to this app since 2 years. While renewing they assured they will give support during live market session through telegram. Unfortunately after renewal without any notice they shifted from telegram to their own web based platform. In web based platform every time you’ve to login with user ID, PW. you’ll not get popup messages like telegram app. Even after repeated request they refused to support via telegram. I lost interest on this app, because of negative response. Lost almost 24k which paid for subscriptions & not made any money with this app. They  went on postponing my refund request till expiry of subscription & now refused to renew or refund quoting the reason ur subscription expired. Very unethical people. When u raise grievance every alternate day you will get call from different person to make u frustration.",
+        "date": "2021-02-20T07:04:10-07:00",
+        "version": "5.4.1"
+      },
+      {
+        "id": "6905304210",
+        "author": "Toni1144",
+        "rating": 1,
+        "title": "Search not working on iphone x",
+        "content": "When i search and select it shows blank page and doesn't load at all",
+        "date": "2021-01-23T12:50:05-07:00",
+        "version": "5.4.1"
+      },
+      {
+        "id": "6641088255",
+        "author": "Cancerian 07",
+        "rating": 1,
+        "title": "The iPad version doesn’t showcase StockEdge reports?",
+        "content": "Neither does the iPad nor the iPhone plays the edge reports. Some issue which am not able to comprehend.",
+        "date": "2020-11-13T09:23:09-07:00",
+        "version": "5.2.6"
+      },
+      {
+        "id": "6559928645",
+        "author": "I Love Mobikwik",
+        "rating": 1,
+        "title": "screen becomes white",
+        "content": "Tv pr add dene se kya hoga, kai baar maine socha membership le lu pr app chalate chalate puri screen white ho jati h 5-10 min me fir restart kro, 2 saal se keh rhe h isko sahi kyu nhi krte aap log aur ab touch ka naya issue aa gya h",
+        "date": "2020-10-21T14:45:35-07:00",
+        "version": "5.2.6"
+      },
+      {
+        "id": "6457017885",
+        "author": "milindp4",
+        "rating": 1,
+        "title": "Stealing clipboard data",
+        "content": "Why are you stealing clipboard data. Can’t believe what else can you start collecting without any knowledge of users. I guess you are expecting a huge lawsuit against yourselves soon",
+        "date": "2020-09-22T10:41:57-07:00",
+        "version": "5.2.6"
+      },
+      {
+        "id": "6290892142",
+        "author": "Rahulvks",
+        "rating": 1,
+        "title": "Stop selling webinars",
+        "content": "Stop sending webinar notifications and selling ad.",
+        "date": "2020-08-07T06:26:59-07:00",
+        "version": "5.1.9"
+      },
+      {
+        "id": "6148982084",
+        "author": "iski maka",
+        "rating": 1,
+        "title": "Hopeless app",
+        "content": "You can not see charts unless you pay for it \nWhat a service \nEvery broker/market app are giving charts for free and this app don’t allow you to see chart if you don’t buy premium service \nThey called it as premium service to see chart \nक्यों सी दुनिया में हे ये developer I don't know",
+        "date": "2020-07-02T09:09:37-07:00",
+        "version": "5.1.9"
+      },
+      {
+        "id": "6140850066",
+        "author": "laughs indoors",
+        "rating": 1,
+        "title": "Icon",
+        "content": "Icon not showing...",
+        "date": "2020-06-30T10:39:02-07:00",
+        "version": "5.1.7"
+      },
+      {
+        "id": "6078523185",
+        "author": "sharmaabhishek0478",
+        "rating": 1,
+        "title": "Disappointed!",
+        "content": "Bought the app two weeks back, but disappointed with its application and confused technique and app, Money control beat the app hand down. I have cancelled my subscription, it’s confusing and not user friendly!",
+        "date": "2020-06-15T04:46:35-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5728996209",
+        "author": "rahul286",
+        "rating": 1,
+        "title": "Doesn’t provide option to change email",
+        "content": "I have tons of data with my account and I needed to change my email address. They said, delete account and create new one with other email. And in the process loose all data my paid account has over the years.",
+        "date": "2020-03-28T20:34:36-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5671067087",
+        "author": "Shishir Rastogi",
+        "rating": 1,
+        "title": "App not opening",
+        "content": "I just downloaded the app and it’s not moving forward the welcome screen. Forced shut the app 3-4 times still the same problem exists",
+        "date": "2020-03-16T21:20:41-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5417568487",
+        "author": "shushant singhal",
+        "rating": 1,
+        "title": "Too much bugs and worst customer service",
+        "content": "I approached customer service to report the bug, they didn’t solved my problem and told me that , sir this app is working good in our device. What the... is going.",
+        "date": "2020-01-17T21:26:42-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5320047534",
+        "author": "deniinvestor",
+        "rating": 1,
+        "title": "App not opening in iphone 11 phone",
+        "content": "App is not opening and not showing home page from a long time",
+        "date": "2019-12-25T18:59:00-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5300506395",
+        "author": "Sanket Parekh",
+        "rating": 1,
+        "title": "Not performing on iphone XR",
+        "content": "Not able to open the app in iPhone XR running on the latest version.",
+        "date": "2019-12-21T07:36:54-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5187449504",
+        "author": "Mani Vishwa",
+        "rating": 1,
+        "title": "Fraudulents",
+        "content": "Fraudulents. Amount debited from my account but premium features not activated.",
+        "date": "2019-11-23T09:02:07-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5046257162",
+        "author": "NILMANI",
+        "rating": 1,
+        "title": "Very poor response apps landscape mode not Woking on iPad Pro",
+        "content": "Not working",
+        "date": "2019-10-29T08:44:04-07:00",
+        "version": "4.5.6"
+      },
+      {
+        "id": "4257118843",
+        "author": "Ganesh Deshpnde",
+        "rating": 1,
+        "title": "Same notification more than 25 times??",
+        "content": "This is extremely irritating and pathetic experience that getting same notification more than 25 times..\n\nNo Testing at all..",
+        "date": "2019-06-03T05:01:26-07:00",
+        "version": "4.2.1"
+      },
+      {
+        "id": "4257050305",
+        "author": "Sanjeet sharma",
+        "rating": 1,
+        "title": "Notification error",
+        "content": "Today getting every notification multiple time, which is irritating.\n\nPlease look into this else we need to delete the app from our device.",
+        "date": "2019-06-03T04:46:53-07:00",
+        "version": "4.2.1"
+      },
+      {
+        "id": "4057428088",
+        "author": "M Manghat",
+        "rating": 1,
+        "title": "Bad service",
+        "content": "Reported an issue via email and WhatsApp no progress for more than 2 weeks. Very bad service from the firm. Disappointed badly",
+        "date": "2019-04-25T02:16:56-07:00",
+        "version": "4.2.1"
+      },
+      {
+        "id": "3532999577",
+        "author": "SaurabhKJain",
+        "rating": 1,
+        "title": "No iPhone x support",
+        "content": "Its been more than a year now & per apple documents every developer has to have iphone x support by July 2018. Please update to support the screen real estate of the newer models",
+        "date": "2018-12-15T02:48:47-07:00",
+        "version": "4.0.2"
+      },
+      {
+        "id": "3180883712",
+        "author": "Pn16",
+        "rating": 1,
+        "title": "Too costly subscription",
+        "content": "For traders it's a useful app.. but subscription price too costly and developers plz bring dark mode.",
+        "date": "2018-09-12T03:49:57-07:00",
+        "version": "3.5.0"
+      },
+      {
+        "id": "3093285349",
+        "author": "Bhanupratap4u",
+        "rating": 1,
+        "title": "Very very important filter missing",
+        "content": "I just joined for a monthly trial, to my surprise in scans app shows all scans with just filtering sectors the important filter which must has to be part of filter is derivatives or cash scripts filter. In present case in present case I have to check each script ( where don’t recognise) at another platform to check if the same is in F&O or not.",
+        "date": "2018-08-20T20:40:40-07:00",
+        "version": "3.4.0"
+      },
+      {
+        "id": "2560555055",
+        "author": "alokrajbca",
+        "rating": 1,
+        "title": "Very bad experience",
+        "content": "Only because of the advertisement that come again and again please decrease the add from the app.",
+        "date": "2018-05-17T13:35:34-07:00",
+        "version": "3.0.1"
+      },
+      {
+        "id": "1790130354",
+        "author": "Ashitosh Shinde",
+        "rating": 1,
+        "title": "Amazing!!!",
+        "content": "Best app ever!! Full of useful information and easy to use! Keep up the good work!",
+        "date": "2017-09-14T14:01:18-07:00",
+        "version": "2.0.0"
+      },
+      {
+        "id": "1654145585",
+        "author": "Ayush pokharna",
+        "rating": 1,
+        "title": "App was good but data not update",
+        "content": "App not working it shows nothing",
+        "date": "2017-06-22T20:54:14-07:00",
+        "version": "1.9.4"
+      },
+      {
+        "id": "1577153447",
+        "author": "Mr Bagaria",
+        "rating": 1,
+        "title": "Loved the technicals",
+        "content": "The technicals tab is just amazing!!",
+        "date": "2017-03-31T05:59:13-07:00",
+        "version": "1.7.1"
+      },
+      {
+        "id": "13761351650",
+        "author": "Kalpesh Gandhi",
+        "rating": 2,
+        "title": "Buggy After Updates",
+        "content": "After the latest update the application has become buggy. Secondly I do not hold any demat account through Stockedge than why I am being asked for KYC. Technical team needs to fix the bugs on urgent basis.",
+        "date": "2026-02-17T20:30:31-07:00",
+        "version": "14.0.38"
+      },
+      {
+        "id": "12361117674",
+        "author": "Kunjan Ashara",
+        "rating": 2,
+        "title": "Keeps Crashing",
+        "content": "Every few days, when I open the app, all I see is a white screen. Sometimes reinstalling fixes it. But now, that doesn't seem to work.",
+        "date": "2025-02-27T06:12:41-07:00",
+        "version": "12.1.54"
+      },
+      {
+        "id": "12325003781",
+        "author": "Aniq1798",
+        "rating": 2,
+        "title": "Not worth",
+        "content": "Average app. Nothing great. Not flexible. Absolutely pathetic customer support. Only interested in upselling",
+        "date": "2025-02-18T01:35:56-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "10590749829",
+        "author": "Ravie Goyal",
+        "rating": 2,
+        "title": "Battery Eater",
+        "content": "Information application is good. Not sure of accuracy since data differs when company information compared with other platforms. Majorly mobile gets very hot while using the app., I would title the app as battery eater.",
+        "date": "2023-11-16T00:32:07-07:00",
+        "version": "11.2.12"
+      },
+      {
+        "id": "9395663398",
+        "author": "RakPradhan",
+        "rating": 2,
+        "title": "Charts are disappearing while opening them",
+        "content": "The charts are disappearing after flashing momentarily for a second when reviewing charts on the ios app",
+        "date": "2022-12-14T08:10:16-07:00",
+        "version": "8.3.3"
+      },
+      {
+        "id": "9192783173",
+        "author": "SKumar_S",
+        "rating": 2,
+        "title": "Target alerts are not working",
+        "content": "I have scheduled multiple target alerts for multiple equities in my Stockedge iPhone app. But the alert seems to be not working, i.e., they're not raising any notification either in mobile app or in desktop app and silently going to \"Target achieved\" bucket. This is a serious bug and I am not sure how you released it to public without testing.",
+        "date": "2022-10-16T21:48:59-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "9128719449",
+        "author": "Spartan1000001111",
+        "rating": 2,
+        "title": "No Update to Version 8.2.1",
+        "content": "Why there is no update for iphone to version 8.2.1??",
+        "date": "2022-09-27T19:43:54-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "8877190804",
+        "author": "jignesh7676",
+        "rating": 2,
+        "title": "Good Insides providing App",
+        "content": "Its great app for detail research but need to make faster as its taking too much time to load data.",
+        "date": "2022-07-15T10:18:02-07:00",
+        "version": "8.1.15"
+      },
+      {
+        "id": "8333083454",
+        "author": "sharmagautam",
+        "rating": 2,
+        "title": "Problem with IOS",
+        "content": "It lags a lot and not efficiently works on my iPhone , though content is good.",
+        "date": "2022-02-08T06:59:51-07:00",
+        "version": "7.3.0"
+      },
+      {
+        "id": "6190114638",
+        "author": "Akashch5",
+        "rating": 2,
+        "title": "Not satisfied",
+        "content": "I purchased the annual membership of the app considering the very good data analysis that the app had to offer. To my surprise after membership none of the paid features are opening and are giving me data load error. The chart is non usable on mobile app. This app is way behind in terms of technology and needs a lot of improvement. I wish i could get my money back.",
+        "date": "2020-07-12T11:25:22-07:00",
+        "version": "5.1.9"
+      },
+      {
+        "id": "6074279854",
+        "author": "brijnohan joshi",
+        "rating": 2,
+        "title": "Poor charting",
+        "content": "Very poor charting indicator. Basic 5Min 1hour chart absent.Rarely candle pattern comes. No response after contacting. Big no for technical person",
+        "date": "2020-06-14T04:01:22-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5947683170",
+        "author": "Amitgreat",
+        "rating": 2,
+        "title": "Useless for intraday",
+        "content": "It’s not providing any filter on live market. It’s only for analysis after market closes not useful in live market. Better if they provide any live market support.",
+        "date": "2020-05-15T01:04:29-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5662477173",
+        "author": "Kedarjoshte",
+        "rating": 2,
+        "title": "Sick of reminders to BUY YEARLY SUBSCRIPTION",
+        "content": "GET ATLEAST 5 REMINDERS / NOTIFICATIONS TO BUY YEARLY SUBSCRIPTION. STOP THAT.",
+        "date": "2020-03-14T21:27:46-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5088346681",
+        "author": "Shailesh Dhola",
+        "rating": 2,
+        "title": "Not working",
+        "content": "After updating app is not working",
+        "date": "2019-11-05T00:43:52-07:00",
+        "version": "4.6.1"
+      },
+      {
+        "id": "5079588491",
+        "author": "#1. Vicky99",
+        "rating": 2,
+        "title": "Cannot Open the App",
+        "content": "The App is not being able to Open after the Update on iOS 13.2",
+        "date": "2019-11-03T06:24:57-07:00",
+        "version": "4.6.1"
+      },
+      {
+        "id": "4257012864",
+        "author": "Vinod364",
+        "rating": 2,
+        "title": "Good app however need good developers who can test it properly",
+        "content": "In last 4 mins I am continuously getting push notifications every single second. Developers should test their programs before signing off",
+        "date": "2019-06-03T04:39:00-07:00",
+        "version": "4.2.1"
+      },
+      {
+        "id": "2765890060",
+        "author": "Zeebboy",
+        "rating": 2,
+        "title": "Good app but requires a lot of optimisation",
+        "content": "Good app wrt contents but require a lot of optimisation - takes a lot of time/does not load at all!!",
+        "date": "2018-06-25T04:14:12-07:00",
+        "version": "3.0.1"
+      },
+      {
+        "id": "2113802216",
+        "author": "karteek21",
+        "rating": 2,
+        "title": "Not as money control",
+        "content": "Please provide my portfolio tab like money control.",
+        "date": "2018-01-21T20:44:12-07:00",
+        "version": "2.0.6"
+      },
+      {
+        "id": "1646680415",
+        "author": "TheRock898",
+        "rating": 2,
+        "title": "Every require to input login id & password",
+        "content": "It's so frustrating that you require to feed your login ID & password every time. It seems app is forgetting these info and every day I need to input these info to check my account and wasting the time",
+        "date": "2017-06-16T10:28:56-07:00",
+        "version": "1.9.4"
+      },
+      {
+        "id": "13962587638",
+        "author": "prtk2306",
+        "rating": 3,
+        "title": "Not working",
+        "content": "App not working after recent update.\nI am on ios 26.4.1.",
+        "date": "2026-04-15T20:23:35-07:00",
+        "version": "14.1.26"
+      },
+      {
+        "id": "13291221334",
+        "author": "slkbmt",
+        "rating": 3,
+        "title": "Slow app",
+        "content": "I am using this app from last 4-5 year. But this is very slow app on ios .overall good app but due to speed it’s become useless. When ever I open this it look lot of time . So u can’t do anything just watch when it get load. After few minutes I close this .",
+        "date": "2025-10-20T07:14:14-07:00",
+        "version": "13.3.13"
+      },
+      {
+        "id": "12881336347",
+        "author": "KBisw",
+        "rating": 3,
+        "title": "Tiny graphs are your best feature",
+        "content": "Tiny graphs need variety and present allover. Also data restricted to only 10yrs? My guess its +5yrs since StockEdge’s established, high time you upgrade data bank..",
+        "date": "2025-07-11T19:26:59-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "10931382333",
+        "author": "Scarface141",
+        "rating": 3,
+        "title": "Valuation ratios",
+        "content": "Why there is no valuation ratio in mobile app but present in web app?",
+        "date": "2024-02-12T09:26:12-07:00",
+        "version": "11.3.19"
+      },
+      {
+        "id": "8538814922",
+        "author": "Vikkrannt",
+        "rating": 3,
+        "title": "Incomplete",
+        "content": "No Option to Add Holding / open position",
+        "date": "2022-04-06T10:55:44-07:00",
+        "version": "7.6.1"
+      },
+      {
+        "id": "6338867298",
+        "author": "Naughty_HBK",
+        "rating": 3,
+        "title": "The app is great but apple pencil support is not working on ipad pro.",
+        "content": "Apple pencil is not working, it doesnt recognise the touch and open some random stuff when you use apple pencil.\nOther than that, the app is perfect with everything you need.",
+        "date": "2020-08-19T14:04:04-07:00",
+        "version": "5.1.9"
+      },
+      {
+        "id": "3322785824",
+        "author": "Waynu",
+        "rating": 3,
+        "title": "Iphone x",
+        "content": "Update app for iphone x ASAP",
+        "date": "2018-10-20T04:21:26-07:00",
+        "version": "3.5.1"
+      },
+      {
+        "id": "3288497583",
+        "author": "himanshupant",
+        "rating": 3,
+        "title": "Great app which does what it is supposed to do",
+        "content": "Came across this app while going in Quora. Must say I am pretty impressed with the data given by this app. Next progression could be nifty visualisations.\n\nOne more suggestion - how about landscape mode for iPad?\n\nOf late I am finding inaccuracy in data in this app. This is pretty worrying for a investor who may be using this as first point of filtering. All the visualisations come to a naught if the underlying data is not accurate",
+        "date": "2018-10-11T01:09:45-07:00",
+        "version": "3.5.1"
+      },
+      {
+        "id": "3019072002",
+        "author": "ssgoraya995",
+        "rating": 3,
+        "title": "Great app but facing some issues today",
+        "content": "App is very nice but today it’s not working.. can’t search stocks and daily updates are also not available",
+        "date": "2018-08-04T20:46:22-07:00",
+        "version": "3.3.8"
+      },
+      {
+        "id": "2557818015",
+        "author": "peers comp",
+        "rating": 3,
+        "title": "Peers Comparison for a Stock",
+        "content": "This App is great. Can we have Peers Comparison when we pick one Stock?",
+        "date": "2018-05-16T23:06:37-07:00",
+        "version": "3.0.1"
+      },
+      {
+        "id": "1721473472",
+        "author": "Dilipkumarsingh685",
+        "rating": 3,
+        "title": "Nice app and great job",
+        "content": "I just wanted to tell that I'm really impressed by the app but you need to make it more reliable and need to manage realtime updates like job.\nRest platform is quite encouraging for those who have no time",
+        "date": "2017-08-10T04:47:20-07:00",
+        "version": "1.9.4"
+      },
+      {
+        "id": "13973127812",
+        "author": "Mrk_lic",
+        "rating": 4,
+        "title": "Very helpful",
+        "content": "I have been using to track my portfolio....\nIt's very lucid and clutter free...nice",
+        "date": "2026-04-18T19:11:01-07:00",
+        "version": "14.2.10"
+      },
+      {
+        "id": "13682336109",
+        "author": "Dr.Shakti",
+        "rating": 4,
+        "title": "The best financial app",
+        "content": "I have been using this app for the last 5 years. I can say very confidently that, this is the best app for serious market participants. You don’t need any other app for financial decisions. Neither you need any tips or recommendations.  Thanks team Stockedge.",
+        "date": "2026-01-27T10:12:16-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13202180738",
+        "author": "Pritish433",
+        "rating": 4,
+        "title": "Excellent",
+        "content": "Super se v upar h ye app",
+        "date": "2025-09-29T15:22:27-07:00",
+        "version": "13.3.13"
+      },
+      {
+        "id": "12899702367",
+        "author": "JKSarraf",
+        "rating": 4,
+        "title": "Feature.",
+        "content": "Stock should be downloadable in excel sheet",
+        "date": "2025-07-16T12:14:37-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12550984252",
+        "author": "Tapas_Mac",
+        "rating": 4,
+        "title": "Improvements required",
+        "content": "The App great but the frequent upsell pop-up widgets are really annoying There should be an option to toggle it off",
+        "date": "2025-04-16T11:48:20-07:00",
+        "version": "13.0.7"
+      },
+      {
+        "id": "11812572006",
+        "author": "sksg2549",
+        "rating": 4,
+        "title": "Not the best!",
+        "content": "First of all appreciate what you are building up with stock edge and learning community.\n\nI like the app, but it has challenges.\n\n1) It does not integrate portfolio from other brokers smoothly (where you have tie up) you have to try twice. On 2nd time or third time it updates. In the first time, it just show processed but stocks don’t update.\n\n2) the trading ( buy/sell) is not smooth from the app where it takes you to my brokerage account. Again, API issues, screen gets hung when I try.\n\n3) It’s not connected with multiple brokers like ICiCi and other full service institutions.\n\n4)  Couple of features you can add like market movers, multi-baggers, most bought, with filters of large cap, mid cap, nifty etc like you have in app Ind Money. It’s not copying but a value add. \n\n5) Would like to use the club subscription but I want to have a feature where you have score against each stock with suggestions / hint of buy sell for example market mojo etc\n\n6) Can we have stock of the week or stoc",
+        "date": "2024-10-08T15:38:36-07:00",
+        "version": "12.0.45"
+      },
+      {
+        "id": "11135077003",
+        "author": "Ashish Nawandhar",
+        "rating": 4,
+        "title": "Add Upstox to view list",
+        "content": "Please add Upstox to your partner list",
+        "date": "2024-04-08T05:04:10-07:00",
+        "version": "11.4.17"
+      },
+      {
+        "id": "9224482554",
+        "author": "Anand lavi",
+        "rating": 4,
+        "title": "Full of info and easy to understand",
+        "content": "Loving it from day1",
+        "date": "2022-10-26T10:35:49-07:00",
+        "version": "8.2.10"
+      },
+      {
+        "id": "8164679259",
+        "author": "MeetJoe2",
+        "rating": 4,
+        "title": "Gr8 analytics",
+        "content": "Pls refer my previous review. \nYou remind me of having a session with apple support team each time I get trouble working with apple devices. All I said was that split screen functionality in iPad version was needed for better viewing and simultaneous working with  other app. Your tech ppl can figure it out better I guess. \nBetter upgrade features next time",
+        "date": "2021-12-24T10:09:11-07:00",
+        "version": "7.1.5"
+      },
+      {
+        "id": "7732809662",
+        "author": "Ashik2607",
+        "rating": 4,
+        "title": "Issue not yet resolved",
+        "content": "Have complained several times regarding error in opening simply wall st articles from updates section on Twitter , but still remain unsolved otherwise no issues with the app",
+        "date": "2021-08-25T06:13:08-07:00",
+        "version": "6.2.2"
+      },
+      {
+        "id": "7519590069",
+        "author": "raju tahir",
+        "rating": 4,
+        "title": "Lot size",
+        "content": "Please keep lot size in option chain",
+        "date": "2021-06-29T08:17:38-07:00",
+        "version": "6.2.2"
+      },
+      {
+        "id": "7496208320",
+        "author": "sudeep manikkoth",
+        "rating": 4,
+        "title": "Rebooting",
+        "content": "The App is good but need to reinstall after some time. It is unresponsive. After rebooting will work for some more days.",
+        "date": "2021-06-23T01:32:16-07:00",
+        "version": "6.0.3"
+      },
+      {
+        "id": "7081754263",
+        "author": "bhaskaN",
+        "rating": 4,
+        "title": "technical glitch in iPhone",
+        "content": "The app has very good features and really useful.\nI have come across a technical glitch recently on my iPhone 12. When I select Stocks option the keyboard does not pop up. Unable to enter stock code. Any solution?",
+        "date": "2021-03-08T19:26:48-07:00",
+        "version": "5.4.1"
+      },
+      {
+        "id": "6621398323",
+        "author": "Amannn12",
+        "rating": 4,
+        "title": "Very informative app for Investors!",
+        "content": "The app has a very simple and easy to use interface. Information is updated as soon as the quarterly results start coming. I use it for con call, inventor presentation and for checking bulk deals. The pro version is even better.",
+        "date": "2020-11-07T22:56:13-07:00",
+        "version": "5.2.6"
+      },
+      {
+        "id": "6165256597",
+        "author": "Dev Nayak",
+        "rating": 4,
+        "title": "Dark Mode - Things are not in Contrast",
+        "content": "In dark mode, because of Dark Gray shade, many options and texts are mot in good contrast so that we can identify and read easily. Please make an improvement on this part. Thanks.",
+        "date": "2020-07-06T12:19:08-07:00",
+        "version": "5.1.9"
+      },
+      {
+        "id": "6100340219",
+        "author": "Vips1031",
+        "rating": 4,
+        "title": "Learn section",
+        "content": "Could you add bookmarks in the Learn section so that the reader knows where she/he stopped last time",
+        "date": "2020-06-20T06:02:48-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "6080962627",
+        "author": "Yash Jagati",
+        "rating": 4,
+        "title": "Sorting option not available",
+        "content": "Hi,\n\noverall app is impressive but it does not has sorting option so deducting one star for that.\n\nPlease make it available",
+        "date": "2020-06-15T18:45:01-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5468947116",
+        "author": "AARIHANT",
+        "rating": 4,
+        "title": "Add MF",
+        "content": "Very useful app, Please add mutual funds also .",
+        "date": "2020-01-30T22:34:27-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "5260212067",
+        "author": "Aespl",
+        "rating": 4,
+        "title": "Nice app",
+        "content": "Good app and following improvement can make it even better\n\nIn daily update - please add put/ call ratio as well\n\nFor every stock kindly provide calendar year return as well since sometimes 1/3/5 year return may be misleading for the investor who are looking for consistent performers.",
+        "date": "2019-12-11T08:41:07-07:00",
+        "version": "4.6.2"
+      },
+      {
+        "id": "4434581050",
+        "author": "deepakrk",
+        "rating": 4,
+        "title": "Good app",
+        "content": "Working fine now",
+        "date": "2019-07-09T08:46:48-07:00",
+        "version": "4.3.2"
+      },
+      {
+        "id": "4389547441",
+        "author": "krish58",
+        "rating": 4,
+        "title": "An amazing app",
+        "content": "I have been using it more than one year, I liked it very much. It would be great if you show Peg ratio of the stock also",
+        "date": "2019-06-29T21:58:26-07:00",
+        "version": "4.3.2"
+      },
+      {
+        "id": "4054131646",
+        "author": "Pawan s Narang",
+        "rating": 4,
+        "title": "Super App both for traders and investors.",
+        "content": "Gives requisite details about the sectors and the stock. Includes pertinent information about the stock which helps to make prudent decision during stock selection.",
+        "date": "2019-04-24T06:14:19-07:00",
+        "version": "4.2.1"
+      },
+      {
+        "id": "3749466295",
+        "author": "Sanjay Shinde",
+        "rating": 4,
+        "title": "Good but still room for addition",
+        "content": "Good scan for stocks but nothing for world wide commodities coverage.",
+        "date": "2019-02-09T00:19:32-07:00",
+        "version": "4.1.0"
+      },
+      {
+        "id": "3523033996",
+        "author": "Krukgabani",
+        "rating": 4,
+        "title": "One stop stock solution!",
+        "content": "I like this app. Before I have to google everything for any company data to investing in it but this app save so much time. Stock edge is really an edge of advantage. You can save your portfolio and more features in it.\nPerhaps I hate adds that why I giving 4**** otherwise I would give 5 out of 5.",
+        "date": "2018-12-12T07:50:15-07:00",
+        "version": "4.0.0"
+      },
+      {
+        "id": "3367108574",
+        "author": "Abh apple",
+        "rating": 4,
+        "title": "Lot of improvement, long way to go",
+        "content": "There is lot of information added and developer is doing great job.\nSame time there is need for Checks. For e.g. in Fundamentals-Stocks default view should be fixed either on Standalone or Consolidated, Many companies have only standalone (in past results) while it has switching tab on main fundamental page.\nThus need Checks.",
+        "date": "2018-10-31T21:43:11-07:00",
+        "version": "3.5.1"
+      },
+      {
+        "id": "3270975845",
+        "author": "harsh6009",
+        "rating": 4,
+        "title": "Powerful and simple",
+        "content": "Very powerful yet simple app with loads of features at fingertips.",
+        "date": "2018-10-06T09:27:00-07:00",
+        "version": "3.5.1"
+      },
+      {
+        "id": "3262585242",
+        "author": "newdevu",
+        "rating": 4,
+        "title": "In a simple word....SUPERB",
+        "content": "What an app....\nand what can you expect from any stock research organisation....\n\nand that’s it...just browse through the app and you will find all the details regarding every aspects of a company in such a beautiful and organised manner that can be easily understood by any newely or experienced player of the market.....\n\nJust like a crafted by one of the best craftsman of an industry.....\nThanks to developers and its team for giving access to such valuable information.....",
+        "date": "2018-10-04T05:18:52-07:00",
+        "version": "3.5.1"
+      },
+      {
+        "id": "2815242224",
+        "author": "RaviBShah",
+        "rating": 4,
+        "title": "Update for IPhone X",
+        "content": "App is really very good . Just need an update for iPhone X screen then it would be lovely .",
+        "date": "2018-07-01T16:22:41-07:00",
+        "version": "3.3.8"
+      },
+      {
+        "id": "2487913911",
+        "author": "Tvs Parmar",
+        "rating": 4,
+        "title": "Very good app",
+        "content": "All information in one place",
+        "date": "2018-04-30T07:30:03-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "2424749653",
+        "author": "deeparsh",
+        "rating": 4,
+        "title": "StockEdge",
+        "content": "Hi. Have been using app for some time. It’s a beautifully conceived app for Indian stock market with tremendous scope and potential. A desktop version with utility addition like  notes taking, integration with other apps like Apple Notes or Evernote, colour coding for different watch lists, etc wish list could be long. But first on that would be a Mac version. An stock app fully integrated and synced across mobile, tablet and Mac would be a dream come true.",
+        "date": "2018-04-15T00:07:38-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "2404752839",
+        "author": "paransh",
+        "rating": 4,
+        "title": "Please provide industry p/e",
+        "content": "Please provide industry wise average p/e ratio",
+        "date": "2018-04-09T23:49:37-07:00",
+        "version": "2.3.0"
+      },
+      {
+        "id": "2097701787",
+        "author": "ankione",
+        "rating": 4,
+        "title": "Great app..Just needs a material design layout",
+        "content": "Great work ..My only gripe would be lack of material design pages for easy navigation",
+        "date": "2018-01-17T03:13:44-07:00",
+        "version": "2.0.6"
+      },
+      {
+        "id": "1744997847",
+        "author": "Ta-ra rump",
+        "rating": 4,
+        "title": "Very progressive app",
+        "content": "Just rightly needed. Just that it gets auto logged out very frequently. Should have feature to remain logged in to atleast remember password and user name.",
+        "date": "2017-08-24T05:00:24-07:00",
+        "version": "2.0.0"
+      },
+      {
+        "id": "1728128333",
+        "author": "shIvshreY02",
+        "rating": 4,
+        "title": "Excellent App",
+        "content": "Probably the best app around for Indian stock market. Provided data points are very good. Small suggestion - If can add filters based on ratio like P/E, ROE, P/EG will be great. Thanks",
+        "date": "2017-08-14T19:58:10-07:00",
+        "version": "2.0.0"
+      },
+      {
+        "id": "1723018390",
+        "author": "Prabhu Selvaraj",
+        "rating": 4,
+        "title": "Wonderful App",
+        "content": "I am just become fan of this app. Can you please let me know as when can we see the live prices? All other normal apps gives live prices but why not this?",
+        "date": "2017-08-11T05:06:06-07:00",
+        "version": "2.0.0"
+      },
+      {
+        "id": "1587985827",
+        "author": "Leo Jed",
+        "rating": 4,
+        "title": "Sleek yet effective",
+        "content": "If you know something of fundamental and technicals of stock Investing then this app is good for 'do it yourself' type of peoplez",
+        "date": "2017-04-13T11:57:56-07:00",
+        "version": "1.7.1"
+      },
+      {
+        "id": "1564066467",
+        "author": "GOLURMB",
+        "rating": 4,
+        "title": "AWESOME APP FOR FINANCIAL MARKETS",
+        "content": "Highly recommended for data technicals and fundamentals and scan features is really good and informative.....hats off to the DEVOLPERS ...request to maintain and add features along the line....",
+        "date": "2017-03-13T23:31:20-07:00",
+        "version": "1.7.1"
+      },
+      {
+        "id": "1545103531",
+        "author": "MuraliVidhya",
+        "rating": 4,
+        "title": "Stock Edge",
+        "content": "Really Edge over other apps in many ways like delivery analysis, Sector wise analysis, Technical parameters etc.",
+        "date": "2017-02-15T08:23:12-07:00",
+        "version": "1.7.1"
+      },
+      {
+        "id": "13975644611",
+        "author": "Uomozz",
+        "rating": 5,
+        "title": "New knowledge",
+        "content": "Good application good analysis platform",
+        "date": "2026-04-19T11:20:44-07:00",
+        "version": "14.2.10"
+      },
+      {
+        "id": "13963326817",
+        "author": "Sid6456",
+        "rating": 5,
+        "title": "App not working",
+        "content": "App is not working . Tried reinstallation also . Nothing is opening inside",
+        "date": "2026-04-16T02:52:54-07:00",
+        "version": "14.1.26"
+      },
+      {
+        "id": "13960847423",
+        "author": "Hitu5vasoya",
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Excellent",
+        "date": "2026-04-15T08:37:17-07:00",
+        "version": "14.1.26"
+      },
+      {
+        "id": "13955628257",
+        "author": "Vivek Sir and his Team",
+        "rating": 5,
+        "title": "Best",
+        "content": "Best",
+        "date": "2026-04-13T19:39:34-07:00",
+        "version": "14.1.20"
+      },
+      {
+        "id": "13949005067",
+        "author": "Prof.vijay",
+        "rating": 5,
+        "title": "Nice app",
+        "content": "Stock adge is a fine app for the investing community",
+        "date": "2026-04-11T22:48:44-07:00",
+        "version": "14.1.20"
+      },
+      {
+        "id": "13835898870",
+        "author": "URespectMee",
+        "rating": 5,
+        "title": "Best in the market",
+        "content": "It has lots of Data👌",
+        "date": "2026-03-10T23:13:59-07:00",
+        "version": "14.0.41"
+      },
+      {
+        "id": "13747533521",
+        "author": "Raghavan143",
+        "rating": 5,
+        "title": "Excellent app",
+        "content": "I loved it.",
+        "date": "2026-02-14T00:59:26-07:00",
+        "version": "14.0.38"
+      },
+      {
+        "id": "13682306026",
+        "author": "DeveloperGame",
+        "rating": 5,
+        "title": "Best analytics app for Stock Market.",
+        "content": "Best analytics app for Stock Market.",
+        "date": "2026-01-27T10:02:24-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13682061724",
+        "author": "Su bha",
+        "rating": 5,
+        "title": "Nice",
+        "content": "Fast service",
+        "date": "2026-01-27T08:43:23-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13650500630",
+        "author": "Stock masters",
+        "rating": 5,
+        "title": "Good app",
+        "content": "Search for new all time",
+        "date": "2026-01-18T21:54:42-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13629337301",
+        "author": "PPK0810",
+        "rating": 5,
+        "title": "Essential for investor and trader",
+        "content": "Information in crisp format \nMultiple ways to understand data. It increases probability of win",
+        "date": "2026-01-13T08:59:29-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13611962493",
+        "author": "G.M.Narendra",
+        "rating": 5,
+        "title": "YouTube",
+        "content": "I am unable to open YouTube video from StockEdge app showing YouTube unknown erro(153). I have Apple phone. Please solve error.",
+        "date": "2026-01-08T22:09:20-07:00",
+        "version": "14.0.31"
+      },
+      {
+        "id": "13487303917",
+        "author": "Hemant11972",
+        "rating": 5,
+        "title": "Hemant Patel",
+        "content": "Excellent App. Must use for profitable trade. Thanks",
+        "date": "2025-12-07T12:13:18-07:00",
+        "version": "14.0.25"
+      },
+      {
+        "id": "13233082076",
+        "author": "Arjun_21607",
+        "rating": 5,
+        "title": "Super app",
+        "content": "Super",
+        "date": "2025-10-06T14:40:53-07:00",
+        "version": "13.3.13"
+      },
+      {
+        "id": "13130822540",
+        "author": "Anand Blr75",
+        "rating": 5,
+        "title": "Great UI. Thoughtfully designed",
+        "content": "I love using Stockedge particularly for its simple usage and clear insights that it gives. Kudos to the designers, product team and off course the developers",
+        "date": "2025-09-12T20:15:19-07:00",
+        "version": "13.2.33"
+      },
+      {
+        "id": "13092308383",
+        "author": "Amitebg",
+        "rating": 5,
+        "title": "Best ever app for stock analysis and tracking",
+        "content": "One of the best app I have used till now. Some of best feature- Analysis of the script, tracking, watchlist feature, combo scan, edge report, chart pattern, market breadth, sector analysis. \nSome feature which may be added if possible- Delivery scan for various watchlist in summary, technical scan & chart pattern for various watchlist in summary. \nThanks",
+        "date": "2025-09-02T19:13:44-07:00",
+        "version": "13.2.24"
+      },
+      {
+        "id": "13062330357",
+        "author": "Roy1512",
+        "rating": 5,
+        "title": "Amazing App",
+        "content": "Great Efforts by Team & Vivekbhai",
+        "date": "2025-08-26T04:11:14-07:00",
+        "version": "13.2.24"
+      },
+      {
+        "id": "12889546181",
+        "author": "tillu11",
+        "rating": 5,
+        "title": "Trading",
+        "content": "Best app for trading",
+        "date": "2025-07-13T23:42:48-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12888158519",
+        "author": "Sahil Dhawan SRP",
+        "rating": 5,
+        "title": "Facelift",
+        "content": "I like the facelift you have done on this app. Now its little easy and handy. Keep it up stock edge team.",
+        "date": "2025-07-13T13:45:56-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12873519369",
+        "author": "New India’s App",
+        "rating": 5,
+        "title": "All at one place",
+        "content": "I have been using this app for over an year now and a bit late to write the review. This app provides all of the investing as well as trading portfolio at one place, and the best part is that it now synchronises with your demat account directly, so you don’t have to enter The transaction manually.",
+        "date": "2025-07-09T19:31:06-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12846756087",
+        "author": "nirajju",
+        "rating": 5,
+        "title": "StockEdge has the “edge” and peerless",
+        "content": "I’ve been using StockEdge for the past 5–6 years, both on the app and the web, and it’s been a wonderful experience. The features are powerful and well-designed, and what impresses me most is how quickly bugs are fixed and improvements are rolled out—often without us even noticing the work going on behind the scenes.\n\nThe app has come a long way, and the progress is clearly forward and consistent. Kudos to the StockEdge team for continuously improving and maintaining such a high standard. Keep up the great work!",
+        "date": "2025-07-03T02:22:26-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12803651949",
+        "author": "Vinayak Tiwari",
+        "rating": 5,
+        "title": "Feed back and acknowledgement of reliable data source for investment and informed Decision",
+        "content": "We appreciate the utility and transparency offered by this application and look forward to relying on it as a credible source in our ongoing and future investment activities as data are fetched from reliable sources such as MCA AND SEBI.",
+        "date": "2025-06-22T03:46:41-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12761674678",
+        "author": "padvenky",
+        "rating": 5,
+        "title": "Wonderful app",
+        "content": "A must app to follow for all the persons who wants to learn and make money in stock market.",
+        "date": "2025-06-11T05:04:01-07:00",
+        "version": "13.0.13"
+      },
+      {
+        "id": "12586165591",
+        "author": "Dhan909090",
+        "rating": 5,
+        "title": "Fantastic App",
+        "content": "Been using fore 4 years now. SE is my go to for watchlisting, identifying sectors, news and fundamentals of a company along with technicals. Thank you team.",
+        "date": "2025-04-25T17:02:40-07:00",
+        "version": "13.0.7"
+      },
+      {
+        "id": "12516032673",
+        "author": "Kuknatrader",
+        "rating": 5,
+        "title": "Atm machine",
+        "content": "As the goat vivek bajaj sir always say it is a atm machine, indeed it is. Thanks for providing this great tool.",
+        "date": "2025-04-07T13:26:32-07:00",
+        "version": "13.0.7"
+      },
+      {
+        "id": "12471463374",
+        "author": "Dragon XY",
+        "rating": 5,
+        "title": "CA’S Review",
+        "content": "The app is well crafted one giving all the details which a trader / investor wants while investing /trading in the stock market.  In depth chart study would be a big add on if done by your team.",
+        "date": "2025-03-27T11:00:50-07:00",
+        "version": "12.1.65"
+      },
+      {
+        "id": "12341056440",
+        "author": "Bhailu_157",
+        "rating": 5,
+        "title": "Knowledgeable App",
+        "content": "I m really appreciate the way stock edge Shares a knowledge to the clients along with the share market tips",
+        "date": "2025-02-22T03:32:53-07:00",
+        "version": "12.1.54"
+      },
+      {
+        "id": "12330802672",
+        "author": "Achal Garg",
+        "rating": 5,
+        "title": "Exceptional",
+        "content": "Easy to use and insightful",
+        "date": "2025-02-19T12:00:02-07:00",
+        "version": "12.1.54"
+      },
+      {
+        "id": "12244294488",
+        "author": "Ahamad Firoj",
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Excellent research platform",
+        "date": "2025-01-29T01:58:25-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12237125430",
+        "author": "Jugnu ansariiii",
+        "rating": 5,
+        "title": "Solo",
+        "content": "Bahut solo",
+        "date": "2025-01-27T05:51:17-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12201610637",
+        "author": "NAKKASRINI",
+        "rating": 5,
+        "title": "Stock Edge The ultimate",
+        "content": "Stock edge is my favourite stock analysis app. I am a Top Executive in a PSB. I utilise it for a quick view on several companies in my daily routine work. The way sectors are presented is awesome. Its team is doing wonderful work. Undoubtedly it is the best stock analysis app , I have seen in my lifetime (in my 60th year now)",
+        "date": "2025-01-18T17:44:38-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12197520787",
+        "author": "vvvaab",
+        "rating": 5,
+        "title": "Great app",
+        "content": "Very useful to get all updates",
+        "date": "2025-01-17T18:44:17-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12190597662",
+        "author": "Abhi Kurian",
+        "rating": 5,
+        "title": "Informative",
+        "content": "It’s great to have such an equity app",
+        "date": "2025-01-16T01:56:13-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12183528326",
+        "author": "Patchpatel",
+        "rating": 5,
+        "title": "Five star rating",
+        "content": "Superb unbiased and very informative platform for investors. Very extensive coverage of the entire investing industry.",
+        "date": "2025-01-14T06:40:57-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12168108315",
+        "author": "VASUDEVANAND SAWANT",
+        "rating": 5,
+        "title": "Excellent app",
+        "content": "Nice and useful app for traders",
+        "date": "2025-01-10T10:11:40-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12158098487",
+        "author": "Amitkedia1205",
+        "rating": 5,
+        "title": "Speed",
+        "content": "The speed to retrieve information has considerably slowed down",
+        "date": "2025-01-07T19:59:27-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12155819897",
+        "author": "Vipu5",
+        "rating": 5,
+        "title": "Best App",
+        "content": "The content and the kind of its presentation is amazing and very knowledgeable",
+        "date": "2025-01-07T06:23:20-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12154928297",
+        "author": "M one Y",
+        "rating": 5,
+        "title": "All IN ONE",
+        "content": "L-earn, STOCK-knowl-EDGE",
+        "date": "2025-01-07T00:57:14-07:00",
+        "version": "12.1.35"
+      },
+      {
+        "id": "12130492063",
+        "author": "AB.Jorge",
+        "rating": 5,
+        "title": "Best, but not perfect",
+        "content": "I would have rated five star If StockEdge chart, were powered by trading view or investing.com.\nThat way, it would have saved lot of my time.",
+        "date": "2024-12-31T23:13:23-07:00",
+        "version": "12.1.25"
+      },
+      {
+        "id": "11780372670",
+        "author": "Consumer 122356789",
+        "rating": 5,
+        "title": "Outstanding",
+        "content": "Great app.. really helpful in understanding trading rules etc",
+        "date": "2024-09-29T23:15:14-07:00",
+        "version": "11.7.2"
+      },
+      {
+        "id": "11578318288",
+        "author": "annudeep",
+        "rating": 5,
+        "title": "PFC Q1 results",
+        "content": "Profit has been stated at ₹ 7982 Cr instead of 7182 Cr which is quite misleading and it is not a welcome sign to rely on your data 🙏",
+        "date": "2024-08-06T03:39:20-07:00",
+        "version": "11.7.2"
+      },
+      {
+        "id": "11189446414",
+        "author": "Virajjain999",
+        "rating": 5,
+        "title": "India’s Trading View",
+        "content": "This one is really wonder for stock market participants",
+        "date": "2024-04-22T12:59:18-07:00",
+        "version": "11.5.10"
+      },
+      {
+        "id": "11148917324",
+        "author": "Alok68",
+        "rating": 5,
+        "title": "Super sei upar",
+        "content": "have tried a lot of tools for analysis of stock market and MF in last 5 yrs But took premium subscription of Stock edge. Can guarantee this is the best tool available in the market. Every day they teach how to use the tools free of cost",
+        "date": "2024-04-12T02:24:02-07:00",
+        "version": "11.5.10"
+      },
+      {
+        "id": "10889506799",
+        "author": "keshu99",
+        "rating": 5,
+        "title": "Best app for stock market",
+        "content": "This is the one and only app you will need to start trading or investing in stock market..",
+        "date": "2024-02-01T09:16:48-07:00",
+        "version": "11.3.19"
+      },
+      {
+        "id": "10867362400",
+        "author": "SK2802",
+        "rating": 5,
+        "title": "Appreciate Your Efforts",
+        "content": "Firstly, thank you form bottom of my heart for creating Stock Edge. Secondly,  I really have high regards for you for putting efforts and time to create a wonderful platform for learning. Out of so many content on web, you tube, social media etc., I finally found something which is meaningful and worth spending time.. Thank you once again…",
+        "date": "2024-01-26T12:54:05-07:00",
+        "version": "11.3.19"
+      },
+      {
+        "id": "10291807340",
+        "author": "Apar21",
+        "rating": 5,
+        "title": "Thanks to Vivek Bajaj sir & team for the phenomenal app",
+        "content": "It’s a great app with excellent screeners\nThe app never crashes.Upgrades are seem less  \nFree knowledge distributed by Vivek sir through his YouTube video series  learn to trade /learn to invest are my all time favourite This is also integrated into the app\nKeep rocking \nWarm regards",
+        "date": "2023-08-23T13:57:02-07:00",
+        "version": "11.0.6"
+      },
+      {
+        "id": "9305053623",
+        "author": "Mani1234xyz",
+        "rating": 5,
+        "title": "Outstanding",
+        "content": "For all those who are starting up or want to remain updated, this is best app for India",
+        "date": "2022-11-19T01:14:06-07:00",
+        "version": "8.3.3"
+      },
+      {
+        "id": "9196049883",
+        "author": "ncjcjfdddgg",
+        "rating": 5,
+        "title": "Nice app",
+        "content": "Very informative app I like this app for real trading thanks",
+        "date": "2022-10-17T22:09:21-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "9154474058",
+        "author": "ARYANXSSMR",
+        "rating": 5,
+        "title": "Great app. Will always be a subscriber. Kudos to team",
+        "content": "Best ios app to see fundamentals",
+        "date": "2022-10-05T10:48:25-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "9120133359",
+        "author": "sb shukla",
+        "rating": 5,
+        "title": "New version update",
+        "content": "When will new version come in App Store??",
+        "date": "2022-09-25T05:21:53-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "9092167803",
+        "author": "arup jyoti",
+        "rating": 5,
+        "title": "Great",
+        "content": "I use every day and it’s very good",
+        "date": "2022-09-16T18:38:57-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "9052993058",
+        "author": "Karthiram.N",
+        "rating": 5,
+        "title": "Very good",
+        "content": "Very good app for those who are serious about stock market",
+        "date": "2022-09-04T16:18:07-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "9034805721",
+        "author": "Bluesoeb",
+        "rating": 5,
+        "title": "Add Portfolio watch",
+        "content": "If you add portfolio watch like moneycontrol and others .. and some magic added with extra magic indicators like buy or sell remarks . Would be fantastic to stick to this app only",
+        "date": "2022-08-30T10:16:18-07:00",
+        "version": "8.1.23"
+      },
+      {
+        "id": "8886919707",
+        "author": "Shreyasee10",
+        "rating": 5,
+        "title": "Easy to use",
+        "content": "Very effective and easy to use app",
+        "date": "2022-07-18T08:34:35-07:00",
+        "version": "8.1.15"
+      },
+      {
+        "id": "8860024427",
+        "author": "rakesh_mt",
+        "rating": 5,
+        "title": "Very nice app",
+        "content": "Good app 👍",
+        "date": "2022-07-10T07:38:45-07:00",
+        "version": "8.1.15"
+      },
+      {
+        "id": "8781500406",
+        "author": "aam nagrik",
+        "rating": 5,
+        "title": "Great App",
+        "content": "For Learning",
+        "date": "2022-06-16T19:52:06-07:00",
+        "version": "8.0.3"
+      },
+      {
+        "id": "8594208641",
+        "author": "vinay ajudiya",
+        "rating": 5,
+        "title": "Amazing and unique app..obsessed with it",
+        "content": "The user experience is so smooth and paradise for every investor",
+        "date": "2022-04-22T06:03:37-07:00",
+        "version": "7.6.1"
+      },
+      {
+        "id": "8442306338",
+        "author": "ggthhduhnj",
+        "rating": 5,
+        "title": "Premium Bought But not showing",
+        "content": "Last couple of days I m facing isssue is when I go for scans it shows me to buy premium while I had already bought for 3 months premium plan. Can u guys look at this asap ?",
+        "date": "2022-03-10T19:20:49-07:00",
+        "version": "7.3.0"
+      },
+      {
+        "id": "8434365097",
+        "author": "SBI Yono user",
+        "rating": 5,
+        "title": "Version 7.4",
+        "content": "Dear developer, you have uploaded a promotional video of 7.4 on YT more than a week ago but still it is not available in the App Store. Kindly make it available for download.",
+        "date": "2022-03-08T10:30:05-07:00",
+        "version": "7.3.0"
+      },
+      {
+        "id": "8121185586",
+        "author": "vedwg",
+        "rating": 5,
+        "title": "Highly recommend",
+        "content": "Highly recommend for consistent money making in the stock market..",
+        "date": "2021-12-11T22:15:15-07:00",
+        "version": "7.1.5"
+      }
+    ],
+    "review_analysis": {
+      "total_reviews": 188,
+      "average_rating": 3.1,
+      "rating_distribution": {
+        "1": 60,
+        "2": 19,
+        "3": 11,
+        "4": 38,
+        "5": 60
+      },
+      "latest_review_date": "2026-04-26T17:28:50-07:00",
+      "oldest_review_date": "2021-12-11T22:15:15-07:00"
+    },
+    "reviews_metadata": {
+      "1": {
+        "requested": 60,
+        "fetched": 60
+      },
+      "2": {
+        "requested": 60,
+        "fetched": 19
+      },
+      "3": {
+        "requested": 60,
+        "fetched": 11
+      },
+      "4": {
+        "requested": 60,
+        "fetched": 38
+      },
+      "5": {
+        "requested": 60,
+        "fetched": 60
+      }
+    }
+  },
+  "analysis": null
+}

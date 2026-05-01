@@ -1,0 +1,312 @@
+{
+    "company_name": "Crest Data",
+    "domain": "https://www.crestdata.ai/",
+    "playstore_link": "Unable to verify",
+    "appstore_link": "Unable to verify",
+    "youtube_official_channel": "https://www.youtube.com/@CrestData",
+    "year_founded": "2013 — San Jose, California, USA",
+    "names_of_founders": [
+        "Malhar Shah",
+        "Neha Shah"
+    ],
+    "c-suite_officer": [
+        "Malhar Shah, Co-founder and Chief Executive Officer",
+        "Neha Shah, Co-founder and Chief Technology Officer",
+        "Nirav Thakkar, Chief Financial Officer",
+        "Gaytri Khandelwal, VP of Sales",
+        "Mike Saurbaugh, Director, Security Ecosystem and Solutions, US South East"
+    ],
+    "exact_hq_location": "3031 Tisch Way, STE 602, San Jose, CA 95128, USA",
+    "locations_operating_in": [
+        "San Jose, California, USA",
+        "Ahmedabad, Gujarat, India",
+        "Pune, India"
+    ],
+    "industry_and_segment": "Information Technology & Services, specializing in Data Analytics, AI/ML, Cybersecurity, Observability, DevOps, and Cloud Solutions",
+    "available_platforms": "Web",
+    "funding_raised": "No funding raised",
+    "no_of_users": "175+ global customers",
+    "annual_revenue": "$100,000,000",
+    "key_positioning": "AI-first product engineering and technology solutions provider that accelerates clients' success in a rapidly evolving technology landscape, focusing on data and AI-driven technology solutions for enterprises and technology innovators in Cybersecurity and Observability.",
+    "revenue_model": "Service-based/project-based (professional and managed IT services, product engineering)",
+    "competitors": [
+        {
+            "name": "ASGN",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "Carahsoft",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "Kaseya",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "Salient CRGT",
+            "domain": "Unable to verify"
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Clients struggling with transitioning to a silicon-based workforce and managing extensive tool sprawl in cybersecurity and observability domains.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgF4PFEFo9Um0UlHchEUNG0wsoSbCRHt-AehsRRk6MNqmUgcYMSvf2Ish_BoAX5j_kAJg5cvObrPtuNw-Shi3jQm96kyfdJ2TTx_3taEvP29I3DWX7-CMppKOXILJDfoCpxyQJg0wLTQPt6A5viWaXOe1LbTQK8SuZYu9hmyqfBejQwglIWJmKmcZIsbz6sypkaA==",
+            "date": "2026-01-05",
+            "effect": [
+                "Increases complexity in clients' digital ecosystems.",
+                "Leads to inefficiencies in security and IT operations."
+            ]
+        },
+        {
+            "description": "Many enterprises piloting AI but failing to move it successfully into production environments.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgF4PFEFo9Um0UlHchEUNG0wsoSbCRHt-AehsRRk6MNqmUgcYMSvf2Ish_BoAX5j_kAJg5cvObrPtuNw-Shi3jQm96kyfdJ2TTx_3taEvP29I3DWX7-CMppKOXILJDfoCpxyQJg0wLTQPt6A5viWaXOe1LbTQK8SuZYu9hmyqfBejQwglIWJmKmcZIsbz6sypkaA==",
+            "date": "2026-01-05",
+            "effect": [
+                "Limits ROI from AI investments.",
+                "Creates a gap between AI potential and actual implementation."
+            ]
+        },
+        {
+            "description": "Security Operations Centers (SOCs) are overwhelmed by alert fatigue and rising Mean Time To Respond (MTTR).",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqxcwQTSeDChFf2zE73a2x9YhMrVc43RHLwtU3YxqmjEIiadGuPvDgZXoDT6XzIofXN_fA6TNCvcUFTXEMLg5ljeQ_TVDEQJeYrmc82uU3dZ58MtSU3WCVTQ=",
+            "date": "2026-04-16",
+            "effect": [
+                "Degrades security posture and increases risk of breaches.",
+                "Leads to operational inefficiency and burnout for security teams."
+            ]
+        },
+        {
+            "description": "Enterprise AI adoption challenges include integration complexity, data governance issues, and scaling proofs-of-concept to production.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbeBHFdPxwtruBSiEZLQGyLNdO6xrp5mZeiY9g148NpcsLDcjlx0ZcVSk7y7hxLUAbeOHeh0byJs3_SGMc_X6Rj6qUk6HdMHU-eK_AYrrhTI2PQ962HF3w1nQtKr1JPD4s3byGaxbuI_fxVAULW9t-Tjciasp7_RZNlDYIC_XABg==",
+            "date": "2026-01-07",
+            "effect": [
+                "Hinders AI implementation and value realization.",
+                "Increases costs and time-to-market for AI initiatives."
+            ]
+        },
+        {
+            "description": "Systemic lack of skilled cybersecurity professionals to manage increasingly complex security systems.",
+            "user_type": "Enterprise Clients and Industry",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpirhfWYpJbpwo0rNPxL8kU_0BdZwhVdsa2HaEgqub2ttPZopdKthkmYIG3KtGMMFhD6cx_5TKg7fg2S27hvBimd_-qn6sPAPJpBULx1-OIkaAbGe-6ZvKZZiN8vEDUgAtbH__cEpE8xTYdL07oEzFn4UiKLHrZNh4Qg5kPdMKOg==",
+            "date": "2026-03-16",
+            "effect": [
+                "Exacerbates cybersecurity risks for organizations.",
+                "Increases demand for specialized professional services."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "AI-First Product Engineering",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgF4PFEFo9Um0UlHchEUNG0wsoSbCRHt-AehsRRk6MNqmUgcYMSvf2Ish_BoAX5j_kAJg5cvObrPtuNw-Shi3jQm96kyfdJ2TTx_3taEvP29I3DWX7-CMppKOXILJDfoCpxyQJg0wLTQPt6A5viWaXOe1LbTQK8SuZYu9hmyqfBejQwglIWJmKmcZIsbz6sypkaA==",
+            "date": "2026-01-05",
+            "effect": [
+                "Delivers intelligent, scalable, and secure solutions leveraging AI-driven automation."
+            ]
+        },
+        {
+            "feature": "Accelerated Migrations & Integrations",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqxcwQTSeDChFf2zE73a2x9YhMrVc43RHLwtU3YxqmjEIiadGuPvDgZXoDT6XzIofXN_fA6TNCvcUFTXEMLg5ljeQ_TVDEQJeYrmc82uU3dZ58MtSU3WCVTQ=",
+            "date": "2026-04-16",
+            "effect": [
+                "Reduces migration times by up to 55-60% using AI-infused automation.",
+                "Ensures zero-disruption and faster time-to-value for clients."
+            ]
+        },
+        {
+            "feature": "Strong Technology & Strategic Partnerships",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH2kWRe_qirAa2h0vZDppi701D7JtkZnfPDQEXM-USStZOuKZtSd3s89os3K2E8NfQ8S7JH8-SoKxAZ3jvUFTvO29HXW8thVAaSU9W-Q_jAFuxkA==",
+            "date": "Recent",
+            "effect": [
+                "Leverages alliances with AWS, Google, ServiceNow, Datadog, Dynatrace, and Microsoft for comprehensive solutions."
+            ]
+        },
+        {
+            "feature": "Proven at Enterprise Scale",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGzAJKf6BxtwtIHgP2AwHcxUeALkpM5_jMNgciVobqR25qbyWjZiuzPqr6rB9G0SQ-dxMZ5qXcNbwywoDeP2MOe4T9-aqQkVmqe-WI48Usj6QFGPGWV9CxszyYwA==",
+            "date": "2025-10-11",
+            "effect": [
+                "Successfully delivered 5,000+ projects and processed 10+ TB/day across 150+ data sources for 175+ global customers."
+            ]
+        },
+        {
+            "feature": "Full-Lifecycle Ownership & Managed Services",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR40wzx9iU3_W6ivWUuAmWHdnKNLWNUfwQmwcjueEDWezqz0PDgzoSEe_ld9kavgbSIho8eCIubR9EaBB0ED2QqW_LnF7e79eRFmBCi__KLg0TJUzjXSFIS08iStI=",
+            "date": "2025-10-16",
+            "effect": [
+                "Provides end-to-end support from strategy to managed operations, reducing client operational burden."
+            ]
+        },
+        {
+            "feature": "Deep Domain Expertise in Cybersecurity & Observability",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOsWKYhQstXi4YsLzRfg5j3qzzLYytyQ24pOAwKV65UlYbgNg_dEdhwgGb7_szxJt-f_r_CawZEHQV8Ns62f8wr93c8YMjMAD3t2Up3FQCxH7rkTjBZOeGcmYKcr3yBrVJ2fhkzGlyfUdnw3KYPj7k",
+            "date": "Recent",
+            "effect": [
+                "Develops comprehensive integrations and provides actionable insights for rapid issue resolution."
+            ]
+        }
+    ],
+    "other_crucial_details": [
+        "Trusted by over 175 global customers.",
+        "Comprised of over 1,000 talented professionals globally.",
+        "Focuses on reducing operational overhead, accelerating time-to-value, and improving system reliability without disrupting business continuity.",
+        "Leadership includes Co-founder and CEO Malhar Shah, and Co-founder and CTO Neha Shah, both with over 25 years of enterprise technology leadership experience.",
+        "Specializes in product engineering and implementation services across cloud, security, observability, and data."
+    ],
+    "strategic_moves": [
+        {
+            "move": "Rebranded from Crest Data Systems to Crest Data and adopted 'crestdata.ai' domain.",
+            "user_type": "Company-wide",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX9rB0TCPnVnT8itOsOnQ2DDcI0yUxinKeB_7oWmm5aylNqLLAm-f-jR0mhO4VOa7E_kQrlm8XFA85pN6wt7Guq_p0RTWrnjcsGvJC0S1maWrrT_f63VVxQFqtTyE1ayAmAy0gHtLug1Y11lv5N2CY",
+            "date": "2024-05-02",
+            "effect": [
+                "Sharpened focus on data and advanced AI technologies.",
+                "Positioned as an AI-first product engineering provider."
+            ]
+        },
+        {
+            "move": "Strategic participation as a Silver Sponsor at major industry conferences.",
+            "user_type": "Marketing & Business Development",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqxcwQTSeDChFf2zE73a2x9YhMrVc43RHLwtU3YxqmjEIiadGuPvDgZXoDT6XzIofXN_fA6TNCvcUFTXEMLg5ljeQ_TVDEQJeYrmc82uU3dZ58MtSU3WCVTQ=",
+            "date": "2026-04-16",
+            "effect": [
+                "Increased brand visibility and engagement with security and observability leaders.",
+                "Demonstrated commitment to key technology ecosystems (Datadog, ServiceNow, Dynatrace)."
+            ]
+        },
+        {
+            "move": "Achieved AWS Cloud Operations Competency and Advanced Tier Services Partner Status.",
+            "user_type": "Partnerships & Alliances",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETv_mYZsr6le8-kKwj4J5diBadCJTiy4B5U8gBmtufI5Wu1ucmM0_D6n-s18D_GzSYSeTUX0iT7DrVWt3gBqWj1iB5LCXHBJZZ3mlyIenvoaFMwY1B--aowpjHbxiUXWS_hQ==",
+            "date": "Recent",
+            "effect": [
+                "Validated expertise in cloud operations and migration services for AWS environments.",
+                "Strengthened position as a trusted cloud solutions provider."
+            ]
+        },
+        {
+            "move": "Joined the Datadog Marketplace and launched a dedicated migration acceleration service.",
+            "user_type": "Product & Partnerships",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETv_mYZsr6le8-kKwj4J5diBadCJTiy4B5U8gBmtufI5Wu1ucmM0_D6n-s18D_GzSYSeTUX0iT7DrVWt3gBqWj1iB5LCXHBJZZ3mlyIenvoaFMwY1B--aowpjHbxiUXWS_hQ==",
+            "date": "2025-11-15",
+            "effect": [
+                "Expanded reach and offering within the Datadog ecosystem.",
+                "Provided specialized services to accelerate Datadog adoption and migration."
+            ]
+        },
+        {
+            "move": "Expanded offerings to include Agentic AI solutions and Generative AI services.",
+            "user_type": "Product & Solutions",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVVfa-pyu9hJmropuZsSO57LBy4sUuCy0rUfCtqcDOqhg3oPlTScrW0YOmsH_qbv1HjqP9iHBe29B0Pmi_1AJ4Q6Z__a9ELga2Jw9HXLVc4QYl-F-Q-c-2g9mqr9LhwYZD_yGoN1Hr",
+            "date": "2025-10-16",
+            "effect": [
+                "Addressed growing enterprise demand for advanced AI capabilities.",
+                "Positioned at the forefront of AI innovation in their service areas."
+            ]
+        },
+        {
+            "move": "Participated in Netskope's Tech Day Workshop alongside RSA Conference 2026.",
+            "user_type": "Marketing & Business Development",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOf8LLNeTW1LGJHStQxQQ4yazZMbKFnYw8yzu8irgL62j5ym2_4Rg8orE9c4-bxnRTFVmdt3bm9jjTc8R785pl6WXuhPvM1PWxs-Y1ddwqh9nS3R5nxxxBCB-V_eNZXMOKKrgX4CXFotjDxR9S9Sli4jK7DNFiZSykIpdIUrem3ESvxfQs9RswaYWc8tZubpBXxMU_9mkLEw==",
+            "date": "2026-03-05",
+            "effect": [
+                "Engaged with security executives on cloud security, SASE, and data protection strategies.",
+                "Showcased expertise in modernizing security platforms through AI-driven automation."
+            ]
+        }
+    ],
+    "milestones": [
+        "Rebranded from Crest Data Systems to Crest Data in May 2024 to signify a sharpened focus on data and advanced AI technologies.",
+        "Achieved AWS Advanced Tier Services Partner Status.",
+        "Achieved AWS Cloud Operations Competency with Amazon CloudWatch Migration Services.",
+        "Recognized as an Advanced Datadog Partner and Marketplace Integration Leader in March 2026.",
+        "Successfully delivered over 5,000 projects through AI-driven engineering and intelligent automation."
+    ],
+    "user_complaints": [
+        {
+            "issue": "Unable to verify public user complaints for Crest Data (B2B service provider).",
+            "user_type": "Unable to verify",
+            "frequency": "Unable to verify",
+            "source": "Unable to verify",
+            "date": "Unable to verify",
+            "effect": [
+                "Unable to verify"
+            ]
+        },
+        {
+            "issue": "Unable to verify public user complaints for Crest Data (B2B service provider).",
+            "user_type": "Unable to verify",
+            "frequency": "Unable to verify",
+            "source": "Unable to verify",
+            "date": "Unable to verify",
+            "effect": [
+                "Unable to verify"
+            ]
+        },
+        {
+            "issue": "Unable to verify public user complaints for Crest Data (B2B service provider).",
+            "user_type": "Unable to verify",
+            "frequency": "Unable to verify",
+            "source": "Unable to verify",
+            "date": "Unable to verify",
+            "effect": [
+                "Unable to verify"
+            ]
+        },
+        {
+            "issue": "Unable to verify public user complaints for Crest Data (B2B service provider).",
+            "user_type": "Unable to verify",
+            "frequency": "Unable to verify",
+            "source": "Unable to verify",
+            "date": "Unable to verify",
+            "effect": [
+                "Unable to verify"
+            ]
+        },
+        {
+            "issue": "Unable to verify public user complaints for Crest Data (B2B service provider).",
+            "user_type": "Unable to verify",
+            "frequency": "Unable to verify",
+            "source": "Unable to verify",
+            "date": "Unable to verify",
+            "effect": [
+                "Unable to verify"
+            ]
+        }
+    ],
+    "new_features_launched": [
+        "Launched a Migration Acceleration Service for Datadog to optimize observability and security.",
+        "Developed Agentic AI solutions and Generative AI services for automating complex workflows and unlocking new capabilities.",
+        "Introduced Neuwave AI-enabled Integration Fabric and Neuwave Agentic AI Migrations as proprietary solutions for accelerating observability and security.",
+        "Offering AI for IT Operations (AIOps) solutions to help organizations understand how enterprises implement data analytics at scale.",
+        "Providing Security Data Analytics solutions leveraging SIEM, SOAR, and advanced detection engineering.",
+        "Delivering end-to-end Machine Learning and AI development services, including custom model development and enterprise deployment."
+    ]
+}

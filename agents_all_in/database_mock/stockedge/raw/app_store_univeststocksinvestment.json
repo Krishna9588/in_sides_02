@@ -1,0 +1,92 @@
+{
+  "extraction_metadata": {
+    "source": "Apple App Store (iTunes API)",
+    "extracted_at": "2026-05-01T10:34:26.349069",
+    "extraction_time_seconds": 0.98,
+    "fields_extracted": 32,
+    "country": "in",
+    "reviews_distribution": {
+      "1": 40,
+      "2": 40,
+      "3": 40,
+      "4": 40,
+      "5": 40
+    },
+    "total_reviews_extracted": 0,
+    "status": "success"
+  },
+  "extracted_data": {
+    "metadata": {
+      "trackId": 6443753518,
+      "trackName": "Univest - Stocks & Investment",
+      "bundleId": "com.univest.capp",
+      "trackViewUrl": "https://apps.apple.com/in/app/univest-stocks-investment/id6443753518?uo=4",
+      "artistId": 1649066898,
+      "artistName": "UNIVEST COMMUNICATION TECHNOLOGIES PRIVATE LIMITED",
+      "artistViewUrl": "https://apps.apple.com/in/developer/univest-communication-technologies-private-limited/id1649066898?uo=4",
+      "sellerName": "UNIVEST COMMUNICATION TECHNOLOGIES PRIVATE LIMITED",
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "genres": [
+        "Finance"
+      ],
+      "genreIds": [
+        "6015"
+      ],
+      "averageUserRating": 4.23618,
+      "userRatingCount": 4310,
+      "averageUserRatingForCurrentVersion": 4.23618,
+      "userRatingCountForCurrentVersion": 4310,
+      "price": 0.0,
+      "formattedPrice": "Free",
+      "currency": "INR",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.1.272",
+      "releaseNotes": "We’re continuously working to make your Univest experience smoother, faster, and more intuitive.\nWhat’s new:\n\nA. Revamped Demat Experience\nCleaner design, easier navigation, better control of your investments.\n\nB. Enhanced Filters\nFind the right opportunities faster with smarter filtering.\n\nNever miss an opportunity — discover advisory ideas directly while exploring markets.\nA few performance improvements and stability updates across the app.",
+      "releaseDate": "2022-11-21T08:00:00Z",
+      "currentVersionReleaseDate": "2026-04-16T05:27:02Z",
+      "description": "Discover Univest: Your Ultimate Stock Market Advisory\n\nMaximize your returns by exiting underperforming investments and investing with confidence through Univest.\n\nUnivest is an advanced investment platform designed to meet your specific needs. Benefit from options strategies, futures, and equity trade ideas from SEBI-registered Research Analysts, AI-driven 'Buy/Sell/Hold' recommendations, premium screeners, and access to top stock picks, including potential multibaggers. Elevate your investment journey with Univest, unlocking your portfolio's full potential.\n\nKey Features:\n\n- AI-Powered Recommendations: Get tailored 'Buy/Sell/Hold' trends aligned with your investment style.\n- Expert Insights: Access personalized trade ideas from SEBI-registered Analysts for both futures and equities.\n- Top Stock Picks: Invest in well-researched stocks, including those with multibagger potential.\n- Advanced Screeners: Identify daily breakouts, oversold stocks, and 52-week highs with ease.\n- Concise Mar",
+      "shortDescription": "",
+      "minimumOsVersion": "16.0",
+      "fileSizeBytes": 115710976,
+      "contentAdvisoryRating": "12+",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/7f/4b/be7f4bf7-6775-f03e-0bca-b7b5938bc058/ProdIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/7f/4b/be7f4bf7-6775-f03e-0bca-b7b5938bc058/ProdIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/7f/4b/be7f4bf7-6775-f03e-0bca-b7b5938bc058/ProdIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "kind": "software",
+      "trackCensoredName": "Univest - Stocks & Investment",
+      "privacyViewUrl": null,
+      "supportUrl": null,
+      "websiteUrl": null
+    },
+    "reviews": [],
+    "review_analysis": {
+      "error": "No reviews"
+    },
+    "reviews_metadata": {
+      "1": {
+        "requested": 40,
+        "fetched": 0
+      },
+      "2": {
+        "requested": 40,
+        "fetched": 0
+      },
+      "3": {
+        "requested": 40,
+        "fetched": 0
+      },
+      "4": {
+        "requested": 40,
+        "fetched": 0
+      },
+      "5": {
+        "requested": 40,
+        "fetched": 0
+      }
+    }
+  },
+  "analysis": null
+}

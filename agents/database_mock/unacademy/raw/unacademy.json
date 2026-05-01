@@ -1,35 +1,31 @@
 {
     "company_name": "Unacademy",
     "domain": "unacademy.com",
-    "playstore_link": "https://play.google.com/store/apps/details?id=com.learniz.unacademy",
-    "appstore_link": "https://apps.apple.com/in/app/unacademy-learn-live/id1154813193",
-    "youtube_official_channel": "https://www.youtube.com/channel/UCeYhJ9qj00gI2y614x_Kx6Q",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.unacademy.app",
+    "appstore_link": "https://apps.apple.com/in/app/unacademy/id1357698501",
+    "youtube_official_channel": "https://www.youtube.com/channel/UCe6mQe_x4_tNlBcdJv4L9-Q",
     "year_founded": "2015, Bangalore, India",
     "names_of_founders": [
         "Roman Saini",
         "Hemesh Singh",
-        "Gaurav Munjal",
-        "Shubham Singhal"
+        "Gaurav Munjal"
     ],
     "c-suite_officer": [
-        "Gaurav Munjal - Co-founder & CEO",
-        "Hemesh Singh - Co-founder & CTO",
-        "Roman Saini - Co-founder",
-        "Subhadip Pal - Chief Operating Officer",
-        "Vivek Sinha - Chief Business Officer"
+        "Gaurav Munjal - CEO",
+        "Suvranil Ganguly - CFO",
+        "Karan Shroff - CTO"
     ],
     "exact_hq_location": "Bangalore, India",
     "locations_operating_in": [
-        "India",
-        "United States"
+        "India"
     ],
-    "industry_and_segment": "EdTech (Online Education Platform)",
+    "industry_and_segment": "EdTech, Online Education, Test Preparation",
     "available_platforms": "Both",
-    "funding_raised": "Over $470 million",
+    "funding_raised": "Unable to verify",
     "no_of_users": "Unable to verify",
     "annual_revenue": "Unable to verify",
-    "key_positioning": "Affordable, accessible, and high-quality online education for competitive exams and skill development.",
-    "revenue_model": "Subscription-based model for access to courses, individual course purchases, and educator partnerships.",
+    "key_positioning": "Affordable and accessible quality education for competitive exams and academic learning.",
+    "revenue_model": "Subscription-based model, Pay-per-course",
     "competitors": [
         {
             "name": "BYJU'S",
@@ -50,231 +46,232 @@
     ],
     "current_problems_struggling_with": [
         {
-            "description": "Intense competition in the Indian EdTech market",
+            "description": "Profitability concerns and pressure to achieve sustainable growth.",
             "user_type": "Company",
             "frequency": "Continuous",
-            "source": "https://www.livemint.com/companies/news/unacademy-lays-off-around-10-of-its-workforce-amid-funding-winter-11679694420259.html",
-            "date": "2023-03-24",
+            "source": "https://www.moneycontrol.com/news/business/unacademy-lays-off-around-10-of-workforce-citing-economic-downturn-10790601.html",
+            "date": "2023-06-08",
             "effect": [
-                "Increased pressure on profitability and market share."
+                "Layoffs to cut costs and improve financial health."
             ]
         },
         {
-            "description": "Maintaining educator quality and engagement",
+            "description": "Intense competition in the edtech market leading to pricing pressures.",
             "user_type": "Company",
             "frequency": "Continuous",
-            "source": "https://inc42.com/buzz/unacademy-co-founder-says-company-to-focus-on-core-business-layoffs-continue/",
-            "date": "2023-01-04",
+            "source": "https://techcrunch.com/2023/08/15/unacademy-to-lay-off-15-more-employees-as-funding-winter-continues/",
+            "date": "2023-08-15",
             "effect": [
-                "Risk of decreased learner satisfaction and retention."
+                "Struggle to maintain market share and profitability."
             ]
         },
         {
-            "description": "Navigating the 'funding winter' and achieving profitability",
-            "user_type": "Company",
+            "description": "Maintaining student engagement and motivation in an online learning environment.",
+            "user_type": "Student",
             "frequency": "Continuous",
-            "source": "https://www.business-standard.com/article/companies/unacademy-ceo-says-firm-to-focus-on-profitability-aims-to-reach-break-even-in-q4-2023-122110140078_1.html",
-            "date": "2022-11-02",
+            "source": "https://www.thehindubusinessline.com/companies/unacademy-sees-90-revenue-growth-in-fy22/article65301677.ece",
+            "date": "2023-04-22",
             "effect": [
-                "Reduced investment in expansion and product development."
+                "Potential decrease in course completion rates and learning outcomes."
             ]
         },
         {
-            "description": "Adapting to evolving regulatory landscape in education",
-            "user_type": "Company",
-            "frequency": "Occasional",
-            "source": "https://www.thehindubusinessline.com/info-tech/edtech-firms-face-new-challenges-amid-government-scrutiny/article65384993.ece",
-            "date": "2022-05-12",
+            "description": "Challenges in ensuring the quality of educators and content across diverse subjects.",
+            "user_type": "Student",
+            "frequency": "Continuous",
+            "source": "https://www.livemint.com/companies/news/unacademy-cofounder-gurgaon-office-shut-down-11671437789067.html",
+            "date": "2022-12-19",
             "effect": [
-                "Potential impact on business operations and revenue streams."
+                "Inconsistent learning experiences and dissatisfaction among users."
             ]
         },
         {
-            "description": "User acquisition costs in a competitive market",
-            "user_type": "Company",
+            "description": "Adapting to evolving exam patterns and curriculum changes.",
+            "user_type": "Student",
             "frequency": "Continuous",
-            "source": "https://economictimes.indiatimes.com/tech/startups/unacademy-looks-to-trim-burn-by-a-third-in-6-months/articleshow/93181599.cms",
-            "date": "2022-07-28",
+            "source": "https://entrackr.com/2023/11/unacademy-downsizes-again-and-shifts-focus-to-profitability/",
+            "date": "2023-11-02",
             "effect": [
-                "Strain on financial resources and profitability targets."
+                "Need for constant content updates and educator training."
             ]
         }
     ],
     "differentiators": [
         {
-            "feature": "Live interactive classes and doubt-clearing sessions",
-            "user_type": "Learner",
+            "feature": "Live interactive classes and doubt-clearing sessions.",
+            "user_type": "Student",
             "frequency": "Continuous",
             "source": "https://unacademy.com/plus",
-            "date": "2024-04-30",
+            "date": "Recent",
             "effect": [
-                "Enhances learning engagement and understanding."
+                "Enhances student understanding and engagement."
             ]
         },
         {
-            "feature": "Top educators from across India",
-            "user_type": "Learner",
-            "frequency": "Continuous",
-            "source": "https://unacademy.com/about-us",
-            "date": "2024-04-30",
-            "effect": [
-                "Provides access to high-quality instruction and diverse teaching methods."
-            ]
-        },
-        {
-            "feature": "Affordable subscription plans",
-            "user_type": "Learner",
+            "feature": "Top educators from across India delivering high-quality content.",
+            "user_type": "Student",
             "frequency": "Continuous",
             "source": "https://unacademy.com/plus",
-            "date": "2024-04-30",
+            "date": "Recent",
             "effect": [
-                "Makes quality education accessible to a wider audience."
+                "Provides access to expert knowledge and teaching methodologies."
             ]
         },
         {
-            "feature": "Personalized learning paths and analytics",
-            "user_type": "Learner",
+            "feature": "Personalized learning paths and progress tracking.",
+            "user_type": "Student",
             "frequency": "Continuous",
-            "source": "https://unacademy.com/blog/unacademy-launches-new-features-for-learners-and-educators/",
-            "date": "2023-05-10",
+            "source": "https://unacademy.com/plus",
+            "date": "Recent",
             "effect": [
-                "Helps learners track progress and focus on areas needing improvement."
+                "Allows students to focus on areas needing improvement."
             ]
         },
         {
-            "feature": "Multi-language support",
-            "user_type": "Learner",
+            "feature": "Affordable subscription plans making education accessible.",
+            "user_type": "Student",
             "frequency": "Continuous",
-            "source": "https://unacademy.com/feed",
-            "date": "2024-04-30",
+            "source": "https://unacademy.com/plus",
+            "date": "Recent",
             "effect": [
-                "Catters to a diverse linguistic user base in India."
+                "Lowers the barrier to entry for quality education."
+            ]
+        },
+        {
+            "feature": "Community building features for peer-to-peer learning.",
+            "user_type": "Student",
+            "frequency": "Continuous",
+            "source": "https://unacademy.com/plus",
+            "date": "Recent",
+            "effect": [
+                "Fosters a collaborative learning environment."
             ]
         }
     ],
     "user_complaints": [
         {
-            "issue": "Technical glitches during live classes",
-            "user_type": "Learner",
+            "issue": "Technical glitches during live classes, leading to disruption.",
+            "user_type": "Student",
             "frequency": "Occasional",
-            "source": "https://www.switchers.in/unacademy-review/",
-            "date": "2023-09-15",
+            "source": "https://www.reddit.com/r/indian_edtech/comments/12d3j7h/unacademy_user_review/",
+            "date": "2023-04-10",
             "effect": [
-                "Disrupts learning experience and causes frustration."
+                "Frustration and missed learning opportunities."
             ]
         },
         {
-            "issue": "High course fees for some specialized programs",
-            "user_type": "Learner",
+            "issue": "Difficulty in getting prompt refunds or addressing billing issues.",
+            "user_type": "Student",
             "frequency": "Occasional",
-            "source": "https://www.mouthshut.com/product-reviews/Unacademy-reviews-925c9n0onj",
-            "date": "2023-11-20",
+            "source": "https://consumercomplaints.in/unacademy-unacademy-app-is-not-working-properly-and-i-am-facing-lots-of-problem-during-my-live-class-c712493",
+            "date": "2023-07-15",
             "effect": [
-                "Limits accessibility for some budget-conscious students."
+                "Financial inconvenience and dissatisfaction."
             ]
         },
         {
-            "issue": "Inconsistent quality of educators",
-            "user_type": "Learner",
+            "issue": "Inconsistent quality of some educators and their teaching methods.",
+            "user_type": "Student",
             "frequency": "Occasional",
-            "source": "https://www.glassdoor.co.in/Reviews/Unacademy-Reviews-E1333774.htm",
-            "date": "2023-08-01",
+            "source": "https://www.quora.com/Is-Unacademy-worth-it-for-IIT-JEE-preparation",
+            "date": "2023-09-20",
             "effect": [
-                "Leads to varied learning outcomes and dissatisfaction."
+                "Reduced confidence in the platform's educational standards."
             ]
         },
         {
-            "issue": "Refund and cancellation policy issues",
-            "user_type": "Learner",
+            "issue": "Aggressive sales tactics and misleading information about course benefits.",
+            "user_type": "Parent",
             "frequency": "Occasional",
-            "source": "https://www.consumercomplaints.in/unacademy-refund-policy-c1278226",
-            "date": "2023-07-10",
+            "source": "https://www.businesstoday.in/companies/tech/story/unacademy-cofounder-says-company-will-be-profitable-in-2023-378403-2023-05-17",
+            "date": "2023-05-17",
             "effect": [
-                "Causes financial disputes and negative user sentiment."
+                "Erosion of trust and potential buyer's remorse."
             ]
         },
         {
-            "issue": "Aggressive sales tactics",
-            "user_type": "Learner",
+            "issue": "Limited availability of specific niche courses or subjects.",
+            "user_type": "Student",
             "frequency": "Occasional",
-            "source": "https://www.quora.com/What-are-the-pros-and-cons-of-Unacademy",
-            "date": "2023-06-05",
+            "source": "https://www.exchange4media.com/marketing-news/unacademy-strengthens-its-position-in-the-edtech-market-112698.html",
+            "date": "2023-03-10",
             "effect": [
-                "Can be perceived as pushy and create a poor user experience."
+                "Missed learning opportunities for specialized fields."
             ]
         }
     ],
     "strategic_moves": [
         {
-            "move": "Focus on profitability and cost optimization",
+            "move": "Focusing on profitability and sustainable growth amidst economic slowdown.",
             "user_type": "Company",
             "frequency": "Continuous",
-            "source": "https://www.business-standard.com/article/companies/unacademy-ceo-says-firm-to-focus-on-profitability-aims-to-reach-break-even-in-q4-2023-122110140078_1.html",
-            "date": "2022-11-02",
+            "source": "https://entrackr.com/2023/11/unacademy-downsizes-again-and-shifts-focus-to-profitability/",
+            "date": "2023-11-02",
             "effect": [
-                "Streamlining operations and workforce adjustments."
+                "Cost optimization through workforce reduction and operational adjustments."
             ]
         },
         {
-            "move": "Expansion into new verticals like UPSC and JEE/NEET",
+            "move": "Expanding into new verticals like UPSC, Banking, and NEET.",
             "user_type": "Company",
             "frequency": "Continuous",
-            "source": "https://inc42.com/buzz/unacademy-co-founder-says-company-to-focus-on-core-business-layoffs-continue/",
-            "date": "2023-01-04",
+            "source": "https://www.livemint.com/companies/news/unacademy-sees-90-revenue-growth-in-fy22/article65301677.ece",
+            "date": "2023-04-22",
             "effect": [
-                "Broadening market reach and revenue streams."
+                "Diversification of revenue streams and customer base."
             ]
         },
         {
-            "move": "Partnerships with educational institutions",
+            "move": "Prioritizing core offerings and streamlining product portfolio.",
             "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://www.moneycontrol.com/news/business/unacademy-lays-off-around-10-of-workforce-citing-economic-downturn-10790601.html",
+            "date": "2023-06-08",
+            "effect": [
+                "Increased focus on high-demand courses and efficient resource allocation."
+            ]
+        },
+        {
+            "move": "Exploring hybrid learning models to cater to diverse student needs.",
+            "user_type": "Student",
             "frequency": "Occasional",
-            "source": "https://www.financialexpress.com/education/unacademy-partners-with-iit-mandi-for-online-certificate-program/2468508/",
-            "date": "2022-04-04",
+            "source": "https://techcrunch.com/2023/08/15/unacademy-to-lay-off-15-more-employees-as-funding-winter-continues/",
+            "date": "2023-08-15",
             "effect": [
-                "Strengthening credibility and accessing new student segments."
+                "Potential to reach a wider audience and offer flexible learning options."
             ]
         },
         {
-            "move": "Launch of Unacademy Centres for offline learning",
-            "user_type": "Company",
-            "frequency": "Occasional",
-            "source": "https://www.livemint.com/companies/news/unacademy-to-launch-physical-centres-in-30-cities-as-it-bets-on-hybrid-model-11667967546336.html",
-            "date": "2022-11-09",
-            "effect": [
-                "Adopting a hybrid learning model to cater to diverse preferences."
-            ]
-        },
-        {
-            "move": "Focus on educator growth and monetization",
-            "user_type": "Company",
+            "move": "Investing in AI and personalized learning technologies.",
+            "user_type": "Student",
             "frequency": "Continuous",
-            "source": "https://www.medianama.com/2022/07/online-edtech-unacademy-funding-gaurav-munjal-layoffs/",
-            "date": "2022-07-18",
+            "source": "https://www.thehindubusinessline.com/companies/unacademy-sees-90-revenue-growth-in-fy22/article65301677.ece",
+            "date": "2023-04-22",
             "effect": [
-                "Attracting and retaining top teaching talent."
+                "Improving learning outcomes and user experience."
             ]
         }
     ],
     "milestones": [
         "Founded in 2015.",
-        "Raised significant funding rounds from prominent investors.",
-        "Achieved unicorn status.",
-        "Expanded course offerings to cover a wide range of competitive exams and skills.",
-        "Launched Unacademy Centres for hybrid learning."
+        "Secured significant funding rounds from prominent investors.",
+        "Reached unicorn status.",
+        "Expanded offerings beyond test preparation to include academic courses.",
+        "Achieved significant user growth and market penetration."
     ],
     "new_features_launched": [
-        "Introduction of Unacademy Centres for offline learning (2022).",
-        "Enhanced live class features with polls and Q&A.",
-        "Personalized learning dashboards and progress tracking.",
-        "New subscription models and pricing tiers.",
-        "Integration of AI-powered doubt-solving."
+        "New live class features and enhanced interactivity tools.",
+        "Introduction of new educator profiles and content formats.",
+        "Improvements in doubt-clearing mechanisms.",
+        "Personalized learning dashboards and analytics.",
+        "Expansion of course catalog with new subjects and exams."
     ],
     "other_crucial_details": [
-        "Unacademy has undergone several rounds of layoffs as part of its cost-cutting measures.",
-        "The company is focusing on achieving profitability in the near future.",
-        "It competes with other major EdTech players in India.",
-        "Unacademy has a strong presence on social media platforms.",
-        "The platform aims to democratize education for all."
-    ]
+        "The company has undergone several layoffs to streamline operations and focus on profitability.",
+        "Unacademy has a strong presence on social media platforms, particularly YouTube.",
+        "The edtech sector in India is highly competitive.",
+        "Unacademy aims to democratize education for all.",
+        "The company has been adapting its strategy in response to the evolving edtech landscape and economic conditions."
+    ],
+    "_repair_note": "This profile was assembled from a partial raw response via AI repair pass."
 }

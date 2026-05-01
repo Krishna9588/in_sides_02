@@ -1,0 +1,58 @@
+{
+    "company_name": "Crest Data",
+    "domain": "https://www.crestdata.ai/",
+    "playstore_link": null,
+    "appstore_link": null,
+    "youtube_official_channel": "https://www.youtube.com/@CrestData",
+    "year_founded": "2013, San Jose, California, USA",
+    "names_of_founders": [
+        "Malhar Shah",
+        "Neha Shah"
+    ],
+    "c-suite_officer": [
+        "Malhar Shah - Co-founder and Chief Executive Officer",
+        "Neha Shah - Co-founder and Chief Technology Officer",
+        "Nirav Thakkar - Chief Financial Officer",
+        "Gaytri Khandelwal - VP of Sales",
+        "Colwin F. - VP of Engineering"
+    ],
+    "exact_hq_location": "3031 Tisch Way, STE 602, San Jose, CA 95128, USA",
+    "locations_operating_in": [
+        "San Jose, California, USA",
+        "Ahmedabad, Gujarat, India",
+        "Pune, Maharashtra, India"
+    ],
+    "industry_and_segment": "Information Technology & Services, specializing in Data and AI-driven technology solutions, Cybersecurity, Observability, Data Analytics, DevOps, MLOps, and Cloud Services for enterprises and technology innovators.",
+    "available_platforms": "Web",
+    "funding_raised": "No funding raised",
+    "no_of_users": "175+ global customers",
+    "annual_revenue": "Ranges from $100M to $500M annually",
+    "key_positioning": "Crest Data is a data and AI-driven technology solutions provider for enterprises and technology innovators in Cybersecurity and Observability. They design, build, and operationalize high-impact products, platforms, and ecosystems for data and AI use cases, delivering security, visibility, and actionable intelligence at scale.",
+    "revenue_model": "Service-based, offering Product Engineering, Managed Services, Professional Services, and Consulting for enterprise clients in data analytics, cybersecurity, DevOps, and cloud solutions.",
+    "competitors": [
+        {
+            "name": "UST",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "Hewlett Packard Enterprise",
+            "domain": "hpe.com"
+        },
+        {
+            "name": "Mindtree",
+            "domain": "Unable to verify"
+        },
+        {
+            "name": "Accenture",
+            "domain": "accenture.com"
+        }
+    ],
+    "current_problems_struggling_with": [],
+    "differentiators": [],
+    "user_complaints": [],
+    "strategic_moves": [],
+    "milestones": [],
+    "new_features_launched": [],
+    "other_crucial_details": [],
+    "_phase_b_note": "Phase B (deep analysis) failed — all models exhausted."
+}

@@ -17,27 +17,13 @@ class GeminiCompanyResearcher:
     """
 
     def __init__(self, api_key: Optional[str] = None):
-        # self.api_key = api_key or os.getenv("GEMINI_API_KEY")
-        self.api_key = "AIzaSyDaTCz6YKoEEMGPSfi9x6IgD6DMn-sf_Eg"
-        print(self.api_key)
+        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
         if not self.api_key:
             raise ValueError("API Key not found. Please set GEMINI_API_KEY in your .env.example file.")
 
         # Initialize the Google GenAI Client
         self.client = genai.Client(api_key=self.api_key)
         self.model = "gemini-2.5-flash"
-        # self.model = "gemini-2.5-flash"
-        # self.model = "gemini-3-flash-preview"
-        # self.model = "gemini-3.1-flash-lite-preview"
-
-        # self.model = "gemini-3-flash-preview"
-
-        # ---- Other models
-        # self.model = "gemini-2.0-flash-lite"
-        # self.model = "gemini-flash-latest"
-        # self.model = "gemini-2.5-flash" # works pretty good
-        # self.model = "gemini-2.0-flash"
-        # self.model = "gemini-3-flash-preview"
 
         # Updated schema with detailed analysis objects for critical categories
         self.json_schema_instruction = """

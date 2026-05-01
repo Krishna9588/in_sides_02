@@ -1,0 +1,53 @@
+[00:00] Arjun: Welcome everyone. Let us dive right into the new TradeZapp execution pipeline. Our main goal today is to review how we are reducing trade execution latency for our retail users. Priya, please update us on the infrastructure side.
+
+[01:15] Priya: Thanks Arjun. We completed the core API bridge yesterday. Our system now natively links the SEBI registered research signals directly to the broker execution layer. This completely removes the manual translation layer that used to slow down our users.
+
+[03:30] Rahul: That is a massive win for the quantitative team. Our AI models generate precise entry and exit signals based on volatility patterns and Options Greeks. Previously retail traders hesitated or made manual errors when trying to copy these signals into their trading accounts.
+
+[05:45] Neha: The user experience is much cleaner now because of this. When Rahul sends a signal from the research side, it appears on the user dashboard instantly. The user sees their available capital and risk metrics on one single screen. They just tap once to confirm the algorithmic trade.
+
+[07:20] Arjun: How is the system handling the high frequency data payloads? We need to ensure the Golden Crossover and daily breakout screeners do not lag during peak market hours.
+
+[09:10] Priya: We separated the data pipelines to solve that. The AI trend analyzer runs on a dedicated server cluster. It processes the fundamental data and sector trends independently. Once a stock hits the predefined target or stop loss, the system generates a structured JSON payload.
+
+[11:05] Rahul: Exactly. That payload contains the exact position size recommendation. We calculate this dynamically based on the specific risk profile of the user. For Futures and Options traders, the algorithm also calculates the required upfront margin in real time.
+
+[13:30] Arjun: That sounds solid. Neha, how are the premium users reacting to the new interface? I am especially curious about the Pro Gold and Pro Super subscribers who use the automated baskets.
+
+[15:15] Neha: The early feedback is highly positive. We removed a lot of screen clutter recently. The old design had too many trade cards and marketing text on the first screen. We simplified the typography and made the primary action buttons very obvious.
+
+[16:40] Priya: We also fixed the onboarding latency. Users can now complete their KYC process using Google autofill. We reduced the sign up time by half. Once their PAN and Aadhaar details are verified, their demat account activates automatically within hours.
+
+[17:50] Arjun: What about the zero brokerage equity delivery routing? Is the pricing logic working correctly at the execution layer to ensure accurate billing?
+
+[18:30] Priya: Yes it is. The billing engine verifies the trade segment before execution. If it is an equity delivery trade, the system applies the zero brokerage rule. For commodity trades on the MCX bridge, it applies the standard regulatory charges.
+
+[19:15] Rahul: We also implemented strict compliance checks across all these automated trades. Every trade idea includes a clear rationale and risk parameters. We encrypt all user transaction data to stay fully compliant with SEBI regulations.
+
+[22:15] Neha: Let us move to the subscription models. The Pro Super tier needs a smoother payment flow. We are seeing some drop offs on the UPI mandate authorization page.
+
+[25:30] Priya: We are working with the payment gateway team on that. We will implement their new mandate API next week. This should reduce the authentication steps from three down to one.
+
+[28:45] Rahul: That will help a lot. The algorithmic trading baskets are restricted to Pro Super users right now. If the payment fails they miss out on time sensitive market entries.
+
+[31:10] Arjun: Exactly. We cannot have payment latency affecting trade execution. Let us also discuss the stock screener database. How are we handling the real time corporate actions?
+
+[34:20] Priya: We moved the corporate actions to a Kafka event stream. When a company announces a dividend or stock split our data provider pushes an event. Our system recalculates the historical charts instantly.
+
+[37:40] Rahul: This is crucial for our valuation models. The price to earnings ratio needs to reflect the new share count immediately. Otherwise our AI will generate false breakout signals.
+
+[40:15] Neha: From the user side we added a small notification bubble for these events. If a user holds a stock that declares a dividend they see an alert on their portfolio page.
+
+[43:30] Arjun: That is a great addition Neha. What is the status of the referral engine? I know we wanted to gamify the reward points.
+
+[46:50] Priya: The backend for the Univest Coin ledger is ready. We used a distributed database to ensure there are no double spending issues. When a referred user completes their first trade the system credits both accounts instantly.
+
+[49:15] Rahul: We are also tracking the quality of these referrals. The analytics team built a model to predict the lifetime value of users coming through this channel.
+
+[52:30] Neha: I updated the UI to show a leaderboard. Users can see their rank based on how many successful referrals they made. This should drive more organic growth.
+
+[55:40] Arjun: Perfect. Before we wrap up we need to look at our server costs. The cloud bills are creeping up with all this new real time processing.
+
+[58:10] Priya: We are migrating some of the heavy data crunching to spot instances. This will cut the processing costs by forty percent without affecting the live trading infrastructure.
+
+[60:00] Arjun: Excellent plan. Let us review the spot instance performance next week. Thanks everyone for the updates. Have a great day ahead.

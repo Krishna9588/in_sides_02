@@ -1,0 +1,335 @@
+{
+    "company_name": "StockEdge",
+    "domain": "https://stockedge.com/",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.kredentinfoedge.stockedge",
+    "appstore_link": "https://apps.apple.com/in/app/stockedge-stock-market-app/id1162460268",
+    "youtube_official_channel": "https://www.youtube.com/@StockEdge",
+    "linkedin_company_page": "https://www.linkedin.com/company/stockedge-app/",
+    "year_founded": "2016 — Kolkata, India",
+    "names_of_founders": [
+        "Vivek Bajaj",
+        "Bipin Kumar Bajaj",
+        "Binay Bajaj",
+        "Vikash Bajaj",
+        "Vinay Pagaria",
+        "Vineet Patawari",
+        "Bajranglal Bajaj",
+        "Sangeeta Bajaj"
+    ],
+    "c-suite_officer": [
+        "Vineet Patawari - Co-Founder & CEO",
+        "Vivek Bajaj - Co-Founder",
+        "Vinay Pagaria - Co-Founder",
+        "Vinit Pagaria - Head of Data and Research"
+    ],
+    "employee_count": "114",
+    "exact_hq_location": "J-1/14, Block - EP and GP, 9th Floor, Sector V, SaltLake City, Kolkata, West Bengal 700071, India",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "FinTech, Information Services (B2C), Financial Software for Indian stock market research and analytics",
+    "available_platforms": "Both",
+    "funding_raised": "$1.61M",
+    "funding_stage": "Seed",
+    "no_of_users": "2 Million app downloads",
+    "annual_revenue": "$34.5M",
+    "key_positioning": "Empowering Indian stock market traders and investors with self-research and analytics tools across fundamental, technical, and derivatives research, focused on simplifying finance for all.",
+    "revenue_model": "Freemium model with paid subscriptions for advanced features and premium content.",
+    "pricing_tiers": [
+        "Premium: ₹399/month (₹2999/year) — for active investors wanting curated ideas, combination scans, sector context.",
+        "Pro: ₹1499/month (₹11989/year) — for investors wanting full control with complete market intelligence, industry analytics, and chart patterns.",
+        "Club: ₹2499/month (₹23989/year) — includes all Pro features plus analyst support, expert recommendations, and live market query resolution."
+    ],
+    "target_customer_segments": [
+        "Retail investors (India)",
+        "First-time market participants",
+        "Existing traders and investors",
+        "Swing traders",
+        "Momentum investors",
+        "Long-term investors"
+    ],
+    "tech_stack_highlights": [
+        "AI Chart Patterns",
+        "Machine Learning",
+        "Data Analytics"
+    ],
+    "milestones": [
+        "Founded in 2016 in Kolkata, India.",
+        "Raised first external funding (Pre-Series A from Ramesh Damani) in October 2018.",
+        "Received $1.34M in Seed funding from Kotak Securities as part of a total $1.61M raised, as of July 2021.",
+        "Launched StockEdge Club (a community for stock market investors).",
+        "Reached 2 million app downloads combined on Play Store and App Store."
+    ],
+    "new_features_launched": [
+        "Launched AI-powered screening mechanism to automatically identify Chart Patterns (Triangular, Flag, Head and Shoulders, Wedge patterns) — Jan 2023"
+    ],
+    "recent_partnerships_and_integrations": [
+        {
+            "partner": "National Stock Exchange (NSE)",
+            "type": "Integration",
+            "description": "Platform integrates directly with NSE for real-time market data.",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-UvVxEgYM3QWl678WxJ66SgsqIDQqcadYrF9XL_PZWbjvk2O2RKGnBjgs7JFi8zB2IVgrZKRaxeCehQz0vrd7eym5TxUot53pWsLbrdBH4sB88MF-QnCfwE7rMwwAVDb3Joci",
+            "date": "Current as of 2026-01-14"
+        },
+        {
+            "partner": "Bombay Stock Exchange (BSE)",
+            "type": "Integration",
+            "description": "Platform integrates directly with BSE for real-time market data.",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-UvVxEgYM3QWl678WxJ66SgsqIDQqcadYrF9XL_PZWbjvk2O2RKGnBjgs7JFi8zB2IVgrZKRaxeCehQz0vrd7eym5TxUot53pWsLbrdBH4sB88MF-QnCfwE7rMwwAVDb3Joci",
+            "date": "Current as of 2026-01-14"
+        },
+        {
+            "partner": "Zerodha",
+            "type": "Integration",
+            "description": "Integration with Zerodha, a renowned trading platform, for seamless transition from research to trading.",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-UvVxEgYM3QWl678WxJ66SgsqIDQqcadYrF9XL_PZWbjvk2O2RKGnBjgs7JFi8zB2IVgrZKRaxeCehQz0vrd7eym5TxUot53pWsLbrdBH4sB88MF-QnCfwE7rMwwAVDb3Joci",
+            "date": "Current as of 2026-01-14"
+        },
+        {
+            "partner": "Angel One",
+            "type": "Integration",
+            "description": "Integration with Angel One, a renowned trading platform, for seamless transition from research to trading.",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-UvVxEgYM3QWl678WxJ66SgsqIDQqcadYrF9XL_PZWbjvk2O2RKGnBjgs7JFi8zB2IVgrZKRaxeCehQz0vrd7eym5TxUot53pWsLbrdBH4sB88MF-QnCfwE7rMwwAVDb3Joci",
+            "date": "Current as of 2026-01-14"
+        }
+    ],
+    "competitors": [
+        {
+            "name": "Tickertape",
+            "domain": "tickertape.in"
+        },
+        {
+            "name": "Trendlyne",
+            "domain": "trendlyne.com"
+        },
+        {
+            "name": "Screener.in",
+            "domain": "screener.in"
+        },
+        {
+            "name": "TradingView",
+            "domain": "tradingview.com"
+        }
+    ],
+    "market_sentiment": {
+        "overall": "Mixed",
+        "analyst_view": "Analysts generally view StockEdge positively, recognizing its comprehensive research and analytics tools as valuable for both new and experienced investors in the Indian market. They see it as an effective tool for data-driven decision-making.",
+        "user_community_view": "User sentiment is predominantly positive, with appreciation for the platform's detailed analysis, ease of use for self-research, and diverse features. However, there are occasional negative reviews regarding customer support, charting limitations, and reported refund issues.",
+        "source": "https://tradersunion.com/brokers/analytics-services/stockedge-review/, https://medium.com/@strikemoney/stockedge-review-data-backed-2026-features-pros-vs-cons-pricing-reviews-is-it-worth-it-6ec64551ee6d, https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN&gl=US, https://www.trustpilot.com/review/stockedge.com",
+        "date": "Recent"
+    },
+    "current_problems_struggling_with": [
+        {
+            "description": "Advanced traders find limited customization options for creating their own indicators compared to more advanced platforms.",
+            "user_type": "Experienced traders, Advanced investors",
+            "frequency": "Occasional",
+            "source": "https://medium.com/@strikemoney/stockedge-review-data-backed-2026-features-pros-vs-cons-pricing-reviews-is-it-worth-it-6ec64551ee6d",
+            "date": "2026-04-16",
+            "effect": [
+                "May seek alternative platforms or supplement StockEdge with other tools for specific needs."
+            ]
+        },
+        {
+            "description": "Users might over-rely on pre-built scans without thoroughly understanding the market context, potentially leading to suboptimal decisions.",
+            "user_type": "Beginners, Less experienced traders",
+            "frequency": "Occasional",
+            "source": "https://medium.com/@strikemoney/stockedge-review-data-backed-2026-features-pros-vs-cons-pricing-reviews-is-it-worth-it-6ec64551ee6d",
+            "date": "2026-04-16",
+            "effect": [
+                "Potential for poor trading decisions and financial losses if context is ignored."
+            ]
+        },
+        {
+            "description": "Charting features are perceived as basic by some users who prefer more advanced tools like TradingView for in-depth technical analysis.",
+            "user_type": "Technical analysts, Active traders",
+            "frequency": "Occasional",
+            "source": "https://www.reddit.com/r/IndianStockMarket/comments/17gvw2p/has_anyone_used_stockedge_interactive_advanced/",
+            "date": "2025-10-26",
+            "effect": [
+                "Users may need to utilize multiple platforms for comprehensive charting capabilities."
+            ]
+        },
+        {
+            "description": "Despite simplification efforts, the extensive data and features can present a steep learning curve for new and beginner investors.",
+            "user_type": "First-time market participants, Beginners",
+            "frequency": "Occasional",
+            "source": "https://medium.com/@strikemoney/stockedge-review-data-backed-2026-features-pros-vs-cons-pricing-reviews-is-it-worth-it-6ec64551ee6d",
+            "date": "2026-04-16",
+            "effect": [
+                "Users may require time to master the platform or become discouraged."
+            ]
+        },
+        {
+            "description": "Some users report delays and eventual denials of refund requests, particularly after subscription expiry.",
+            "user_type": "Paid subscribers",
+            "frequency": "Rare",
+            "source": "https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN&gl=US",
+            "date": "2024-04-19",
+            "effect": [
+                "Leads to significant financial loss for the user and negative customer experience."
+            ]
+        },
+        {
+            "description": "A user reported that trading strategies demonstrated during the sales call were not updated daily as promised, leading to perceived financial loss.",
+            "user_type": "Paid subscribers, Traders",
+            "frequency": "Rare",
+            "source": "https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN&gl=US",
+            "date": "2024-04-19",
+            "effect": [
+                "Loss of trust in the platform's guidance and potential for trading losses."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Users report being misled about daily strategy updates and refund policies during the subscription sales process.",
+            "user_type": "New paid subscribers",
+            "frequency": "Rare",
+            "source": "https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN&gl=US",
+            "date": "2024-04-19",
+            "effect": [
+                "Financial loss and negative perception of the company's ethical standards."
+            ]
+        },
+        {
+            "issue": "Complaints about delayed processing and eventual denial of refund requests for subscriptions.",
+            "user_type": "Paid subscribers",
+            "frequency": "Rare",
+            "source": "https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN&gl=US",
+            "date": "2024-04-19",
+            "effect": [
+                "Significant financial impact and severe dissatisfaction with customer service."
+            ]
+        },
+        {
+            "issue": "Dissatisfaction with customer support, including frustrating interactions and refusal to support via preferred channels like Telegram.",
+            "user_type": "Paid subscribers",
+            "frequency": "Occasional",
+            "source": "https://play.google.com/store/apps/details?id=com.kredent.stockedge&hl=en_IN&gl=US",
+            "date": "2024-04-19",
+            "effect": [
+                "Increased user frustration and a perceived lack of effective support."
+            ]
+        },
+        {
+            "issue": "Some users find the chart display lacking in clarity and flexibility for their analysis needs.",
+            "user_type": "Technical analysts, Active traders",
+            "frequency": "Occasional",
+            "source": "https://webapp.stockedge.com/ratings",
+            "date": "2023-10-23",
+            "effect": [
+                "Hindrance in effective technical analysis, potentially requiring external tools."
+            ]
+        },
+        {
+            "issue": "A user requested implementing live price updates for stocks to make the application more suitable for real-time trading decisions.",
+            "user_type": "Active traders, Intraday traders",
+            "frequency": "Rare",
+            "source": "https://www.complaintboard.in/complaints-reviews/stock-edge-l201948.html",
+            "date": "2026-01-20",
+            "effect": [
+                "Limits the app's utility for time-sensitive trading strategies."
+            ]
+        },
+        {
+            "issue": "A user expressed a desire for StockEdge to have physical offices outside of Kolkata.",
+            "user_type": "All users",
+            "frequency": "Rare",
+            "source": "https://www.trustpilot.com/review/stockedge.com",
+            "date": "2022-12-26",
+            "effect": [
+                "May lead to a perception of limited regional presence or accessibility for some users."
+            ]
+        }
+    ],
+    "regulatory_and_legal_issues": [],
+    "other_crucial_details": [
+        "StockEdge has a significant user base with over 5 million app downloads and 500,000 active traders and investors as of April 2026.",
+        "The platform aims to empower retail investors by simplifying finance and enabling them to perform their own market research and analytics.",
+        "StockEdge provides in-app structured learning content and video tutorials to help users understand financial concepts and effectively use the platform's features."
+    ],
+    "differentiators": [
+        {
+            "feature": "AI-powered screening mechanism to automatically identify various chart patterns (Triangular, Flag, Head & Shoulders, Wedge).",
+            "user_type": "Technical traders, Swing traders",
+            "frequency": "Continuous",
+            "source": "https://www.stockedge.com/media/press-releases/stockedge-launches-ai-powered-screening-mechanism-to-automatically-identify-chart-patterns-in-different-stocks-with-stockedge-pro",
+            "date": "2023-01-25",
+            "effect": [
+                "Simplifies complex technical analysis, saves time, and helps in identifying trading opportunities quickly."
+            ]
+        },
+        {
+            "feature": "Offers a comprehensive suite of self-research and analytics tools for fundamental, technical, and derivatives research on Indian markets.",
+            "user_type": "Retail investors, Traders (all types)",
+            "frequency": "Continuous",
+            "source": "https://www.stockedge.com/overview",
+            "date": "Recent",
+            "effect": [
+                "Empowers users to perform in-depth market analysis and make informed investment decisions independently."
+            ]
+        },
+        {
+            "feature": "Provides broker integration with leading Indian platforms like Zerodha and Angel One, streamlining the transition from analysis to trading.",
+            "user_type": "Active traders, Investors",
+            "frequency": "Continuous",
+            "source": "https://medium.com/@strikemoney/stockedge-review-data-backed-2026-features-pros-vs-cons-pricing-reviews-is-it-worth-it-6ec64551ee6d",
+            "date": "2026-01-14",
+            "effect": [
+                "Enhances efficiency and user convenience by allowing direct execution of trades based on research."
+            ]
+        },
+        {
+            "feature": "Focuses on delivering ready-made insights and curated scans, simplifying complex data for a wider audience.",
+            "user_type": "Beginners, Swing traders, Long-term investors",
+            "frequency": "Continuous",
+            "source": "https://medium.com/@strikemoney/stockedge-review-data-backed-2026-features-pros-vs-cons-pricing-reviews-is-it-worth-it-6ec64551ee6d",
+            "date": "2026-04-16",
+            "effect": [
+                "Reduces analysis time and makes market intelligence more accessible and actionable."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Continuously launching new product versions with enhanced features like Chart Patterns, Stock Deliveries, and improved derivatives analytics.",
+            "user_type": "All users",
+            "frequency": "Continuous",
+            "source": "https://www.stockedge.com/blog/stockedge-version-11-2-key-features-updates/",
+            "date": "2026-04-22",
+            "effect": [
+                "Maintains competitive edge, improves user experience, and attracts new users by offering advanced tools."
+            ]
+        },
+        {
+            "move": "Partnered with 'India's Future Investors' reality show to simplify investment learning, expanding reach and promoting financial literacy.",
+            "user_type": "Potential new investors, Beginners",
+            "frequency": "Rare",
+            "source": "https://www.stockedge.com/media",
+            "date": "2025-03-11",
+            "effect": [
+                "Increases brand visibility and positions StockEdge as a leader in financial education."
+            ]
+        },
+        {
+            "move": "Introduced 'Fundamental Score' based on 30+ financial parameters to provide a simplified evaluation of company fundamentals.",
+            "user_type": "Fundamental investors, Beginners",
+            "frequency": "Continuous",
+            "source": "https://www.stockedge.com/news-updates/whats-new",
+            "date": "2026-04-21",
+            "effect": [
+                "Simplifies complex financial analysis, making it quicker and more accessible for investors."
+            ]
+        },
+        {
+            "move": "Enhanced Sector Rotation and Market Breadth features with Momentum Scores for more precise trend identification.",
+            "user_type": "Swing traders, Momentum investors",
+            "frequency": "Continuous",
+            "source": "https://web.stockedge.com/news-updates/whats-new",
+            "date": "Recent",
+            "effect": [
+                "Provides users with sharper insights for identifying market trends and strong performing sectors."
+            ]
+        }
+    ]
+}
