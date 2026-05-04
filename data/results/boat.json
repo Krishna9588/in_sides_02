@@ -1,0 +1,373 @@
+{
+    "company_name": "Boat",
+    "domain": "https://www.boat-lifestyle.com/",
+    "playstore_link": "https://play.google.com/store/apps/details?id=com.imagine.hearables&hl=en_IN",
+    "appstore_link": "https://apps.apple.com/in/app/boat-hearables/id1552550186",
+    "youtube_official_channel": "https://www.youtube.com/@boAt.lifestyle",
+    "linkedin_company_page": "http://www.linkedin.com/company/boat-lifestyle",
+    "year_founded": "2016, Delhi, India / Gurugram, Haryana, India",
+    "names_of_founders": [
+        "Aman Gupta",
+        "Sameer Mehta"
+    ],
+    "c-suite_officer": [
+        "Sameer Mehta - Co-founder, CEO, Chief Product Officer",
+        "Aman Gupta - Co-founder, Chief Marketing Officer",
+        "Gaurav Nayyar - CEO, Imagine Marketing (Parent Company)",
+        "Rakesh Thakur - Group Chief Financial Officer",
+        "Shreekant Jayram Sawant - Company Secretary & Compliance Officer"
+    ],
+    "employee_count": "501 to 1000",
+    "exact_hq_location": "Unit Number 204 & 205, 2nd Floor, D-wing & E-wing; Corporate Avenue, Andheri Ghatkopar Link Road, Mumbai, Maharashtra 400093, India",
+    "locations_operating_in": [
+        "India"
+    ],
+    "industry_and_segment": "Consumer Electronics, Audio and Wearables (Earphones, Headphones, Speakers, Smartwatches), Lifestyle",
+    "available_platforms": "Web & Mobile (both)",
+    "funding_raised": "$177 million",
+    "funding_stage": "Private Equity-Backed, In IPO Registration",
+    "no_of_users": "Unable to verify",
+    "annual_revenue": "over ₹3,000 crore by 2023",
+    "key_positioning": "Affordable, stylish, high-quality audio products and wearables designed as a lifestyle brand for youth, millennials, and Gen Z, offering value for money with trendy designs.",
+    "revenue_model": "Product sales (Direct-to-Consumer, E-commerce platforms like Amazon and Flipkart, offline retail), royalties from licensing, partnership deals.",
+    "pricing_tiers": [],
+    "target_customer_segments": [
+        "Youth (18-35)",
+        "Millennials and Gen Z",
+        "Tech-savvy consumers",
+        "Fashion-conscious individuals",
+        "Budget-conscious consumers"
+    ],
+    "tech_stack_highlights": [
+        "Google Analytics",
+        "Google Tag Manager",
+        "Facebook Custom Audiences",
+        "Facebook Login (Connect)",
+        "Facebook Widget",
+        "Google AdWords",
+        "AI",
+        "Amazon AWS",
+        "Bootstrap Framework"
+    ],
+    "milestones": [
+        "Founded in 2016.",
+        "Secured a major investment of $100 million from Warburg Pincus in January 2021.",
+        "Achieved $1 billion valuation, marking it as a unicorn startup.",
+        "Became India's #1 Audio and Wearable brand.",
+        "Ranked as the world's 2nd largest wearable brand (IDC Q3 2022).",
+        "Expanded product line to include wearables, gaming headphones, and smartwatches.",
+        "Annual revenue grew to over ₹3,000 crore by 2023."
+    ],
+    "new_features_launched": [
+        "Nirvana Eutopia Spatial Audio headphones with CEVA's technology and head tracking (expected Q1 2024).",
+        "Nirvana 525ANC with Mimi's Sound Personalization technology (launched June 2023).",
+        "Rockerz Apex, Nirvana Nebula, and Airdopes Synth featuring Dirac Virtuo™ powered Spatial Audio (teased for 2023 launch).",
+        "Product line expansion into new categories like gaming headphones and smartwatches."
+    ],
+    "recent_partnerships_and_integrations": [
+        {
+            "partner": "Antara Senior Care (part of The Max Group)",
+            "type": "Strategic Partnership",
+            "description": "To develop innovative devices specifically designed for senior citizens in India, focusing on health tracking, sleep monitoring, fall detection, and hearing enhancement.",
+            "source": "https://cxodigitalpulse.com/boat-lifestyle-partners-with-antara-senior-care-to-develop-tailored-devices-for-senior-citizens/",
+            "date": "2025-02-04"
+        },
+        {
+            "partner": "Ceva, Inc.",
+            "type": "Strategic Partnership",
+            "description": "Collaboration to deliver technology innovation across boAt’s next-generation lifestyle-focused consumer products (TWS earbuds, neckbands, headphones, speakers, smartwatches). The first product is Nirvana Eutopia Spatial Audio headphones with CEVA's Bluetooth, Audio AI DSP, and RealSpace® spatial audio software.",
+            "source": "https://www.prnewswire.com/news-releases/ceva-and-indias-no-1-audio-and-wearable-brand-boat-announce-strategic-partnership-to-enhance-the-wireless-audio-experience-302027582.html",
+            "date": "2024-01-08"
+        },
+        {
+            "partner": "Mimi",
+            "type": "Strategic Partnership",
+            "description": "Integration of Mimi's Sound Personalization technology into boAt's products, starting with the Nirvana 525ANC neckband to offer customized audio experiences based on individual hearing profiles.",
+            "source": "https://mimi.io/blog/mimi-celebrates-new-partnership-with-boat",
+            "date": "2023-06-13"
+        },
+        {
+            "partner": "Dirac",
+            "type": "Strategic Partnership",
+            "description": "Showcasing Dirac Opteo™ powered Neckbands (Rockerz 330/333 ANC) and teasing upcoming products like Rockerz Apex, Nirvana Nebula, and Airdopes Synth featuring Dirac Virtuo™ powered Spatial Audio.",
+            "source": "https://www.ce.org/news/press-kits/2023/boat-to-unveil-and-showcase-the-best-of-their-2023-line-up-at-ces/",
+            "date": "2023-01-04"
+        },
+        {
+            "partner": "Masaba Gupta (Designer)",
+            "type": "Strategic Partnership",
+            "description": "Collaboration to launch a limited edition of headphones, showcasing boAt as a fashion accessory and appealing to a style-conscious audience.",
+            "source": "https://franchise.ind.in/news/boat-partners-with-designer-masaba-gupta-launches-a-limited-edition-of-headphones-13355",
+            "date": "2026-03-06"
+        }
+    ],
+    "competitors": [
+        {
+            "name": "Noise",
+            "domain": "https://www.gonoise.com/"
+        },
+        {
+            "name": "OnePlus",
+            "domain": "https://www.oneplus.in/"
+        },
+        {
+            "name": "Xiaomi",
+            "domain": "https://www.mi.com/in/"
+        },
+        {
+            "name": "JBL",
+            "domain": "https://in.jbl.com/"
+        }
+    ],
+    "regulatory_and_legal_issues": [
+        {
+            "issue": "Major data breach affecting 7.5 million customers' information.",
+            "jurisdiction": "India",
+            "status": "Under Investigation",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8DQbJP_Ah2qRz4wY3YsuG2xR9izZkNWPGQlMfDYoVm0zA4CF24trIrPSVOhIHumQyB4Hu1gvd0cC3zI-EXrh6I2tezxg6E7IuTrq7NcrgGMOUbx2eKQVEEBhr4v89uOK6Ox-c0gF_0g9iJDewjEXOIFnl5WEL9ZaQTFufZw==",
+            "date": "2024-04",
+            "effect": [
+                "Significant reputational damage and potential regulatory fines and loss of customer trust."
+            ]
+        },
+        {
+            "issue": "Auditor BSR & Co. raised concerns (red flags) regarding financials in the Draft Red Herring Prospectus (DRHP).",
+            "jurisdiction": "India (SEBI)",
+            "status": "Active",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8DQbJP_Ah2qRz4wY3YsuG2xR9izZkNWPGQlMfDYoVm0zA4CF24trIrPSVOhIHumQyB4Hu1gvd0cC3zI-EXrh6I2tezxg6E7IuTrq7NcrgGMOUbx2eKQVEEBhr4v89uOK6Ox-c0gF_0g9iJDewjEXOIFnl5WEL9ZaQTFufZw==",
+            "date": "FY23-FY25",
+            "effect": [
+                "Challenges in IPO process and scrutiny over financial transparency."
+            ]
+        },
+        {
+            "issue": "Criticism and questions regarding the authenticity of 'Made in India' claims due to high reliance on imported components.",
+            "jurisdiction": "India",
+            "status": "Unknown",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8DQbJP_Ah2qRz4wY3YsuG2xR9izZkNWPGQlMfDYoVm0zA4CF24trIrPSVOhIHumQyB4Hu1gvd0cC3zI-EXrh6I2tezxg6E7IuTrq7NcrgGMOUbx2eKQVEEBhr4v89uOK6Ox-c0gF_0g9iJDewjEXOIFnl5WEL9ZaQTFufZw==",
+            "date": "Recent",
+            "effect": [
+                "Reputational risk, potential consumer backlash, and impact on nationalist brand image."
+            ]
+        }
+    ],
+    "market_sentiment": {
+        "overall": "Mixed",
+        "analyst_view": "Analysts indicate a decline in BoAt's performance, citing falling revenue, recent losses, and market share erosion, suggesting a challenging outlook despite past success. Some believe 'BoAt's best days are behind it.'",
+        "user_community_view": "While a segment of loyal users exists, recent online reviews across platforms like Trustpilot and MouthShut reflect significant dissatisfaction with product quality, unreliable warranty service, and poor customer support, leading to a largely negative sentiment.",
+        "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEio36qfaB3ECMjOplqioKLo9zQwj29gNUtgGDGXaEfcoh0sKSYUlMEGylLM07VYning_45ZBmrAcXAkyspA33t1wAKpiSNvQsEGmoi48gaNa8HvbVShEcLWi67XOZnaTc-jR_BNPaUJ5X03Xw4lFEMQbOEWL0OEiUaWEQ35pM=",
+        "date": "2026-03-29"
+    },
+    "user_complaints": [
+        {
+            "issue": "Received defective or damaged products, often within a short period after purchase.",
+            "user_type": "Customer",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4KlTAWpyZNMifpz__ryl-SkrwWbaSdU8_CIQQzBuVNygC3wl6BG-IkvmECnA89OvucXjKPPIsyNKeQRNExhy_88BFkVVPVD5EzMFvzQmrlIwOKtHpN_pltW3baB_YZyakh4JeQn4krXhWV-vpOjfao34=",
+            "date": "Recent",
+            "effect": [
+                "Frustration, product unsuitability, and loss of trust in the brand."
+            ]
+        },
+        {
+            "issue": "Poor and unresponsive customer service, with difficulties in resolving issues through calls, emails, or service centers.",
+            "user_type": "Customer",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLuSpr0mR3dUaSNqHu928vLuMcVO8o8H7vB7q2_gVLzpLt23cwzOfbZt4Q8shIBZnwWatH0zL3QZl4PibCYXP9KeSNUpOpDIVa2TgIT-SVQ3JSpfoaj9of3t37b7mB5Ll1m2EvEhLHmxGvFSu_E5cGPRSzDsBC7cSquIEe",
+            "date": "2025-01-21",
+            "effect": [
+                "Heightened user dissatisfaction, wasted time, and negative brand perception."
+            ]
+        },
+        {
+            "issue": "Warranty claims rejected or unaddressed, even for products within the warranty period, often without clear reasons.",
+            "user_type": "Customer",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPQ5oyT2USQb5wdm3M-RiOh4kgJYYYQfPLKsWq1lwQgcyCq1_2Jg0wlH2cRjc13txrHf9nM-yWMn9HSv_H0dq2SY0HMSC1MJTeO5R6l54xNE_9q6Zs8AFxiT1Rq61rRQu34tu8N_P2dB4yymUZQnqB4a9izNCMFjg=",
+            "date": "2025-06-25",
+            "effect": [
+                "Financial loss for the customer and erosion of trust in product guarantees."
+            ]
+        },
+        {
+            "issue": "Order-related problems, including receiving wrong products, incomplete orders, or products marked as delivered but not received.",
+            "user_type": "Customer",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1FsXRfR1bW65jKZX8fThXA_8uVtYYpCQHicwlELLigds8web2sixHFqOuoCc2KTfShk4yDzeKHIm7rFfreoDPFMr5GYUhZ9V7q2GJh2_e52t4_KkpLkL0ZM-uexlUalYLEFCKuz3Y80cSlqi6AexoGWZiERmYxj_jg1qTNJUM7w==",
+            "date": "2023-02-23",
+            "effect": [
+                "Inconvenience, delayed gratification, and frustration with purchasing experience."
+            ]
+        },
+        {
+            "issue": "Allegations of selling second-hand or refurbished products as new to customers.",
+            "user_type": "Customer",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaqjkBXjvMYgZQyzlvMOuiP6QN38H6tHSAieu-M-mfoUaW3j4sGs-RcT3w4gWknWuipA8k4x6TJjC5a_KpVBTXIZPaiTswxATCJcs5yTWiEBBa-1y9fh4za48pN-XJDGzX1-h8h2SNV_Ijtr89orl-GEOrq6U06_V6kouq35PYPXCToyA==",
+            "date": "2026-02-10",
+            "effect": [
+                "Deception, financial loss, and severe damage to brand reputation."
+            ]
+        },
+        {
+            "issue": "Orders cancelled by the company with delays or failure to issue refunds.",
+            "user_type": "Customer",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1FsXRfR1bW65jKZX8fThXA_8uVtYYpCQHicwlELLigds8web2sixHFqOuoCc2KTfShk4yDzeKHIm7rFfreoDPFMr5GYUhZ9V7q2GJh2_e52t4_KkpLkL0ZM-uexlUalYLEFCKuz3Y80cSlqi6AexoGWZiERmYxj_jg1qTNJUM7w==",
+            "date": "2023-02-23",
+            "effect": [
+                "Financial inconvenience and severe trust issues."
+            ]
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Affordable yet stylish audio products and wearables, balancing quality with accessible pricing.",
+            "user_type": "Youth, Millennials, Gen Z",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd0ugdL--5EUyGdgoqcintu93rBytOu2TReQ_sjdP0LWGV4BaRAz212m7k-dz8EDapjR-1H3T2CbqRpFr1KaTXHTX3yFvaobIkX3m0SVatLsKlbjlVbLnV2jvh69hP0n4HTGfFVK1kGa4pcBPGF3QvW94bgWWc_XW-K55ImlHsSsT_a8G9lf1ChZf4WAHKJtwtRbLDXeltVw==",
+            "date": "2026-01-09",
+            "effect": [
+                "Appeals to budget-conscious and fashion-forward consumers, driving mass adoption."
+            ]
+        },
+        {
+            "feature": "Strong lifestyle branding focused on youth culture, emotional connection, and aspirational qualities rather than just technical specs.",
+            "user_type": "Youth, Millennials, Gen Z",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELj6WKARvVXwrOdZj4MrUTERXPHw8e7_QM8WHx-2SqaYjJbMLE433_CmTF6V3mRgvrG_0dAW6HC-EYbVBw809s3CU3xKX3ES6dFKJ6TK_u5dJKdpiH0--_J8aMnJy1ZezlDf7Hjzkbwj5RL5V_zeUL-d4niNXChpSxTvmZ8yEjR8viNSa814IrCFeT1L5v4K9FrpXugFxyRjZo4efVb8G1DBS7QxVBczWnBEmrgAM5XZbB3LmeGP0rGFcUSYt9r95R87JBk5pr86LiYSHu2nj4i8yrk3c-M9OYlixPKQ==",
+            "date": "2025-10-14",
+            "effect": [
+                "Fosters a loyal community ('BoAtheads') and deep brand resonance with its target audience."
+            ]
+        },
+        {
+            "feature": "Extensive digital-first marketing, celebrity endorsements, and influencer collaborations.",
+            "user_type": "All",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmv1VwH1wQwUgOtv5C4hAa2JAbWJtHsfXTMt2OgDyWXDqh0Z84UTBpeLlU35i68W_4dxUS6xRi1ZRRPMpRLwYDq6QPdexpgTkQWDkjPbnZ8UD8OdPfb3Ae9iyhHf-rUsY6C6d14IlGbwi6CC_4SzNcnc-S60anc2xnN7Z-T6VqLCOUe8u8wrpggjHlvmMUPN_d5bDC6rAy_6COf-NL5O7LSq83LiEz4JumE43mGNLTC5Gf-LzjeJuhxDaEQu1blYUA4OAaswMHDg==",
+            "date": "2025-07-08",
+            "effect": [
+                "Generates widespread brand awareness and maintains a strong, vibrant digital presence."
+            ]
+        },
+        {
+            "feature": "Rapid product portfolio expansion beyond audio into smartwatches, home audio, and other accessories.",
+            "user_type": "Tech-savvy consumers",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd0ugdL--5EUyGdgoqcintu93rBytOu2TReQ_sjdP0LWGV4BaRAz212m7k-dz8EDapjR-1H3T2CbqRpFr1KaTXHTX3yFvaobIkX3m0SVatLsKlbjlVbLnV2jvh69hP0n4HTGfFVK1kGa4pcBPGF3QvW94bgWWc_XW-K55ImlHsSsT_a8G9lf1ChZf4WAHKJtwtRbLDXeltVw==",
+            "date": "2026-01-09",
+            "effect": [
+                "Diversifies revenue streams and captures a broader share of the consumer electronics market."
+            ]
+        }
+    ],
+    "other_crucial_details": [
+        "Co-founders Aman Gupta (CMO) and Sameer Mehta (CEO) stepped down from executive roles in 2025, 29 days before filing the updated DRHP, as part of a professional restructuring.",
+        "The company has turned EBITDA positive in FY24, narrowing losses, driven by a focus on higher ASP devices and increased domestic manufacturing."
+    ],
+    "strategic_moves": [
+        {
+            "move": "Revisiting initial public offering (IPO) plans within 18 months, after postponing in October 2022.",
+            "user_type": "Company/Investor",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaFjLqGwMAxXPaKh2CZU3LyuYRrGO2Q6pmr73RBqHrIo4qWI9kpGHyyo5_yhaqzCXxsRNrcpTB2TD7aWvw3Wk9Hvm3RGojGLoiU02xwoOqBMY9A4Sl95KWT3-XSMUuiXymadMvIeeSt5rHl1SpvUH3LH8PM3-uye-fM_u1kn2Pevq1GWxsTAPvwt_TeaqyG6VwcsN2xckM79Z6pvut1ZIgWB9_YCuqNwk1xK5lEqZRn7yf4ih9Dz8RibjW-o5AmtvBdT11LRA==",
+            "date": "2024-06-05",
+            "effect": [
+                "Aims to raise capital and provide an exit for existing private equity investors."
+            ]
+        },
+        {
+            "move": "Scaling down the wearables business and shifting focus towards higher-end audio products with increased average selling prices (ASPs).",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaFjLqGwMAxXPaKh2CZU3LyuYRrGO2Q6pmr73RBqHrIo4qWI9kpGHyyo5_yhaqzCXxsRNrcpTB2TD7aWvw3Wk9Hvm3RGojGLoiU02xwoOqBMY9A4Sl95KWT3-XSMUuiXymadMvIeeSt5rHl1SpvUH3LH8PM3-uye-fM_u1kn2Pevq1GWxsTAPvwt_TeaqyG6VwcsN2xckM79Z6pvut1ZIgWB9_YCuqNwk1xK5lEqZRn7yf4ih9Dz8RibjW-o5AmtvBdT11LRA==",
+            "date": "2024-06-05",
+            "effect": [
+                "Intends to improve profitability and concentrate on a more lucrative market segment."
+            ]
+        },
+        {
+            "move": "Expanding physically within India to tier 2 and tier 3 cities and entering global markets such as the Middle East, Southeast Asia, and SAARC countries.",
+            "user_type": "Company",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkgAdx57jGF_PlrLMJzBoR2PBCpzNUIgbJxc61og5dn31rKKZh22ROSYhvrjLBgX3mIc7EOuhcRXxrKBEGaGYoYjMiTanJtc0ASvqsG4VO3RMY1RxleG708G1FnozFW1esn_OY5Sb42aJSA99UH3GW5ZAwkB8nzieW4J3QUACtuueO3_1G-FnCzlJ9nrA8t-3rYLcV_zq5lXwzRSo9eMEJJV197Iij8DnMf1OwuI8RPC6P85pdmTl4tLojckYUq0BXGrC0VmONilMYd0xqyi2VX2x7",
+            "date": "2025-07-07",
+            "effect": [
+                "Aims to counter slowing domestic growth and capture new customer segments internationally."
+            ]
+        },
+        {
+            "move": "Increasing domestic manufacturing, with 70% of products made in India by 2023, collaborating with partners like Dixon Technologies.",
+            "user_type": "Company/Government",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPRYiRHfuA5NfIvsbBQtg9MWzMKJQBsLCJ_AZyeXM51jrgodPdB2SpB-8mbuiGxcY6rxMmmTH5332_J03IHm--bUT7_qgeaePno6ELbug2YRxNuaqfQazMcYaEqmSFnVXjsrCjD5wZ8y45l4nAgIYVYwYwem5XYMwGtQxNBnF5CPP5mF46SyJhjlPM2iOxZryfZmxUTXQKlKmrmursDKQkYSFcz220sOh88V0ovOhEpgLvGDT78Fm2lqPfyXjK-h7cQVIykSxbXBUGfi13rfeAXi8ownaUT1kLy2Vk",
+            "date": "2025-07-26",
+            "effect": [
+                "Supports 'Make in India' initiative, potentially reduces costs, and improves supply chain resilience."
+            ]
+        }
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Intense competition from domestic players like Noise and aggressive expansion by Chinese smartphone brands (Xiaomi, Realme, OnePlus) into audio accessories and wearables.",
+            "user_type": "Company/Industry",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9BWVXC_birRXZ3bWEfEwgY-obORv-uodWTiMhnRZ0SL2QpMG71AkDpP0Vuaj7vokuTukZkiXLkr-I1XPDN_Mj9C9rAeDtjXgqQbSKcYy-ENH6Gf75Pmv7c8C6c3sOca6KlkrD_xYLLp7A-AFjzCVBW_xc-Isqdl5Y1-GA4d8Pshdtaw5WUVpVEj28TyJ4Wqcs6quFrrxvocunolNgwLmyGj34fRlaNHAbOl3IqQyC9A==",
+            "date": "Recent",
+            "effect": [
+                "Reduced market share and increased pressure on pricing and innovation."
+            ]
+        },
+        {
+            "description": "Declining market share in the overall wearables segment and losing the top spot in smartwatches to competitors like Noise.",
+            "user_type": "Company/Industry",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfgGL6X_ZFiusEp-Z1EtCZF7PCiowvuG_E3YuZon1_-PwDfJGqJaAnL13jm6gC3nS9fbTZyEYPKkNwxUxHfXYpD1UtQBVhTKCMZE2g7ApobA-g49qFKv2EOtevXOYMiVqu45TLjGef1tVpG5w_nkCwS1ahTYz",
+            "date": "2024-2025",
+            "effect": [
+                "Challenges in maintaining market leadership and revenue growth."
+            ]
+        },
+        {
+            "description": "Revenue decline for two consecutive years (FY23, FY24) and losses posted in FY23 and FY24 after being profitable until 2022.",
+            "user_type": "Company/Investor",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaFjLqGwMAxXPaKh2CZU3LyuYRrGO2Q6pmr73RBqHrIo4qWI9kpGHyyo5_yhaqzCXxsRNrcpTB2TD7aWvw3Wk9Hvm3RGojGLoiU02xwoOqBMY9A4Sl95KWT3-XSMUuiXymadMvIeeSt5rHl1SpvUH3LH8PM3-uye-fM_u1kn2Pevq1GWxsTAPvwt_TeaqyG6VwcsN2xckM79Z6pvut1ZIgWB9_YCuqNwk1xK5lEqZRn7yf4ih9Dz8RibjW-o5AmtvBdT11LRA==",
+            "date": "2023-2024",
+            "effect": [
+                "Financial instability and delayed IPO plans."
+            ]
+        },
+        {
+            "description": "Product quality concerns, including issues with durability, fraying wires, and sound quality not consistently meeting expectations.",
+            "user_type": "Customer",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfgGL6X_ZFiusEp-Z1EtCZF7PCiowvuG_E3YuZon1_-PwDfJGqJaAnL13jm6gC3nS9fbTZyEYPKkNwxUxHfXYpD1UtQBVhTKCMZE2g7ApobA-g49qFKv2EOtevXOYMiVqu45TLjGef1tVpG5w_nkCwS1ahTYz",
+            "date": "Recent",
+            "effect": [
+                "Negative customer perception and reduced repeat purchases."
+            ]
+        },
+        {
+            "description": "High customer acquisition costs (CAC) and low customer retention rates, with only 28% of first-time buyers returning within a year.",
+            "user_type": "Company/Marketing",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfgGL6X_ZFiusEp-Z1EtCZF7PCiowvuG_E3YuZon1_-PwDfJGqJaAnL13jm6gC3nS9fbTZyEYPKkNwxUxHfXYpD1UtQBVhTKCMZE2g7ApobA-g49qFKv2EOtevXOYMiVqu45TLjGef1tVpG5w_nkCwS1ahTYz",
+            "date": "FY22",
+            "effect": [
+                "Increased marketing spend leading to profitability challenges and unsustainable growth model."
+            ]
+        },
+        {
+            "description": "Significant dependence on China for components, with over 80% of components imported as of FY23, despite 'Made in India' claims.",
+            "user_type": "Company/Operations",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfgGL6X_ZFiusEp-Z1EtCZF7PCiowvuG_E3YuZon1_-PwDfJGqJaAnL13jm6gC3nS9fbTZyEYPKkNwxUxHfXYpD1UtQBVhTKCMZE2g7ApobA-g49qFKv2EOtevXOYMiVqu45TLjGef1tVpG5w_nkCwS1ahTYz",
+            "date": "FY23",
+            "effect": [
+                "Supply chain vulnerabilities and scrutiny over brand messaging."
+            ]
+        }
+    ]
+}
