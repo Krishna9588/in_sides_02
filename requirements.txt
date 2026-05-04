@@ -22,6 +22,8 @@ google-genai
 # Web Scraping
 apify-client
 urllib3
+beautifulsoup4
+lxml
 
 # Caching
 redis
