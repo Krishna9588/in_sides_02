@@ -1,0 +1,376 @@
+{
+    "company_name": "Mindtree",
+    "domain": "mindtree.com",
+    "playstore_link": null,
+    "appstore_link": null,
+    "youtube_official_channel": "https://www.youtube.com/@TheMindtreeLTD",
+    "linkedin_company_page": "https://www.linkedin.com/company/ltimindtree",
+    "year_founded": "1999 — Bengaluru, India",
+    "names_of_founders": [
+        "Ashok Soota",
+        "Subroto Bagchi",
+        "Krishnakumar Natarajan",
+        "N.S. Parthasarathy",
+        "Rostow Ravanan",
+        "Scott Staples",
+        "Anjan Lahiri",
+        "Kalyankumar Banerjee",
+        "Janakiraman",
+        "Kamran Ozair"
+    ],
+    "c-suite_officer": [
+        "S. N. Subrahmanyan — Non-Executive Chairman (LTIMindtree)",
+        "Venu Lambu — CEO and Managing Director (LTIMindtree)",
+        "Nachiket Deshpande — Chief Operating Officer and Executive Board Member (LTIMindtree)",
+        "Vinit Teredesai — CFO (LTIMindtree)"
+    ],
+    "employee_count": "87,958 (as of Q4 FY26 for LTIMindtree)",
+    "exact_hq_location": "Bengaluru, Karnataka, India (Original Mindtree HQ); Mumbai, Maharashtra, India (LTIMindtree HQ)",
+    "locations_operating_in": [
+        "India",
+        "United States",
+        "United Kingdom",
+        "Poland",
+        "Europe",
+        "Asia Pacific",
+        "Middle East",
+        "Africa"
+    ],
+    "industry_and_segment": "Information Technology Services and Consulting, specializing in Digital Transformation, Cloud Computing, Data Analytics, Enterprise Application Integration, ERP, and Outsourcing across various sectors including BFSI, High-Tech, Retail, Manufacturing, Travel, Transport & Hospitality, and Health & Public Services.",
+    "available_platforms": "Web & Mobile (both)",
+    "funding_raised": "$23.9M (Venture Capital before IPO); Publicly traded on BSE and NSE before acquisition and merger.",
+    "funding_stage": "Public (BSE, NSE) before acquisition; now part of LTIMindtree which is public (BSE, NSE).",
+    "no_of_users": "Serves over 740 global enterprise clients (as LTIMindtree)",
+    "annual_revenue": "$4.61 billion USD (TTM as of 2025 for LTIMindtree)",
+    "key_positioning": "A global technology consulting and digital solutions company, delivering end-to-end digital engineering and technology consulting, focusing on digital transformation, agile software development, cloud computing, data analytics, and cybersecurity.",
+    "revenue_model": "Service-based (IT consulting, digital transformation, outsourcing projects).",
+    "pricing_tiers": [],
+    "target_customer_segments": [
+        "Enterprise BFSI",
+        "High-Tech & Software Firms",
+        "Travel, Transport & Hospitality",
+        "Manufacturing & Resources",
+        "Retail & Consumer Packaged Goods"
+    ],
+    "tech_stack_highlights": [
+        "Cloud Computing",
+        "Artificial Intelligence & RPA",
+        "Blockchain",
+        "Internet of Things (IoT)",
+        "Data Analytics",
+        "Salesforce Ecosystem",
+        "Adobe Experience Cloud",
+        "Pega Platform"
+    ],
+    "milestones": [
+        "Founded in Bengaluru, India (August 1999)",
+        "Secured first major IT outsourcing partnership with Volvo IT (December 2001)",
+        "IPO and listed on BSE and NSE (February/March 2007)",
+        "Crossed $1 billion in annual revenue (2018)",
+        "Acquired by Larsen & Toubro (June 2019)",
+        "Merger with L&T Infotech announced (May 2022)",
+        "Merger with L&T Infotech completed, forming LTIMindtree (November 2022)",
+        "Announced name change to LTM Limited (February 2026)"
+    ],
+    "new_features_launched": [
+        "Focus on Generative AI in deal solutioning and productivity (Recent, 2025-2026)",
+        "New delivery center in Krakow, Poland (March 2023)"
+    ],
+    "recent_partnerships_and_integrations": [
+        {
+            "partner": "L&T Infotech (LTI)",
+            "type": "Acquisition",
+            "description": "Mindtree was acquired by Larsen & Toubro and subsequently merged with L&T Infotech to form LTIMindtree, becoming India's fifth-largest IT services company by market capitalization.",
+            "source": "Multiple sources indicate the merger:",
+            "date": "2022-11-14"
+        }
+    ],
+    "competitors": [
+        {
+            "name": "Infosys",
+            "domain": "infosys.com"
+        },
+        {
+            "name": "Tata Consultancy Services (TCS)",
+            "domain": "tcs.com"
+        },
+        {
+            "name": "Accenture",
+            "domain": "accenture.com"
+        },
+        {
+            "name": "Cognizant",
+            "domain": "cognizant.com"
+        }
+    ],
+    "differentiators": [
+        {
+            "feature": "Strategic pivot to an 'AI-first' approach, embedding AI into all service offerings and solutions.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFofJ465tZ2Lu4Ji7GcTV2lhkMUzndw32R_-IRQbmHeeWvr5RXf2-eiU1FDYUQ9kyGbkfk__XJSjL01qof566XOEUl426xF25-OHK6aTinna71vGzB0dS3KL5MFoGRkS4iirLeJlrG3ViSgVhAuupUluhIbhl9aK9S7Ciq_RqP06Hkx",
+            "date": "2025-03-31",
+            "effect": [
+                "Drives large deal wins and differentiates offerings.",
+                "Enhances decision-making and optimizes processes for clients."
+            ]
+        },
+        {
+            "feature": "Extensive domain and technology expertise as a digital transformation partner to over 700 global clients.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhS1SbOLGwIyLBKA3_RuFFtGIEUESPZD7wWJcx7Hn3aTzM6gVTpT8uDHd6MtPWAehnuM6gfu2wREpo0cKs3ZAFYwRCcePTBoRT7zAGz7VXlCidtz0vse9-4R0ieAcbJV8TFIF4i3kSQPOXO5VwnKwo0jAk9U3752IjoKKQDb0GWy-GwzvjDYtj5mdRTNgR7XopuaclhJEECcHGiGGQgRv4g==",
+            "date": "2024-07-17",
+            "effect": [
+                "Provides superior competitive differentiation and business outcomes.",
+                "Helps clients reimagine business models and accelerate innovation."
+            ]
+        },
+        {
+            "feature": "Strong strategic partnerships with major technology providers like AWS, Microsoft, Adobe, and Cisco.",
+            "user_type": "Enterprise Clients, Partners",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6l8S9G13_iJTIve-QbwqhXVFvHvxg8Wuu4k5jdCnDZgOoU0d7W_MCCHpN3HFPjqp_72zUAf01RLFsI5PUaB-ENdiWwdQ289Aa9V55rQEYDQz4dzvtHrv4x3qoir6PbMvd04l7oPHaUpKSM3OME9TtKPp3_EtfJ5RzoPvbz9kenruIvRfnan29oqYN4u0OAlmMikeni-nV89WtyVL6NyvTA8zo4Ynr5stKZDle0XQdxqfZlUV1hpJp",
+            "date": "2024-04-24",
+            "effect": [
+                "Enhances service offerings and provides cutting-edge solutions.",
+                "Strengthens global delivery and market reach."
+            ]
+        },
+        {
+            "feature": "Focus on multi-domain data management and AI readiness, implementing robust data governance frameworks.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_DmeW55pkLxtUEMzyNtxkfsiEfZzzV4pKbDOBuTiowaFtZhWJw9337PRVNM3tjdTSlaPVYzBaAmj_9fSckmSeGj5S8Iz1Uor8WrovYtbF643bAsAWxjKc0JitAdfBQ8lxCoqHzw==",
+            "date": "2024-10-12",
+            "effect": [
+                "Ensures data quality and compliance for informed decision-making.",
+                "Helps clients transform operations and enhance competitive edge."
+            ]
+        }
+    ],
+    "regulatory_and_legal_issues": [
+        {
+            "issue": "Received a GST notice (₹378 crore) from Karnataka HC for alleged non-payment of IGST on export turnover.",
+            "jurisdiction": "India (Karnataka)",
+            "status": "Under Investigation",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkALHgaV00xvIp9SuVuVANdyU71dKQCfR5TsUpA6JN-eXKCMdKuHDRP8_buZ-_7v-2CfKqd_yn6FMO2dAGo8tkAtDc0HsUlDc2QLHRRSy5U7ILhtveFz96pDzu4yVrp0FUKaEXI4FnaCuRvOfMaQN4Y6uMrbGw0qzU01ipxnNdxQQEUqg2dbRtVG9ztMMidXSrTayvIXbet9gsapBctHHgZrendWXMrO2q-3Yj1EYhCY0tk--6yMhvENkq--g-1c2GPZ3u116Fd20gR4hNMjvmWVs=",
+            "date": "2024-08-28",
+            "effect": [
+                "Karnataka High Court granted a stay order on the notice.",
+                "Company expects favorable resolution, no material financial impact anticipated."
+            ]
+        },
+        {
+            "issue": "Received a GST demand order (₹155.7 crore) from the Maharashtra GST Department.",
+            "jurisdiction": "India (Maharashtra)",
+            "status": "Under Investigation",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4O2YIpC_kVFwOhTSpgYykAXzq8H9CeqwGTRa1UaXI1Bi-XqDEx33BWKz5VDBkafX_wfM9wbcLJOD_CHvgQyrAKehb5v76DnMemkUp5rT9CMp-lLz2247w0Ig6cUpVkFNw4lMDBmWtRd7MhhaIOyCQCncRy1otYbkLytLB-gY3sfhN0H6d-5DMLgMFAf5TEDtm0Fxn9m4lG5-Sh2_Hzao3",
+            "date": "2024-05-06",
+            "effect": [
+                "Company disagrees with the demand and intends to pursue legal action.",
+                "Expected to have minimal financial impact."
+            ]
+        },
+        {
+            "issue": "GST refund dispute (₹87.9 crore) with demand for recovery of input tax credit refund.",
+            "jurisdiction": "India (Karnataka)",
+            "status": "Under Investigation",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6MZVTUX5NV98mbeuLbxJEXyt5MOnXRffgCxYhYQ5sz1vf6H4HyQFvjbfbLHJfR8koFi4DeSzJIO6SeLovFfS1CW0db_9bw6seRXE_yvFbhJk5c8U7SaFZdgM_RdEIqS3gX_HErpLA-8NNrBz5a_aZigq1cUVr2N_JKN8EE8KNfD4KQVT7fkek0R5LpvP-eIF1m1k2jam0Y3CzPMY=",
+            "date": "2024-12-19",
+            "effect": [
+                "Karnataka High Court granted an interim stay on proceedings.",
+                "Company anticipates a favorable resolution with no material financial impact."
+            ]
+        }
+    ],
+    "other_crucial_details": [
+        "The company rebranded to 'LTM – The Business Creativity Partner' in February 2026.",
+        "Reported a strong order inflow of $5.6 billion for FY24, indicating potential for future revenue.",
+        "Successfully reduced its trailing 12-month attrition rate to 14.5% as of September 30, 2024.",
+        "Total employee count was 81,650 as of March 31, 2024."
+    ],
+    "current_problems_struggling_with": [
+        {
+            "description": "Client caution and reduced discretionary spending, leading to slower revenue growth and margin pressure.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6l8S9G13_iJTIve-QbwqhXVFvHvxg8Wuu4k5jdCnDZgOoU0d7W_MCCHpN3HFPjqp_72zUAf01RLFsI5PUaB-ENdiWwdQ289Aa9V55rQEYDQz4dzvtHrv4x3qoir6PbMvd04l7oPHaUpKSM3OME9TtKPp3_EtfJ5RzoPvbz9kenruIvRfnan29oqYN4u0OAlmMikeni-nV89WtyVL6NyvTA8zo4Ynr5stKZDle0XQdxqfZlUV1hpJp",
+            "date": "2024-01-18",
+            "effect": [
+                "Impacts revenue growth and profitability.",
+                "Leads to project cancellations."
+            ]
+        },
+        {
+            "description": "Integration challenges and senior management exits post-merger, impacting focus on revenue growth and synergy realization.",
+            "user_type": "Internal Stakeholders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhymp7lGY05V_w5dpNCMULob41a06c8BTC9Pbk5K5g52ZMnC32x343WJ5ijWSdwu2VvKiwm9jBJWjp2raWxh-vWytFanpPLj15ITMoonA02I31armsq7YU84wQ8aqdPGRZzGQ1oV6w0yE263mamImKYROvhF-zTL9Dxvt8i0qWy4DBEyfV0XLTmyE-8tOczFJzr9DWxxIg1yJ-spj4TVTWBtx-pMVLtSYIseTZDAkaGGKnNV78bi8lZvmWoyEWFiHDaYyYQB5bw1o",
+            "date": "2024-03-15",
+            "effect": [
+                "Leads to instability and concerns among analysts.",
+                "Delays in achieving merger benefits."
+            ]
+        },
+        {
+            "description": "Decline in operating profit and net profit margins, noted in Q4 FY24 and projected for FY25.",
+            "user_type": "Investors, Analysts",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQN7VfZo4C_bWhNajoHBpve0VOeLm8GNMljIhjiwK0YuCw56sRLD0izmG75qaQcf6xQr9GVeUDAGq1iBNZwUz1B9Seu4wCl2czRP724gDerfYrvmoFS3U1dqA-foHJMI5IHASClB-hrmh3nk5QZ9tVx1SwJ0Hkt4RX2OjX1qIZ0A3iP0XbbRGpAtcLqK3B8x-YmeH3baA6C4x4rKGEFuFG_FFRjnutN7qIm7aJjAijag==",
+            "date": "2024-04-24",
+            "effect": [
+                "Impacts investor confidence and stock performance."
+            ]
+        },
+        {
+            "description": "Lower-than-expected revenue and net profit for Q4 FY24 and Q4 FY25, missing analyst estimates.",
+            "user_type": "Investors, Analysts",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuRliUm6deJ6voFnJjS8lE5rGh37u1htosgJs8xvRfAVrPtzCwAHTB62lTeopOJRz4yHNSkMW3g89PlT-z3EedFexqYjx3KvO-VTw_-VFeMoKoriBCtlErBy_Pi6m9iLZNGNzB6rAD_m12_OA4VvLtvueUd5THxADpY-0Tw9KuiCpPFnwPh5xqrcPotNqJygYH4jp9ZT-IM5771fe2qqDU12JlAGJzWpfFqFXt-cAyKak=",
+            "date": "2024-04-25",
+            "effect": [
+                "Causes stock price to fall.",
+                "Reflects global demand slowdown."
+            ]
+        },
+        {
+            "description": "Weak revenue conversion from strong deal wins, despite robust order inflows.",
+            "user_type": "Investors, Analysts",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhymp7lGY05V_w5dpNCMULob41a06c8BTC9Pbk5K5g52ZMnC32x343WJ5ijWSdwu2VvKiwm9jBJWjp2raWxh-vWytFanpPLj15ITMoonA02I31armsq7YU84wQ8aqdPGRZzGQ1oV6w0yE263mamImKYROvhF-zTL9Dxvt8i0qWy4DBEyfV0XLTmyE-8tOczFJzr9DWxxIg1yJ-spj4TVTWBtx-pMVLtSYIseTZDAkaGGKnNV78bi8lZvmWoyEWFiHDaYyYQB5bw1o",
+            "date": "2024-03-15",
+            "effect": [
+                "Delays in realizing anticipated revenue growth."
+            ]
+        },
+        {
+            "description": "Impact of wider and deeper furloughs on revenue and direct margins, particularly in Q3 FY24.",
+            "user_type": "Enterprise Clients, Employees",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6l8S9G13_iJTIve-QbwqhXVFvHvxg8Wuu4k5jdCnDZgOoU0d7W_MCCHpN3HFPjqp_72zUAf01RLFsI5PUaB-ENdiWwdQ289Aa9V55rQEYDQz4dzvtHrv4x3qoir6PbMvd04l7oPHaUpKSM3OME9TtKPp3_EtfJ5RzoPvbz9kenruIvRfnan29oqYN4u0OAlmMikeni-nV89WtyVL6NyvTA8zo4Ynr5stKZDle0XQdxqfZlUV1hpJp",
+            "date": "2024-01-18",
+            "effect": [
+                "Reduced profitability.",
+                "Increased financial volatility."
+            ]
+        }
+    ],
+    "user_complaints": [
+        {
+            "issue": "Poor compensation practices and inadequate pay and benefits.",
+            "user_type": "Employees",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwccZb4itrHK1eegFWfgTd4bLGfIrbhZdP8DNWFY7U8Nz5PwFfFyV-Ww1fm_Jn5cShTSoVI5He6l_UBYtiubbSZV3eLjco0oTeBN4ehE73pb5QqhTCpw-vERVvlUxrXtZK5S6_ImuHPUvdZQ==",
+            "date": "Recent",
+            "effect": [
+                "Leads to employee demotivation and dissatisfaction."
+            ]
+        },
+        {
+            "issue": "Lack of recognition and career growth opportunities for junior and even experienced employees.",
+            "user_type": "Employees",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwccZb4itrHK1eegFWfgTd4bLGfIrbhZdP8DNWFY7U8Nz5PwFfFyV-Ww1fm_Jn5cShTSoVI5He6l_UBYtiubbSZV3eLjco0oTeBN4ehE73pb5QqhTCpw-vERVvlUxrXtZK5S6_ImuHPUvdZQ==",
+            "date": "Recent",
+            "effect": [
+                "Causes demotivation and talent burnout.",
+                "Impacts employee retention."
+            ]
+        },
+        {
+            "issue": "Inadequate communication between management and staff.",
+            "user_type": "Employees",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMsz3RihelLEBSxl7TD-E5eYO534m5lD5RgUWjCf_SxKYc-lZc3RLBmn_Mzu9ID1xS0631QbOvfBL3guXrBbrvq-5QbfHG3BdVmPNlpWHaWDYKuUbr8RyjxhYTMPb9rjsUWT1lifPU6MMyyJkd",
+            "date": "2023-03-10",
+            "effect": [
+                "Decreases employee morale and engagement."
+            ]
+        },
+        {
+            "issue": "Challenges in work-life balance for employees.",
+            "user_type": "Employees",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwccZb4itrHK1eegFWfgTd4bLGfIrbhZdP8DNWFY7U8Nz5PwFfFyV-Ww1fm_Jn5cShTSoVI5He6l_UBYtiubbSZV3eLjco0oTeBN4ehE73pb5QqhTCpw-vERVvlUxrXtZK5S6_ImuHPUvdZQ==",
+            "date": "Recent",
+            "effect": [
+                "Contributes to talent burnout and dissatisfaction."
+            ]
+        },
+        {
+            "issue": "Unstable workforce affecting the number of new clients acquired.",
+            "user_type": "Management, Clients",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMsz3RihelLEBSxl7TD-E5eYO534m5lD5RgUWjCf_SxKYc-lZc3RLBmn_Mzu9ID1xS0631QbOvfBL3guXrBbrvq-5QbfHG3BdVmPNlpWHaWDYKuUbr8RyjxhYTMPb9rjsUWT1lifPU6MMyyJkd",
+            "date": "2023-03-10",
+            "effect": [
+                "Decreased new client acquisition by 35%."
+            ]
+        }
+    ],
+    "strategic_moves": [
+        {
+            "move": "Launched a strategic pivot to an 'AI-first approach' across all operations and client engagements.",
+            "user_type": "Enterprise Clients, Internal Stakeholders",
+            "frequency": "Continuous",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFofJ465tZ2Lu4Ji7GcTV2lhkMUzndw32R_-IRQbmHeeWvr5RXf2-eiU1FDYUQ9kyGbkfk__XJSjL01qof566XOEUl426xF25-OHK6aTinna71vGzB0dS3KL5MFoGRkS4iirLeJlrG3ViSgVhAuupUluhIbhl9aK9S7Ciq_RqP06Hkx",
+            "date": "2025-03-31",
+            "effect": [
+                "Reimagines operations and client relationships.",
+                "Enhances decision-making and optimizes processes."
+            ]
+        },
+        {
+            "move": "Partnered with and strategically invested $6 million in Voicing.AI for agentic AI solutions in customer engagement.",
+            "user_type": "Enterprise Clients",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR5095FSnWsBdxlkIThpbMgAEi8vlesbW_gQ1PrY1US8EdbS5AbYSSI9zqnGTAw0GKBWt6Qils8BZGMiw1r5JWLuJnMYaC9mgQOgLqTNpxYWJN2b76FwVhNR1HotzwfJI9Gqubybz2IZ_tBb3CqVzFIUKLrnQLATV2bzyxujDyIgVOmjtY6pRiz87ehf2vRdgdkjBWCsol_zdES7-dhO5ZStsMPxo=",
+            "date": "2024-12-04",
+            "effect": [
+                "Redefines customer interaction through intelligent automation.",
+                "Positions LTIMindtree as an early mover in AI disruption."
+            ]
+        },
+        {
+            "move": "Expanded partnership with Microsoft to deliver AI-powered employee engagement applications and other cloud solutions.",
+            "user_type": "Enterprise Clients, Employees",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOZ7bfyW_oU2v1G_e9Nb9RbWM3DjipAtaIi61C0E7R1FyoJcqmaZM1kMuChzOyQVUb4dZZf_kX6XrAhbNksFPltElXUCXlcvlJ7rfqkYgO9ZQudwkxaZi20ySf50kwFjVP4n2eA4N3iJDbPTXbPbEJIOqeB4EYWLwSQDyKALJfDgozRM7EZLJgmIiqKy5rOkDLE207nq-KUj-KPLpa2pmQgY3Wk6ZIunCIyHSxhhCIaPzt1Ft4iy5ykl74Ug==",
+            "date": "2023-12-20",
+            "effect": [
+                "Enhances employee and customer experiences.",
+                "Drives workflow automation and data management for clients."
+            ]
+        },
+        {
+            "move": "Became a global implementation partner for 10x Banking's core platform, establishing a dedicated practice.",
+            "user_type": "Financial Institutions",
+            "frequency": "Rare",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-PBXeCsGDQ2vUGQAFuTBXAE1ciywPER8GSdkRcFdkpUWkrFJmiVTL_hpEUB4mn-epnoo0Uk6B0396QFqCkGV3Hl3Bc1q1AH3hhGEmdTlHmk4EK94wgnqxwjsrufSxwLARxeJk6-ycTtgGuG5ytzNFqJygYH4jp9ZT-IM5771fe2qqDU12JlAGJzWpfFqFXt-cAyKak=",
+            "date": "2024-08-15",
+            "effect": [
+                "Helps financial institutions adopt modern core banking systems.",
+                "Expands capabilities in financial services transformation."
+            ]
+        },
+        {
+            "move": "Expanded partnership with Cisco to deliver next-generation Secure Access and SASE solutions globally.",
+            "user_type": "Enterprise Clients, Employees",
+            "frequency": "Occasional",
+            "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe-VjxnPCMuRNv0QylG4BnEP1X0CmajUBljzT2yy5dsCuLhMCykt3sUFouSzQgRHSRQB_e-lkC1VT28EpONDsdwnwHh1Ibz-w-RwBDBHNSHjbrkQ37TNjPAKefv4lnBI2nRITguf9txiNi5_7jur7KsCkebTUi9BM7uwPgXaM0Sj1EEv2KrEh84WoyHDsEcvIWQUW8xQF6Mn22S1x3cgcksNqckYskE6nbYUozJrDMHymgjKeKH5E0kuFrbfHfT1L5yQ7_edxdkp_PEitqwBC3_iaKrPA=",
+            "date": "2024-11-12",
+            "effect": [
+                "Protects hybrid workforce with secure internet access and zero trust.",
+                "Offers advanced security services to global clients."
+            ]
+        }
+    ],
+    "market_sentiment": {
+        "overall": "Mixed",
+        "analyst_view": "Analysts express caution due to client spending slowdown, post-merger integration challenges, and senior management exits, leading to stock downgrades. However, optimism exists for future growth driven by an AI-first approach and strong deal pipeline.",
+        "user_community_view": "Employee sentiment on platforms like Indeed.com is mixed; while some see it as a good starting point, concerns about pay, benefits, work-life balance, and career growth for experienced professionals are frequent.",
+        "source": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuRliUm6deJ6voFnJjS8lE5rGh37u1htosgJs8xvRfAVrPtzCwAHTB62lTeopOJRz4yHNSkMW3g89PlT-z3EedFexqYjx3KvO-VTw_-VFeMoKoriBCtlErBy_Pi6m9iLZNGNzB6rAD_m12_OA4VvLtvueUd5THxADpY-0Tw9KuiCpPFnwPh5xqrcPotNqJygYH4jp9ZT-IM5771fe2qqDU12JlAGJzWpfFqFXt-cAyKak=",
+        "date": "2024-04-25"
+    }
+}
