@@ -4,6 +4,9 @@ git-hub repo: https://github.com/speedyapply/JobSpy
 also
 check this git repo for remote and other gobs
 repo: https://github.com/speedyapply/2026-AI-College-Jobs
+
+another linkedin scraping repo to try:
+https://github.com/spinlud/py-linkedin-jobs-scraper
 pip install -U python-jobspy
 """
 
