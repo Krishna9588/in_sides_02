@@ -1,0 +1,2030 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4405300451","linkedin","https://www.linkedin.com/jobs/view/4405300451","","Data Scientist","AGCO Corporation","","2026-05-04","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","Do you want to help solve the world's most pressing challenges? Feeding the world's growing population and slowing climate change are two of the world's greatest challenges. AGCO is a part of the solution! Join us to make your contribution.
+   
+
+  
+
+ AGCO is looking to hire candidates for the position of
+ **Data Scientist**
+**Your Impact**
+* Data Management and Analysis: Extract, clean, and analyze large datasets from diverse sources, including telemetry data, test fleet data, and test bench data, to support engineering and AI applications in the agricultural machinery domain.
+* Insight Generation: Identify patterns, trends, and correlations in data to derive actionable insights that inform product development, parts design, specifications, and operational decisions.
+* Cross\\-Functional Collaboration: Work closely with cross\\-functional teams to drive data\\-driven decision\\-making and foster innovative solutions that enhance engineering efficiency, improve product quality, and enable the development of new, data\\-driven solutions for product usage.
+* Model Development and Refinement: Continuously develop, evaluate, and refine analytical models and methods to ensure their accuracy, scalability, and relevance to business needs.
+* Machine Learning Applications: Develop machine learning models to predict maintenance needs, optimize machine settings, analyze customer usage patterns, and enhance overall product performance.
+
+
+**Your Experience And Qualifications**
+* 3\\+ years of experience working with structured data, including cleaning, manipulating, and data mining. Experience with unstructured data is a plus.
+* Proven experience with at least two of the following: statistical models, machine learning, deep learning (preferably time series or large language models for NLP, topic modeling, or conversational AI). Familiarity with model setup, fine\\-tuning, evaluation, and deployment.
+* Strong proficiency in Python, SQL, PySpark, and common frameworks (e.g., scikit\\-learn, TensorFlow, PyTorch). Familiarity with R is a plus.
+* Experience with cloud\\-based tools like Apache Spark, Databricks, AWS Glue, and Amazon SageMaker.
+* Strong data visualization skills and experience with BI tools (e.g., Dash, Tableau, Shiny).
+
+
+**Your Benefits**
+* GLOBAL DIVERSITY – Diversity means many things to us, different brands, cultures, nationalities, genders, generations – even variety in our roles. You make us unique!
+* ENTERPRISING SPIRIT\\- Every role adds value. We're committed to helping you develop and grow to realize your potential.
+* POSITIVE IMPACT – Make it personal and help us feed the world.
+* INNOVATIVE TECHNOLOGIES \\- You can combine your love for technology with manufacturing excellence – and work alongside teams of people worldwide who share your enthusiasm.
+* MAKE THE MOST OF YOU – Benefits include health care and wellness plans and flexible and virtual work options.
+
+
+**Your Workplace**
+ We value inclusion and recognize the innovation a diverse workforce delivers to our farmers. Through our recruitment efforts, we are committed to building a team that includes a variety of experiences, backgrounds, cultures and perspectives.
+   
+
+  
+
+**Join us as we bring agriculture into the future and apply now!**
+ Please note that this job posting is not designed to cover or contain a comprehensive listing of all required activities, duties, responsibilities, or benefits and may change at any time with or without notice.
+   
+
+  
+
+**AGCO is proud to be an Equal Opportunity Employer.**","Machinery Manufacturing and Farming","https://www.linkedin.com/company/agco-corporation","https://media.licdn.com/dms/image/v2/C4E0BAQF5TwBZg6M6TA/company-logo_100_100/company-logo_100_100/0/1630563830825/agco_corporation_logo?e=2147483647&v=beta&t=SlcrN1X4klfbFCSeGd46A9EEPb3xQrwkUhSjycDRYoE","","","","","","","","","","",""
+"li-4407739520","linkedin","https://www.linkedin.com/jobs/view/4407739520","","Senior Snowflake Data & AI Platform Engineer","Avaloq","Pune Division, Maharashtra, India","2026-05-04","fulltime","","","","","",False,"mid-senior level","Information Technology","","","Founded and headquartered in Switzerland, Avaloq is continuously expanding its global footprint with around 2,500 colleagues in 12 countries, and more than 170 clients in 35 countries. We are an industry\\-leading provider of wealth management technology and services for financial institutions around the world, including private banks and wealth managers, investment managers, as well as retail and neo banks. Our research led approach and continual innovation is powered by the passion and creativity of our colleagues.
+   
+
+  
+
+ We are always looking for talented people to join us on our mission to orchestrate the financial ecosystem and democratize access to wealth management. Avaloq offers the opportunity to work closely with some of the world’s leading financial institutions as we jointly develop and shape careers. Championing a collaborative, supportive and flexible work environment empowers our colleagues to reach their full potential.
+   
+
+  
+
+**Job Description**
+**About Us** 
+ : we are the Data Platform domain teams in the Product and Development Business Area, enabling financial institutions to adopt, govern, and analyze data from Avaloq products across complex enterprise ecosystems.
+   
+
+  
+
+ Our mission is to create trusted, analytics and AI‑ready data platforms, turning Avaloq Core data into governed, reusable data products that power reporting, analytics, automation, and next‑generation AI use cases. We believe that AI success starts with strong data foundations, semantics, and governance.
+   
+
+  
+
+**What We’re Looking For:** 
+ We are looking for a senior Snowflake Data \\& AI Platform Engineer with proven, hands‑on experience building production‑grade analytical data platforms.
+   
+
+  
+
+ You will play a key role in scaling our Snowflake‑based analytics platform, shaping data products, governance, and AI enablement, and acting as a technical reference for both internal teams and clients. This role is designed for experienced professionals who think platform‑first, not project‑first.
+   
+
+  
+
+**Key Tasks**
+**Snowflake Analytics \\& Platform Engineering:**
+* Design and evolve Snowflake‑native analytical data products.
+* Build reusable, governed semantic datasets for positions, transactions, cash, performance, P\\&L, and risk.
+* Leverage Snowflake native capabilities such as Dynamic Tables, Streams and Tasks, Secure Views, RBAC, data sharing, and cost and workload optimization strategies.
+
+
+**Data Semantics \\& Modeling**
+* Translate Avaloq Core Platform (ACP) structures into business‑meaningful analytical models.
+* Apply modern modeling approaches such as dimensional modeling and medallion or data‑product‑oriented architectures.
+* Define consistent metrics, KPIs, and analytical domains reusable across clients.
+* Ensure datasets are discoverable, well‑documented, and trustworthy.
+
+
+**Governance, Security \\& Quality**
+ Implement Snowflake‑native governance frameworks including masking policies, row‑level security, object tagging, and access policies. Build data quality, security, and trust into the platform by design.
+   
+
+  
+
+**AI \\& Advanced Analytics Enablement**
+* Prepare the platform for enterprise‑grade AI usage.
+* Enable AI and advanced analytics use cases using Snowflake Cortex, Snowpark ML, vector search, and document intelligence.
+* Focus on AI enablement and operationalization rather than pure data science experimentation.
+* Support analytics, intelligence, and automation scenarios across banking domains.
+
+
+**Collaboration \\& Technical Leadership**
+* Act as a senior technical reference for Snowflake within the team.
+* Collaborate with Product Managers, Architects, Analysts, and Engineers across locations.
+* Support proofs of concept, client onboarding, and production rollouts.
+* Drive documentation, standards, and best practices for the data platform.
+
+
+**Qualifications**
+**Must‑Have**
+* Strong, hands‑on experience building Snowflake‑based data platforms.
+* Hands‑on experience with dbt or similar analytics‑engineering tools.
+* Proven production track record, not limited to PoCs.
+* Excellent SQL skills and strong Python proficiency.
+* Deep understanding of analytical data modeling and data semantics.
+* Experience integrating enterprise data sources such as Oracle and Kafka.
+* Cloud‑native mindset, including CI/CD and automation.
+* Fluency in spoken and written English.
+
+
+**Strong Advantages**
+* Experience in financial services or banking.
+* Knowledge of Avaloq Core Platform or similar core banking systems.
+* Hands‑on experience with Snowflake Cortex, Native Apps, or Marketplace.
+* Experience with data governance and data quality frameworks.
+* Ability to think platform‑first with long‑term scalability and reuse in mind.
+* 3\\+ years of experience in fintech or the financial services industry
+* Knowledge of the Avaloq Banking Suite
+* Familiarity with Oracle Cloud (OCI)
+
+
+**Additional Information**
+ We realize that managing work life balance is a challenge we all face in our daily lives and in order to support with this we are pleased to offer hybrid and flexible working for most of our Avaloqers to maintain work life balance and still continue our fantastic Avaloq culture in our global offices.
+   
+
+  
+
+ In Avaloq we are proud to embrace diversity and understand the success of our business is built on the power of different opinions, we are whole heartedly committed to fostering an equal opportunity environment and inclusive culture where you can be your true authentic self.
+   
+
+  
+
+ We hire, compensate and promote regardless of origin, age, gender identity, sexual orientation or any other fantastic traits that make us all unique, we have done our best to write this advert in an inclusive and neutral way.
+   
+
+  
+
+ Please be aware that we will not accept speculative CV submissions for any of our roles from recruitment agencies, and any unsolicited candidate submissions will be exempt from any payment expectations.","Software Development and IT Services and IT Consulting","https://ch.linkedin.com/company/avaloq","https://media.licdn.com/dms/image/v2/D4D0BAQFopLFDwsXDcg/company-logo_100_100/company-logo_100_100/0/1726642555189/avaloq_logo?e=2147483647&v=beta&t=G1cemFNtbJ-xTwT0Din7zmwChnQJv7_Ti45xF4g-kyI","","","","","","","","","","",""
+"li-4408381786","linkedin","https://www.linkedin.com/jobs/view/4408381786","","Google Cloud AI/ML Engineer","Evonence","Pune Division, Maharashtra, India","2026-05-03","fulltime","","","","","",True,"entry level","Engineering and Information Technology","","","**Company Description** 
+
+
+
+
+ Evonence is a Google Cloud partner company specializing in providing Google Cloud solutions to mid\\-market businesses in North America. Founded in 2014, we are one of the fastest\\-growing partners in the Google Cloud ecosystem. We support a customer base of over 1000 and have deep technical expertise in Google workspace, Google Cloud infra migrations, and Google Cloud app modernizations.
+ 
+
+
+
+  
+
+
+
+
+
+**Role Description** 
+
+
+
+
+ This is a full\\-time hybrid role as a Google Cloud AI/ML engineer at Evonence. As a Google Cloud AI/ML engineer, your day\\-to\\-day tasks will include working on pattern recognition, computer science, neural networks, statistics, and algorithms. You will be responsible for developing and implementing AI/ML solutions on the Google Cloud Platform. This is a hybrid role, located in Pune, with flexibility for some remote work.
+ 
+
+
+
+  
+
+
+
+
+
+**Qualifications** 
+
+
+
+* **3\\- 7 Years of experience is must**
+* Strong background in pattern recognition, computer science, and neural networks
+* Proficiency in statistics and algorithms
+* Experience in developing AI/ML solutions on the Google Cloud Platform
+* Excellent problem\\-solving and analytical skills
+* **Strong programming skills in languages such as Python or Java is must**
+* Knowledge of data preprocessing and feature engineering techniques
+* Experience with machine learning frameworks and libraries
+* Bachelor's degree in Computer Science, Data Science, or a related field
+* **Google Cloud Platform certification is a plus**","IT Services and IT Consulting","https://www.linkedin.com/company/evonence","https://media.licdn.com/dms/image/v2/D4D0BAQF67VQDzeK5pA/company-logo_100_100/B4DZipBnedHwAQ-/0/1755182430747/evonence_logo?e=2147483647&v=beta&t=NiKnm0OrrCS8mae2Jude2yba2SJr47k8fEA-gH5aZk0","","","","","","","","","","",""
+"li-4407717292","linkedin","https://www.linkedin.com/jobs/view/4407717292","","Lead Machine Learning Engineer","Zemoso Technologies","Pune District, Maharashtra, India","2026-05-03","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Location \\- Chennai / Mumbai / Pune / Hyderabad / Bangalore (Hybrid)** 
+
+
+
+
+  
+
+
+
+
+
+**About Us** 
+
+
+
+
+ Zemoso Technologies is a Software Product Market Fit Studio that brings silicon valley style
+ 
+
+
+
+ rapid prototyping and rapid application builds to Entrepreneurs and Corporate innovation. We
+ 
+
+
+
+ offer Innovation as a service and work on ideas from scratch and take it to the Product Market
+ 
+
+
+
+ Fit stage using Design Thinking \\-\\> Lean Execution \\-\\> Agile Methodology.
+ 
+
+
+
+ We were featured as one of Deloitte Fastest 50 growing tech companies from India thrice (2016,
+ 
+
+
+
+ 2018 and 2019\\). We were also featured in Deloitte Technology Fast 500 Asia Pacific both in
+ 
+
+
+
+ 2016 and 2018\\.
+ 
+
+
+
+ We are located in Hyderabad, India, and Dallas, US. We have recently incorporated another
+ 
+
+
+
+ office in Waterloo, Canada. Our founders have had past successes \\- founded a decision
+ 
+
+
+
+ management company acquired by SAP AG (now part of Hana Big data stack \\& NetWeaver
+ 
+
+
+
+ BPM), early engineering team of Zoho (leading billion $ SaaS player) \\& some Private Equity
+ 
+
+
+
+ experience. Marquee customers along with some exciting start\\-ups are part of our clientele.
+ 
+
+
+
+**Role Summary** 
+
+
+
+
+ We are seeking a highly experienced Machine Learning Lead to drive the architecture,
+ 
+
+
+
+ development, and deployment of advanced machine learning solutions. In this role, you will not
+ 
+
+
+
+ only lead a talented technical team but also serve as the critical bridge between our engineering
+ 
+
+
+
+ efforts and our clients. You must possess the unique ability to distill complex, highly technical
+ 
+
+
+
+ ML concepts into clear, business\\-driven language for stakeholders, ensuring the successful
+ 
+
+
+
+ delivery of complex projects.
+ 
+
+
+
+**What You Will Do** 
+
+
+
+
+ ● Stakeholder Communication \\& Client Management: Act as the primary technical
+ 
+
+
+
+ liaison for clients. Translate complex ML terms, model behaviors, and architectural
+ 
+
+
+
+ trade\\-offs into actionable business insights for non\\-technical stakeholders.
+ 
+
+
+
+ ● Technical Leadership: Architect and design end\\-to\\-end ML solutions. Lead, mentor,
+ 
+
+
+
+ and guide a team of Data Analysts and ML/Data Engineers through the entire project
+ 
+
+
+
+ lifecycle.
+ 
+
+
+
+ ● Project Delivery: Oversee the collection, cleanup, exploration, and statistical analysis of
+ 
+
+
+
+ complex datasets to drive business intelligence.
+ 
+
+
+
+ ● Model Lifecycle Management: Lead the implementation, deployment, and scaling of
+ 
+
+
+
+ advanced ML models and algorithms to solve complex business problems.
+ 
+
+
+
+ ● Cross\\-functional Collaboration: Work closely with data engineers to design, build,
+ 
+
+
+
+ test, and monitor robust data and MLOps pipelines for ongoing business operations.
+ 
+
+
+
+ ● Strategic Alignment: Understand the client's core business model to ensure the ML
+ 
+
+
+
+ solutions built bring measurable, actionable ROI out of data available in various formats.
+ 
+
+
+
+**Basic Qualifications** 
+
+
+
+
+ ● Experience: 8 to 12 years of overall industry experience, with a proven track record in
+ 
+
+
+
+ Data Science, Machine Learning, and technical leadership.
+ 
+
+
+
+ ● Client\\-Facing Expertise: Demonstrated experience in stakeholder management,
+ 
+
+
+
+ specifically the ability to confidently answer to clients and demystify complex ML
+ 
+
+
+
+ concepts in a consultative manner.
+ 
+
+
+
+ ● Technical Proficiency: Exceptional, hands\\-on coding experience in Python and robust
+ 
+
+
+
+ experience with popular ML frameworks (e.g., Scikit\\-Learn, TensorFlow, PyTorch).
+ 
+
+
+
+ ● Analytical Rigor: Deep expertise in statistical modeling of large data sets and a
+ 
+
+
+
+ comprehensive understanding of diverse ML algorithms.
+ 
+
+
+
+ ● Pipeline \\& Architecture: Strong experience designing robust data/ML pipelines and
+ 
+
+
+
+ transitioning models from experimentation to production environments.
+ 
+
+
+
+ ● Data Analytics: Solid foundational experience in data analytics, including the ability to
+ 
+
+
+
+ extract actionable insights from raw data (experience with advanced Excel/BI tools is a
+ 
+
+
+
+ plus).
+ 
+
+
+
+**Nice to Have Qualifications** 
+
+
+
+
+ ● Hands\\-on experience with Deep Learning, Generative AI, or NLP frameworks.
+ 
+
+
+
+ ● Experience with MLOps practices and tools (e.g., MLflow, Kubeflow, Docker, Kubernetes).
+ 
+
+
+
+ ● Experience with Cloud platforms (AWS, GCP, or Azure) and their respective ML services.
+ 
+
+
+
+ ● A background working in fast\\-paced startup environments or consulting/services agencies.
+ 
+
+
+
+**Benefits** 
+
+
+
+
+ ● Competitive salary.
+ 
+
+
+
+ ● Hybrid work model.
+ 
+
+
+
+ ● Learning and gaining experience rapidly.
+ 
+
+
+
+ ● Reimbursement for basic working set up at home.","Software Development and IT Services and IT Consulting","https://www.linkedin.com/company/zemoso-technologies","https://media.licdn.com/dms/image/v2/D560BAQHW-AXgfi-kIw/company-logo_100_100/B56ZeM_zkFGoAU-/0/1750417226501/zemoso_technologies_logo?e=2147483647&v=beta&t=LgDoOLNZQhWy68xllv6nkYBCEgOUwYOuuC9GJZgC_HA","","","","","","","","","","",""
+"li-4408330410","linkedin","https://www.linkedin.com/jobs/view/4408330410","","Data Scientist - Remote","YO IT Consulting","Pune Division, Maharashtra, India","2026-05-02","fulltime","","","","","",True,"entry level","Engineering and Information Technology","","","**Job Title: Data Scientist**
+**Job Type: Contractor**
+**Location: Remote**
+**Job Summary**
+ Join our customer team as a Data Scientist and play a pivotal role in transforming data into actionable insights that drive business growth. You will leverage your expertise in statistics, mathematics, and programming to tackle challenging data problems, ensuring clean, robust, and insightful analyses. This is an exciting opportunity to work in a dynamic, expert\\-driven environment that values clear communication and innovative thinking.
+   
+
+  
+
+**Key Responsibilities**
+* Collect, clean, and preprocess diverse data sets to ensure integrity and readiness for analysis.
+* Develop, validate, and implement statistical models to extract actionable insights from complex data.
+* Conduct exploratory data analysis to identify trends, patterns, and opportunities for business improvement.
+* Present findings and recommendations through compelling data visualizations and reports, tailored for technical and non\\-technical stakeholders.
+* Collaborate closely with team members to design and execute end\\-to\\-end data projects, from ideation to delivery.
+* Continuously improve analytical methodologies and automation processes to enhance data workflows.
+* Communicate effectively in both written and verbal formats, ensuring clarity and impact of data\\-driven recommendations.
+
+
+**Required Skills And Qualifications**
+* Expertise in statistics, mathematics, and data analysis techniques.
+* Proven experience in collecting, handling, and cleaning large, complex data sets.
+* Proficiency in programming languages such as Python, R, or similar for data manipulation and modeling.
+* Strong data modeling skills with experience in building and validating predictive models.
+* Advanced ability to visualize data using tools like Tableau, Power BI, or related libraries.
+* Meticulous attention to detail and commitment to data quality at every stage.
+* Excellent written and verbal communication skills, with an emphasis on clarity and precision.
+
+
+**Preferred Qualifications**
+* Experience working in a remote, cross\\-functional, or customer\\-focused team environment.
+* Background in developing and deploying machine learning solutions in production settings.","Software Development","https://ae.linkedin.com/company/yohritconsulting","https://media.licdn.com/dms/image/v2/D4D0BAQGgyLGyTK9l7Q/company-logo_100_100/B4DZre8Hq3G4AQ-/0/1764676893975/yohritconsulting_logo?e=2147483647&v=beta&t=GN8VZLY0BGm-K_azsgtQNVz4N789y5JkgV-clcpASvU","","","","","","","","","","",""
+"li-4398122000","linkedin","https://www.linkedin.com/jobs/view/4398122000","","Agentic AI Engineer","Advanced Energy","","2026-05-02","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","**About Advanced Energy**
+ Advanced Energy (Nasdaq: AEIS) is a global leader in the design and manufacturing of highly engineered, precision power conversion, measurement and control solutions for mission\\-critical applications and processes. AE’s power solutions enable customer innovation in complex applications for a wide range of industries including semiconductor equipment, industrial, manufacturing, telecommunications, data center computing and healthcare. With engineering know\\-how and responsive service and support around the globe, the company builds collaborative partnerships to meet technological advances, propel growth for its customers and innovate the future of power. Advanced Energy has devoted four decades to perfecting power for its global customers and is headquartered in Denver, Colorado.
+   
+
+  
+
+**Role Summary**
+ The Agentic AI Engineer is responsible for designing, building, and deploying intelligent, AI agents capable of reasoning, planning, and executing complex tasks across business and technical domains. This role focuses on production‑grade agentic systems powered by Large Language Models (LLMs), integrated with enterprise tools, APIs, and data sources.
+   
+
+  
+
+ This is a hands\\-on role requiring end‑to‑end ownership — from agent architecture and development through deployment, monitoring, evaluation, and continuous optimization. The ideal candidate combines strong software engineering fundamentals with deep expertise in LLM application design, agent frameworks, Retrieval‑Augmented Generation (RAG), memory systems, and multi‑agent orchestration.
+   
+
+  
+
+ In addition to strong engineering skills, this role requires a product mindset—partnering with business stakeholders to shape use cases, select appropriate agentic tools and frameworks, and translate user needs into scalable technical solutions..
+   
+
+  
+
+**Key Responsibilities**
+* Agent Architecture \\& Development
+* Design and implement agentic AI architectures, including:
+* ReAct (Reason \\+ Act)
+* Plan‑and‑Execute
+* Tool‑using agents
+* Multi‑agent systems and coordinators
+* Build LLM‑powered applications using modern foundation models
+* Translate business use cases into reliable, scalable agent workflows with clear handoffs and fallbacks
+* LLM \\& RAG Engineering
+* Develop and optimize prompt engineering strategies for reasoning, task execution, and tool use.
+* Implement Retrieval‑Augmented Generation (RAG) pipelines using structured and unstructured data.
+* Design and manage agent memory systems, including:
+* Short‑term (conversation/state)
+* Long‑term (vector‑based memory)
+* Work with vector databases
+* Tooling, APIs \\& Integration
+* Build and integrate internal and external tools (APIs, microservices, enterprise systems).
+* Enable agents to safely interact with:
+* Databases
+* Business applications
+* Automation platforms
+* Cloud services
+* Ensure robust error handling, retries, and fallback logic.
+* Production Readiness \\& Operations
+* Deploy agentic systems into production environments.
+* Implement monitoring, logging, and evaluation frameworks for:
+* Accuracy and task success
+* Latency and cost efficiency
+* Safety and policy compliance
+* Design and enforce guardrails to prevent hallucinations, unsafe actions, or data leakage.
+* Continuously optimize system performance and cost
+* Collaboration \\& Delivery
+* Partner closely with business stakeholders, application developers, data teams, and business stakeholders.
+* Act as a technical product owner for agentic solutions: collect user and business requirements, clarify problem statements, and translate them into system designs and implementation plans
+* Identify high‑impact AI opportunities and rapidly prototype, validate, and scale solutions.
+* Contribute to internal best practices, architecture standards, and AI governance.
+* Lead agentic tooling decisions: evaluate frameworks, model providers, orchestration patterns, and integration approaches; make pragmatic build/buy choices aligned to security, reliability, and cost constraints.
+* Act as a technical product partner: collect user requirements, define success metrics and acceptance criteria, translate needs into solution designs and implementation plans, and drive delivery from prototype to production.
+* Required Qualifications
+* Bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent experience.
+* 3\\+ years of professional software development experience.
+* Strong proficiency in Python (required).
+* Hands‑on experience working with LLM APIs, and MCP
+* Solid understanding of:
+* Prompt engineering
+* Embeddings and semantic search
+* Retrieval‑Augmented Generation (RAG)
+* API and backend system design
+* Experience integrating AI systems into production applications.
+* Familiarity with cloud platforms (Azure, AWS, or GCP).
+* Strong problem‑solving skills and ability to manage multiple priorities in fast‑paced environments.
+* Excellent written and verbal communication skills in English
+* Preferred Skills
+* Experience with agent frameworks (e.g., LangChain, Semantic Kernel, AutoGen, CrewAI).
+* Knowledge of multi‑agent coordination patterns.
+* Experience with evaluation frameworks for LLMs and agents.
+* Exposure to security, privacy, and compliance considerations in AI systems.
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Experience building AI solutions for enterprise or internal business use cases
+* What Success Looks Like
+* Full‑time role: on‑site.
+* Collaboration with global or cross‑functional teams may require flexible working hours.
+* Strong emphasis on ownership, experimentation, and delivery.
+* Work Environment:
+* Works in a standard office environment utilizing standard office equipment.
+* Works in team and individual environments.
+* May work weekends and overtime when necessary.
+* Ability to travel as needed, both domestic and international
+
+
+ As part of our total rewards philosophy, we believe in offering and maintaining competitive Zompensation and benefits programs for our employees in order to attract and retain a talented, highly engaged workforce. Our compensation programs are focused on equitable, fair pay practices including market\\-based base pay, an annual pay\\-for\\-performance incentive plan, we offer a strong benefits package in each of the countries in which we operate
+   
+
+  
+
+**Advanced Energy is committed to diversity in its workforce including Equal Employment Opportunity for Minorities, Females, Protected Veterans, and Individuals with Disabilities.**
+**We are committed to protecting and respecting your privacy. We take your privacy seriously and will only use your personal information to administer your application in accordance with the RA No. 10173 also known as the Data Privacy Act of 2012**","Appliances, Electrical, and Electronics Manufacturing","https://www.linkedin.com/company/advancedenergy","https://media.licdn.com/dms/image/v2/C4E0BAQHvpsifLd9iYQ/company-logo_100_100/company-logo_100_100/0/1631308022107?e=2147483647&v=beta&t=7Rg1hizVFYiDvroOp55ndcyaCHqEHrHJ_KqocDuSB_o","","","","","","","","","","",""
+"li-4409594929","linkedin","https://www.linkedin.com/jobs/view/4409594929","","ML Platform Engineer","Optum India","Pune Division, Maharashtra, India","2026-05-02","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start
+ **Caring. Connecting. Growing together.**
+ We are looking for a skilled Data Engineer to design, build, and maintain scalable, secure, and high\\-performance data solutions. This role spans the full data engineering lifecycle \\- from research and architecture to deployment and support \\- within cloud\\-native environments, with a solid focus on AWS and Kubernetes (EKS).
+   
+
+  
+
+**Primary Responsibilities**
+* Data Engineering Lifecycle: Lead research, proof of concept, architecture, development, testing, deployment, and ongoing maintenance of data solutions
+* Data Solutions: Design and implement modular, flexible, secure, and reliable data systems that scale with business needs
+* Instrumentation and Monitoring: Integrate pipeline observability to detect and resolve issues proactively
+* Troubleshooting and Optimization: Develop tools and processes to debug, optimize, and maintain production systems
+* Tech Debt Reduction: Identify and address legacy inefficiencies to improve performance and maintainability
+* Debugging and Troubleshooting: Quickly diagnose and resolve unknown issues across complex systems
+* Documentation and Governance: Maintain clear documentation of data models, transformations, and pipelines to ensure security and governance compliance
+* Cloud Expertise: Leverage advanced skills in AWS and EKS to build, deploy, and scale cloud\\-native data platforms
+* Cross\\-Functional Support: Collaborate with analytics, application development, and business teams to enable data\\-driven solutions
+* Team Leadership: Lead and mentor engineering teams to ensure operational efficiency and innovation
+* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re\\-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+
+**Required Qualifications**
+* Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field
+* 5\\+ years of hands‑on experience in data engineering or related technical roles, with 1\\+ years of architecture, leadership
+
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone\\-of every race, gender, sexuality, age, location and income\\-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes \\- an enterprise priority reflected in our mission.*","IT Services and IT Consulting","https://www.linkedin.com/company/optumindia","https://media.licdn.com/dms/image/v2/D560BAQHbWyXuihLpaQ/company-logo_100_100/B56Zf0TcSoHoAU-/0/1752150427206?e=2147483647&v=beta&t=FHvnqfJ8XDO3yLmOzfXyoqQ4DDQ36MFsFxFrFiHB3_o","","","","","","","","","","",""
+"li-4407769564","linkedin","https://www.linkedin.com/jobs/view/4407769564","","AIML GenAI Engineer/Data Scientist","LTIMindtree","Pune District, Maharashtra, India","","fulltime","","","","","",False,"associate","Information Technology","","tejaswini.karande@ltm.com","**Job Title: AI/ML Engineer, Data science** 
+
+
+
+
+**Location:** 
+ Pune
+ 
+
+
+
+**Experience: 3 to 8 Years\\-** 
+
+
+
+
+  
+
+
+
+
+
+**Note:** 
+ We have an F2F interview drive scheduled on 9th May 2026 at the Hinjewadi, Pune location. If you are available for the F2F interview, please share your resume and details with
+ **tejaswini.karande@ltm.com.** 
+
+
+
+
+  
+
+
+
+
+
+**Requirements** 
+
+
+
+* **Hands\\-on experience** 
+ in
+ **Data Science** 
+ ,
+ **AI/ML** 
+ , and
+ **Deep Learning (DL)** 
+ domains
+* Practical exposure to
+ **Generative AI (GenAI)** 
+ and
+ **DL frameworks**
+* Strong programming skills in
+ **Python** 
+ and experience with
+ **Linux/Windows environments**
+* Proficiency with common data science toolkits:
+* **TensorFlow** 
+ ,
+ **Keras** 
+ ,
+ **PyTorch** 
+ ,
+ **Pandas** 
+ ,
+ **NumPy** 
+ , etc.
+* Familiarity with
+ **GenAI frameworks** 
+ :
+* **LangChain** 
+ ,
+ **LlamaIndex** 
+ ,
+ **LangGraph** 
+ ,
+ **CrewAI** 
+ ,
+ **NeMo Agent Toolkit** 
+ ,
+ **NAT**
+* Knowledge of
+ **DL \\& GenAI algorithms** 
+ :
+* **Transformers** 
+ ,
+ **CNN** 
+ ,
+ **RNN** 
+ , etc.
+* Experience with
+ **NLP** 
+ ,
+ **Large Language Models (LLMs)** 
+ , and
+ **Multimodal Language Models** 
+ like:
+* **GPT** 
+ ,
+ **LLaMa** 
+ ,
+ **Mistral** 
+ ,
+ **Qwen** 
+ ,
+ **Nemotron** 
+ , etc.
+* Hands\\-on experience with
+ **Cloud platforms** 
+ :
+* **Azure** 
+ ,
+ **AWS** 
+ , or
+ **GCP**
+* Familiarity with
+ **Git** 
+ ,
+ **Docker** 
+ , and
+ **Kubernetes**
+* Strong
+ **problem\\-solving skills.**","IT Services and IT Consulting","https://in.linkedin.com/company/ltimindtree","https://media.licdn.com/dms/image/v2/D560BAQGBGxSs8hv4_A/company-logo_100_100/B56ZuM_jsXJoAQ-/0/1767597030946/ltimindtree_logo?e=2147483647&v=beta&t=NXmA23dhf5irpFMXfEf2V7HYf2xSnHN5hZqivDmCfog","","","","","","","","","","",""
+"li-4409305288","linkedin","https://www.linkedin.com/jobs/view/4409305288","","Data Scientist","GTT Data Solutions Ltd","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Location: Pune/ Bangalore/Chennai**
+**Fulltime**
+ The ideal candidate will have 3\\-5 years of experience in data science, with a strong background in Deep Learning, Natural Language Processing (NLP), and Generative AI (GenAI).
+   
+
+  
+
+ You will be responsible for developing and implementing advanced data models, algorithms, and solutions that enhance our IDP capabilities and provide actionable insights for our business.
+   
+
+  
+
+**Key Responsibilities**
+ Data Analysis and Modeling
+   
+
+  
+
+* Conduct exploratory data analysis to understand and summarize document data patterns.
+* Develop and implement machine learning models to solve complex business problems.
+* Build and optimize deep learning models for document processing applications.
+
+
+ Natural Language Processing (NLP)
+   
+
+  
+
+* Develop NLP solutions for text classification, data extraction extractive and abstractive.
+* Work with large\\-scale datasets to extract meaningful insights from text data.
+* Implement and fine\\-tune NLP models using state\\-of\\-the\\-art techniques specifically for document understanding.
+* Good to have knowledge in sequence\\-to\\-sequence models or transformer\\-based models for text extraction tasks.
+
+
+ Deep Learning
+   
+
+  
+
+* Design and implement deep learning models for various document processing tasks.
+* Utilize techniques such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformer\\-based models.
+* Optimize model performance through hyperparameter tuning and model architecture experimentation.
+
+
+ Generative AI
+   
+
+  
+
+* Design and develop generative models for various dimensions such as data generation, synthesis and augmentation.
+* Experiment with and implement advanced GenAI techniques to enhance existing solutions
+* Experience with on\\-prem models such as Claude, Mistral and cloud models OpenAI.
+* Parallel development and integration of CMR\\+ GenAI APIs (3 APIs\\- Training, Ingestion, Inference)
+
+
+ This job is provided by Shine.com","Staffing and Recruiting","https://in.linkedin.com/company/gttdataai","https://media.licdn.com/dms/image/v2/D4D0BAQGysjPGw768mA/company-logo_100_100/B4DZVggSC9HIAQ-/0/1741080830741/gttdataai_logo?e=2147483647&v=beta&t=8XbOobJdzjC0z1fES4cMLSRbqeFYvG-LWwayPfMKpik","","","","","","","","","","",""
+"li-4410527522","linkedin","https://www.linkedin.com/jobs/view/4410527522","","Data Scientist - GEN AI : 26-01146","Akraya, Inc.","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Primary Skills: Python (expert), Data Science (expert), Pandas (proficient), Numpy (proficient), SQL (basic)
+   
+
+ Contract Type:  Full\\-time
+   
+
+ Duration:  FT position at client
+   
+
+ Location: Pune
+   
+
+ Education Criteria: Minimum 60% throughout academics.
+   
+
+  
+
+**Job Summary:**
+ Responsible for developing Python algorithms to assess machinery health and enhance operational reliability.
+   
+
+  
+
+**Key Responsibilities:** 
+* Develop algorithms for assessing machinery health based on operational data.
+* Collaborate with engineering SMEs to gather equipment physics insights.
+* Analyze large time\\-series data from sensor measurements.
+* Apply engineering knowledge to create diagnostic and prognostic models.
+* Extract features from raw data to build robust AI/analytics solutions.
+
+
+**Must\\-Have Skills:** 
+* Proficient in Python programming for data science.
+* Strong understanding of physics and mathematics fundamentals.
+* Excellent written and verbal communication skills in English.
+
+
+**Industry Experience:**
+ Bachelor’s in science/engineering with physics, mathematics, and numerical programming; minimum GPA 3\\.5/4\\.0; Master's in data science or related field with algorithm development experience.
+   
+
+  
+
+**ABOUT AKRAYA**
+ Akraya is an award\\-winning IT staffing firm consistently recognized for our commitment to
+ **excellence and a thriving work environment** 
+ . 
+ **Most recently, we were recognized Stevie Employer of the Year 2025, SIA Best Staffing Firm to work for 2025, Inc 5000 Best Workspaces in US (2025 \\& 2024\\) and Glassdoor's Best Places to Work (2023 \\& 2022\\)!**
+**Industry Leaders in Tech Staffing**
+ As Talent solutions provider for Fortune 100 Organizations, Akraya's industry recognitions solidify our leadership position in the IT staffing space. 
+ **We don't just connect you with great jobs, we connect you with a workplace that inspires!**
+**Join Akraya Today!**
+ Let us lead you to your dream career and experience the Akraya difference. Browse our open positions and join our team!","IT Services and IT Consulting","https://www.linkedin.com/company/akraya-inc","https://media.licdn.com/dms/image/v2/D560BAQHmtodksSlcgQ/company-logo_100_100/B56Z3QBlHtGsAQ-/0/1777311568709/akraya_inc_logo?e=2147483647&v=beta&t=T-9UwbQw5kSCMsFnFsAcvTIrZF0aO0yw-vcQxcrMdeE","","","","","","","","","","",""
+"li-4408677798","linkedin","https://www.linkedin.com/jobs/view/4408677798","","AI Engineer","Citi","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","The Applications Development Intermediate Programmer Analyst is an intermediate level position responsible for participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to applications systems analysis and programming activities.
+   
+
+  
+
+**Responsibilities:**
+* Utilize knowledge of applications development procedures and concepts, and basic knowledge of other technical areas to identify and define necessary system enhancements, including using script tools and analyzing/interpreting code
+* Consult with users, clients, and other technology groups on issues, and recommend programming solutions, install, and support customer exposure systems
+* Apply fundamental knowledge of programming languages for design specifications.
+* Analyze applications to identify vulnerabilities and security issues, as well as conduct testing and debugging
+* Serve as advisor or coach to new or lower level analysts
+* Identify problems, analyze information, and make evaluative judgements to recommend and implement solutions
+* Resolve issues by identifying and selecting solutions through the applications of acquired technical experience and guided by precedents
+* Has the ability to operate with a limited level of direct supervision.
+* Can exercise independence of judgement and autonomy.
+* Acts as SME to senior stakeholders and /or other team members.
+* Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+
+**Qualifications:**
+* 3\\+ years of relevant experience in the Financial Service industry
+* Required Skills – Python, machine learning frameworks (PyTorch and JAX), machine learning algorithms
+* Understanding of \\- Apache Spark, Hadoop, or Flink
+* good to have – LLM and Generative AI
+* Intermediate level experience in Applications Development role
+* Consistently demonstrates clear and concise written and verbal communication
+* Demonstrated problem\\-solving and decision\\-making skills
+* Ability to work under pressure and manage deadlines or unexpected changes in expectations or requirements
+
+
+**Education:**
+* Bachelor’s degree/University degree or equivalent experience
+
+
+ This job description provides a high\\-level review of the types of work performed. Other job\\-related duties may be assigned as required.
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Job Family Group:**
+ Technology
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Job Family:**
+ Applications Development
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Time Type:**
+ Full time
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Most Relevant Skills**
+ Please see the requirements listed above.
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Other Relevant Skills**
+ For complementary skills, please see above and/or contact the recruiter.
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* 
+*Accessibility at Citi.*
+*View Citi’s EEO Policy Statement and the Know Your Rights poster.*","Banking, Financial Services, and Investment Banking","https://www.linkedin.com/company/citi","https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&v=beta&t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc","","","","","","","","","","",""
+"li-4408971362","linkedin","https://www.linkedin.com/jobs/view/4408971362","","AI Powered Mobile App Developer, (Remote, Full-Time) [AS198]","Smart Working","Pune Division, Maharashtra, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About Smart Working** 
+
+
+
+
+  
+
+
+
+
+
+ At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity \\- it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that values your growth and well\\-being.
+ 
+
+
+
+  
+
+
+
+
+
+ Our mission is simple: to break down geographic barriers and connect skilled professionals with outstanding global teams and products for full\\-time, long\\-term roles. We help you discover meaningful work with teams that invest in your success, where you’re empowered to grow personally and professionally.
+ 
+
+
+
+ Join one of the highest\\-rated workplaces on Glassdoor and experience what it means to thrive in a truly remote\\-first world.
+ 
+
+
+
+  
+
+
+
+
+
+**About the role** 
+
+
+
+
+  
+
+
+
+
+
+ As an AI Powered Mobile App Developer (IOS/Android), you will take ownership of the technical direction and delivery of a mobile app and supporting platform at a pivotal early stage of the business. This is a highly hands\\-on, product\\-focused role where you will act as the lead engineer and technical owner, working closely with the CEO to turn vision into a scalable, high\\-quality product.
+ 
+
+
+
+  
+
+
+
+
+
+ This role suits someone who thrives in fast\\-paced startup environments, is passionate about building products end\\-to\\-end, and is excited by the opportunity to grow into a senior leadership position as the company scales. The role is permanent, with long\\-term growth potential and the possibility of equity.
+ 
+
+
+
+
+  
+
+
+
+
+**Responsibilities** 
+* Leverage AI\\-powered development tools, LLMs, and vibe\\-coding workflows, MCP to accelerate delivery while maintaining engineering quality
+* Take full ownership of the lead technical and development role within the business, responsible for delivering the mobile app and supporting platform end to end
+* Act as the technical owner of the product, driving feature delivery, workflow refinement, and ongoing bug fixing
+* Lead the design, development, and deployment of new features across mobile applications (iOS and Android) and supporting backend services
+* Build, release, and maintain production\\-ready mobile applications, managing Android and iOS deployments
+* Maintain and continuously improve existing workflows to ensure a high\\-quality, stable, and scalable user experience
+* Work in a tech\\-focused product ownership capacity, translating the CEO’s vision into practical, scalable technical solutions
+* Immerse yourself in the product, users, and problem space to proactively identify improvements and suggest innovative ways to evolve and grow the platform
+* Balance front\\-end and back\\-end development responsibilities (approximately 50/50\\)
+* Operate with a high degree of autonomy, collaborating closely with the CEO and other contributors across the business
+* Lay the technical foundations for future scale, shaping engineering practices, standards, and decisions as the company grows
+
+
+
+  
+
+
+
+
+**Requirements** 
+* 2 years of experience in
+ **AI\\-Powered Development** 
+ / AI Agents / LLMs / Vibe Coding / MCP.
+* 2 years of experience in
+ **Prompt Engineering** 
+ for AI\\-Driven Feature Development (Replit, Cursor, Bolt, Loveable, Tempolabs, etc.)
+* 2 years of experience in
+ **Passion for Technology** 
+ , Confidence, and Idea Sharing
+* 3 years of experience in
+ **Mobile Application Deployment** 
+ (Android / iOS).
+* A strong
+ **product mindset** 
+ , with the ability to think beyond code and focus on user value and business outcomes.
+* High level of passion and commitment to the project, with a genuine interest in the product, its users, and its long\\-term success.
+* Comfortable working in an early\\-stage startup with ambiguity, pace, and evolving priorities.
+
+
+
+  
+
+
+
+
+**Nice to have** 
+* Previous exposure to early\\-stage startups or being an early technical hire
+* Experience contributing to product direction or informal product ownership alongside engineering delivery
+* Interest in growing into a broader leadership role as the company scales, potentially including equity participation
+* Familiarity with rapid prototyping and iterative product development approaches
+
+
+
+  
+
+
+
+
+**Benefits** 
+* Fixed Shifts: 12:00 PM \\- 9:30 PM IST (Summer) \\| 1:00 PM \\- 10:30 PM IST (Winter)
+* No Weekend Work: Real work\\-life balance, not just words
+* Day 1 Benefits: Laptop and full medical insurance provided
+* Support That Matters:Mentorship, community, and forums where ideas are shared
+* True Belonging: A long\\-term career where your contributions are valued
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+ At Smart Working, you’ll never be just another remote hire.
+ 
+
+
+
+  
+
+
+
+
+
+ Be a Smart Worker \\- valued, empowered, and part of a culture that celebrates integrity, excellence, and ambition.
+ 
+
+
+
+  
+
+
+
+
+
+ If that sounds like your kind of place, we’d love to hear your story. 
+ 
+
+
+  
+
+
+ We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","IT Services and IT Consulting","https://uk.linkedin.com/company/smartworkingsolutions","https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_100_100/company-logo_100_100/0/1725018611800/smartworkingsolutions_logo?e=2147483647&v=beta&t=pMU3zeIFuRDS9xLbKRRKsWlJRsLNCi19iR_bn12AYxM","","","","","","","","","","",""
+"li-4408661786","linkedin","https://www.linkedin.com/jobs/view/4408661786","","Data Scientist","Call Quest Solution","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Job Summary** 
+
+
+
+
+ We are seeking a highly analytical and innovative Data Scientist to join our growing data and analytics team. This role is ideal for professionals who are passionate about extracting insights from complex datasets and building predictive models that drive business decisions. You will work at the intersection of data engineering, analytics, and machine learning to solve real\\-world business problems.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities** 
+
+
+
+* Analyze large, structured, and unstructured datasets to identify trends and patterns
+* Develop, validate, and deploy machine learning and statistical models
+* Work on use cases such as recommendation systems, forecasting, segmentation, and predictive analytics
+* Perform data cleaning, feature engineering, and model optimization
+* Collaborate with data engineers to ensure data availability and pipeline efficiency
+* Communicate insights and recommendations to business stakeholders
+* Develop dashboards, reports, and visualizations to support decision\\-making
+* Stay updated with emerging data science techniques and tools
+
+
+
+  
+
+
+
+
+
+**Required Skills and Qualifications** 
+
+
+
+* Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, or related field
+* Strong programming skills in Python or R
+* Experience with machine learning libraries such as Scikit\\-learn, TensorFlow, or PyTorch
+* Solid understanding of statistics, probability, and data modeling techniques
+* Experience with SQL and data manipulation tools
+* Strong analytical thinking and problem\\-solving skills
+* Ability to communicate technical concepts effectively
+
+
+
+  
+
+
+
+
+
+**Preferred Qualifications** 
+
+
+
+* Experience with NLP, computer vision, or deep learning
+* Familiarity with big data platforms such as Spark or Hadoop
+* Exposure to cloud\\-based analytics tools","IT System Data Services","https://www.linkedin.com/company/call-quest-solution","https://media.licdn.com/dms/image/v2/D4D0BAQGkr0sqPDvqUA/company-logo_100_100/B4DZjr.mtQHsAg-/0/1756305714329?e=2147483647&v=beta&t=nSoRLSe-8hhq39iKjtwXhkFMaGpZbZq8ji9tATW6OiU","","","","","","","","","","",""
+"li-4401018270","linkedin","https://www.linkedin.com/jobs/view/4401018270","","Senior Python/AI Engineer (only Immediate joiner accepted)","Luxoft India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Project Description:** 
+
+
+
+
+ Our client, one of the leading Agriculture Companies, is modernising their landscape and adopting AI and innovations in their process.
+ 
+
+
+
+ We are seeking a highly skilled and innovative Python/AI Engineer to join our team. The ideal candidate will be responsible for developing cutting\\-edge AI solutions, creating Proof of Concepts (PoCs), and integrating Large Language Models (LLMs) into our application landscape. This role involves close collaboration with business stakeholders and R\\&D teams to drive AI adoption and deliver impactful results.
+ 
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Design and develop PoCs and present them to business stakeholders.
+* Build and deploy innovative AI solutions using state\\-of\\-the\\-art models.
+* Integrate LLMs into existing and new applications.
+* Develop new functionalities within R\\&D applications.
+* Promote and implement best process practices across AI development workflows.
+
+
+
+  
+
+
+
+
+
+**Mandatory Skills Description:** 
+
+
+
+* 8\\+ years of experience in AI/ML development.
+* Advanced proficiency in Python.
+* Strong understanding of AI frameworks (e.g., TensorFlow, PyTorch).
+* Expertise in at least one LLM (e.g., GPT, Claude, LLaMA).
+* Solid foundation in Data Science and statistical modeling.
+* Experience with Agentic Workflows using LangChain\\-based agents.
+* Hands\\-on experience with LangGraph (e.g., hackathons or MCPs).
+* Deep understanding of fine\\-tuning techniques for LLMs.
+* Hands\\-on experience with Transformer architecture and its evolution from earlier models.","Information Technology & Services and Banking","https://in.linkedin.com/company/luxoft-india","https://media.licdn.com/dms/image/v2/D4D0BAQFuMtZOjz89QQ/company-logo_100_100/B4DZyGXvwbHEAQ-/0/1771780898250/luxoft_india_logo?e=2147483647&v=beta&t=k6lnt0NbxnwIuIXFd7pom6-y4F2iK7vD8uIwxwCefi0","","","","","","","","","","",""
+"li-4302589794","linkedin","https://www.linkedin.com/jobs/view/4302589794","","Staff Machine Learning Engineer (India based, relocation provided)","Agoda","Pune Division, Maharashtra, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About Agoda**
+ At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.
+   
+
+  
+
+ Today, we are part of Booking Holdings \\[NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.
+   
+
+  
+
+ No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.
+   
+
+  
+
+ Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2\\.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000\\+ talents coming from 90\\+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+   
+
+  
+
+**Get to Know Our Team**
+ The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non\\-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+   
+
+  
+
+**Why Agoda Engineering Team (ML role)?**
+ Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast\\-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+   
+
+  
+
+**This role is based in Gurgaon, India.**
+**In this Role, you will get to:**
+* Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+* Build, administer and scale ML processing pipelines.
+* Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+* Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+* Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+* Work with experienced engineers and product owners to identify and build tools to automate many large\\-scale data management / analysis tasks.
+* We believe in end\\-to\\-end ownership; this role will involve taking ML models to production at a scale.
+
+
+**What You’ll need to Succeed:**
+* Bachelor’s degree in computer science /information systems/engineering/related field
+* 8\\+ years of experience in software engineering with a minimum of 4\\+ years in ML
+* Good experience in Pyspark
+* Expert level understanding of Python with design patterns and object\\-oriented programming.
+* Experience debugging and reasoning about production issues is desirable.
+* A good understanding of data architecture principles preferred.
+* Any other experience with Big Data technologies / tools
+* SQL experience
+* Analytical problem\\-solving capabilities \\& experience.
+* Systems administration skills in Linux
+* A strong engineering driven mindset will be required to succeed in this role.
+
+
+**It’s great if you have:**
+* Good understanding of Hadoop ecosystems
+* Experience working with Open\\-source products
+* Experience with Scala development
+* Working in an agile environment using test driven methodologies
+
+
+**Benefits**
+* Hybrid Working Model
+* WFH Set Up Allowance
+* 30 Days of Remote Working from anywhere globally every year
+* Employee discount for accommodation globally
+* Global team of 90\\+ nationalities
+* 40\\+ offices and 25\\+ countries
+* Annual CSR / Volunteer Time off
+* Benevity Subscription for employee donations
+* Volunteering opportunities globally
+* Free Headspace subscription
+* Free Odilo \\& Udemy subscriptions
+* Access to Employee Assistance Program (third party for personal and workplace support)
+* Enhanced Parental Leave
+* Life, TPD \\& Accident Insurance
+
+
+ \\#telaviv \\#jerusalem \\#IT \\#ENG \\#4 \\#sanfrancisco \\#sanjose \\#losangeles \\#sandiego \\#oakland \\#denver \\#miami \\#orlando \\#atlanta \\#chicago \\#boston \\#detroit \\#newyork \\#portland \\#philadelphia \\#dallas \\#houston \\#austin \\#seattle \\#sydney \\#melbourne \\#perth \\#toronto \\#vancouver \\#montreal \\#prague \\#Brno \\#Ostrava \\#cairo \\#alexandria \\#giza \\#estonia \\#paris \\#berlin \\#munich \\#hamburg \\#stuttgart \\#cologne \\#frankfurt \\#budapest \\#bali \\#dublin \\#telaviv \\#milan \\#rome \\#venice \\#florence \\#naples \\#turin \\#palermo \\#bologna \\#osaka \\#malta \\#amsterdam \\#oslo \\#warsaw \\#krakow \\#alrayyan \\#riyadh \\#jeddah \\#mecca \\#medina \\#singapore \\#seoul \\#barcelona \\#madrid \\#stockholm \\#zurich \\#taipei \\#tainan \\#taichung \\#kaohsiung \\#bangkok \\#Phuket \\#istanbul \\#london \\#manchester \\#edinburgh \\#hcmc \\#hanoi \\#lodz \\#wroclaw \\#poznan \\#katowice \\#rio \\#salvador \\#newdelhi \\#bangalore \\#bandung \\#yokohama \\#nagoya \\#okinawa \\#fukuoka \\#jerusalem \\#IT \\#4 \\#bangalore \\#delhi \\#hyderabad \\#pune \\#singapore \\#beijing \\#shanghai \\#shenzhen \\#tokyo \\#seoul \\#hongkong \\#taipei \\#kualalumpur \\#jakarta \\#hochiminh \\#hochiminhcity \\#manila \\#instanbul \\#makati \\#dubai \\#riyadh \\#gurgaon \\#noida
+   
+
+  
+
+ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works.
+   
+
+  
+
+**Discover More About Working At Agoda**
+* Agoda Careers https://careersatagoda.com
+* Facebook https://www.facebook.com/agodacareers/
+* LinkedIn https://www.linkedin.com/company/agoda
+* YouTube https://www.youtube.com/agodalife
+
+
+**Equal Opportunity Employer**
+ At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+   
+
+  
+
+ We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+   
+
+  
+
+**Disclaimer**
+ We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third\\-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.","Technology, Information and Internet","https://sg.linkedin.com/company/agoda","https://media.licdn.com/dms/image/v2/D4D0BAQHnu249lVL3yA/company-logo_100_100/B4DZ09fn8fJQAU-/0/1774853194495/agoda_logo?e=2147483647&v=beta&t=lrOwUfAF1WHmQzDaHFq--pWzFhz_5SS-xmzXmFp2SJU","","","","","","","","","","",""
+"li-4408682738","linkedin","https://www.linkedin.com/jobs/view/4408682738","","Gen AI Java / Python Engineer - Vice President","Citi","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Overview of Citi:**
+ Citi is a world\\-leading global bank. We have approximately 200 million customer accounts and a presence in more than 100 countries and jurisdictions worldwide. We provide consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. We enable clients to achieve their strategic financial objectives by providing them with cutting\\-edge ideas, best\\-in\\-class products and solutions, and unparalleled access to capital and liquidity.
+   
+
+  
+
+**Overview of the organization:**
+ The COO Enterprise Solution Engineering capability is responsible for the development of best\\-in\\-class technology platforms for Operations, including development of an integrated portfolio of Operations tools, end\\-to\\-end solution design for large scale transformation initiatives, design governance, and adoption of Generative AI solutions for driving operational efficiencies.
+   
+
+  
+
+**Role** 
+ :
+   
+
+  
+
+ This role is for an innovative Full Stack Engineer to help the build out of solutions that comprise of agentic flows \\& application integration, focusing on process efficiencies, automation, simplification, and risk reduction across enterprise business solutions. The successful candidate will contribute to the technical direction of products and services, instil engineering best practices, and promote cultural change within the organization. This position involves close collaboration with various technology teams to push the adoption of Generative AI technologies and agentic flows across enterprise\\-wide applications and processes, and to develop partnerships with third\\-party providers for validating and adopting best\\-of\\-breed solutions.
+   
+
+  
+
+**Responsibilities:**
+* Contribute significantly to engineering \\& delivery of end\\-to\\-end solutions.
+* Adopt a product\\-focused approach, ensuring the development of robust, scalable, and user\\-friendly solutions.
+* Thrive in a fast\\-paced environment by continuously testing, learning, and tackling cutting\\-edge problems.
+* Actively engage in pair programming, promote lean methodologies, and streamline processes by removing unnecessary bureaucracy.
+* Prioritize rapid delivery and iterative development, demonstrating adaptability and a willingness to pivot rather than pursuing a perfect upfront solution.
+* Develop foundational components and mature technology capabilities in Artificial Intelligence (AI) and Large Language Models (LLMs).
+* Drive the enterprise\\-wide adoption and successful integration of Generative AI solutions.
+* Demonstrate strong problem\\-solving capabilities and a proactive learning mindset, continuously acquiring new skills.
+* Exhibit excellent communication and collaboration skills, effectively engaging with diverse stakeholders.
+* Be adaptable and resourceful in navigating complex technical and organizational challenges
+
+
+**Required Skills**
+**Required Skills, Knowledge \\& Experience**
+* Strong engineering experience with high\\-performance, large\\-scale distributed systems.
+* Fluency in Java, Python or both.
+* UI development skills with technologies such as React JS or StreamLit
+* Experience with frameworks such as Spring (Boot, Core, JDBC, AI etc.) or Flask
+* Proficiency in database technologies, such as Oracle, Postgres, or MongoDB.
+* Experience designing and implementing REST or WebSocket APIs
+* Experience with messaging and integration platforms like Kafka or JMS/MQ.
+* Familiarity with one of the major cloud platforms including AWS, GCP, or Azure
+* Strong knowledge of infrastructure tools, including Docker, Kubernetes, Terraform, and Helm.
+* Experience with build and deployment (CI/CD) tools such as Jenkins and Gradle.
+
+
+**Good To Have Skills**
+* Proficiency in Javascript/Typescript or Golang is also highly valued
+* Understanding of Gen AI Engineering \\- LangChain, LangGraph, and MLFlow, LLMs, transformers, agentic frameworks, vector stores, and search algorithms.
+* Experience using AI coding assistants such as CoPilot or Devin
+
+
+**General Experience \\& Qualifications** 
+ :
+   
+
+  
+
+* A minimum of 10\\+ years of professional experience in financial services, technology firms, or dynamic start\\-up environments.
+* Strong hands\\-on experience with Agile delivery, product management, and value stream methodologies.
+* Proven track record in producing high\\-quality project artifacts.
+* Demonstrated ability to drive the design, development \\& implementation of scalable systems.
+* Motivated self\\-starter with the ability to quickly learn new skills and effectively navigate complex organizational structures.
+* Bachelor's degree in Computer Science, Information Technology or Engineering is required; a Master's degree is preferred.
+
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Job Family Group:**
+ Technology
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Job Family:**
+ Applications Development
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Time Type:**
+ Full time
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Most Relevant Skills**
+ Please see the requirements listed above.
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+**Other Relevant Skills**
+ For complementary skills, please see above and/or contact the recruiter.
+   
+
+  
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+   
+
+  
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* 
+*Accessibility at Citi.*
+*View Citi’s EEO Policy Statement and the Know Your Rights poster.*","Banking, Financial Services, and Investment Banking","https://www.linkedin.com/company/citi","https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&v=beta&t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc","","","","","","","","","","",""
+"li-4408667835","linkedin","https://www.linkedin.com/jobs/view/4408667835","","Senior AI Engineer","Rapid7","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About The Team**
+ The AI Center of Excellence is a multidisciplinary group of Data Scientists and AI Engineers who partner with Detection and Response teams to turn cutting\\-edge research into real\\-world security products. We leverage LLMs, agentic workflows, and behavioral modeling to stay ahead of evolving threats and ensure our customers remain secure.
+   
+
+  
+
+**About The Role**
+ As a Senior Software Engineer – Data Science, your primary responsibility will be to drive the end\\-to\\-end delivery of ML and LLM\\-based solutions on AWS.
+   
+
+  
+
+**Specifically, Your Focus Will Be To**
+* Design and implement sophisticated ML pipelines for security use cases, including malware detection and user behavioral analytics.
+* Architect and maintain RAG pipelines and agentic AI workflows using toolchains like LangChain and LangGraph to automate complex security tasks.
+* Optimize and deploy models within the AWS ecosystem, utilizing SageMaker and Bedrock while ensuring robust monitoring, drift detection, and retraining workflows.
+* Collaborate and mentor across the team to establish architectural standards, conduct code reviews, and support the technical growth of junior engineers.
+
+
+**The Skills And Qualities You’ll Bring Include**
+ Core Skills
+   
+
+  
+
+* Technical Ownership: Ability to take a project from a conceptual prototype to a high\\-quality production system.
+* Analytical Problem Solving: Expertise in applying scientific computing and statistical modeling to unlabeled, large\\-scale data.
+* Continuous Learning: A proactive approach to mastering emerging technologies in LLMs, Generative AI, and agentic systems.
+
+
+ Functional Skills
+   
+
+  
+
+* Python Proficiency: Advanced experience with numpy, pandas, and scientific computing libraries.
+* Machine Learning Frameworks: Hands\\-on expertise with scikit\\-learn and Deep Learning frameworks (PyTorch or TensorFlow).
+* Generative AI Toolchains: Proven experience with HuggingFace, Transformers, LangChain, and LangGraph.
+* Cloud Infrastructure: Strong experience deploying and operating ML workloads on AWS (SageMaker, Bedrock, Lambda, EKS).
+* Vector Databases \\& RAG: Practical experience designing and tuning Retrieval\\-Augmented Generation pipelines.
+* MLOps \\& CI/CD: Proficiency in managing model registries, versioning, and automated deployment via GitHub Actions or Jenkins.
+* Security Domain Knowledge: Familiarity with threat detection, malware behaviour, or cybersecurity analytics.
+* Model Explainability: Ability to implement and interpret model transparency tools like SHAP or LIME.
+* LLM Evaluation: Experience using evaluation frameworks such as Promptfoo or HELM to ensure model quality and safety.
+
+
+ We know that the best ideas and solutions come from multi\\-dimensional teams. That’s because these teams reflect a variety of backgrounds and professional experiences. If you are excited about this role and feel your experience can make an impact, please don’t be shy \\- apply today.
+   
+
+  
+
+**About Rapid7**
+ At Rapid7, our vision is to create a secure digital world for our customers, our industry, and our communities. We do this by harnessing our collective expertise and passion to challenge what’s possible and drive extraordinary impact. We’re building a dynamic and collaborative workplace where new ideas are welcome.
+   
+
+  
+
+ Protecting 11,000\\+ customers against bad actors and threats means we’re continuing to push the envelope just like we’ ve been doing for the past 20 years. If you ’re ready to solve some of the toughest challenges in cybersecurity, we’re ready to help you take command of your career. Join us.","Computer and Network Security","https://www.linkedin.com/company/rapid7","https://media.licdn.com/dms/image/v2/D4D0BAQEvLxvLFXAk6A/company-logo_100_100/B4DZbPgFH5GUAQ-/0/1747238018082/rapid7_logo?e=2147483647&v=beta&t=50y_bRinbJhoX9m2_YXMyPJ0J4ify0OoeaIPzJg-rUQ","","","","","","","","","","",""
+"li-4410091191","linkedin","https://www.linkedin.com/jobs/view/4410091191","","Senior AI Developer","r3 Consultant","Pune City, Maharashtra, India","","fulltime","","","","","",True,"associate","Information Technology","","","**Job Title:** 
+ AI Lead
+ 
+
+
+
+**Location:** 
+ Pune (Hybrid),
+ 
+
+
+
+**Experience Required: 5\\+ years** 
+
+
+
+
+**Work Mode:** 
+ Hybrid
+ 
+
+
+
+  
+
+
+
+
+
+**NOTE\\- Please Apply only if you have 5\\+ Yrs experience in AI/ML Development.** 
+
+
+
+
+  
+
+
+
+
+
+**Job Summary:** 
+
+
+
+
+  
+
+
+
+
+
+ We are looking for an Senior AI Developer with hands\\-on experience working with various AI tools, Proof of Concepts (POCs), and AI\\-driven projects. The ideal candidate should be proficient in designing, developing, and deploying AI solutions while collaborating with cross\\-functional teams. Strong problem\\-solving skills, a passion for AI innovation, and excellent communication abilities are essential.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+  
+
+
+
+
+
+**AI Development \\& Implementation:** 
+
+
+
+* Develop and implement AI/ML models and algorithms for real\\-world applications.
+* Work on Proof of Concepts (POCs) and AI\\-based prototypes, translating ideas into deployable solutions.
+* Optimize and fine\\-tune AI models for scalability, performance, and efficiency.
+* Integrate AI technologies into existing business processes and software applications.
+
+
+
+  
+
+
+
+
+
+**AI Tools \\& Technology Stack:** 
+
+
+
+* Hands\\-on experience with AI/ML tools, frameworks, and libraries such as TensorFlow, PyTorch, OpenAI, LangChain, and Hugging Face.
+* Work with Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), and Computer Vision.
+* Utilize cloud platforms such as AWS, Azure, or Google Cloud for AI model deployment and scaling.
+
+
+
+  
+
+
+
+
+
+**Project Execution \\& Collaboration:** 
+
+
+
+* Collaborate with data scientists, software engineers, and business teams to define AI\\-driven solutions.
+* Work closely with stakeholders to understand business problems and develop AI\\-based recommendations.
+* Participate in code reviews, debugging, and troubleshooting to ensure AI applications are robust.
+
+
+
+  
+
+
+
+
+
+**Communication \\& Documentation:** 
+
+
+
+* Communicate AI concepts, technical findings, and project progress to technical and non\\-technical stakeholders.
+* Document AI models, processes, and best practices for knowledge sharing.
+
+
+
+  
+
+
+
+
+
+**Team \\& Project Leadership:** 
+
+
+
+
+  
+
+
+
+
+
+**Lead Cross\\-Functional AI Teams** 
+
+
+
+* Supervise data scientists, ML engineers, and researchers.
+* Foster collaboration between AI, product, engineering, and business units.
+
+
+
+**Mentor and Upskill Team Members** 
+
+
+
+* Provide guidance on AI best practices and professional development.
+* Promote a culture of continuous learning and experimentation.
+
+
+
+**Drive Agile AI Development** 
+
+
+
+* Use agile methodologies (Scrum/Kanban) for iterative model delivery.
+* Prioritize tasks based on impact, feasibility, and business value.
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Candidate Requirements:** 
+
+
+
+* Minimum of 5 years of relevant experience in AI/ML development.
+* Strong experience in building AI\\-driven applications, POCs, and automation solutions.
+* Hands\\-on expertise with AI tools, frameworks, and cloud platforms.
+* Proficiency in programming languages such as Python, R, or Java for AI/ML model implementation.
+* Experience in LLMs, NLP, Deep Learning, and Generative AI is preferred.
+* Strong experience in Team leading.
+* Strong problem\\-solving and analytical skills to drive AI initiatives.
+* Excellent communication skills to convey technical concepts to diverse audiences.
+* Ability to work in a hybrid model from Pune (on\\-site and remote).
+
+
+
+  
+
+
+
+
+
+**Why Join Us?** 
+
+
+
+* Opportunity to work on cutting\\-edge AI technologies and projects.
+* Collaborative environment with AI experts and business leaders.
+* A chance to drive AI innovation in a dynamic and fast\\-paced setting.
+* Hybrid work model based in Pune.","IT Services and IT Consulting","https://in.linkedin.com/company/r3consultant","https://media.licdn.com/dms/image/v2/D4D0BAQFRbht7SBhUtQ/company-logo_100_100/company-logo_100_100/0/1711336255087/r3consultant_logo?e=2147483647&v=beta&t=qtSoBhVmaFnuzES6BRva-N9iOnEi0o6ZV4INAjI9u1s","","","","","","","","","","",""
+"li-4308409080","linkedin","https://www.linkedin.com/jobs/view/4308409080","","Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)","Agoda","Pune Division, Maharashtra, India","","fulltime","","","","","",True,"director","Engineering and Information Technology","","","**About Agoda**
+ At Agoda, we bridge the world through travel. Our story began in 2005, when two lifelong friends and entrepreneurs, driven by their passion for travel, launched Agoda to make it easier for everyone to explore the world.
+   
+
+  
+
+ Today, we are part of Booking Holdings \\[NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe. Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.
+   
+
+  
+
+ No two days are the same at Agoda. Data and technology are at the heart of our culture, fueling our curiosity and innovation. If you’re ready to begin your best journey and help build travel for the world, join us.
+   
+
+  
+
+**Get to Know Our Team**
+ The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non\\-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+   
+
+  
+
+**Why Agoda Engineering Team (ML role)?**
+ Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast\\-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+   
+
+  
+
+**In this Role, you will get to:**
+* Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes. Build, administer and scale ML processing pipelines.
+* Be comfortable navigating the following technology stack: Python3, Scala Spark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+* Should be able to understand internals of ML models such as LightGBM, Random Forest, CNN, Regression models, etc
+* Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+* Work with experienced engineers and product owners to identify and build tools to automate many large\\-scale data management / analysis tasks.
+* We believe in end\\-to\\-end ownership; this role will involve taking and building systems that enable us to deliver ML models to production at a scale.
+
+
+**What You’ll need to Succeed:**
+* Bachelor’s degree in computer science /information systems/engineering/related field 6\\+ years of experience in software engineering with a minimum of 4\\+ years in ML
+* Expert in SQL, Python3, and JVM based programming language – ie, Java or Scala
+* Expert in software design/design patterns, functional programming and object\\-oriented programming.
+* Analytical problem\\-solving capabilities \\& experience. A strong engineering driven mindset will be required to succeed in this role.
+
+
+**It’s great if you have:**
+* Good understanding of Hadoop ecosystems and Big Data architecture and techologies
+* Experience working with Open\\-source products
+* Experience with Scala development
+* Working in an agile environment using test driven methodologies
+* Systems administration skills in Linux
+
+
+**Benefits**
+* Hybrid Working Model
+* WFH Set Up Allowance
+* 30 Days of Remote Working from anywhere globally every year
+* Employee discount for accommodation globally
+* Global team of 90\\+ nationalities
+* 40\\+ offices and 25\\+ countries
+* Annual CSR / Volunteer Time off
+* Benevity Subscription for employee donations
+* Volunteering opportunities globally
+* Free Headspace subscription
+* Free Odilo \\& Udemy subscriptions
+* Access to Employee Assistance Program (third party for personal and workplace support)
+* Enhanced Parental Leave
+* Life, TPD \\& Accident Insurance
+
+
+ \\#telaviv \\#jerusalem \\#IT \\#ENG \\#4 \\#sanfrancisco \\#sanjose \\#losangeles \\#sandiego \\#oakland \\#denver \\#miami \\#orlando \\#atlanta \\#chicago \\#boston \\#detroit \\#newyork \\#portland \\#philadelphia \\#dallas \\#houston \\#austin \\#seattle \\#sydney \\#melbourne \\#perth \\#toronto \\#vancouver \\#montreal \\#shanghai \\#beijing \\#shenzhen \\#prague \\#Brno \\#Ostrava \\#cairo \\#alexandria \\#giza \\#estonia \\#paris \\#berlin \\#munich \\#hamburg \\#stuttgart \\#cologne \\#frankfurt \\#hongkong \\#budapest \\#jakarta \\#bali \\#dublin \\#telaviv \\#milan \\#rome \\#venice \\#florence \\#naples \\#turin \\#palermo \\#bologna \\#tokyo \\#osaka \\#kualalumpur \\#malta \\#amsterdam \\#oslo \\#manila \\#warsaw \\#krakow \\#doha \\#alrayyan \\#riyadh \\#jeddah \\#mecca \\#medina \\#singapore \\#seoul \\#barcelona \\#madrid \\#stockholm \\#zurich \\#taipei \\#tainan \\#taichung \\#kaohsiung \\#bangkok \\#Phuket \\#istanbul \\#london \\#manchester \\#edinburgh \\#hcmc \\#hanoi \\#lodz \\#wroclaw \\#poznan \\#katowice \\#rio \\#salvador \\#newdelhi \\#bangalore \\#bandung \\#yokohama \\#nagoya \\#okinawa \\#fukuoka \\#jerusalem \\#IT \\#4 \\#newdelhi \\#Pune \\#Hyderabad \\#Bangalore \\#Mumbai \\#Bengaluru \\#Chennai \\#Kolkata \\#Lucknow \\#sanfrancisco \\#sanjose \\#losangeles \\#sandiego \\#oakland \\#denver \\#miami \\#orlando \\#atlanta \\#chicago \\#boston \\#detroit \\#newyork \\#portland \\#philadelphia \\#dallas \\#houston \\#austin \\#seattle \\#sydney \\#melbourne \\#perth \\#toronto \\#vancouver \\#montreal \\#shanghai \\#beijing \\#shenzhen \\#prague \\#Brno \\#Ostrava \\#cairo \\#alexandria \\#giza \\#estonia \\#paris \\#berlin \\#munich \\#hamburg \\#stuttgart \\#cologne \\#frankfurt \\#hongkong \\#budapest \\#jakarta \\#bali \\#dublin \\#telaviv \\#milan \\#rome \\#tokyo \\#osaka \\#kualalumpur \\#amsterdam \\#oslo \\#manila \\#warsaw \\#krakow \\#bucharest \\#moscow \\#saintpetersburg \\#capetown \\#johannesburg \\#seoul \\#barcelona \\#madrid \\#stockholm \\#zurich \\#taipei \\#bangkok \\#Phuket \\#istanbul \\#london \\#manchester \\#edinburgh \\#kiev \\#hcmc \\#hanoi \\#wroclaw \\#poznan \\#katowice \\#rio \\#salvador \\#IT \\#4 \\#5
+   
+
+  
+
+ Please review our Hiring Process Guidelines before your interview — click here to learn how interviewing at Agoda works.
+   
+
+  
+
+**Discover More About Working At Agoda**
+* Agoda Careers https://careersatagoda.com
+* Facebook https://www.facebook.com/agodacareers/
+* LinkedIn https://www.linkedin.com/company/agoda
+* YouTube https://www.youtube.com/agodalife
+
+
+**Equal Opportunity Employer**
+ At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+   
+
+  
+
+ We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+   
+
+  
+
+**Disclaimer**
+ We do not accept any terms or conditions, nor do we recognize any agency’s representation of a candidate, from unsolicited third\\-party or agency submissions. If we receive unsolicited or speculative CVs, we reserve the right to contact and hire the candidate directly without any obligation to pay a recruitment fee.","Technology, Information and Internet","https://sg.linkedin.com/company/agoda","https://media.licdn.com/dms/image/v2/D4D0BAQHnu249lVL3yA/company-logo_100_100/B4DZ09fn8fJQAU-/0/1774853194495/agoda_logo?e=2147483647&v=beta&t=lrOwUfAF1WHmQzDaHFq--pWzFhz_5SS-xmzXmFp2SJU","","","","","","","","","","",""
+"li-4410069184","linkedin","https://www.linkedin.com/jobs/view/4410069184","","Lead AI Engineer","Baker Hughes","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Are you a highly motivated, creative individual and passionate about sales and proposals?**
+**Would you like to be a part of successful team?**
+**Join our Artificial Intelligence Engineering Team**
+ We design, build, and operate AI services that power critical business processes, including real\\-time decisioning, document understanding, predictive maintenance, computer vision, and Generative AI use cases. Our focus is on turning validated AI models into reliable, secure, and scalable production services.
+   
+
+  
+
+**Partner with the best**
+ You will play a key role in enabling Baker Hughes’ mission to make energy safer, cleaner, and more efficient through intelligent technologies. As a Lead AI Engineer, you will lead the design and delivery of AI serving capabilities that meet strict requirements for performance, reliability, cost control, and operational readiness, while mentoring other engineers and driving consistent engineering standards across teams.
+   
+
+  
+
+ As a
+ **Lead AI Engineer** 
+ , you will also be responsible for:
+   
+
+  
+
+  
+
+* Leading the design, analysis, implementation, and integration of AI model serving solutions.
+* Designing and standardizing serving architectures for AI and GenAI use cases.
+* Defining and implementing safe rollout and rollback strategies. Driving performance, scalability, and cost optimization.
+* Establishing and reviewing runtime resilience patterns. Providing technical leadership and coaching through design and code reviews.
+* Developing and reviewing performance, load, resiliency, and cost test plans.
+* Ensuring operational readiness for production launches. Participating in architecture, operational readiness, and security reviews.
+* Collaborating with Platform, MLOps, Reliability, Security, Data, and Product teams.
+
+
+**Fuel your passion!**
+ To be successful in this role you will:
+   
+
+  
+
+  
+
+* A Master’s degree in Computer Science, Software Engineering, Artificial Intelligence, or a related field.
+* Strong experience delivering production\\-grade software systems.
+* Expertise in Python development.
+* Experience with containerized, microservice\\-based architectures.
+* Strong understanding of API design and versioning. Experience with AWS.
+* Knowledge of CI/CD pipelines and DevOps practices.
+* Experience mentoring engineers and leading technical initiatives.
+
+
+**Work in a way that works for you**
+ We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too.
+   
+
+  
+
+ Working flexible hours \\- flexing the times when you work in the day to help you fit everything in and work when you are the most productive.
+   
+
+  
+
+**Working with us**
+ Our people are at the heart of what we do at Baker Hughes. We know we are better when all of our people are developed, engaged and able to bring their whole authentic selves to work. We invest in the health and well\\-being of our workforce, train and reward talent and develop leaders at all levels to bring out the best in each other.
+   
+
+  
+
+**Working for you**
+ Our inventions have revolutionized energy for over a century. But to keep going forward tomorrow, we know we have to push the boundaries today. We prioritize rewarding those who embrace change with a package that reflects how much we value their input. Join us, and you can expect.
+   
+
+  
+
+ Contemporary work\\-life balance policies and wellbeing activities
+   
+
+  
+
+ Comprehensive private medical care options
+   
+
+  
+
+ Safety net of life insurance and disability programs
+   
+
+  
+
+ Tailored financial programs
+   
+
+  
+
+**Additional Elected Or Voluntary Benefits**
+ The Baker Hughes internal title for this role is: Lead Engineer, Mathematics \\& Data Science, Disciplinary Engineering and Science
+   
+
+  
+
+**About Us:**
+ We are an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward – making it safer, cleaner and more efficient for people and the planet.
+   
+
+  
+
+**Join Us:**
+ Are you seeking an opportunity to make a real difference in a company that values innovation and progress? Join us and become part of a team of people who will challenge and inspire you! Let’s come together and take energy forward.
+   
+
+  
+
+ Baker Hughes Company is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+   
+
+  
+
+**R163570**","Energy Technology","https://www.linkedin.com/company/bakerhughes","https://media.licdn.com/dms/image/v2/C4E0BAQE4CJSgGjKt_w/company-logo_100_100/company-logo_100_100/0/1630655649902/bakerhughes_logo?e=2147483647&v=beta&t=kJXgDEtnoON5yveBQm4HUQTWTTXBpwCxNutOllpis-U","","","","","","","","","","",""
