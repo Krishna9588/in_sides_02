@@ -1,6 +1,9 @@
 """
 git-hub repo: https://github.com/speedyapply/JobSpy
 
+also
+check this git repo for remote and other gobs
+repo: https://github.com/speedyapply/2026-AI-College-Jobs
 pip install -U python-jobspy
 """
 
