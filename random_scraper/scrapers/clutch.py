@@ -3,7 +3,7 @@ scrapers/clutch.py
 ==================
 Scrape B2B reviews and company profile from Clutch.co.
 
-Primary:  Apify actor "tri_angle/clutch-scraper" or "epctex/clutch-scraper"
+Primary:  Apify actor "johnvc/clutch-agency-api" (search mode, with reviews)
 Fallback: Playwright — Clutch loads most content server-side, so this works well
 
 Fields collected (all toggleable):
@@ -23,9 +23,8 @@ Usage:
     result = scraper.scrape("Zerodha", max_reviews=15)
 
 Apify actor:
-  ID: epctex/clutch-scraper
+  ID: johnvc/clutch-agency-api
   Alt: tri_angle/clutch-reviews-scraper
-  Docs: https://apify.com/epctex/clutch-scraper
   Required env: APIFY_API_TOKEN
 """
 
@@ -51,7 +50,7 @@ HEADERS  = {
 class ClutchScraper(BaseScraper):
 
     SOURCE_NAME = "clutch"
-    APIFY_ACTOR = "epctex/clutch-scraper"
+    APIFY_ACTOR = "johnvc/clutch-agency-api"
 
     FIELDS = [
         # ── Company info ───────────────────────────────────────────────────
@@ -78,9 +77,11 @@ class ClutchScraper(BaseScraper):
 
     def _build_apify_input(self, query: str, max_reviews: int = 20, **kwargs) -> dict:
         return {
-            "companyUrls": [{"url": f"{BASE_URL}/search?q={query}"}],
-            "maxItems"   : max_reviews,
-            "proxy"      : {"useApifyProxy": True},
+            "mode"                : "search",
+            "searchQueries"       : [query],
+            "includeReviews"      : True,
+            "maxReviewsPerProfile": max_reviews,
+            "maxItems"            : max_reviews + 1,
         }
 
     def _parse_apify_items(self, items: list[dict], query: str, **kwargs) -> dict:
@@ -89,14 +90,27 @@ class ClutchScraper(BaseScraper):
 
         reviews      = []
         company_info = {}
+        profile_url  = None
+        errors       = []
 
         for item in items:
-            if not company_info:
-                company_info = self._extract_company_info_apify(item)
+            if item.get("error_message"):
+                errors.append(f"{item.get('error_type', 'error')}: {item['error_message']}")
+                continue
 
-            review = self._parse_apify_review(item)
-            if review:
-                reviews.append(review)
+            if item.get("result_type") == "review" or "review_rating_overall" in item:
+                # Search can match several companies; keep reviews of the first one
+                if profile_url and item.get("profile_url") not in (None, profile_url):
+                    continue
+                review = self._parse_apify_review(item)
+                if review:
+                    reviews.append(review)
+            elif not company_info:
+                company_info = self._extract_company_info_apify(item)
+                profile_url  = item.get("profile_url")
+
+        if not company_info and not reviews and errors:
+            return {"error": "; ".join(errors)}
 
         return {
             "company_info": company_info,
@@ -107,12 +121,11 @@ class ClutchScraper(BaseScraper):
     def _extract_company_info_apify(self, item: dict) -> dict:
         info = {}
         field_map = {
-            "overall_rating" : ["overallRating", "rating", "averageRating"],
-            "total_reviews"  : ["reviewCount", "totalReviews", "numberOfReviews"],
-            "min_project_size": ["minProjectSize", "minimumProjectSize"],
-            "hourly_rate"    : ["hourlyRate"],
-            "employees"      : ["employees", "companySize"],
-            "client_focus"   : ["clientFocus", "clientSize"],
+            "overall_rating" : ["rating"],
+            "total_reviews"  : ["review_count"],
+            "min_project_size": ["min_project_size"],
+            "hourly_rate"    : ["hourly_rate"],
+            "employees"      : ["employees"],
         }
         for our_key, apify_keys in field_map.items():
             if self._is_field_enabled(our_key):
@@ -123,9 +136,11 @@ class ClutchScraper(BaseScraper):
                         break
 
         if self._is_field_enabled("service_focus"):
-            sf = item.get("serviceFocus") or item.get("services")
+            sf = item.get("service_lines")
             if isinstance(sf, list):
-                info["service_focus"] = {s.get("name", ""): s.get("percentage", 0) for s in sf if isinstance(s, dict)}
+                info["service_focus"] = {
+                    s.get("name", ""): s.get("percentage", 0) for s in sf if isinstance(s, dict)
+                } or {str(s): None for s in sf}
             elif isinstance(sf, dict):
                 info["service_focus"] = sf
 
@@ -135,23 +150,13 @@ class ClutchScraper(BaseScraper):
         review = {}
 
         if self._is_field_enabled("review_rating"):
-            review["rating"] = item.get("rating") or item.get("reviewRating")
-        if self._is_field_enabled("project_type"):
-            review["project_type"] = (item.get("projectType") or item.get("service") or "")[:80]
+            review["rating"] = item.get("review_rating_overall")
         if self._is_field_enabled("client_info"):
-            review["client_info"] = (item.get("clientInfo") or item.get("client") or "")[:100]
+            review["client_info"] = str(item.get("reviewer") or "")[:100]
         if self._is_field_enabled("challenge"):
-            review["challenge"] = (item.get("challenge") or item.get("background") or "")[:400]
-        if self._is_field_enabled("solution"):
-            review["solution"] = (item.get("solution") or item.get("approach") or "")[:400]
-        if self._is_field_enabled("results"):
-            review["results"] = (item.get("results") or item.get("outcome") or "")[:400]
+            review["challenge"] = (item.get("project_summary") or "")[:400]
         if self._is_field_enabled("review_date"):
-            review["date"] = item.get("date") or item.get("publishedDate") or ""
-        if self._is_field_enabled("project_size"):
-            review["project_size"] = item.get("projectSize") or item.get("budget") or ""
-        if self._is_field_enabled("client_location"):
-            review["client_location"] = item.get("location") or item.get("clientLocation") or ""
+            review["date"] = item.get("review_date") or ""
 
         return review if (review.get("rating") or review.get("challenge") or review.get("results")) else {}
 
